@@ -1,0 +1,2 @@
+# bartoszdabek.com
+Personal stuffs
