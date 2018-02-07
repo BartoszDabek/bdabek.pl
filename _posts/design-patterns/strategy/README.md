@@ -73,6 +73,9 @@ strategy.render();		// output: "Using OpenGL"
 ## Structure
 
 **Strategy**
+<br>
 ![strategy-structure](./etc/strategy-structure.png "strategy structure")
+<br><br>
 **Example**
+<br>
 ![example-structure](./etc/example-structure.png "example structure")
