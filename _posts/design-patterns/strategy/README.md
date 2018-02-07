@@ -1,10 +1,9 @@
-
-
 ---
 layout: pattern
 title: Strategy
 categories: Behavioral
 ---
+
 
 ## Intent
 Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
@@ -73,5 +72,7 @@ strategy.render();		// output: "Using OpenGL"
 
 ## Structure
 
+**Strategy**
 ![strategy-structure](./etc/strategy-structure.png "strategy structure")
+**Example**
 ![example-structure](./etc/example-structure.png "example structure")
