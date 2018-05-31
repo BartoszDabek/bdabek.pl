@@ -29,15 +29,15 @@ interface SystemInterface {
 
 class SystemOff : SystemInterface {  
   
-	override fun interactWithUser() {  
-		logger.info { "Press ESC to continue.." }  
-	}  
+    override fun interactWithUser() {  
+        logger.info { "Press ESC to continue.." }  
+    }  
   
-	override fun powerPress() {  
-		closePrograms()  
-		logOutUser()  
-	}  
-  
+    override fun powerPress() {  
+        closePrograms()  
+	logOutUser()  
+    }
+	  
     override fun greetTheUser() {  
         logger.info { "Bye bye!" }  
     }  
