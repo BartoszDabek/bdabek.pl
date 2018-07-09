@@ -13,13 +13,13 @@ Personal goals made open source. I want to say big THANK YOU to [una](https://gi
 6. Create presentation for new Windchill users
 
 
-I'm also having a list of my weekly habits that I want to keep in my life:
-1. Glass of water at morning (6 times a week)
+I'm also having a list of my weekly habits that I want to keep in my life: 💪💪
+1.  💧 Glass of water at morning (6 times a week)
 2. Write short note about the day before (6 times a week)
 3. Get up at 5 A.M (5 times a week)
 4. 30 min on my own project (5 times a week)
 5. 20 min of reading (5 times a week)
-6. Workout (5 times a week)
+6.  🏋️‍♀️ Workout (5 times a week)
 7. 10 min English grammar (5 times a week)
 8. 30 min daily English (5 times a week)
 9. 30 min podcast listening (3 times a week)
