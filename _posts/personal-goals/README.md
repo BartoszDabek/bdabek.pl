@@ -43,3 +43,7 @@ I measure the habits completion with an mobile application [Habit Tracker](https
 - [ ] Write post about command design-pattern
 - [ ] Update LinkedIn profile
 - [ ] Learn Angular 6
+- [ ] Update README (add emojis)
+- [ ] How to use git-svn
+
+
