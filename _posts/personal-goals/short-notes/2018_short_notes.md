@@ -19,3 +19,8 @@ After few days of rest on the lake it's time to back to say something. I did mys
 ---
 This day was good! I got up before 5 A.M, drank glass of water, prepared a really good breakfast and went to work! Excellent! After work did training and was learning English. I think I need to focus more on my engineer work and car crash app but still I don't feel it. Need to motivate myself to start it.. don't know how yet 😒
 
+17/07/2018
+---
+Today I planned everything - every minute and I did all the things that was on my todo list. Additionally I did some extra - which I hadn't planned before. I started to learn to use git-svn which is actually pretty nice and in a very few days I'm planning to start using git-svn instead of the svn client. The important thing is that I got approval on my vacation in last two weeks of August... Now I have to figure out what I want to do at this time, in addition to rest 😀😀
+
+
