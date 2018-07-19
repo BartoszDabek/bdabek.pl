@@ -24,3 +24,6 @@ This day was good! I got up before 5 A.M, drank glass of water, prepared a reall
 Today I planned everything - every minute and I did all the things that was on my todo list. Additionally I did some extra - which I hadn't planned before. I started to learn to use git-svn which is actually pretty nice and in a very few days I'm planning to start using git-svn instead of the svn client. The important thing is that I got approval on my vacation in last two weeks of August... Now I have to figure out what I want to do at this time, in addition to rest 😀😀
 
 
+18/07/2018
+---
+Hi! I finished my work earlier today than usual, but ... (there is always but) just because I was waiting for an e-mail from coworkers to clarify something. After receiving the email I had to work 1 hour at home which I expected. Actually this day wasn't really exciting, just a normal day. Ohh one thing that dawned on me. My roommates found my 'daily to-do schedule' and asked me a lot of 'why'. 😫
