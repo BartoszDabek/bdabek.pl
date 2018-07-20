@@ -27,3 +27,10 @@ Today I planned everything - every minute and I did all the things that was on m
 18/07/2018
 ---
 Hi! I finished my work earlier today than usual, but ... (there is always but) just because I was waiting for an e-mail from coworkers to clarify something. After receiving the email I had to work 1 hour at home which I expected. Actually this day wasn't really exciting, just a normal day. Ohh one thing that dawned on me. My roommates found my 'daily to-do schedule' and asked me a lot of 'why'. 😫
+
+
+18/07/2018
+---
+Woo hoo! What a day! I got up at 4:30 A.M and then I went running! Yes! Maybe the run wasn't that long (it lasted about 15 minutes) but still it is before 5 A.M !! I'm happy and I'm really proud of it so I have to say this to myself 'Good Job!'. Yeey ...
+
+
