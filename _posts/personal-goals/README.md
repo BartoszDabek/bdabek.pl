@@ -13,16 +13,20 @@ Personal goals made open source. I want to say big THANK YOU to [una](https://gi
 6. Create presentation for new Windchill users
 
 
-# [7/16/2018]
+# [7/22/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Update README (add emojis)
-- [ ] How to use git-svn / what is the difference between git-svn and normal git
-- [ ] Listen to [this](http://www.asianefficiency.com/podcast/203-motivation/) podcast
-- [ ] 30 km on bike
-- [ ] 5 km run 
-- [ ] read 20 pages of 'Clean Code'
+- [ ] Write g-force detecting for car crash app
+- [ ] Update personal-goals README
+- [ ] Update bartoszdabek.com README
+- [ ] 7 km run (in total)
+- [ ] 30 km bike (in total)
+- [ ] Listen to [Pat Flynn podcast-327](https://www.smartpassiveincome.com/podcasts/how-to-write-copy-that-sells-with-ray-edwards/)
+- [ ] Listen to [GitMinutes podcast-46](http://episodes.gitminutes.com/2018/02/gitminutes-46-jeff-king-from-git-merge.html)
+- [ ] Read 2 medium articles. [This](https://medium.freecodecamp.org/lessons-learned-from-my-journey-as-a-self-taught-developer-41b97067730) and [this one](https://medium.com/the-mission/29-life-changing-lessons-that-will-make-you-successful-and-more-strategic-eec575f46693). 
+- [ ] Read [this](https://blog.tfnico.com/2018/02/going-for-lead-time.html) blog post
+- [ ] Read 3 chapters of 'Clean Code'
 
 ### Things I'll Do in the Future:
 
@@ -30,6 +34,8 @@ Personal goals made open source. I want to say big THANK YOU to [una](https://gi
 - [ ] Update LinkedIn profile
 - [ ] Learn Angular 6
 - [ ] Find a good book to read about programming or finances and buisness
-- [ ] Write g-force detecting for car crash app
-
-
+- [ ] Create a file to put all podcasts that I listened (write short note about what was in there and make some calculations about how long it takes)
+- [ ] Buy new shoes
+- [ ] Buy new pants
+- [ ] Learn to use VIM in multi file mode
+- [ ] Create a file to track new english words I learned

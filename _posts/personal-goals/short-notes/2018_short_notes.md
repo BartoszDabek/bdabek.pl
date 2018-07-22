@@ -37,3 +37,7 @@ Woo hoo! What a day! I got up at 4:30 A.M and then I went running! Yes! Maybe th
 20/07/2018
 ---
 I'm thinking about changing the content of this daily-notes and what do I mean by changing the content? Well.. all my days are quite similar to others and my life isn't so exciting that I can write fabulous stories here. So maybe I should start writing about the happy things that happened or the happy thoughts I have. I don't know... Actually it's my content and I do what I want here. That's why I want to say that I'm grateful to God for my life, family, job and the wisdom He gave me and many other things that are too much personal to write them here. 🤗
+
+21/07/2018
+---
+Today I ran 5 km at 5:30 A.M and then at 6 P.M cycled 16 km. Overall it was a good day for me, I started writing my car crash app and finally I see some progress on that. Also while running and cycling I can see that many valuable ideas comming to my mind, I need to find a way to note them.✍️
