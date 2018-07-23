@@ -1,16 +1,16 @@
 Personal Goals
 ==============
 
-Personal goals made open source. I want to say big THANK YOU to [una](https://github.com/una/personal-goals) for her personal goals repo that I can take pattern from and what made me motivate to work. 
+Personal goals made open source. I want thanks to [una](https://github.com/una/personal-goals) for her personal goals repo that I can take pattern from and what made me motivate to work. 
 
 
 # Overarching Goals for 2018:
-1. Learn basic usage of VIM
-2. Write mobile app to detect car crashes
-3. Write engineering work
-4. Learn design patterns
-5. Learn data-structures
-6. Create presentation for new Windchill users
+1. 💛 Learn basic usage of VIM
+2. 📱 Write mobile app to detect car crashes
+3. ✏️ Write engineering work
+4. 💚 Learn design patterns
+5. 💙Learn data-structures
+6. 🌀 Create presentation for new Windchill users
 
 
 # [7/22/2018]
