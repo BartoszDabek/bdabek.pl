@@ -13,20 +13,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [7/22/2018]
+# [7/29/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Write g-force detecting for car crash app
-- [ ] Update personal-goals README
-- [ ] Update bartoszdabek.com README
-- [ ] 7 km run (in total)
+- [ ] 10 km running (in total)
 - [ ] 30 km bike (in total)
-- [ ] Listen to [Pat Flynn podcast-327](https://www.smartpassiveincome.com/podcasts/how-to-write-copy-that-sells-with-ray-edwards/)
-- [ ] Listen to [GitMinutes podcast-46](http://episodes.gitminutes.com/2018/02/gitminutes-46-jeff-king-from-git-merge.html)
-- [ ] Read 2 medium articles. [This](https://medium.freecodecamp.org/lessons-learned-from-my-journey-as-a-self-taught-developer-41b97067730) and [this one](https://medium.com/the-mission/29-life-changing-lessons-that-will-make-you-successful-and-more-strategic-eec575f46693). 
-- [ ] Read [this](https://blog.tfnico.com/2018/02/going-for-lead-time.html) blog post
-- [ ] Read 3 chapters of 'Clean Code'
+- [ ] Read [this](https://blog.tfnico.com/2013/08/always-use-git-svn-with-prefix.html) article about git-svn
+- [ ] Read article about [How to write a good software deisgn doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c) on Medium
+- [ ] Read [this](https://medium.com/swlh/the-psychology-of-selling-1bfea4cd127) medium article
+- [ ] Listen [GitMinutes #01](http://episodes.gitminutes.com/2013/03/gitminutes-01-randal-l-schwartz-on.html) podcast
+- [ ] Listen [The productivity show #205](http://www.asianefficiency.com/podcast/205-family-productivity/) podcast
+- [ ] Listen [SPI #328](https://www.smartpassiveincome.com/podcasts/youtube-to-grow-your-business-sean-cannell/) podcast
+- [ ] Buy new pants
+- [ ] Car crash app - create navigation drawer and write fragment for contacts list instead of activity
+- [ ] Watch series of [JS instroduction for developers](https://javabrains.io/courses/corejs_jsfordev/)
+- [ ] Return shoes 
 
 ### Things I'll Do in the Future:
 
@@ -34,8 +36,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 - [ ] Update LinkedIn profile
 - [ ] Learn Angular 6
 - [ ] Find a good book to read about programming or finances and buisness
-- [ ] Create a file to put all podcasts that I listened (write short note about what was in there and make some calculations about how long it takes)
-- [ ] Buy new shoes
-- [ ] Buy new pants
+- [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Learn to use VIM in multi file mode
-- [ ] Create a file to track new english words I learned
+- [ ] Create a file to track new english words I learn
+- [ ] [Javascript courses](https://javabrains.io/topics/corejs/)

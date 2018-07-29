@@ -41,3 +41,33 @@ I'm thinking about changing the content of this daily-notes and what do I mean b
 21/07/2018
 ---
 Today I ran 5 km at 5:30 A.M and then at 6 P.M cycled 16 km. Overall it was a good day for me, I started writing my car crash app and finally I see some progress on that. Also while running and cycling I can see that many valuable ideas comming to my mind, I need to find a way to note them.✍️
+
+22/07/2018
+---
+Excellent morning, decent afternoon and evening = good day overall :). Today was a chillout day, I watched the F1 race and some athletic competitions. In addition I also did training and I coocked a tasty dinner :). Let's start new weekend!
+
+23/07/2018
+---
+No fireworks today, just a normal day. Did my job, training and so on ... I have new task in job which is quite interesting and I'm struggling with TDD approach. I know it's good but my experience is not quite good, maybe I should buy some book about tests and TDD.
+
+24/07/2018
+---
+I ordered new shoes today, actually 2 pairs (in different colors), I hope they will match on my feet. Also I created a new branch on github in car crash app - branch for testing g-forces, and had a little fun with rebasing. And I finally know what is the difference between merge and rebase. 💪
+
+25/07/2018
+---
+Today at 4:45 A.M I ran 2 km and started the day very actively. Actually I like mornings like this. I also installed the 'Lifelog' app on my phone to count steps I take (I have old phone which doesn't have build in step counter). 
+
+26/07/2018
+---
+Another good one day. Today I realized that I love to get up early. I can do some of my 'daily routine' stuff done even before some ppl awake. It's nice! And it's something what motivates me.💪
+
+27/07/2018
+---
+Hello friday :)! It was a looong day, at the end of the day I was REALLY tired and I fell asleep so fast. I bought some clothes and shoes in tuesday/wednesday and today I were measuring them. Unfortunetally shoes doesn't really fit and I'm afraid I have to return them. Which is bad because I really like their style and what is more bad that it isn't that easy to buy nice shoes on my feet which is big enough (30,5 cm).
+
+28/07/2018
+---
+Arghhh.. I wished for good weather today, but the weather definietly didn't coopeate. It was really hot but so cloudy. Lately I can see that I have no enough time! Ofc I spend some time on yt and distractions like this which actually wasting my time but this is also needed to give myself a little entertainment. Also I talked with my friend today about investing money instead of freezing them we'll see what comes out of it.
+
+
