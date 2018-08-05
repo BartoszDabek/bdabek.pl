@@ -70,4 +70,30 @@ Hello friday :)! It was a looong day, at the end of the day I was REALLY tired a
 ---
 Arghhh.. I wished for good weather today, but the weather definietly didn't coopeate. It was really hot but so cloudy. Lately I can see that I have no enough time! Ofc I spend some time on yt and distractions like this which actually wasting my time but this is also needed to give myself a little entertainment. Also I talked with my friend today about investing money instead of freezing them we'll see what comes out of it.
 
+29/07/2018
+---
+Sooo hot Sunday we had in here! It was 30 degrees and no lake! :( As always in Sunday I gave myself a little break from 'productive' style of life. The good news is that my good friend came from Belgium and will stay one week so I'm thinking of taking remote work instead of sitting in the office so we can hang out.😎
 
+30/07/2018
+---
+Today we had webex meeting with our team, talking about the project we are on, current status and so on. I need to focus on my task now because in thursday I have a short presentation of what is done and howdoes it works. Also I started watching [JS videos by Java Brains](https://javabrains.io/courses/corejs_jsfordev/) which I think is really great. 
+
+31/07/2018
+---
+Last day of July. Time really flies by. Today I decided that I want to measure my expenses and incomes so I'll know how much can I safe monthly. I'm starting with first of August. I downloaded the app 'Money Manager' which gonna help me in it. 
+
+01/08/2018
+---
+Today I had great evening. I met with friends and we were talking in public park until late hours that means I hadn't long sleep but it was worth it!
+
+02/08/2018
+---
+I slept today 4,30h but after morning cofee (really morning :D) it was OK. I had a little presentation today about my task in job, all went well, I got some feedback about it and it's good! Also once again we had a great evening with our friends. Life is good! :)
+
+03/08/2018
+---
+Once again - 5h of sleep. It's ok when I'm waking up but I think I need one night without alarm... so I can charge my physical batteries. It's really hot summer and every evening I'm hanging out with my friends so it's hard to do something more (meaning learn something) but I really enjoy this (whos not :D).
+
+04/08/2018
+---
+Today we had baptism in our church. At the evening I spent good time with friends, just talking :).

@@ -13,25 +13,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [7/29/2018]
+# [8/05/2018]
 
 ### Things I'll do This Week:
 
-- [ ] 10 km running (in total)
-- [ ] 30 km bike (in total)
-- [ ] Read [this](https://blog.tfnico.com/2013/08/always-use-git-svn-with-prefix.html) article about git-svn
-- [ ] Read article about [How to write a good software deisgn doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c) on Medium
-- [ ] Read [this](https://medium.com/swlh/the-psychology-of-selling-1bfea4cd127) medium article
-- [ ] Listen [GitMinutes #01](http://episodes.gitminutes.com/2013/03/gitminutes-01-randal-l-schwartz-on.html) podcast
-- [ ] Listen [The productivity show #205](http://www.asianefficiency.com/podcast/205-family-productivity/) podcast
-- [ ] Listen [SPI #328](https://www.smartpassiveincome.com/podcasts/youtube-to-grow-your-business-sean-cannell/) podcast
-- [ ] Buy new pants
 - [ ] Car crash app - create navigation drawer and write fragment for contacts list instead of activity
-- [ ] Watch series of [JS instroduction for developers](https://javabrains.io/courses/corejs_jsfordev/)
-- [ ] Return shoes 
+- [ ] Finish the series of [JS instroduction for developers](https://javabrains.io/courses/corejs_jsfordev/)
+- [ ] Plan vacation
+- [ ] Listen [GitMinutes #02](http://episodes.gitminutes.com/2013/04/gitminutes-02-matthew-mccullough-on.html) podcast
+- [ ] Listen [The productivity show #206)](http://www.asianefficiency.com/podcast/206-overwhelm/) podcast
+- [ ] Listen [SPI #329](https://www.smartpassiveincome.com/podcasts/most-important-business-conversations-dan-andrews/) podcast
+- [ ] Read [this](https://medium.freecodecamp.org/the-art-of-computer-programming-by-donald-knuth-82e275c8764f) medium article
+- [ ] Read [this](https://medium.com/@Bunsters/5-good-reasons-why-you-should-not-start-a-business-6aae1a46d79) medium article 
 
 ### Things I'll Do in the Future:
 
+- [ ] Buy new pants
 - [ ] Write post about command design-pattern
 - [ ] Update LinkedIn profile
 - [ ] Learn Angular 6
@@ -40,3 +37,4 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 - [ ] Learn to use VIM in multi file mode
 - [ ] Create a file to track new english words I learn
 - [ ] [Javascript courses](https://javabrains.io/topics/corejs/)
+- [ ] Learn about investing money in bank market
