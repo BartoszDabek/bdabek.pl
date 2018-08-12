@@ -97,3 +97,31 @@ Once again - 5h of sleep. It's ok when I'm waking up but I think I need one nigh
 04/08/2018
 ---
 Today we had baptism in our church. At the evening I spent good time with friends, just talking :).
+
+05/08/2018
+---
+Great Sunday, I was completely off the computer, I only committed weekly review in the morning. Next week gonna be more effective, because I'm going back to the city where I work.
+
+06/08/2018
+---
+Wow! That was definietly the worst Monday since I work in my company. And I don't mean like something bad happend, but my productivity and fatigue. I almost slept on my desk.. It's note for me: next time just go home, sleep few hours and then start work because yesterday ... really I did nothing value.
+
+07/08/2018
+---
+Pretty good day. I think I should call it decent. Nothing special happened or anything bad. At the weekend we have plans with friends to go to the lake but I will decide on Thursday whether to go or not. If the weather will cooperate then I'm on board.
+
+08/08/2018
+---
+Not a lot to talk about. I watched a lot of videos about JS on youtube and some others stuff (which killed my time). I have also found a 'shops' where I can design my own T-shirts which I actually planning to release in June 2019. 
+
+09/08/2018
+---
+What a morning! :D I woke up and went running, while running I listened to music with earphones on and suddenly one of my earphones came out BUT the rubber was left in my ear. I tried to pull it out but only pushed it deeper. So I had to go to the hospital to take it out. At the moment it's a really funny story, but when I had this rubber in my ear, believe me it wasn't :D.
+
+10/08/2018
+---
+Almost 8 hours of sleep today because I didn't wake up when alarm ringed. It's good, I mean sometimes we need more sleep. Today I struggled with a task I have in job. Task looks easy but if we go into details it isn't. 
+
+11/08/2018
+---
+Another good Saturday :) I was running, cycling, writing something in a car crash app, I did a workout. Really one thing I regret is that I didn't meet with my friends but .. yeah I had a lot of this last week so I can call it even.
