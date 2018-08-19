@@ -125,3 +125,31 @@ Almost 8 hours of sleep today because I didn't wake up when alarm ringed. It's g
 11/08/2018
 ---
 Another good Saturday :) I was running, cycling, writing something in a car crash app, I did a workout. Really one thing I regret is that I didn't meet with my friends but .. yeah I had a lot of this last week so I can call it even.
+
+12/08/2018
+---
+Today I made up for my arrears yesterday and met with friends on the grill. We spent quality time talking and so on :D. Firstly I planned to go back to the city I work but after some time I decided to stay in home town and drive tomorrow. That was a good decision :).
+
+13/08/2018
+---
+Whole day at work I was struggling with the task from Friday ... and still it isn't finished. Hope tomorrow I'll finish that because sometimes even after work I'm thinking of how to resolve it (SOMETIMES! :D).
+
+14/08/2018
+---
+Finally moved on with the task! And I did back to my hometown. Yeeey! Today the weather wasn't so good but good enough to go for a bike :D. Now I need diet plan because I want to build more muscle mass, but I think I'll start doing it in September.
+
+15/08/2018
+---
+Today is a national holiday and it's a day off at work. I spent the morning and early afternoon on my own tasks (cleaning :D etc.) and later, I met with my friends at homemade pizza and something sweet :D. 
+
+16/08/2018
+---
+It's been a month since I write here regulary, nice! And you know if anyone ever reads it (even me in the future) it's worth doing. I spend 2-5 minutes on it (it depends on the day) but in my head it's a feeling: 'Look, you have done something today!' and it's good! 
+
+17/08/2018
+---
+Arghhhh.. Terrible day, one of my friends with whom we planned to go on a trip, he said he can't do it. When he said that, it ruined my day because all my thoughts were: 'Why now? When we have to leave in 5 days, and most things are already planned"...
+
+18/08/2018
+---
+Today I finished my work finally and I'm free, I mean I can truly relax during my holidays. I hope I'll, especially my brain from all these mundane, work related task. 
