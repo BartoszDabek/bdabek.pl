@@ -153,3 +153,31 @@ Arghhhh.. Terrible day, one of my friends with whom we planned to go on a trip, 
 18/08/2018
 ---
 Today I finished my work finally and I'm free, I mean I can truly relax during my holidays. I hope I'll, especially my brain from all these mundane, work related task. 
+
+19/08/2018
+---
+The most anti social Sunday I had until few months. I didn't meet up with any of my friends/colleagues, well in fact I did because I was in a church at the morning. Instead of that I was watching a lot of YT (not for fun only), and did some work on my personal projects.
+
+20/08/2018
+---
+Today I focused on car crash app project. I spent 5 hours on fixing unit tests (by fixing I mean make them run), it was terrible! I wrote 3 classes, one test class and then I was trying to run that test. Finally I did, but man... a lot of effort and still I don't have an idea why it's works! :D. Well, tomorrow fight part.2 💪
+
+21/08/2018
+---
+Haha! Today I had a lot of laugh :D. I realized why yesterday tests didn't work. It was because I placed them in wrong folders :D. Funny that I lost so many hours and really didn't focus on that thing! But.. what is moreover interesting is that, actually I made them work in wrong folders! It's odd that it really worked in there.
+
+22/08/2018
+---
+I can tell - it was a good Wednesday. Today we planned to go on our trip, but plan changed and we leave tomorrow morning (REALLY MORNING at 3 AM :D). I did everything I planned for this week so I'm happy. I also hope that this trip won't break my 'good habits' and we'll have a good time.
+
+23/08/2018
+---
+Ohh! What a day! :D. 4 hours before the trip, our friend's mum called and cancelled his trip (because he's too young) so only me and one of my friends drove. But it worked. We did it and I can say that I'm happy and I don't regret that I'm here (right now we're at a friend's house in some small village), it's beautifull, it's relaxing... It's vacation! :)
+
+24/08/2018
+---
+Ok.. Today really fast note :D. We had a great time with friends on our trip and I really enjoy this time :) !!
+
+25/08/2018
+---
+We have been at aquapark today and then later on grill at my family. As always - gooooood time.. and good food :).
