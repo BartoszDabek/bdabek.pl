@@ -181,3 +181,31 @@ Ok.. Today really fast note :D. We had a great time with friends on our trip and
 25/08/2018
 ---
 We have been at aquapark today and then later on grill at my family. As always - gooooood time.. and good food :).
+
+26/08/2018
+---
+I did back to home after few days of chillout and many kilometers traveled. I'm 2 kg heavier, so I need a little reduction. But today I also have a grill, we celebrate cousin's birthday so the reduction starts from tomorrow. 
+
+27/08/2018
+---
+It's so hard to get back to wake up at 5 A.M. It's kind of normal because I was tired after whole this trip etc. but I need to tell my subconscious that I can do it, especially that I did it before. Today we had a small meeting/party with a couple of friends. We were just talking and having fun altogether.
+
+28/08/2018
+---
+Today I made a big improvement with my car crash app. What I planned for this week (regarding to app) - is done. But if I can do more... why don't do it? 💪💪
+
+29/08/2018
+---
+Today I woke up at 6:20 in the morning, drank coffee, went to run and started work (by work I mean my own project). In the afternoon I went cycling with my cousin, we talked and generally spent time actively. That was a good day! 
+
+30/08/2018
+---
+Lately, I start to think that all this writing doesn't make sense because I don't have the exciting life I can write about everyday. But when I start thinking this way, second thoughts come up - `so, why did u start?`. And the answer is - feeling when you finish writing and you know you did something during the day already. This is one of the reasons why I won't stop writing in the morning! 
+
+31/08/2018
+---
+Phew! Today, when I was doing something on the computer, the SSD disk suddenly disconnected without any warning. Fortunately, everything works fine for me after turning the computer off and on! I almost had a heart attack as I thought how much data I could lose!
+
+01/09/2018
+---
+Another month started! Time flies by so fast ... Today I cycled and after that, I went to my friends and we have been talking in general.

@@ -13,18 +13,18 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [8/26/2018]
+# [9/02/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Refactor adding max 3 contacts - refactor layout (recycler view) and add possibilisty to remove contact by swiping
-- [ ] Read [The top data structures you should know for your next coding interview](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3) on medium
-- [ ] Read [“Claude Shannon: How a Real Genius Solves Problems”](https://medium.com/personal-growth/claude-shannon-how-a-real-genius-solves-problems-15b434aeb2b6) on medium
-- [ ] Read [“13 Noteworthy Points from Google’s JavaScript Style Guide”](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b) on medium
-- [ ] [Objects and Prototypes In-depth](https://javabrains.thinkific.com/courses/corejs-objectsprototypes)
-- [ ] Listen [AJ Hoge - Rich Dad Poor Dad 'How to live rent FREE'](https://www.youtube.com/watch?v=aZgkBMb7hZ8) podcast
-- [ ] Listen [GitMinutes #08](http://episodes.gitminutes.com/2013/05/gitminutes-08-drew-neil-on-vim-and.html) podcast
-- [ ] Listen [The productivity show #209](http://www.asianefficiency.com/podcast/209-focus-time/) podcast
+- [ ] Add new screen when collision detected + vibration + custom sound 
+- [ ] Read [What I learned from doing 1000 code reviews](https://hackernoon.com/what-i-learned-from-doing-1000-code-reviews-fe28d4d11c71) on medium
+- [ ] Read [9 Life-Changing Financial Tips Everyone Should Know Before 30](https://gritsandgospel.com/9-life-changing-financial-tips-that-everyone-should-know-before-30-20121ab1dcd3) on medium
+- [ ] Read [Stop Overlooking These Essential Skills](https://medium.com/@JohnMashni/stop-overlooking-these-essential-skills-b39714033602) on medium
+- [ ] Listen [How The Rich Avoid Taxes Legally | Rich Dad Poor Dad | Chapter 4](https://www.youtube.com/watch?v=I4P3ugURjLw) podcast
+- [ ] Listen [GitMinutes #33](http://episodes.gitminutes.com/2015/03/gitminutes-33-thom-parkin-on-mastering.html) podcast
+- [ ] Listen [The productivity show #002](http://www.asianefficiency.com/podcast/002-journaling/) podcast
+- [ ] Listen [SPI #218](https://www.smartpassiveincome.com/podcasts/online-course-best-practices-from-teachable/) podcast
 
 ### Things I'll Do in the Future:
 
