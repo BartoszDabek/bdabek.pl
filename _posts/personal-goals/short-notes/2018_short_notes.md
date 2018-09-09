@@ -209,3 +209,31 @@ Phew! Today, when I was doing something on the computer, the SSD disk suddenly d
 01/09/2018
 ---
 Another month started! Time flies by so fast ... Today I cycled and after that, I went to my friends and we have been talking in general.
+
+02/09/2018
+---
+Today I've been on grill at my friends. It was good time, a lot of laughs, quality talks and of course - good food! :). Then in the evening I drove to the city where I work so I can prepare myself to back to the job. Tomorrow I'm going to Germany, to client that we are working for.
+
+03/09/2018
+---
+New week started. Today, the whole day I travelled to Stuttgart. First I drove by train to capital of Poland (Warsaw :D). I arrived to Warsaw at around 1 PM, even a little bit earlier. Plain to Stuttgart was at 5 PM... so had to wait a lot. Actually I'm not alone here. I went with my friend from project (and from office). He's more experieced in the whole travelling etc. so it is good to have someone like this around you. Finally we arrived to Stuttgart at 7:30 PM. And then we rented a car and drove another 70 km to our destination. 
+
+04/09/2018
+---
+Today we had a lot of work... Started at 8:30 AM and finished at 6 PM and tomorrow I think it might be similarly. But after work we went to restaurant and had a pleasent evening. I ordered cheesburger which was so DELICIOUS! I also wasn't aware of power of chilli pepper and ate it. After that I was sooooo regreting this :D
+
+05/09/2018
+---
+Another day full of work. As yesterday - we started at 8 AM and finished at 6 PM. It was a loooong day full of pitfalls. Still we have a lot of work to do and tomorrow is production server installing. I hope that everything will go fine. After work we backed to hotel and then went for a dinner. Some Greek restaurant, really good food! :)
+
+06/09/2018
+---
+Today I get a lot of tasks to do. It was like: I were sitting and buum.. new task, new task, new task. Next week will be tough, but I belive that if I plan everything correctly then it will be much more easier :). We finished work at 3 PM today so we had a time to do something (tomorrow we have flight back to Poland, so we have to back to the hotel near the airport), we went to biiiiig shopping center called `Metzinger outlet` (or something similar). I'm not big fan of shopping so there wasn't anything interesting for me. At the end of the day we went to Indian restaurant. Cool place, different than others and actually food was tasty! :)
+
+07/09/2018
+---
+Time for the return trip. I woke up at 5:30 AM, read something, did workout, took a shower, packed my bags and went to breakfast at the hotel. After breakfast we went (I was with a colleague from work at the delegation) to the airport and few hours later we landed in Warsaw. And now the funny part :D. We had to use the train to get to Bialystok and it was so baad. It was like people ant hill. We didn't have a seat so we had to stand for 2.5 hours :D. But the final point is that we have arrived. At the end of the day I went to my friends on grill and as always with friends we had veeeery goood time!! :)
+
+08/09/2018
+---
+Finally woke up in home town bed!! It's always good feeling :). Today I was working on a car crash app and I was thinking about job tasks, because the next week will be difficult (installation of the production server was postponed to the next week). Besides, I did all my daily habits: reading, training, English, cold shower...
