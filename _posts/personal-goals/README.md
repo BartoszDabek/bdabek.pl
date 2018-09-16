@@ -19,6 +19,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 
 - [ ] Add module to get localization when collision detected (car crash app)
 - [ ] Create a file to track new english words I learn
+- [ ] Create template for weekly accomplishments
 - [ ] Watch [Java Algorithms - by Derek Banas](https://www.youtube.com/watch?v=JUOyKSZScW0&index=2&list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT)
 - [ ] Read [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 - [ ] Read [Why Achieving Everything Can Make Your Life Worse](https://medium.com/personal-growth/why-getting-everything-you-want-can-make-your-life-worse-9b32671c4ea0)
