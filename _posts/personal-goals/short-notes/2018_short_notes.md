@@ -237,3 +237,31 @@ Time for the return trip. I woke up at 5:30 AM, read something, did workout, too
 08/09/2018
 ---
 Finally woke up in home town bed!! It's always good feeling :). Today I was working on a car crash app and I was thinking about job tasks, because the next week will be difficult (installation of the production server was postponed to the next week). Besides, I did all my daily habits: reading, training, English, cold shower...
+
+09/09/2018
+---
+Today I've been in church and after it I went for cycle. Before I backed to Bialystok I went to my friends on little grill party (I challenged myself to keep calories and this is not helping :D). It was a good Sunday :)
+
+10/09/2018
+---
+Another Monday on board! :). It was a good Monday in work, I did a really good job and I'm proud of myself 'cause of that :D. Planned well, done better!  👌👌
+
+11/09/2018
+---
+Wooh! Today, I almost forgot to write something. It is now 17:44 and I realized that I did not write anything here! Fortunately, I remembered it on time! ⏱️ I now have many tasks to do at work, so let this be my excuse: D
+
+12/09/2018
+---
+Day after day... everything goes so fast. As before in this week I don't have much time because of work but I hope that it will return in its own time.
+
+13/09/2018
+---
+In work we slowly moving on. In the next week I'll probably have more free time and there won't be all this pressure that tasks have to be done on yesterday (actually atm it's not pressure like this :D). Today I also found out that on next delegation I'm going all by myself, which is kind of exciting and making me a little afraid.
+
+14/09/2018
+---
+Today I ordered the book `Effective Java (3rd Edition)` in Polish because it's cheaper and this is my native language so I'll understand 100% of the book But when I read the book in Polish, I plan to buy original version.
+
+15/09/2018
+---
+WoW! It is 2 months since I write something in here! And I think it's slowly time for review and some changes because I'm finding out this daily writing is fine, but can be somehow better and have more impact in my life... Just need to figure out what exactly to change and how.... so prepare yourselfs for changes :)
