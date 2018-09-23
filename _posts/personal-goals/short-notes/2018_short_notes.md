@@ -265,3 +265,31 @@ Today I ordered the book `Effective Java (3rd Edition)` in Polish because it's c
 15/09/2018
 ---
 WoW! It is 2 months since I write something in here! And I think it's slowly time for review and some changes because I'm finding out this daily writing is fine, but can be somehow better and have more impact in my life... Just need to figure out what exactly to change and how.... so prepare yourselfs for changes :)
+
+16/09/2018
+---
+Sunday, laazy sunday ... I'm kind of regreting this weekend.. I mean, I didn't meet up with any of my friends or so.. I had 2 occassions but I rejected both. In the next weekend I need to make up for it.
+
+17/09/2018
+---
+Hi Monday! As almost usual I woke up very early (5 am) and went to run. I ran 2 km, so maybe not too long distance but if I run 2 km a day then in a year I'll have 700+ km - what looks good!
+
+18/09/2018
+---
+As I said before, I want to change content of this daily short-notes a little bit. Instead of writing what happend 'today' I want to write what I want to happen. To do that I need to write 2 short notes in one day... because right now I'm writing about the day before as 'today'.
+
+19/09/2018
+---
+Today I read a post on medium, something about `How I landed offers from top companies...`. And I'm really motivated to work harder. I downloaded evernote, onenote, dropbox and so I'll track my progression. I'm prepared, now I have to start act! 
+
+20/09/2018
+---
+I thinking about recording myself and the progress I'm making. Especially at the gym (I don't go there yet), holding my breath, swimming (I'm also not going there yet :D )... Just a short videos on youtube saved as private. I think about it...but I haven't decided yet wheter I'll do it because of lack of time.
+
+21/09/2018
+---
+Today I went with my friends on a swimming pool, was fine and what is the most important I finally met with my friends! :). 😊😊
+
+22/09/2018
+---
+Super day! :) First I cycled to the church 15km from my home and I was helping there with something (we were fixing something on attic). Afterwards I backed home and ate biig portion of spaghetti, which was amazingly good (made by my mom😍 ). I love days like this in early fall. 👍👍
