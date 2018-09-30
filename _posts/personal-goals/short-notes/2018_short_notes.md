@@ -293,3 +293,31 @@ Today I went with my friends on a swimming pool, was fine and what is the most i
 22/09/2018
 ---
 Super day! :) First I cycled to the church 15km from my home and I was helping there with something (we were fixing something on attic). Afterwards I backed home and ate biig portion of spaghetti, which was amazingly good (made by my mom😍 ). I love days like this in early fall. 👍👍
+
+23/09/2018
+---
+Another cool day.. My brother's wife had a birthday today so our entire family showed up and we celebrated :) Valuable time with family!👪
+
+24/09/2018
+---
+Today I had whole day in travel. I started at 10am by coming into a train and finished at 8pm in the hotel room. I'm quite exhausted but it's okay :)
+
+25/09/2018
+---
+I really need to learn more vocabulary! When people use more complicated words very often I just don't understand them and I need to get this word from the whole sentence. And when my brain is focusing on that I don't focus on the next sentence they say.
+
+26/09/2018
+---
+Good Wednesday. Today most of our team moved out and I stayed only with a one of colleagues. First I was thinking we wouldn't have any topic to talk (because other nationality and age difference which is huge) but we went for a dinner and had very good time and valuable talk! 
+
+27/09/2018
+---
+Last day onsite... Quite good, I've almost closed all my tasks, client is pleased and the weather in the Germany is also good! Carpe Diem!
+
+28/09/2018
+---
+Travel time.. I'm starting to hate it. You have to be at the airport at 9 am and you're at home at 7 pm. A lot of waiting for the train and so on. But overall the day was fine, many pleasent people, except the noisy girls in the train ... but who cares :D
+
+29/09/2018
+---
+Today I visited my private hairdresser (my friend). I also spent some time on my car crasp app, especially on location detection.
