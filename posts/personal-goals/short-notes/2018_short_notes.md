@@ -349,3 +349,31 @@ I played volleyball today. Once again I was SO TERRIBLE!! I lost something.. I c
 06/10/2018
 ---
 Lovely Saturday. I've been at the gym this afternoon. In the evening I went at the swimming pool and after that to my cousins house. We had a good time!
+
+07/10/2018
+---
+I spent this Sunday afternoon/evening with my good friends and their little daughter. I really value moments like this :).
+
+08/10/2018
+---
+Finally! I was playing volleyball today and I was good. I guess 'good' is a fine word. Lucky for me because after last time I was demotivated. But now? I'm so motivated to play! Even if I know my next play session is in 2 weeks... I'll be ready for that 💪💪🏐
+
+09/10/2018
+---
+Tough day... I started work today at 7am and finished at home in 9pm :). I guess no more words needed here..
+
+10/10/2018
+---
+Day without a history. I resolved one task which was quite difficult but still...nothing really bigs.
+
+11/10/2018
+---
+At 5am I went to the gym and did legs training. It was ok, but if I have to be honest about the gym I don't really like it. There are some advantageous that it is so close to the place I'm living and I guess that's all :D. Well I'll see if I decide to going there or not.
+
+12/10/2018
+---
+First day of studies starts today. It's a last semester of study so I don't have a lot of lectures. That's good 'cause I have to write my engineering work and I need time for that. 
+
+13/10/2018
+---
+I woke up at 5 and went to the gym. I had a good training. I could call this day pretty tasty day. I cooked tortillas with chicken and so on, that was good :)

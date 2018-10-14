@@ -13,21 +13,21 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [10/07/2018]
+# [10/14/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Write module for sending text messages when crash is detected
-- [ ] Prepare `How to configure windchill shell with your IntelliJ`
-- [ ] Update `accomplishment template` - add icons
-- [ ] Listen new episode of AJ
-- [ ] Read [The Emotional Side of Freelancing](https://medium.com/s/story/the-emotional-side-of-freelancing-cec7aee7ef89)
-- [ ] Read [8 Things I Learned Reading 50 Books A Year For 7 Years](https://medium.com/@krisgage/8-things-i-learned-reading-50-books-a-year-for-7-years-cb11c4acffb1)
-- [ ] Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. And do exercises
-- [ ] Listen [SPI #338](https://www.smartpassiveincome.com/podcasts/selling-a-book-overlooking-this-page-could-kill-sales-bryan-cohen/)
-- [ ] Listen [The Productivity Show | Getting Things Done (GTD) | Time Management | Evernote](http://podplayer.net/?id=56193560)
-- [ ] Listen [Dumbing Us Down | Chapter 2 | Effortless English Book Club](https://www.youtube.com/watch?v=0PRl4cv4sII)
-- [ ] Listen [Git for Windows with Johannes Schindelin](https://www.allthingsgit.com/episodes/git_for_windows_with_johannes_schindelin.html)
+- [ ] Do project 1 on computer graphics (studies)
+- [ ] Write Espresso Test for main window when user clicks start button
+- [ ] Go to [Mobile Białystok #19](https://www.facebook.com/events/684609151926396/)
+- [ ] Go to [JSession #11](https://www.facebook.com/events/1155665697943088/#)
+- [ ] Go to [KARIERA IT | BIAŁYSTOK 20.10.2018](https://careercon.pl/konferencja/kariera-it-bialystok-20-10-2018/?lang=pl#formRegister)
+- [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISES
+- [ ] 📗 Read [This Timeless And Boldly Optimistic Idea Could Change Your Life](https://medium.com/thrive-global/this-timeless-and-boldy-optimistic-idea-could-change-your-life-5c9cffe17214)
+- [ ] 📗 Read [How to Make Time to Make Things](TBD)
+- [ ] 🎧 Listen [Dumbing Us Down | Chapter 3 | Real World Education](https://www.youtube.com/watch?v=nCQg9qZTxAE)
+- [ ] 🎧 Listen [Get More Done by Scheduling Your Tasks w/ the Developers of Sorted (TPS216)](http://www.asianefficiency.com/podcast/216-sorted-app/)
+- [ ] 🎧 Listen [Posh Git with Keith Dahlby](https://www.allthingsgit.com/episodes/posh_git_with_keith_dahlby.html)
 
 ### Things I'll Do in the Future:
 
@@ -35,3 +35,4 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 - [ ] Learn Angular 6
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Create .sh script to auto commit&push week in reviews
+- [ ] Automate process of filling read/listen contents
