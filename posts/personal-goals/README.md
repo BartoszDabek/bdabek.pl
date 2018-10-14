@@ -24,7 +24,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 - [ ] Go to [KARIERA IT | BIAŁYSTOK 20.10.2018](https://careercon.pl/konferencja/kariera-it-bialystok-20-10-2018/?lang=pl#formRegister)
 - [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISES
 - [ ] 📗 Read [This Timeless And Boldly Optimistic Idea Could Change Your Life](https://medium.com/thrive-global/this-timeless-and-boldy-optimistic-idea-could-change-your-life-5c9cffe17214)
-- [ ] 📗 Read [How to Make Time to Make Things](TBD)
+- [ ] 📗 Read [How to Make Time to Make Things](https://medium.com/s/story/understanding-creative-time-4225bb9b5e7b)
 - [ ] 🎧 Listen [Dumbing Us Down | Chapter 3 | Real World Education](https://www.youtube.com/watch?v=nCQg9qZTxAE)
 - [ ] 🎧 Listen [Get More Done by Scheduling Your Tasks w/ the Developers of Sorted (TPS216)](http://www.asianefficiency.com/podcast/216-sorted-app/)
 - [ ] 🎧 Listen [Posh Git with Keith Dahlby](https://www.allthingsgit.com/episodes/posh_git_with_keith_dahlby.html)
