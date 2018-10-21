@@ -377,3 +377,31 @@ First day of studies starts today. It's a last semester of study so I don't have
 13/10/2018
 ---
 I woke up at 5 and went to the gym. I had a good training. I could call this day pretty tasty day. I cooked tortillas with chicken and so on, that was good :)
+
+14/10/2018
+---
+I played a football today ... I'm suck at it :D. But nobody cares so do I and others level also wasn't that high. We were playing just 4fun ⚽. After that I went to my friends and we ordered a food. I took BIG `kebab`(I don't know how to translate it to English). It was suuper good! 🍲:)
+
+15/10/2018
+---
+I feel kind of bored about this daily writing. I know it's good for me. I have to think in english, I have to have some knowledge about vocabulary etc.... but this is getting boring to me and lately I'm starting to see that it doesn't give me joy. I know I want to keep it but I have to change something in it. I don't know what yet....
+
+16/10/2018
+---
+I had a terrible headache all day... I watched yt, ate, watched yt again and did nothing. I can call it - the reset day.
+
+17/10/2018
+---
+Decent Wednesday. I started to work on my project from studies and I realized that I need to learn more and more :)
+
+18/10/2018
+---
+I have done all my tasks in job and nothing important is on board... It's kind of annoying feeling when you have to find something to do (and that is refactoring, which actually I like :) )
+
+19/10/2018
+---
+I had periodic medical examinations today. I have not been able to do all of them in one day, so on Monday I have more appointments to the doctor.
+
+20/10/2018
+---
+That was a good day. I was doing my project for studies, changed tyres in the car (winter mode) and in the afternoon I went to my friends and we had fun 🙌🙌 
