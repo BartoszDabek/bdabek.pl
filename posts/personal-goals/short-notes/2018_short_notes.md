@@ -405,3 +405,31 @@ I had periodic medical examinations today. I have not been able to do all of the
 20/10/2018
 ---
 That was a good day. I was doing my project for studies, changed tyres in the car (winter mode) and in the afternoon I went to my friends and we had fun 🙌🙌 
+
+21/10/2018
+---
+It was a boring Sunday for me.. I didn't do anything exciting. But it wasn't a waste of time. I ate dinner with my family. It was a valuable time and of course - delicious food 🍲 🍲 
+
+22/10/2018
+---
+At the very morning I went to the gym and I did a good workout! Yeeeah! When you start the day like this it is really good, especially when you win with laziness.
+
+23/10/2018
+---
+My head ached today. This always happens when I focused on something too much. So after work I went for a short nap (which was longer and took me almost 2 hours). Then in the evening I could not sleep because I was rested.
+
+24/10/2018
+---
+I had a good day :). I felt fresh and I hadn't any headache or any other aches. Health is important!
+
+25/10/2018
+---
+I was at the gym in the morning. I did leg training. My legs hurt, but ... it's not that bad. Everything is great at work too. I finally found a problem and solution for the task I struggled for almost a week. 👍👍
+
+26/10/2018
+---
+I've been at local Java community meeting called Jsession. There was two presentations - two of very useful and practical!
+
+27/10/2018
+---
+What an intense day I had. I write a daily note at 9pm.. where I usually do it in the morning. I was at university today and at the conference (which was a waste of time in very warm words.

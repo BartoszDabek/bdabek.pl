@@ -13,19 +13,20 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [10/21/2018]
+# [10/28/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Do project 1 on computer graphics (studies) - finish 2nd part
-- [ ] Go to [JSession #11](https://www.facebook.com/events/1155665697943088/#)
-- [ ] Go to [Konferencja DevForge w Białymstoku dla przyszłych Programistów](https://www.facebook.com/events/2155928724727596/)
+- [ ] Rewrite crash app test to support android version 4.1+ and save data to SD card instead of internal storage - ONLY FOR CRASH TESTS
+- [ ] Computer graphics - project2
+- [ ] 📗 Read [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+- [ ] 📗 Read [Why you learn the most when you feel like you’re struggling as a developer](https://medium.freecodecamp.org/why-you-learn-the-most-when-you-feel-like-youre-struggling-as-a-developer-7513327c8ee4)
+- [ ] 📗 Read [How to write a killer Software Engineering résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
 - [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISE 1,2,3
-- [ ] 📗 Read [Useful tips to help you create good habits as a web developer](https://medium.freecodecamp.org/useful-tips-to-help-you-create-good-habits-as-a-web-developer-7c1b7b5c0bcb?_branch_match_id=498556104602154143)
-- [ ] 📗 Read [The 2018 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb?_branch_match_id=498556104602154143)
-- [ ] 🎧 Listen [SPI 340: How to Build Atomic Habits—with James Clear](https://www.smartpassiveincome.com/podcasts/how-to-build-atomic-habits-with-james-clear/)
-- [ ] 🎧 Listen [Atomic Habits: 4 Laws for Changing Your Identity & Living the Life You Want w/ James Clear (TPS217)](http://www.asianefficiency.com/podcast/217-atomic-habits/)
-- [ ] 🎧 Listen [The History of VC with Eric Sink](https://www.allthingsgit.com/episodes/the_history_of_vc_with_eric_sink.html)
+- [ ] 🎧 Listen [SPI 341: How to Become an Inventor Entrepreneur with Ryan Gorman](https://www.smartpassiveincome.com/podcasts/how-to-become-an-inventor-entrepreneur-with-ryan-gorman/)
+- [ ] 🎧 Listen [Introducing TEA: A Simple Framework for Getting Unstuck and Achieving Your Goals (TPS218)](http://www.asianefficiency.com/podcast/218-tea-framework/)
+- [ ] 🎧 Listen [Teaching Git with Johan Abildskov](https://www.allthingsgit.com/episodes/teaching_git_with_johan_abildskov.html)
+- [ ] 🎧 Listen [Greenfield Kotlin at OLX](http://talkingkotlin.com/greenfield-kotlin-at-olx/)
 
 ### Things I'll Do in the Future:
 
