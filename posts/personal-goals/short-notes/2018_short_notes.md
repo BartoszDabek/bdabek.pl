@@ -433,3 +433,31 @@ I've been at local Java community meeting called Jsession. There was two present
 27/10/2018
 ---
 What an intense day I had. I write a daily note at 9pm.. where I usually do it in the morning. I was at university today and at the conference (which was a waste of time in very warm words.
+
+28/10/2018
+---
+Some time ago I wrote that I need to change something in this daily notes. So here it comes. From now I will write after the day (so in the evenings). Why? It is because I guess, I can remind myself much easier what I were doing at the day... and I want to try something new :)
+
+29/10/2018
+---
+Okay. Here we are.. Monday is almost gone.. Today I had a lot of work to do. I have new task in the job which will take me few days of my life (cross fingers that I'll finish that in two days - but I guess I don't). Yeah, a lot to do and the motiviation to work is on average level, especially that 1st of November is comming (dad birthday).  
+
+30/10/2018
+---
+After thoughts I'm back to writing these short notes in the morning. This is the time of the day when I can do something and I have time for it. Btw. this day was awesome :) I came back to my hometown, met with my cousin, went to the swimming pool and ate a tasty dinner!
+
+31/10/2018
+---
+Today I had a really good day! ;) I worked remotely today, wrote a ton of unit tests - I'm proud of it! Later, I went to play volleyball and I was amazing (on my scale :D). And finally after volleyball I went to the swimming pool and relaxed after a day :) 
+
+01/11/2018
+---
+November 1. Time flies really fast. Well.. today I was at the 'conference' (from church). I spent quite a good time there. 
+
+02/11/2018
+---
+It was a good Friday. Now I have a lot of work so I'm really busy and got headaches from thinking.. but after work I can relax in my hometown (yet) what I really appreciate :)
+
+03/11/2018
+---
+Another day at conference. We had a really good time with bunch of friends after the conference. We were sitting and talking until late.
