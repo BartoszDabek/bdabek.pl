@@ -461,3 +461,32 @@ It was a good Friday. Now I have a lot of work so I'm really busy and got headac
 03/11/2018
 ---
 Another day at conference. We had a really good time with bunch of friends after the conference. We were sitting and talking until late.
+
+04/11/2018
+---
+That was sad Sunday. I'm writing here today only because I don't want to break the routine..
+
+05/11/2018
+---
+I bought a [git course](http://kursgita.pl) today. We'll see if it was worth it. In general, the Monday was ok. I'm still kind of upset after Sunday (something personal).
+
+06/11/2018
+---
+Hi! The note I have for today: never drink coffee 2-3 hours before sleep and don't take an hour nap!
+
+07/11/2018
+---
+I changed my place in the office and got a really nice desk now! I hope that it will help me do my job better :)
+
+08/11/2018
+---
+Yeah! New desk is really cool. Anyway I still prefer remote work and home office :). Today I did back to my hometown. I'll relax, especially that next Monday is Polish national holiday so it's day off from work  👍👍
+
+
+09/11/2018
+---
+Friiiiday !! Today I played volleyball and after that I went to the pool :). Ofc I worked in the morning (remotely :))
+
+10/11/2018
+---
+Ok, Saturday is over :) It was good day in general. I was writing project for studies and in the evening I went to the pool with my cousin.
