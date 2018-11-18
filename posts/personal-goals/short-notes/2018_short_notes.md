@@ -490,3 +490,31 @@ Friiiiday !! Today I played volleyball and after that I went to the pool :). Ofc
 10/11/2018
 ---
 Ok, Saturday is over :) It was good day in general. I was writing project for studies and in the evening I went to the pool with my cousin.
+
+11/11/2018
+---
+Today we have big national holiday in Poland - The Independence Day (100th anniversary). So I decided to go on the swimming pool :D! My friend(s) visits Warsaw in this weekend, my cousin works so it was kind of alone weekend.
+
+12/11/2018
+---
+And another day off from work (because of 100th anniversary). Actually I worked today but only because I wanted to. Today I was really active. I was on swimming pool, I did training and played volleyball. After all of that I drove to Bialystok and I'm here for the rest of the week :)
+
+13/11/2018
+---
+I worked hard today. After returning from work, I ate and re-switched my laptop to work. It's because of this task that I have. It's still on my mind and I have to do it to get rid of it. I have to write a statement here, otherwise I probably will not do it - tomorrow after work, I'm not working!
+
+14/11/2018
+---
+I had plans to go to a programmers' meeting but I didn't go. Instead I focused on the study project and I solved the problem I had. So cool :)
+
+15/11/2018
+---
+The old problems are coming back ... We have a problem with the installation of our implementation package and today I struggled with it throughout the day. Literally - I finished a few minutes before 22.00. And what's worse - I have a cold. :(
+
+16/11/2018
+---
+And we have Friday :) Today my boss informed me that in next Thursday we'll have a talk about promotion ($$). I still have a cold but in general I feel fine.
+
+17/11/2018
+---
+I'm sitting for 2 minutes and I was wondering what to write about this day (I always write the next day) and the snow started to snowing :) It's beautiful! I really appreciate such moments and I LOVE to watch it snow... it reminds me of childhood :D

@@ -13,18 +13,19 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [11/11/2018]
+# [11/18/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Computer graphics - project2 (dilation and erosion filters)
-- [ ] Make sure that measuring G-Forces tests work fine and contact with promotor to establish test date
-- [ ] Do [git local work](https://kursy.devstyle.pl/git/modul-04-praca-lokalna/)
-- [ ] 📗 Read [Everything you need to know about tree data structures](https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c)
-- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy – Żaden problem! Cz. IX – Algorytmy i struktury danych](http://it-leaders.com.pl/pl/rozmowy-kwalifikacyjne-z-javy-zaden-problem-cz-ix-algorytmy-i-struktury-danych/?fbclid=IwAR1e82koO3F6VBacRnO8WtqTtycjReD9zEgNnUkSQ5SJcZ1zTIo5ZC1M1FM)
-- [ ] 🎧 Listen [SPI 344: How Studio Neat Became Physical Product Rockstars through Kickstarter](https://www.smartpassiveincome.com/podcasts/how-studio-neat-became-physical-product-rockstars-through-kickstarter/)
-- [ ] 🎧 Listen [Git Security with Etienne Stalmans](https://www.allthingsgit.com/episodes/git_security_with_etienne_stalmans.html)
-- [ ] 🎧 Listen [Episode 73. Spring Boot 2.0 is out! Hear all about it with Greg Turnquist](http://www.javapubhouse.com/2018/06/episode-73-spring-boot-20-is-out-hear.html)
+- [ ] Computer graphics - project3
+- [ ] Git course - do exercises from module 4 
+- [ ] Engineering work - parse data from tests
+- [ ] Go to [JSession #12](https://www.facebook.com/events/605935989826870/)
+- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! – cz. I (String)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-javy-zaden-problem-cz-string/)
+- [ ] 📗 Read [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+- [ ] 🎧 Listen [SPI 345: How to Build a Software Company—the Story of JungleScout with Greg Mercer](https://www.smartpassiveincome.com/podcasts/how-to-build-a-software-company-junglescout-with-greg-mercer/)
+- [ ] 🎧 Listen [TEA Framework, Level 3: Maximizing Your Attention & Focus (TPS221)](http://www.asianefficiency.com/podcast/221-tea-framework-attention/)
+- [ ] 🎧 Listen [Learning Git and Human Factors with Sara Ford](https://www.allthingsgit.com/episodes/learning_git_and_human_factors_with_sara_ford.html)
 
 ### Things I'll Do in the Future:
 
