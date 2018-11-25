@@ -518,3 +518,31 @@ And we have Friday :) Today my boss informed me that in next Thursday we'll have
 17/11/2018
 ---
 I'm sitting for 2 minutes and I was wondering what to write about this day (I always write the next day) and the snow started to snowing :) It's beautiful! I really appreciate such moments and I LOVE to watch it snow... it reminds me of childhood :D
+
+18/11/2018
+---
+And another Sunday is now a past. Today I realized that I want to serve God. And I don't really care  what others say. Wheter they belive He exists or not. I want to serve him and I don't want to care about the opinion of other people.
+
+19/11/2018
+---
+It was tough Monday. I stayed home and worked from there but tomorrow for sure I'll go to the office (I'm really angry about neighbors renovates theirs flats). I also think I should take a few days off, to stop thinking about work and everything related to that.
+
+20/11/2018
+---
+It was a good day. I worked really well, accomplished few tasks and what is the most important - I left work in the office. What is that mean? When I left at 3pm. I just didn't think about work, didn't read any email, didn't write any code (related to work). That is something I need to learn how to do, especially when I work from home.
+
+21/11/2018
+---
+It was a day without history. Nothing special happened. The only thing worth mentioning is that I got a scholarship. 
+
+22/11/2018
+---
+Today I got a promotion at work. This means that my salary has increased $$. I'm not entirely happy (probably because I'm really bad in negotiations) but I'm happy at 90% :D.
+
+23/11/2018
+---
+What a horrible day :(. At 2pm. while I was at work I started to feel 'bad' (headache, cold). I went back home and had plans to go on studies and later on JSession. Turned out I went sleep at 4 and woke up at 7... Right now (the day after) I'm feeling really sick. I think I got some cold :(
+
+24/11/2018
+---
+I feel awful :( !!! I have a cold, headache and on Monday I HAVE TO BE HEALTHY because I have delegation.

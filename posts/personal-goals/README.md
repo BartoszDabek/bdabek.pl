@@ -13,19 +13,17 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [11/18/2018]
+# [11/25/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Computer graphics - project3
-- [ ] Git course - do exercises from module 4 
-- [ ] Engineering work - parse data from tests
-- [ ] Go to [JSession #12](https://www.facebook.com/events/605935989826870/)
-- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! – cz. I (String)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-javy-zaden-problem-cz-string/)
-- [ ] 📗 Read [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
-- [ ] 🎧 Listen [SPI 345: How to Build a Software Company—the Story of JungleScout with Greg Mercer](https://www.smartpassiveincome.com/podcasts/how-to-build-a-software-company-junglescout-with-greg-mercer/)
-- [ ] 🎧 Listen [TEA Framework, Level 3: Maximizing Your Attention & Focus (TPS221)](http://www.asianefficiency.com/podcast/221-tea-framework-attention/)
-- [ ] 🎧 Listen [Learning Git and Human Factors with Sara Ford](https://www.allthingsgit.com/episodes/learning_git_and_human_factors_with_sara_ford.html)
+- [ ] Finish computer graphics - project3  
+- [ ] Engineer work - Write chapters titles
+- [ ] Git course - module 5
+- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! – cz. II (Kolekcje)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-javy-zaden-problem-cz-ii-kolekcje/)
+- [ ] 🎧 Listen [Learning a New Codebase with Patricia Aas](https://www.allthingsgit.com/episodes/learning_a_new_codebase_with_patricia_aas.html)
+- [ ] 🎧 Listen [Transformation: From Unorganized to Uber-Productive w/ Lynan Saperstein (TPS222)](http://www.asianefficiency.com/podcast/222-lynan-saperstein/)
+- [ ] 🎧 Listen [SPI 346: Booted out of His Own Business & the One Thing Jordan Harbinger Did to Survive](https://www.smartpassiveincome.com/podcasts/booted-out-of-his-own-business-the-one-thing-jordan-harbinger-did-to-survive/)
 
 ### Things I'll Do in the Future:
 
