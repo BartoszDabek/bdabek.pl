@@ -546,3 +546,31 @@ What a horrible day :(. At 2pm. while I was at work I started to feel 'bad' (hea
 24/11/2018
 ---
 I feel awful :( !!! I have a cold, headache and on Monday I HAVE TO BE HEALTHY because I have delegation.
+
+25/11/2018
+---
+This Sunday was much better than the day before :). I feel much better. It is not perfect, but better :). Tomorrow I'm going to Stuttgart for a delegation, so thank God that I'm starting to feel healthier.
+
+26/11/2018
+---
+Thank God I arrived to Stuttgart without any issues. Road from Bialystok to Warsaw is finally finished and it's really great! :)
+
+27/11/2018
+---
+As always at client we were working really long 8am-6pm and to be honest FOR ME it's not that productive way as in home. At the evening we had a reservation in some Italian restaurant. Food was great :)
+
+28/11/2018
+---
+Today we were at the Amadeus restaurant. I ordered 'Amadeus salad' (I wanted to order something else but I made a mistake when I ordered and didn't even notice it :D ), it was good. And for dessert I took ice creams with bananas and whipped cream. A lot of calories but super tasty ! :)
+
+29/11/2018
+---
+And last day of work this week. We were working to 5:30 pm (quite long) and as the architect said we made a lot of progress. This is good :). I'm always tired after I'm here and to be honest I'm happy to be home tomorrow. 
+
+30/11/2018
+---
+Last day of November... Today was a long day. First I had to back from Stuttgart to my home. It went pretty well - we started at 10am and at home I was at 4pm. So far so good. Then I went to volleyball (probably one of the last times) and later to the swimming pool - but I still have some kind of cold so it was hard to swim.
+
+01/12/2018
+---
+Yeey! I had a really good sleep (8-9 hours). The day was also really good. I visited my friends, went to my hairdresser (my friend :D ) and in the evening I went to a 'meeting' where I was talking with awesome people!

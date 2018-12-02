@@ -13,17 +13,19 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [11/25/2018]
+# [12/02/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Finish computer graphics - project3  
-- [ ] Engineer work - Write chapters titles
 - [ ] Git course - module 5
-- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! – cz. II (Kolekcje)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-javy-zaden-problem-cz-ii-kolekcje/)
-- [ ] 🎧 Listen [Learning a New Codebase with Patricia Aas](https://www.allthingsgit.com/episodes/learning_a_new_codebase_with_patricia_aas.html)
-- [ ] 🎧 Listen [Transformation: From Unorganized to Uber-Productive w/ Lynan Saperstein (TPS222)](http://www.asianefficiency.com/podcast/222-lynan-saperstein/)
-- [ ] 🎧 Listen [SPI 346: Booted out of His Own Business & the One Thing Jordan Harbinger Did to Survive](https://www.smartpassiveincome.com/podcasts/booted-out-of-his-own-business-the-one-thing-jordan-harbinger-did-to-survive/)
+- [ ] Engineer work - Write chapters titles
+- [ ] Write one chapter of engineering work (about used technologies)
+- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! Cz. III (Core)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-javy-zaden-problem-cz-iii-core/)
+- [ ] 📗 Read [How to use NodeJS without frameworks and external libraries](https://hackernoon.com/how-to-use-nodejs-without-frameworks-and-external-libraries-97eb6acac9e3)
+- [ ] 📗 Read [FAQ: How to learn reverse-engineering?](https://gynvael.coldwind.pl/?id=664)
+- [ ] 🎧 Listen [SPI 347: How to Organize a Massive Event (Brick by Brick with Chad Collins)](https://www.smartpassiveincome.com/podcasts/how-to-organize-a-massive-event-brick-by-brick-with-chad-collins/)
+- [ ] 🎧 Listen [Productive Workouts and Recover Like a World-Class Athlete w/ Garrett Salpeter (TPS223)](http://www.asianefficiency.com/podcast/223-garret-salpeter/)
+- [ ] 🎧 Listen [Episode 78. OracleCodeOne, the interviews!](http://www.javapubhouse.com/2018/11/episode-78-oraclecodeone-the-interviews.html)
 
 ### Things I'll Do in the Future:
 
