@@ -574,3 +574,31 @@ Last day of November... Today was a long day. First I had to back from Stuttgart
 01/12/2018
 ---
 Yeey! I had a really good sleep (8-9 hours). The day was also really good. I visited my friends, went to my hairdresser (my friend :D ) and in the evening I went to a 'meeting' where I was talking with awesome people!
+
+02/12/2018
+---
+Today I was at a family dinner (birthday of my aunt). I ate a lot of cake and I feel a little bad about it but ... it's life and you have to enjoy it!
+
+03/12/2018
+---
+I took home office today because yesterday weather was terrible to drive and I chose to stay with friends. I worked as usually, after work I went to swimming pool and trained freediving - I set  my best personal record (42-43m).
+
+04/12/2018
+---
+It was a casual Tuesday. Work > home > sleep. I started to write my engineering work. I wrote a chapter titles and I have resolve to finish it before Christmas.
+
+05/12/2018
+---
+And another day has passed. I wrote some of my engineering work and started thinking too, whether I should or should not continue my studies after (hopefully) obtaining the title of engineer.
+
+06/12/2018
+---
+Nothing really special happened today. Work > home, as usual. Something I want to mention is I'm in a better mood lately, that's good:) 👍👍
+
+07/12/2018
+---
+Yoohoo! Friday! I should be happy - the weekend is coming, but unfortunately, not for me :( I have studies this weekend ... Anyway, I'm happy because life is beautiful 😄😄
+
+08/12/2018
+---
+Today I met with my friend :). We went to the swimming pool and talked. It was after a whole day that wasn't easy - I had a studies before which I finished at 18.00.
