@@ -13,19 +13,17 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [12/09/2018]
+# [12/16/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Git course - module 5 - EXERCISES
-- [ ] Finish chapter of engineering work (about used technologies)
-- [ ] 📗 Read [What I learned about procrastination while scaling my startup to 4.2 million users](https://medium.com/swlh/what-i-learned-about-procrastination-while-scaling-my-startup-to-4-2-million-users-b07ba29309e)
-- [ ] 📗 Read [Why you should totally switch to Kotlin](https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5)
-- [ ] 📗 Read [Serializacja w pięciu smakach](https://devstyle.pl/2018/12/03/serializacja-w-pieciu-smakach/)
-- [ ] 🎧 Listen [SPI 348: How to Buy and Sell Websites with Empire Flippers Founder Justin Cooke](https://www.smartpassiveincome.com/podcasts/how-to-buy-and-sell-websites-with-empire-flippers-founder-justin-cooke/)
-- [ ] 🎧 Listen [Mike’s Favorite Lessons, Podcasts, Books, and Productivity Tips (TPS224)](http://www.asianefficiency.com/podcast/224-mike-schmitz/)
-- [ ] 🎧 Listen [Catching up with Jake Wharton](http://talkingkotlin.com/extensions-with-jake-wharton/)
-- [ ] Watch [How To Read Function Type Signatures](https://youtu.be/BtFdmg8uhNY)
+- [ ] Write chapter 3 of engineering work (about project)
+- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! Cz. IV (Multithreading)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-javy-zaden-problem-cz-iv-multithreading/)
+- [ ] 📗 Read [What is Docker?](https://opensource.com/resources/what-docker)
+- [ ] 🎧 Listen [SPI 349: Will You Go to P.R.O.M. with Me? Lessons Learned in 2018](https://www.smartpassiveincome.com/podcasts/will-you-go-to-p-r-o-m-with-me-lessons-learned-in-2018/)
+- [ ] 🎧 Listen [How to Get the Most Value Out of Conferences and Implement What You’ve Learned (TPS225)](http://www.asianefficiency.com/podcast/225-conferences/)
+- [ ] 🎧 Listen [Git and GitHub for Students with Joe Nash](https://www.allthingsgit.com/episodes/git_and_github_for_students_with_joe_nash.html)
+- [ ] Watch [Observer Pattern (in C#.NET) Screencast – OO Design Patterns Screencasts (Ep5)](https://www.youtube.com/watch?v=2DntD7kPgF8)
 
 ### Things I'll Do in the Future:
 

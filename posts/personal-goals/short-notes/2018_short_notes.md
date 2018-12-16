@@ -602,3 +602,31 @@ Yoohoo! Friday! I should be happy - the weekend is coming, but unfortunately, no
 08/12/2018
 ---
 Today I met with my friend :). We went to the swimming pool and talked. It was after a whole day that wasn't easy - I had a studies before which I finished at 18.00.
+
+09/12/2018
+---
+It was lovely Sunday. I was at church, then we had a family dinner. I wrote some of my engineering work and went to the swimming pool with my cousin. At the evening I went to met with friends and drove back to the city where I works.
+
+10/12/2018
+---
+It's been several months since I write something here every day, and sometimes (as for example today) I have nothing interesting to say. So let me tell you why I started these #shortnotes. This was due to the fact that I wanted to improve my written English. It's all so simple: D.
+
+11/12/2018
+---
+I had to leave earlier from work (something around 30 minutes) because I forgot keys to my aparment from my hometown and friend of mine was in Bialystok so she took it (blabla... the whole history). 10 minutes after I left work I got an email - critical BUG... :D. Later I realized that it was not a bug, but this is not the story to telling here :).
+
+12/12/2018
+---
+I had something to say... but I don't remember what :D. I only know that it was in my head last night and that was a good idea. A tip for me: note everything immediately that I think is a good idea!!😀
+
+13/12/2018
+---
+Today at work I started to take over the duties of my colleague who is finishing work at the end of December. He suggested programming in a pair, which was a GREAT idea. I really liked it and I think he too. Our boss also said that this is a great idea! From now on I will try to spend 30-60 minutes each week programming in a pair !! 👍👍
+
+14/12/2018
+---
+Another weekend! Sadly this time I also have studies :( . But that's ok because I know all these studies will pay off some time later :).
+
+15/12/2018
+---
+Today I've been on a little eve (ofc. after studies). It was organized by my friends from church. I had cool time with super people and ate good food! :)
