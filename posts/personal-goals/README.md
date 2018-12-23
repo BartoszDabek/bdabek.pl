@@ -13,17 +13,16 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [12/16/2018]
+# [12/23/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Write chapter 3 of engineering work (about project)
-- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! Cz. IV (Multithreading)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-javy-zaden-problem-cz-iv-multithreading/)
-- [ ] 📗 Read [What is Docker?](https://opensource.com/resources/what-docker)
-- [ ] 🎧 Listen [SPI 349: Will You Go to P.R.O.M. with Me? Lessons Learned in 2018](https://www.smartpassiveincome.com/podcasts/will-you-go-to-p-r-o-m-with-me-lessons-learned-in-2018/)
-- [ ] 🎧 Listen [How to Get the Most Value Out of Conferences and Implement What You’ve Learned (TPS225)](http://www.asianefficiency.com/podcast/225-conferences/)
-- [ ] 🎧 Listen [Git and GitHub for Students with Joe Nash](https://www.allthingsgit.com/episodes/git_and_github_for_students_with_joe_nash.html)
-- [ ] Watch [Observer Pattern (in C#.NET) Screencast – OO Design Patterns Screencasts (Ep5)](https://www.youtube.com/watch?v=2DntD7kPgF8)
+- [ ] Write chapter 5 of engineering work (about implementation)
+- [ ] Plan the next year (create goals)
+- [ ] 📗 Read [12 Frameworks Java Web Developers Should learn in 2018](https://hackernoon.com/12-frameworks-java-web-developers-should-learn-in-2018-edae59315244)
+- [ ] 📗 Read [Focus on productivity, not efficiency](https://medium.com/swlh/focus-on-productivity-not-efficiency-4ed4fe9a454f)
+- [ ] 🎧 Listen [The 7 Habits Of Highly Effective People | by Stephen Covey | Chapter 1 | EE Book Club](https://www.youtube.com/watch?v=BtZp291h6vk&t)
+- [ ] 🎧 Listen [DevTalk #20: O mikroserwisach z Michałem Francem](https://www.youtube.com/watch?v=Sow9beLhSTQ)
 
 ### Things I'll Do in the Future:
 

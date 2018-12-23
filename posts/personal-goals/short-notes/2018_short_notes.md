@@ -630,3 +630,31 @@ Another weekend! Sadly this time I also have studies :( . But that's ok because 
 15/12/2018
 ---
 Today I've been on a little eve (ofc. after studies). It was organized by my friends from church. I had cool time with super people and ate good food! :)
+
+16/12/2018
+---
+"Snow is fallin', all around me...". Ohh, it's beautiful outside! I think there is no words to describe this, I just simply love the weather like this :).
+
+17/12/2018
+---
+It was really hard day to focus on work. I stayed at home so I worked from there and it was so difficult ... like never before. I think I may need a few days off to reset my brain.
+
+18/12/2018
+---
+I had really great talk with my roommate. We were talking very long (as on my standards). Besides that it was a good day :)
+
+19/12/2018
+---
+It was a normal day. I worked from 7 to 15. After work I back home, ate something, did workout and started writing engineering work. Today I went sleep faster than usual because I was tired. In general the day was ok :)
+
+20/12/2018
+---
+Today I was at a company eve party. It was good to talk to people from work and meet them in a different way. I'm not a party person so I haven't stayed long, but I'm officialy glad I went there. Great people and good food :)!
+
+21/12/2018
+---
+I've been waiting for it so long... It's finally free weekend!! I finished work today at 14 and drove back home. In the evening I went to the swimming pool with my cousins. It was a good relax. 
+
+22/12/2018
+---
+I was at my private hairdresser today and after that we went to the swimming pool. It was a good Saturday. I rested a little ;).
