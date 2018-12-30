@@ -13,16 +13,18 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 6. 🌀 Create presentation for new Windchill users
 
 
-# [12/23/2018]
+# [12/30/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Write chapter 5 of engineering work (about implementation)
-- [ ] Plan the next year (create goals)
-- [ ] 📗 Read [12 Frameworks Java Web Developers Should learn in 2018](https://hackernoon.com/12-frameworks-java-web-developers-should-learn-in-2018-edae59315244)
-- [ ] 📗 Read [Focus on productivity, not efficiency](https://medium.com/swlh/focus-on-productivity-not-efficiency-4ed4fe9a454f)
-- [ ] 🎧 Listen [The 7 Habits Of Highly Effective People | by Stephen Covey | Chapter 1 | EE Book Club](https://www.youtube.com/watch?v=BtZp291h6vk&t)
-- [ ] 🎧 Listen [DevTalk #20: O mikroserwisach z Michałem Francem](https://www.youtube.com/watch?v=Sow9beLhSTQ)
+- [ ] Read whole engineering work and send it to promotor
+- [ ] Write summary of 2018 and resolutions for 2019
+- [ ] Git course - module 6
+- [ ] Add README to Image Processing on Github
+- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! Cz. V (Wzorce projektowe)](http://it-leaders.com.pl/pl/2184-2/)
+- [ ] 📗 Read [How to Get More Work Done in a Week Than Most People Do in a Month](https://medium.com/personal-growth/how-to-get-more-work-done-in-a-week-than-most-people-do-in-a-month-ca0328a0cdd2)
+- [ ] 📗 Read [How to Develop Better Habits in 2019](https://medium.com/s/notes-on-changing-your-life/how-to-develop-better-habits-in-2019-143e1e21ecbc)
+- [ ] 🎧 Listen [The 7 Habits of Highly Effective People | Habit 2 | EE Book Club](https://www.youtube.com/watch?v=kHbKTBrWSFM)
 
 ### Things I'll Do in the Future:
 
@@ -32,4 +34,4 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 - [ ] Create .sh script to auto commit&push week in reviews
 - [ ] Automate process of filling read/listen contents
 - [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISE 1,2,3
-- [ ] Add README to Image Processing on Github
+- [ ] Publish 4Rescue to Google Play

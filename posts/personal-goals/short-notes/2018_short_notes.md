@@ -658,3 +658,31 @@ I've been waiting for it so long... It's finally free weekend!! I finished work 
 22/12/2018
 ---
 I was at my private hairdresser today and after that we went to the swimming pool. It was a good Saturday. I rested a little ;).
+
+23/12/2018
+---
+Chillout Sunday... I wrote some of my engineering work, met with my cousin and had fun. Christmas are coming. I have resolutions to taste everything on the table!! (ofc. in the min. amount to keep fit :D) ;)
+
+24/12/2018
+---
+Christmas Eve... Nothing more to say. It's time to stop and spend this time with family. Think about life and enjoy together! And most importantly - think about the main person - Jesus, who was born over 2000 years ago. Merry Christmas!
+
+25/12/2018
+---
+First day of Christmas is finished. It was a good day. First I've been at church. Afterwards, with family, we went on lunch to my aunt. We had a good conversations, seen each other and it was great time ;)
+
+26/12/2018
+---
+I spent the second day of Christmas with my family and friends. The first family dinner, and later I went to friends. At 20.00 I also went to the swimming pool to have some activity: D.
+
+27/12/2018
+---
+Time flies by... Today it was a good day. I worked from home, had few calls with the new guy. In our team one person is leaving and we'll have someone new. We have to teach him etc. I hope he'll be okay ;)
+
+28/12/2018
+---
+I had a real desire to play online games (LOL/CS/Tibia) but I didn't do it. I know that I have something more important to do and first things first. I'll probably play for relaxation, but after writing engineering work! 
+
+29/12/2018
+---
+Saaaturday!! Today I beat my best under water swimming record. I swam 50 meters under water and I'm really happy! As I said after this achievement - goal 2018 COMPLETED!👍👍
