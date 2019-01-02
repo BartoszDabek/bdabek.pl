@@ -14,5 +14,15 @@ It's difficult to write about failures because our human nature is not used to t
 
 Failures are for some reason. We can ignore them or we can learn from them - it's our decission. I'm writing this summary on January 1st and I know I haven't started this year well when it comes to establishing relationships with friends. I still have 365 days, but the longer I put it off, the more stupid I am. Sad bad true.
 
+### 2018 Goals Summary
+In 2018 I established myself 6 goals to achieve. I've achieved half of them and I think this is resonable because I set this goals in July (in my opinion I should only choose 3 main goals if it was in the middle of the year). Design patterns and data structures are really important and as I realized I can't do it, I just decided not to touch them and move it to the next year. Regarding to the presentation - I created one but I didn't publish it and I think I never will. This is one of the goals that doesn't make sense to me right now, so I think I made the wrong decision when creating this point.
+
+- [x] 1. 💛 Learn basic usage of VIM
+- [x] 2. 📱 Write mobile app to detect car crashes
+- [x] 3. ✏️ Write engineering work
+- [ ] 4. 💚 Learn design patterns
+- [ ] 5. 💙Learn data-structures
+- [ ] 6. 🌀 Create presentation for new Windchill users
+
 ### Wishes for 2019
 In 2019 I wish myself and everyone whos reads it in the first place: happiness and God's blessing! Create your goals and achieve them! Remember - time is the only one thing you can not get back so use it with wisdom. Find time for your family and your real friends because they are always with you when you need them. Surround with people whos makes you a better person! Be better and enjoy the life! I wish you all the best in 2019!
