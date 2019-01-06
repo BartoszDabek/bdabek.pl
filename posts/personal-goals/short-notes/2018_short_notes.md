@@ -1,4 +1,3 @@
-
 09/07/2018
 ---
 Today I had a nail surgery. It hurt for a moment but now it's better... Now I have one week to recover myself because of sickness leave. 
@@ -686,3 +685,11 @@ I had a real desire to play online games (LOL/CS/Tibia) but I didn't do it. I kn
 29/12/2018
 ---
 Saaaturday!! Today I beat my best under water swimming record. I swam 50 meters under water and I'm really happy! As I said after this achievement - goal 2018 COMPLETED!👍👍
+
+30/12/2018
+---
+This is the last Sunday of 2018. It's shocking how fast time flies ... As always for me at the end of the year, it's time to think ... about life, friends, career, goals and so on.
+
+31/12/2018
+---
+Last day of this year. I know I write about it for few days but it is important to take right decisions. To be honest I don't feel best today. I went on swimming pool at morning and swam a lot, maybe that is why. In the evening I went on a little party but I came back home before midnight. Yee.... I'm not party person.

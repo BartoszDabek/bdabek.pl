@@ -25,4 +25,4 @@ In 2018 I established myself 6 goals to achieve. I've achieved half of them and 
 - [ ] 6. 🌀 Create presentation for new Windchill users
 
 ### Wishes for 2019
-In 2019 I wish myself and everyone whos reads it in the first place: happiness and God's blessing! Create your goals and achieve them! Remember - time is the only one thing you can not get back so use it with wisdom. Find time for your family and your real friends because they are always with you when you need them. Surround with people whos makes you a better person! Be better and enjoy the life! I wish you all the best in 2019!
+In 2019 I wish myself and everyone who reads it in the first place: happiness and God's blessing! Create your goals and achieve them! Remember - time is the only one thing you can not get back so use it with wisdom. Find time for your family and your real friends because they are always with you when you need them. Surround with people who makes you a better person! Be better and enjoy the life! I wish you all the best in 2019!
