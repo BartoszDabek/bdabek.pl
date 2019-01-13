@@ -24,19 +24,21 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups
 
-# [01/06/2018]
+# [01/13/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Learn to engineering exam (elaborate first 7 chapters)
-- [ ] Prepare engineering presentation
+- [ ] Learn to engineering exam (chapters 8-13)
+- [ ] Prepare all the documents to finish thesis
+- [ ] Hand over the thesis to the dean's office
 - [ ] Git course - module 6 EXERCISES
-- [ ] 📗 Read [Developing The Organizational Language](https://blog.tfnico.com/2018/11/developing-organizational-language.html)
-- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! Cz. VI (Spring)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-z-javy/)
-- [ ] 📗 Read [Top 10 Java Books for Programmers — All time Great](https://medium.com/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a)
-- [ ] 🎧 Listen [The 7 Habits of Highly Effective People | Chapter 3](https://www.youtube.com/watch?v=stqgGp45J3s)
-- [ ] 🎧 Listen [How To Do An Annual Review The Right Way (TPS227)](http://www.asianefficiency.com/podcast/227-annual-review/)
-- [ ] 🎧 Listen [Git for Teams with Emma Jane Hogbin Westby](https://www.allthingsgit.com/episodes/git_for_teams_with_emma_jane_hogbin_westby.html)
+- [ ] Add a book tracker on repo
+- [ ] Buy a programming book (from the list of books)
+- [ ] 📗 Read [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+- [ ] 📗 Read [Greedy Algorithm and Dynamic Programming](https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405)
+- [ ] 📗 Read [Good Engineering Practices while Working Solo](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
+- [ ] 🎧 Listen [Git Sprint Weekend by Bloomberg](https://www.allthingsgit.com/episodes/git_sprint_weekend.html)
+- [ ] 🎧 Listen [How To Succeed Automatically With English](http://podplayer.net/?id=61575448)
 
 ### Things I'll Do in the Future:
 
