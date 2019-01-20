@@ -45,3 +45,31 @@ Today 2 of my friends came to our flat. They have studies this weekend and that'
 12/01/2019
 ---
 I had my thesis presentation on seminar at studies. It is always kind of stressfull when I have to present something in front of a people. But I did it and the result is that I have to prepare better and cut the duration. 
+
+13/01/2019
+---
+Sunday. I ate dinner with my family at my parents. It is always good to spend time with your family. I love them and it is really important for everyone to respect family and find time for them!
+
+14/01/2019
+---
+Our production server was down the whole day. I had a time to learn something new and to focus a little bit on my stuff.
+
+15/01/2019
+---
+It was a pretty tough day! I got off from work a little bit earlier because I had to do some papers to school. But after returning to home I had few emails about new tasks. Beside of that I had to make some project on studies with my colleague. A lot of things to do and the day is only 24h :D.
+
+16/01/2019
+---
+Studying, studying, studying... Lately there is a lot of this. My day very often looks like this: work > dinner after work > workout > studying. But to be honest, I like to study :)
+
+17/01/2019
+---
+Today in work we had a meeting about future and the current state of our project. In the end of the March we'll have a final decision if project go further or fails. Beside of that it was a good day! 👍👍
+
+18/01/2019
+---
+I had awesome day! And honestly, I don't know why... I had the feeling of coming spring and I LOVE it. I really want it to be spring now! Today I also came back to my hometown for a weekend :)
+
+19/01/2019
+---
+I slept 10 hours and I don't feel bad about it. I know that my body sometimes needs a longer rest and if I can do it, I do it.
