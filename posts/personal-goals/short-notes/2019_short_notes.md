@@ -73,3 +73,31 @@ I had awesome day! And honestly, I don't know why... I had the feeling of coming
 19/01/2019
 ---
 I slept 10 hours and I don't feel bad about it. I know that my body sometimes needs a longer rest and if I can do it, I do it.
+
+20/01/2019
+---
+Today after dinner I came back to Bialystok (the place where I work). To be honest, I don't know how long I'll stay here (I mean in the flat I currently living) because my roommate is moving out and we had a good relationships.
+
+21/01/2019
+---
+Today I got offer from one of my colleagues on current project to join the another project he works on. I think I'll take it. I talk to my boss and he said it's ok for him. I'll probably know more details tomorrow.
+
+22/01/2019
+---
+I felt really terrible today. I had a headache and couldn't focus on things I had to do. I went sleep at 9 pm... ;)
+
+23/01/2019
+---
+That was a good day. I finally settled matters with my diploma thesis. I gave it to the dean's office. In work we're configuring cluster environment so I have to figure out how to deploy on it. That's interesting and challenging (I have never worked with cluster systems before).
+
+24/01/2019
+---
+I finally finished one of my critical tasks today! The one drawback on this is that I can't test it until install on production. I see how (unit) tests gives a hidden power of not beeing afraid of modyfing etc. Sometimes I even feel guilty when I write a code and didn't write tests to it :D.
+
+25/01/2019
+---
+I finally took a decision about new project. I'm on board. From the next week I'm starting to work on second project (the same client). I took it only for one reason: experience.
+
+26/01/2019
+---
+Today was the last day of my studies. I think I have successfully completed my education (at least bachelor). I have to defend my diploma thesis and officially I'll be an engineer!

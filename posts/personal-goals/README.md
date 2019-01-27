@@ -24,28 +24,26 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups
 
-# [01/20/2018]
+# [01/27/2018]
 
 ### Things I'll do This Week:
 
-- [ ] Learn to engineering exam - finish all chapters
-- [ ] Prepare to OWI exam
-- [ ] Learn to Computer Graphics exam
-- [ ] Hand over the thesis to the dean's office
-- [ ] Git course - module 7
-- [ ] 📗 Read [Rozmowa kwalifikacyjna z Javy? Żaden problem! Cz. VII (Spring)](http://it-leaders.com.pl/pl/rozmowa-kwalifikacyjna-javy-spring/)
-- [ ] 📗 Read [The Most Important Points Nobody Told You Before You Started Building That App](https://medium.com/swlh/the-most-important-points-nobody-told-you-before-you-started-building-that-app-f6ebbd6a32b5)
-- [ ] 📗 Read [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
-- [ ] 🎧 Listen [SPI 354: The Next Big Steps in Business—with Matt Gartland from Team Flynn](https://www.smartpassiveincome.com/podcasts/the-next-big-steps-in-business-with-matt-gartland-from-team-flynn/)
-- [ ] 🎧 Listen [Level Up The People You Surround Yourself With, Without Cheesy Networking (TPS230)](http://www.asianefficiency.com/podcast/230-level-up/)
-- [ ] 🎧 Listen [Multiplatform Development with Kevin Galligan](http://talkingkotlin.com/multiplatform-development-with-kevin-galligan/)
+- [ ] Learn to engineering exam
+- [ ] Git course - module 7 EXERCISES
+- [ ] Create script to auto commit&push week in reviews
+- [ ] 📗 Read [Want to know the easiest way to save time? Use `make`!](https://medium.freecodecamp.org/want-to-know-the-easiest-way-to-save-time-use-make-eec453adf7fe)
+- [ ] 📗 Read [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
+- [ ] 📗 Read [Coding Tip: Try to Code Without If-statements](https://edgecoders.com/coding-tip-try-to-code-without-if-statements-d06799eed231)
+- [ ] 🎧 Listen [SPI 355: How to Build a Successful YouTube Channel in 2019—with Derral Eves](https://www.smartpassiveincome.com/podcasts/how-to-build-a-successful-youtube-channel-in-2019-with-derral-eves/)
+- [ ] 🎧 Listen [The Calendar, Planning, and Theming Strategies You Need To Win Your Week w/ Lauren Goldstein (TPS231)](http://www.asianefficiency.com/podcast/231-lauren-goldstein/)
+- [ ] 🎧 Listen [GitHub Universe 2017](https://www.allthingsgit.com/episodes/github_universe_2017.html)
+- [ ] Watch [My Vim Setup #2 (Mappings / Custom shortcuts)](https://www.youtube.com/watch?v=SEa9YOXk6MQ)
 
 ### Things I'll Do in the Future:
 
 - [ ] Update LinkedIn profile
 - [ ] Learn Angular 6
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
-- [ ] Create script to auto commit&push week in reviews
 - [ ] Automate process of filling read/listen contents
 - [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISE 1,2,3
 - [ ] Publish 4Rescue to Google Play
