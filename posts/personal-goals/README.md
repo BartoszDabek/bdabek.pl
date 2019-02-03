@@ -24,20 +24,18 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups
 
-# [01/27/2018]
+# [02/03/2018]
 
 ### Things I'll do This Week:
 
 - [ ] Learn to engineering exam
 - [ ] Git course - module 7 EXERCISES
 - [ ] Create script to auto commit&push week in reviews
-- [ ] 📗 Read [Want to know the easiest way to save time? Use `make`!](https://medium.freecodecamp.org/want-to-know-the-easiest-way-to-save-time-use-make-eec453adf7fe)
-- [ ] 📗 Read [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
-- [ ] 📗 Read [Coding Tip: Try to Code Without If-statements](https://edgecoders.com/coding-tip-try-to-code-without-if-statements-d06799eed231)
-- [ ] 🎧 Listen [SPI 355: How to Build a Successful YouTube Channel in 2019—with Derral Eves](https://www.smartpassiveincome.com/podcasts/how-to-build-a-successful-youtube-channel-in-2019-with-derral-eves/)
-- [ ] 🎧 Listen [The Calendar, Planning, and Theming Strategies You Need To Win Your Week w/ Lauren Goldstein (TPS231)](http://www.asianefficiency.com/podcast/231-lauren-goldstein/)
-- [ ] 🎧 Listen [GitHub Universe 2017](https://www.allthingsgit.com/episodes/github_universe_2017.html)
-- [ ] Watch [My Vim Setup #2 (Mappings / Custom shortcuts)](https://www.youtube.com/watch?v=SEa9YOXk6MQ)
+- [ ] 📗 Read [What I Learned in My First Two Years as a Software Engineer](https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd)
+- [ ] 📗 Read [How not to be a mediocre developer!](https://hackernoon.com/how-not-to-be-a-mediocre-developer-c59a49f97fc5)
+- [ ] 🎧 Listen [SPI 356: Everything Behind the Launch of My New Invention—the SwitchPod](https://www.smartpassiveincome.com/podcasts/everything-behind-the-launch-of-my-new-invention-the-switchpod/)
+- [ ] 🎧 Listen [Simple Strategies To Find Time to Parent Without Feeling Guilty w/ Julie Morgenstern (TPS232)](http://www.asianefficiency.com/podcast/232-julie-morgenstern/)
+- [ ] 🎧 Listen [Libraries with Roman Elizarov](http://talkingkotlin.com/libraries-with-roman-elizarov/)
 
 ### Things I'll Do in the Future:
 

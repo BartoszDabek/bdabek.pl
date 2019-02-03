@@ -101,3 +101,31 @@ I finally took a decision about new project. I'm on board. From the next week I'
 26/01/2019
 ---
 Today was the last day of my studies. I think I have successfully completed my education (at least bachelor). I have to defend my diploma thesis and officially I'll be an engineer!
+
+27/01/2019
+---
+It was a pleasant Sunday. At the morning I've been at the church then afterwords I went on swimming pool. I relaxed myself and had conversation with a friend who's the lifeguard there.
+
+28/01/2019
+---
+Monday.. I woke up at 5am, breakfast, work, workout, learning and sleep. In short it was all day. It was good. I think that at the end of the week I'll take some remote work so that I can concentrate more on learning to defend my diploma thesis.
+
+29/01/2019
+---
+Lately I have terrible headaches while intense work. I hope it isn't anything serious. I'll work tomorrow with the pomodoro technique to see results.
+
+30/01/2019
+---
+What a crazy day! I have some critical bug reports in our system and I don't know what causes it... Additionally I have to learn a lot to my diploma exam. One more news, I'll probably have to move out of the flat I'm currently renting 'cause my roommates are moving out.
+
+31/01/2019
+---
+I was at the jsession today which is a group of the java developers. There was 2 talks. First about functional programming in Scala and the second one about profiling the applications. In my opinion the second one was better. It was presented by a deaveloper with 12 years experience that was talking on his life experience with profiling. 
+
+01/02/2019
+---
+Friiiiday!! Start of the weekend :)! I was at the swimming pool with a couple of colleagues. It was a good time and I could relax. Besides, I have a lot of learning to my diploma exam. 
+
+02/02/2019
+---
+Today I've been a procrastinating. I learned something for my diploma exam, but I know I could have done more. Anyway, rest is also very important so balance is the best option.
