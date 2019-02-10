@@ -129,3 +129,32 @@ Friiiiday!! Start of the weekend :)! I was at the swimming pool with a couple of
 02/02/2019
 ---
 Today I've been a procrastinating. I learned something for my diploma exam, but I know I could have done more. Anyway, rest is also very important so balance is the best option.
+
+03/02/2019
+---
+What a laaazy Sunday. Buy, I wish we'll have a spring/summer right now. I just want to go outside, take off a shirt and get a sun!!
+
+04/02/2019
+---
+And the Monday. Everything was good at work. When I got home I ate a dinner, which I took from home :D and I did a training. Then I studied to diploma exam and repeated my presentation. I have to present it 2 min faster (today it was 11 min).
+
+05/02/2019
+---
+It's getting closer and closer to the final day of thesis exam. It's on Thursday. I think I'm ready to that. I've been learning a lot in last and current week. We'll see the result :)
+
+06/02/2019
+---
+Work and study. This words describe my last days clearly. Tomorrow is a day of truth - will I be an engineer? Tomorrow I'll know that.
+
+07/02/2019
+---
+I have it! 5 on my diploma exam :) and I'm super happy :D. From tomorrow I'm starting my first 25 days challenge - breath holding. It will last unti 5 of March and I'll update my best 'score' every week in readme file (just to see potential progress).
+
+08/02/2019
+---
+I went on volleyball training and after warmup I decided it's not for me. I suck. I wasn't playing for 2 months and I literally suck. So after warmup I took my stuff and went on swimming pool which is next to the place where we had a training.
+u
+
+09/02/2019
+---
+That was a good day. I've been so productive. First I finished exercises for chapter 7 of git course. Afterwards I created a shell script to auto commit and push and finally I was learning some English (I need someone to practice speaking altogether with me).

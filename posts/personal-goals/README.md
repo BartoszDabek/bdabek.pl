@@ -20,22 +20,22 @@ Sports goals 🏆:
 5. 3:30 minutes with hold breath
 
 25 Days Challenges 💪💪
-1. Holding breath
+1. Holding breath (current best: 2:50, personal best: 3:10)
 2. HackerRank
 3. 100 pushups
 
-# [02/03/2018]
+# [02/10/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Learn to engineering exam
-- [ ] Git course - module 7 EXERCISES
-- [ ] Create script to auto commit&push week in reviews
-- [ ] 📗 Read [What I Learned in My First Two Years as a Software Engineer](https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd)
-- [ ] 📗 Read [How not to be a mediocre developer!](https://hackernoon.com/how-not-to-be-a-mediocre-developer-c59a49f97fc5)
-- [ ] 🎧 Listen [SPI 356: Everything Behind the Launch of My New Invention—the SwitchPod](https://www.smartpassiveincome.com/podcasts/everything-behind-the-launch-of-my-new-invention-the-switchpod/)
-- [ ] 🎧 Listen [Simple Strategies To Find Time to Parent Without Feeling Guilty w/ Julie Morgenstern (TPS232)](http://www.asianefficiency.com/podcast/232-julie-morgenstern/)
-- [ ] 🎧 Listen [Libraries with Roman Elizarov](http://talkingkotlin.com/libraries-with-roman-elizarov/)
+- [ ] Git course - module 8
+- [ ] Watch [Spring Boot Microservices course](https://www.youtube.com/watch?v=y8IQu4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
+- [ ] 📗 Read [Technical debt is real debt](https://nvie.com/posts/why-you-should-consider-technical-debt-to-be-real-debt/)
+- [ ] 📗 Read [These tools will help you write clean code](https://medium.freecodecamp.org/these-tools-will-help-you-write-clean-code-da4b5401f68e)
+- [ ] 📗 Read [An Introduction to Git Merge and Git Rebase: What They Do and When to Use Them](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
+- [ ] 🎧 Listen [SPI 357: How a Beautiful Mess Became a Beautifully Diverse Business Empire – with Emma and Trey](https://www.smartpassiveincome.com/podcasts/how-a-beautiful-mess-became-a-beautifully-diverse-business-empire/)
+- [ ] 🎧 Listen [The Hybrid Calendar System That Will Help You Stay On Top Of Everything (TPS233)](http://www.asianefficiency.com/podcast/233-hybrid-calendar/)
+- [ ] 🎧 Listen [Win Win | 7 Habits of Highly Effective People](https://www.youtube.com/watch?v=zsvxRjREJx8)
 
 ### Things I'll Do in the Future:
 
