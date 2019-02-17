@@ -158,3 +158,31 @@ u
 09/02/2019
 ---
 That was a good day. I've been so productive. First I finished exercises for chapter 7 of git course. Afterwards I created a shell script to auto commit and push and finally I was learning some English (I need someone to practice speaking altogether with me).
+
+10/02/2019
+---
+It was a pleasant Sunday. I was at the church, then we had a family dinner. I watched a ski jumping competition and drove to Bialystok. That's how the day looked like in a shortcut 😉.
+
+11/02/2019
+---
+Arghh.. We've got something incorrectly configured on our systems and one thing doesn't want to work. It took me the whole day to figure it and all I know for now is - it doesn't work. It's really bad when things like this happends especially when you have other tasks to do in this week.
+
+12/02/2019
+---
+Yesterday's problem. Not solved. Anyway I'll create a ticket to support for help on that topic and I want to focus my attention on other tasks. I have a new task with some changes in the code. The code is 3-4 months old but it is already defined as legacy code. No tests and I want to improve this code better by entering tests for this code!
+
+13/02/2019
+---
+Today in the flat I rent the owners made some renovation. When I came back from work, they were still here painting the walls. I also have a new bed. Much more comfortable than the previous one :).
+
+14/02/2019
+---
+It's almost the end of the week. Time flies by so fast ... Today I worked a little bit longer (officialy 8h in the office) and 3 hours at home because tomorrow we have a meeting about topic I didn't know very well. That's why I worked after hours to 'get in' the topic. Anyway tomorrow probably I'll finish 3 hours earlier :)
+
+15/02/2019
+---
+Yooho! Friday :). With friends I was at the swimming pool and I ate strawberries today! It was yummy..
+
+16/02/2019
+---
+I spent todays evening with my friends. We were sitting in their flat and we chatted about life and other stuff.
