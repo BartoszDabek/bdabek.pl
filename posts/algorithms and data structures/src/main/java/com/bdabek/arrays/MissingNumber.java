@@ -12,8 +12,8 @@ class MissingNumber {
 
     /**
      * <pre>
-     * The method finds missing number with O(n) cost.
-     * It allows to find only one missing number.
+     *     The method finds missing number with O(n) cost.
+     *     It allows to find only one missing number.
      * </pre>
      *
      * @param numbers array of numbers
@@ -21,24 +21,17 @@ class MissingNumber {
      * @throws IllegalArgumentException when any number in an array is < 1 or > 100
      */
     Optional<Integer> findMissingNumberWithSort(int[] numbers) throws IllegalArgumentException {
-        Integer[] sortedArray = sortArray(numbers);
+        Arrays.sort(numbers);
 
-        if (sortedArray[0] < LOWEST_POSSIBLE_VALUE || sortedArray[numbers.length - 1] > HIGHEST_POSSIBLE_VALUE) {
+        if (numbers[0] < LOWEST_POSSIBLE_VALUE || numbers[numbers.length - 1] > HIGHEST_POSSIBLE_VALUE) {
             throw new IllegalArgumentException("Values in array have to be in range between 1 and 100");
         }
 
-        Optional<Integer> missingNumber = getInteger(sortedArray);
+        Optional<Integer> missingNumber = getInteger(numbers);
         return missingNumber;
     }
 
-    private Integer[] sortArray(int[] numbers) {
-        return Arrays.stream(numbers)
-                .boxed()
-                .sorted()
-                .toArray(Integer[]::new);
-    }
-
-    private Optional<Integer> getInteger(Integer[] sortedArray) {
+    private Optional<Integer> getInteger(int[] sortedArray) {
         for (int i = 0; i < sortedArray.length; i++) {
             int nextNumber = i + 1;
             if (sortedArray[i] != nextNumber) {
@@ -50,9 +43,9 @@ class MissingNumber {
 
     /**
      * <pre>
-     * The method uses formula that calculates the sum of the series: n * ((n+1) / 2).
-     * The cost is O(1).
-     * It allows to find only one missing number.
+     *     The method uses formula that calculates the sum of the series: n * ((n+1) / 2).
+     *     The cost is O(1).
+     *     It allows to find only one missing number.
      * </pre>
      *
      * @param numbers   array of numbers
@@ -86,7 +79,7 @@ class MissingNumber {
 
     /**
      * <pre>
-     * The method uses <a href="https://docs.oracle.com/javase/8/docs/api/java/util/BitSet.html">BitSet</a> API
+     *     The method uses <a href="https://docs.oracle.com/javase/8/docs/api/java/util/BitSet.html">BitSet</a> API
      * </pre>
      *
      * @param numbers   array of numbers
@@ -110,7 +103,7 @@ class MissingNumber {
 
     private BitSet createNotMissingNumberBitSet(int[] numbers, int arraySize) {
         BitSet bitSet = new BitSet(arraySize);
-        for (int number: numbers) {
+        for (int number : numbers) {
             if (number < LOWEST_POSSIBLE_VALUE || number > HIGHEST_POSSIBLE_VALUE) {
                 throw new IllegalArgumentException("Values in array have to be in range between 1 and 100");
             }
