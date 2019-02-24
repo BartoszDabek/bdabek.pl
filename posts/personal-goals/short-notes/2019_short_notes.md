@@ -186,3 +186,31 @@ Yooho! Friday :). With friends I was at the swimming pool and I ate strawberries
 16/02/2019
 ---
 I spent todays evening with my friends. We were sitting in their flat and we chatted about life and other stuff.
+
+17/02/2019
+---
+Today, with family we had a little celebration day. It was my mom's birthday. It was a good time with family (and cake :D).
+
+18/02/2019
+---
+I had to submit documents for studies, so I left work at 12 in the morning and went to university. When I submitted my master's degree papers, there were two levels of English to choose from: B2 + and C1. I do not feel up to level C1, but all B2 + slots have been filled, so I had to ... I'm not sure if this decision about studying is good, but we'll see :)
+
+19/02/2019
+---
+Arghh!! I got angry so bad today! I had an appointment to a doctor at 10:45. I was in there right on time. I registered, there were a few people in front of me (like 5 or 6). Everything was fine until now. After 2 hours of waiting I couldn't take it anymore (I had a meeting at 1 PM) I asked what my position was in the queue.... I was 4th. I just took my papers and left.
+
+20/02/2019
+---
+Ha!! I planned to go to the doctor on Thursday but I decided to back to my hometown today and ... I did papers for studies in 30 min instead of 2 hours of waiting in queue :)!
+
+21/02/2019
+---
+Another good day :). I worked remotely today. I really like to work like this especially at the summer time when you can go outside and get some sun + do some work. Additionally I went on swimming pool (as always), had some chill time ... ;)
+
+22/02/2019
+---
+Ye!! Friday :). I went on swimming pool with my cousin today, it was nice. There is also a new schedule for my master's studies, which doesn't look bad. I have a busy Monday and Tuesday, but other days looks good :)
+
+23/02/2019
+---
+That was a good day! We had 'holiday' at our church. There was many people and friends. Afterwards with a group of friends we went to my aunt house and we were chatting :)
