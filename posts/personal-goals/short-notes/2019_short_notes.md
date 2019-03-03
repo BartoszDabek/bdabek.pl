@@ -214,3 +214,31 @@ Ye!! Friday :). I went on swimming pool with my cousin today, it was nice. There
 23/02/2019
 ---
 That was a good day! We had 'holiday' at our church. There was many people and friends. Afterwards with a group of friends we went to my aunt house and we were chatting :)
+
+24/02/2019
+---
+I almost forgot to write today's note. Uff... I used this beautiful Sunday to meet my friends and be with family. :D
+
+25/02/2019
+---
+What a day. Literally, I didn't have time to do anything. I went out at 10am and returned at 8pm. Mondays are gonna be tough.
+
+26/02/2019
+---
+Today I had classes related to math... Aaaaa I'm scared a bit. I've always been terrible in math and I think it's not better now.
+
+27/02/2019
+---
+And we're at the middle of the week. Today I had less classes so I could spend some time on my own things. In addition I ate a good lunch (vegetables and rice).
+
+28/02/2019
+---
+That was the last day of February. Today I was at the jSession, which is java communicy meeting. There was 2 presentations - first about how to not make our code legacy and the second one about AWS and serverless. Meetings like that are a great occassion to meet new people.
+
+01/03/2019
+---
+Friday and the new month. Sounds great! :). I did back to my hometown and went to the swimming pool with my cousins. Arghh! And one more thing. My car broke down, luckily after returning home. I don't know much about car mechanics, so tomorrow with my dad we'll see together what happened there.
+
+02/03/2019
+---
+I spent the day at home. I had fun with my brother's son :). Unfortunately, the problem with the car is serious and I have to give it to the mechanic.
