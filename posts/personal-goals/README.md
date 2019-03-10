@@ -20,27 +20,25 @@ Sports goals 🏆:
 5. ✅ 3:30 with held breath
 
 25 Days Challenges 💪💪
-1. Holding breath (current best: 3:30, personal best: 3:30) - 8.02.2019 - 5.03.2019
+1. ✅ Holding breath (personal best: 3:32)
 2. HackerRank
 3. 100 pushups
 
-# [03/03/2019]
+# [03/10/2019]
 
 ### Things I'll do This Week:
 
+- [ ] Prepare to the job interview
 - [ ] Studies - AiT - read handbook (chapters 5-9) and PS1 exercises
-- [ ] Studies - SiAUM - write simple app in React-Native
-- [ ] Studies - RSI - read about RMI and separate app I wrote on PS
-- [ ] Studies - Etrapez - a derivative course
-- [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISE 5
-- [ ] 📗 Read [10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
-- [ ] 📗 Read [How to write code you will love in the future](https://medium.freecodecamp.org/how-to-write-code-you-will-love-in-the-future-ee5decae5ce4)
 - [ ] 📗 Read [Czym jest CORS (Cross-Origin Resource Sharing) i jak wpływa na bezpieczeństwo](https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/)
-- [ ] 🎧 Listen [How to Get Healthy and Stay Sane While Saving Time w/ Betty Jean Bell (TPS236)](http://www.asianefficiency.com/podcast/236-betty-jean-bell/)
-- [ ] 🎧 Listen [Adopting Kotlin and Functional Programming with Shelby Cohen](http://talkingkotlin.com/adopting-kotlin-and-functional-programming/)
+- [ ] 🎧 Listen [SPI 360: How to Plan and Manage Projects and Programs Successfully—with Janna Maron from Team SPI](https://www.smartpassiveincome.com/podcasts/how-to-plan-and-manage-projects-and-programs-successfully/)
+- [ ] 🎧 Listen [Episode 81. Let’s Dive into a cool magical library that makes Java way less verbose!](https://www.javapubhouse.com/2019/03/episode-81-lets-dive-into-a-cool-magical-library-that-makes-java-way-less-verbose.html)
+- [ ] 🎧 Listen [Episode 80. Ah, Maven Archetypes… it’s gonna get META](https://www.javapubhouse.com/2019/02/episode-80-ah-maven-archetypes-its-gonna-get-meta.html)
 
 ### Things I'll Do in the Future:
 
+- [ ] Studies - Etrapez - a derivative course
+- [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISE 5
 - [ ] Learn Angular 6
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents

@@ -242,3 +242,31 @@ Friday and the new month. Sounds great! :). I did back to my hometown and went t
 02/03/2019
 ---
 I spent the day at home. I had fun with my brother's son :). Unfortunately, the problem with the car is serious and I have to give it to the mechanic.
+
+03/03/2019
+---
+It was regular Sunday. I went to church and then we had a family dinner. In the evening I went to the city where I work (I borrowed a car from my parents).
+
+04/03/2019
+---
+Monday.. Actually, I like Mondays. It's not always easy to handle a new week, but when you have a good approach, you can do it. I can do it for sure (ofc. sometimes there are bad moments but this is rare). 
+
+05/03/2019
+---
+This is the last day of my breath hold challenge! I found it very usefull, but unfortunately I don't have time for it (even if it takes 20 minutes a day). I'm glad that recently I don't have so many tasks at work so I can focus more on my studying.
+
+06/03/2019
+---
+That was interesting day. Ofc. a lot of studying, but today it was something different. I was creating very simple app in react-native. First I had to configure to make it work altogether with Java 11, which took me a while. At the late afternoon I got an email with a job offer which is quite interesting... I'm already on 2 projects so we'll see where this whole situation will go.
+
+07/03/2019
+---
+What a day! Until afternoon everything was going smoothly. And at one moment, EMAIL, EMAIL, EMAIL... that was overwhelming. Thanks God, I manage to prioritize the tasks that came and I solved them one by one. Well, not exactly all of them but at least I'm at good starting point for tomorrow continuation ;)
+
+08/03/2019
+---
+Today I had a job interview with a HR recruiter. We talked on the phone for an hour and on next Wednesday I have technical interview. If I succeed I'll have a lot of work to do... But we'll see after Wednesday :)  
+
+09/03/2019
+---
+I wanted to learn math today, but I was preparing myself for job interview. I also met with my friends and went to a hairdresser (which is actually my friend). And ofc. I went to the pool :)
