@@ -270,3 +270,31 @@ Today I had a job interview with a HR recruiter. We talked on the phone for an h
 09/03/2019
 ---
 I wanted to learn math today, but I was preparing myself for job interview. I also met with my friends and went to a hairdresser (which is actually my friend). And ofc. I went to the pool :)
+
+10/03/2019
+---
+I always try to be positive but what happend today.... makes me RAGE! Our new roommate has invited some of his 'friends' BUT these weren't normal people (I'm sorry to say this), they were bums who stink terribly and what is worse THEY STAY FOR A NIGHT! It's 100% certain that tomorrow I'm calling the owner of the aparment to talk about it. And it's me or him. Someone has to leave.
+
+11/03/2019
+---
+When I woke up I was still angry. I called owner of our flat and described the situation. She wasn't happy (in warm words). Fortunatelly situation is established right now and hopefully it won't ever happen again.
+
+12/03/2019
+---
+It was a very ordinary day. Work -> School -> Work -> Studying. In the end, our new roommate didn't cause problems in the evening but anyway we need to get rid of him (we don't trust him and we can't lock our rooms).
+
+13/03/2019
+---
+I had technical job interview today. It was very interesting. The guy, who had conversation with me asked me a lot of questions where I had to think instead of know something. I don't know if they'll offer me job after this talk but still, it was very nice talk.
+
+14/03/2019
+---
+Hi! It was a good day. I had better in my life but it was fine :). I'm thinking of find new flat to rent 'cause I'm tired of living here with that new roommate and actually I'm kind of scared of him.
+
+15/03/2019
+---
+I got sick :(. The whole day I felt terrible and I went sleep at 5 pm..
+
+16/03/2019
+---
+Wow! I slept 14 hours!! And what is most important I felt good today :). I'm not sick anymore. Today I met with my friends and also went on swimming pool.

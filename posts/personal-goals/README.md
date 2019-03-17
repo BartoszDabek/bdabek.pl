@@ -24,21 +24,22 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups
 
-# [03/10/2019]
+# [03/17/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare to the job interview
-- [ ] Studies - AiT - read handbook (chapters 5-9) and PS1 exercises
-- [ ] 📗 Read [Czym jest CORS (Cross-Origin Resource Sharing) i jak wpływa na bezpieczeństwo](https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/)
-- [ ] 🎧 Listen [SPI 360: How to Plan and Manage Projects and Programs Successfully—with Janna Maron from Team SPI](https://www.smartpassiveincome.com/podcasts/how-to-plan-and-manage-projects-and-programs-successfully/)
-- [ ] 🎧 Listen [Episode 81. Let’s Dive into a cool magical library that makes Java way less verbose!](https://www.javapubhouse.com/2019/03/episode-81-lets-dive-into-a-cool-magical-library-that-makes-java-way-less-verbose.html)
-- [ ] 🎧 Listen [Episode 80. Ah, Maven Archetypes… it’s gonna get META](https://www.javapubhouse.com/2019/02/episode-80-ah-maven-archetypes-its-gonna-get-meta.html)
+- [ ] Studies - AiT - read handbook (chapter 9) and assignment #1
+- [ ] Studies - RSI - Exercise #3
+- [ ] Studies - SiUM - Exercise #2
+- [ ] Studies - Etrapez - a derivative course
+- [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISE 5
+- [ ] 📗 Read [Learn Enough Docker to be Useful Part#1](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+- [ ] 📗 Read [Learn Enough Docker to be Useful Part#2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)
+- [ ] 🎧 Listen [Do These 3 Things, and Your Energy and Productivity Will Skyrocket (TPS238)](http://www.asianefficiency.com/podcast/238-energy-boost/)
+- [ ] 🎧 Listen [Revisiting Data Science with Thomas Nield](http://talkingkotlin.com/Revisiting-Data-Science-with-Thomas-Nield/)
 
 ### Things I'll Do in the Future:
 
-- [ ] Studies - Etrapez - a derivative course
-- [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISE 5
 - [ ] Learn Angular 6
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents
