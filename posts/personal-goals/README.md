@@ -8,7 +8,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 1. 💚 Learn design patterns
 2. 💙 Learn data structures
 3. 💡 Create a tutorial on youtube
-4. ✍️ Two job interviews
+4. ✍️ Two job interviews [1/2]
 5. 📱 Publish mobile app
 6. 🎓 English
 
@@ -24,19 +24,22 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups
 
-# [03/17/2019]
+# [03/24/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Studies - AiT - read handbook (chapter 9) and assignment #1
-- [ ] Studies - RSI - Exercise #3
-- [ ] Studies - SiUM - Exercise #2
-- [ ] Studies - Etrapez - a derivative course
-- [ ] 📗 Read [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) - only `Array Coding Interview Questions`. - EXERCISE 5
-- [ ] 📗 Read [Learn Enough Docker to be Useful Part#1](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
-- [ ] 📗 Read [Learn Enough Docker to be Useful Part#2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)
-- [ ] 🎧 Listen [Do These 3 Things, and Your Energy and Productivity Will Skyrocket (TPS238)](http://www.asianefficiency.com/podcast/238-energy-boost/)
-- [ ] 🎧 Listen [Revisiting Data Science with Thomas Nield](http://talkingkotlin.com/Revisiting-Data-Science-with-Thomas-Nield/)
+- [ ] Install docker and have a little bit fun with it
+- [ ] Make a contribution in some Open Source project
+- [ ] Bubble Sort algorithm - describe and explain
+- [ ] Studies - AiT - read handbook (chapter 10)
+- [ ] Studies - Etrapez - a derivative course - finish this course
+- [ ] 📗 Read [Trail: Collections - Introduction&Interfaces sections](https://docs.oracle.com/javase/tutorial/collections/index.html)
+- [ ] 📗 Read [How to prioritize what you learn by creating a topic backlog](https://medium.freecodecamp.org/how-to-prioritize-what-you-learn-by-creating-a-topic-backlog-30d6a2a2c798)
+- [ ] 🎧 Listen [SPI 361: Super Simple Segmentation & Web Personalization for Next Level Marketing—with Brennan Dunn](https://www.smartpassiveincome.com/podcasts/super-simple-segmentation-for-next-level-marketing/)
+- [ ] 🎧 Listen [Fatigue, Procrastination and Being Unproductive…These Are Some of the Penalties of Ignoring This One Thing (TPS237)](http://www.asianefficiency.com/podcast/237-energy-boost/)
+- [ ] 🎧 Listen [Episode 79. Here’s a present to you! A library that makes you program less (Apache Commons)](https://www.javapubhouse.com/2019/01/episode-79-heres-a-present-to-you-a-library-that-makes-you-program-less-apache-commons.html)
+- [ ] 🎧 Listen [GitMinutes #43: Johannes Schindelin on Contributing to Git](http://episodes.gitminutes.com/2017/10/gitminutes-43-johannes-schindelin-on.html)
+- [ ] Watch [Funkcyjne Serwery w Javie, Jarek Ratajski](https://www.youtube.com/watch?v=QUJgD9t5jMw)
 
 ### Things I'll Do in the Future:
 

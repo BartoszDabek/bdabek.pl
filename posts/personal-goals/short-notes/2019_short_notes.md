@@ -298,3 +298,31 @@ I got sick :(. The whole day I felt terrible and I went sleep at 5 pm..
 16/03/2019
 ---
 Wow! I slept 14 hours!! And what is most important I felt good today :). I'm not sick anymore. Today I met with my friends and also went on swimming pool.
+
+17/03/2019
+---
+Today I celebrated friend birthday 🎂! It was a good Sunday with beautiful weather. I wish spring to come faster :)
+
+18/03/2019
+---
+Another really weird day!!! My roommate (not the new one) went CRAZY! He wanted to commit suicide... He left a farewell letter etc.. I lost all afternoon and evening dealing with the police and so on.I also told our owner of the aparment that I'm leaving and I don't want to live there anymore. She totally understood this. Ultimately, the roommate was found and is safe.
+
+19/03/2019
+---
+It was a good day. At the evening we met with few friends on pizza. Good and fun time. I needed that :)
+
+20/03/2019
+---
+I finished things related to renting an apartment. I paid (a lot) for the last 2 months and gave the keys to the owner.
+
+21/03/2019
+---
+Bum! My job offer was rejected. They say that they need someone more experienced and I can try again in 4-6 months. I have to learn more and start sharing my knowledge :)
+
+22/03/2019
+---
+Yuuhuuu! Friday :). I'm thinking of starting some new project where I can use Spring, Hibernate, Angular etc.. In general new technologies... I really don't want to have any technical debt. I have to find problem which is interesting to me so I'll be motivated and have fun.
+
+23/03/2019
+---
+It was beautiful Saturday! Sun was shining and the weather was perfect. Life is wonderful! We have to remember this :)
