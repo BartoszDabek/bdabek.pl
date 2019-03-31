@@ -24,22 +24,25 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups
 
-# [03/24/2019]
+# [03/31/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Install docker and have a little bit fun with it
+- [ ] Prepare to English test (deadline - TUESDAY) - studies
+- [ ] SiUM - create app for classes (deadline - WEDNESDAY) - studies
 - [ ] Make a contribution in some Open Source project
-- [ ] Bubble Sort algorithm - describe and explain
-- [ ] Studies - AiT - read handbook (chapter 10)
 - [ ] Studies - Etrapez - a derivative course - finish this course
-- [ ] 📗 Read [Trail: Collections - Introduction&Interfaces sections](https://docs.oracle.com/javase/tutorial/collections/index.html)
-- [ ] 📗 Read [How to prioritize what you learn by creating a topic backlog](https://medium.freecodecamp.org/how-to-prioritize-what-you-learn-by-creating-a-topic-backlog-30d6a2a2c798)
-- [ ] 🎧 Listen [SPI 361: Super Simple Segmentation & Web Personalization for Next Level Marketing—with Brennan Dunn](https://www.smartpassiveincome.com/podcasts/super-simple-segmentation-for-next-level-marketing/)
-- [ ] 🎧 Listen [Fatigue, Procrastination and Being Unproductive…These Are Some of the Penalties of Ignoring This One Thing (TPS237)](http://www.asianefficiency.com/podcast/237-energy-boost/)
-- [ ] 🎧 Listen [Episode 79. Here’s a present to you! A library that makes you program less (Apache Commons)](https://www.javapubhouse.com/2019/01/episode-79-heres-a-present-to-you-a-library-that-makes-you-program-less-apache-commons.html)
-- [ ] 🎧 Listen [GitMinutes #43: Johannes Schindelin on Contributing to Git](http://episodes.gitminutes.com/2017/10/gitminutes-43-johannes-schindelin-on.html)
-- [ ] Watch [Funkcyjne Serwery w Javie, Jarek Ratajski](https://www.youtube.com/watch?v=QUJgD9t5jMw)
+- [ ] Bubble Sort algorithm - refactor to generic (support characters) + add LOG's that measure execution time
+- [ ] Watch [Docker for Java Developers](https://www.youtube.com/watch?v=yHLAaA4gPxw&index=5&list=PLkA60AVN3hh8_lyxE2jjGaGyr0UoqIv4K)
+- [ ] Watch [Jinkubator #30 - Webservice'y w świecie Javy - Dominik Przybysz](https://www.youtube.com/watch?v=RGJqRbwgHIA)
+- [ ] 📗 Read [Plain English Explanation of Big O Notation](http://www.cforcoding.com/2009/07/plain-english-explanation-of-big-o.html)
+- [ ] 📗 Read [Trail: Collections - Aggregate Operations](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)
+- [ ] 📗 Read [How to interview your interviewers when you’re looking for a job](https://medium.freecodecamp.org/how-to-interview-your-interviewers-when-youre-looking-for-a-job-d848bc3a910)
+- [ ] 📗 Read [Learn Enough Docker to be Useful - Part 2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)
+- [ ] 🎧 Listen [Episode 82. Uh-oh Spring… you got some serious competition from Micronaut!](https://www.javapubhouse.com/2019/03/episode-82-uh-oh-spring-you-got-some-serious-competition-from-micronaut.html)
+- [ ] 🎧 Listen [Talking CFP with Christina Lee](http://talkingkotlin.com/Talking-CFP-with-Christina-Lee/)
+- [ ] 🎧 Listen [SPI 364: SEO Simplified with Tim from Ahrefs](https://www.smartpassiveincome.com/podcasts/seo-simplified-with-tim-from-ahrefs/)
+- [ ] 🎧 Listen [Being Good At Your Job Is Not Enough For Growth: You Need To Create This Plan (TPS240)](http://www.asianefficiency.com/podcast/240-personal-development-plan/)
 
 ### Things I'll Do in the Future:
 

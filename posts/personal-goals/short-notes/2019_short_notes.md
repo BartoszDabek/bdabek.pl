@@ -326,3 +326,31 @@ Yuuhuuu! Friday :). I'm thinking of starting some new project where I can use Sp
 23/03/2019
 ---
 It was beautiful Saturday! Sun was shining and the weather was perfect. Life is wonderful! We have to remember this :)
+
+24/03/2019
+---
+Today was my grandma's birthday. All family met up altogether to celebrate. We had a typical village dinner. It was a good time. Afterwards 'young' generation moved to another party (including me). Also.. great time with friends :)
+
+25/03/2019
+---
+Monday! I like Mondays :). It was very casual. First work, then school and finally relax - swimming pool with friends.
+
+26/03/2019
+---
+Today I had a short conversation with IT recruiter from Great Britain. It's a nice experience to talk about job and opportunities in language other than native. He offered me job in Warsaw. I agreed on technical interview but anyway if they won't offer me remote work I think I'll reject this offer.
+
+27/03/2019
+---
+Very simple day. At the morning I drove to Bialystok on the University. At noon I went to the office and after work (around 3:30 PM) I drove back home. At home I was studying :)
+
+28/03/2019
+---
+Today I read a lot about Docker and Collections in Java. I also practice some things in Docker (docker's classroom). At the evening I went out on swimming pool with cousin. We were chatting and chilling :) 
+
+29/03/2019
+---
+Time flies by so fast... Sometimes I would like to stop him, sit down and do nothing. I'll do it in May, on my birthday. I'll sit and watch the sunset without worrying about anything!
+
+30/03/2019
+---
+The running season is officialy started! Today, I ran 4.5km with an average pace (5:00/km). I felt so good after running. The weather was PERFECT. It was a beautiful sunset. And all the nature in the heart of the forest! There are no words to describe this view :)
