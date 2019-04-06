@@ -2,19 +2,31 @@ package com.bdabek.sort.bubble;
 
 class BubbleSort {
 
+    <T extends Comparable<T>> T[] sort(T[] array) {
+        int last = array.length;
+        boolean swap;
 
-    Integer[] sort(Integer[] inputData) {
-        int arrayLength = inputData.length;
-
-        for (int i = 0; i < arrayLength - 1; i++) {
-            for (int j = 0; j < arrayLength - i - 1; j++) {
-                if (inputData[j] > inputData[j+1]) {
-                    int temp = inputData[j];
-                    inputData[j] = inputData[j+1];
-                    inputData[j+1] = temp;
+        do {
+            swap = false;
+            for (int index = 0; index < last - 1; index++) {
+                if (isHigher(array[index], array[index + 1])) {
+                    swap = swap(array, index);
                 }
             }
-        }
-        return inputData;
+            last--;
+        } while (swap);
+        return array;
     }
+
+    private <T extends Comparable<T>> boolean isHigher(T first, T second) {
+        return first.compareTo(second) > 0;
+    }
+
+    private <T extends Comparable<T>> boolean swap(T[] array, int index) {
+        T currentItem = array[index];
+        array[index] = array[index + 1];
+        array[index + 1] = currentItem;
+        return true;
+    }
+
 }

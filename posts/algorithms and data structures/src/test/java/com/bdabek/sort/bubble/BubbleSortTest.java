@@ -31,10 +31,21 @@ class BubbleSortTest {
             100};
 
     @Test
-    void testBubbleSorting() {
+    void integerArraySortingTest() {
         BubbleSort bubbleSort = new BubbleSort();
         Integer[] result = bubbleSort.sort(inputData);
 
         assertArrayEquals(expectedOrder, result);
+    }
+
+    @Test
+    void stringArraySortingTest() {
+        String[] expected = {"a", "b", "c", "d", "e"};
+
+        String[] strings = {"c", "a", "e", "b", "d"};
+        BubbleSort bubbleSort = new BubbleSort();
+        String[] sortedStrings = bubbleSort.sort(strings);
+
+        assertArrayEquals(expected, sortedStrings);
     }
 }
