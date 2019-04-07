@@ -8,7 +8,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 1. 💚 Learn design patterns
 2. 💙 Learn data structures
 3. 💡 Create a tutorial on youtube
-4. ✍️ Two job interviews [1/2]
+4. ✍️ Two job interviews [2/2] ✅
 5. 📱 Publish mobile app
 6. 🎓 English
 
@@ -24,28 +24,27 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups
 
-# [03/31/2019]
+# [04/07/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare to English test (deadline - TUESDAY) - studies
-- [ ] SiUM - create app for classes (deadline - WEDNESDAY) - studies
-- [ ] Make a contribution in some Open Source project
-- [ ] Studies - Etrapez - a derivative course - finish this course
-- [ ] Bubble Sort algorithm - refactor to generic (support characters) + add LOG's that measure execution time
-- [ ] Watch [Docker for Java Developers](https://www.youtube.com/watch?v=yHLAaA4gPxw&index=5&list=PLkA60AVN3hh8_lyxE2jjGaGyr0UoqIv4K)
-- [ ] Watch [Jinkubator #30 - Webservice'y w świecie Javy - Dominik Przybysz](https://www.youtube.com/watch?v=RGJqRbwgHIA)
-- [ ] 📗 Read [Plain English Explanation of Big O Notation](http://www.cforcoding.com/2009/07/plain-english-explanation-of-big-o.html)
-- [ ] 📗 Read [Trail: Collections - Aggregate Operations](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)
-- [ ] 📗 Read [How to interview your interviewers when you’re looking for a job](https://medium.freecodecamp.org/how-to-interview-your-interviewers-when-youre-looking-for-a-job-d848bc3a910)
+- [ ] AiT - create tests + push + validate merge request
+- [ ] RSI - create SOAP Application
+- [ ] SiUM - create app that uses internal sensors
+- [ ] Bubble Sort algorithm - add LOG's to measure execution time
 - [ ] 📗 Read [Learn Enough Docker to be Useful - Part 2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)
-- [ ] 🎧 Listen [Episode 82. Uh-oh Spring… you got some serious competition from Micronaut!](https://www.javapubhouse.com/2019/03/episode-82-uh-oh-spring-you-got-some-serious-competition-from-micronaut.html)
-- [ ] 🎧 Listen [Talking CFP with Christina Lee](http://talkingkotlin.com/Talking-CFP-with-Christina-Lee/)
-- [ ] 🎧 Listen [SPI 364: SEO Simplified with Tim from Ahrefs](https://www.smartpassiveincome.com/podcasts/seo-simplified-with-tim-from-ahrefs/)
-- [ ] 🎧 Listen [Being Good At Your Job Is Not Enough For Growth: You Need To Create This Plan (TPS240)](http://www.asianefficiency.com/podcast/240-personal-development-plan/)
+- [ ] 📗 Read [Trail: Collections - Implementations](https://docs.oracle.com/javase/tutorial/collections/implementations/index.html)
+- [ ] 📗 Read [How a StackOverflow account can secure you a seat at the recognised developer table](https://medium.freecodecamp.org/how-a-stackoverflow-account-can-secure-you-a-seat-at-the-recognised-developer-table-cc782e1c84de)
+- [ ] 🎧 Listen [SPI 365: Why Staying Small Is the Next Big Thing with Paul Jarvis](https://www.smartpassiveincome.com/podcasts/why-staying-small-is-the-next-big-thing-with-paul-jarvis/)
+- [ ] 🎧 Listen [Automate Your Life: How We Save Over 500 Hours/Year With 5 Time-Saving Techniques (TPS241)](http://www.asianefficiency.com/podcast/241-automate-your-life/)
+- [ ] 🎧 Listen [GitMinutes #40: Git Merge 2016](http://episodes.gitminutes.com/2016/04/gitminutes-40-git-merge-2016.html)
+- [ ] 🎧 Listen [Episode 76. Tick…tock…Time to upgrade to Java 11!](https://www.javapubhouse.com/2018/10/episode-76-ticktocktime-to-upgrade-to.html)
+- [ ] Watch [Jinkubator #28 - 1011 błędów w rekrutacji, które pokazują jaki będzie twój kod - Tomasz Dziurko](https://www.youtube.com/watch?v=rEPaWhyKzcc)
 
 ### Things I'll Do in the Future:
 
+- [ ] Make a contribution in some Open Source project
+- [ ] Studies - Etrapez - a derivative course - finish this course
 - [ ] Learn Angular 6
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents

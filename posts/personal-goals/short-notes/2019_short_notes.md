@@ -354,3 +354,31 @@ Time flies by so fast... Sometimes I would like to stop him, sit down and do not
 30/03/2019
 ---
 The running season is officialy started! Today, I ran 4.5km with an average pace (5:00/km). I felt so good after running. The weather was PERFECT. It was a beautiful sunset. And all the nature in the heart of the forest! There are no words to describe this view :)
+
+31/03/2019
+---
+Last day of March! Time going so fast.. Today I resigned from meeting friends. Instead I was learning for classes for upcoming week. I'm not sure if it was best choice but it's already history :)
+
+01/04/2019
+---
+April!! The day was fine. Nothing special happend. Tomorrow I have another job interview (phone call). I don't have big hopes for that. It's more to know where I am and what is market looking for at this moment. 
+
+02/04/2019
+---
+Today I had another technical interview. It was a conversation over the phone. Generally, my impressions are good. I know what my weaknesses are (Spring, more advanced things). I also know my strengths. It's time for learning! Work hard now, it'll pay off later :) 
+
+03/04/2019
+---
+Another wonderful day :). I have a lot of tasks to-do in work. I know I'll do them well if God will bless me! In life, it is really important to be thankfull for what we have and don't complain!! I have food, clothes, car and some money in the pocket. You know what?? I'm rich! :)
+
+04/04/2019
+---
+Uff... Long day. I worked really hard today. I took a break for workout and lunch. It was necessary, otherwise my brain would explode. In the evening I went to the swimming pool with a few friends. We had a funny time.. :)
+
+05/04/2019
+---
+Once again in was really tough Friday. I had a lot of work. Sometimes I feel so overwhelmed and to be honest I would like to forget about all things related to work and go anywhere... I love what I do, but sometimes it's HARD... especially when you work with old technologies :(
+
+06/04/2019
+---
+It was beautiful weather outside today!! I really love it. I played with the Docker today. I created Tomcat server image, configured few things and so on. Docker is really powerful!
