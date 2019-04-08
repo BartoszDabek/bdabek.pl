@@ -1,11 +1,20 @@
 package com.bdabek.sort.bubble;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import java.time.Duration;
+import java.time.Instant;
+
+
 class BubbleSort {
 
+    private static final Logger logger = LogManager.getLogger(BubbleSort.class);
+
     <T extends Comparable<T>> T[] sort(T[] array) {
+        Instant start = Instant.now();
         int last = array.length;
         boolean swap;
-
         do {
             swap = false;
             for (int index = 0; index < last - 1; index++) {
@@ -15,6 +24,8 @@ class BubbleSort {
             }
             last--;
         } while (swap);
+        Instant finish = Instant.now();
+        logger.info("Sort method took {}", Duration.between(start, finish).toNanos());
         return array;
     }
 
