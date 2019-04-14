@@ -382,3 +382,31 @@ Once again in was really tough Friday. I had a lot of work. Sometimes I feel so 
 06/04/2019
 ---
 It was beautiful weather outside today!! I really love it. I played with the Docker today. I created Tomcat server image, configured few things and so on. Docker is really powerful!
+
+07/04/2019
+---
+This Sunday was strange. Most of my friends went out somewhere, so we couldn't meet up. I decided to spent the Sunday at home. I had some work to do. I started my job stuff at 3 pm and I finished at 10 pm! I didn't feel that time, it was really strange.
+
+08/04/2019
+---
+Today I'll share some of my thoughts. Self-discipline is very important in life. Thanks to her, we can stick to our plans, grow up (mentally and physically) and we're trustworthy! First of all - we don't lie to ourselves. For example: you tell yourself that you will go to the gym at least 3 times a week. And you did only for 2 weeks... You lied yourself! Don't do this! Stick to your plans. And what is important - have a plan!
+
+09/04/2019
+---
+I don't know why but I hate English classes on my studies. My goal for 2019 is to learn English in more advanced level but I hate do that at the University. Is it something wrong with me?
+
+10/04/2019
+---
+It was a good day. I wrote simple app in react-native that uses devices sensors. I slept approximately 1 hour during the day. I went on swimming pool with my cousin. Yeahh... definitely a good day ;)
+
+11/04/2019
+---
+I spent all day at home. Tomorrow I have a meeting with the team where we'll discuss what to implement and how. This is very important especially to me, because I'm the main developer in the project. I've prepared the short presentation which covers what we want to achieve and what is unclear.
+
+12/04/2019
+---
+As I wrote yesterday, today we had a meeting with the team to discuss new feature. It went well. It wasn't said clearly but we'll (me especially) work in scrum. In next 2 weeks I have to show what is done and what is stil missing. I like that idea :)
+
+13/04/2019
+---
+I think it's a really good routine that I write here every day. What if I didn't do it? Well.. I think my English would be on a lower level. I really like doing it!

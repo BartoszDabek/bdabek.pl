@@ -24,28 +24,26 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups
 
-# [04/07/2019]
+# [04/14/2019]
 
 ### Things I'll do This Week:
 
-- [ ] AiT - create tests + push + validate merge request
 - [ ] RSI - create SOAP Application
-- [ ] SiUM - create app that uses internal sensors
-- [ ] Bubble Sort algorithm - add LOG's to measure execution time
-- [ ] 📗 Read [Learn Enough Docker to be Useful - Part 2](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)
-- [ ] 📗 Read [Trail: Collections - Implementations](https://docs.oracle.com/javase/tutorial/collections/implementations/index.html)
-- [ ] 📗 Read [How a StackOverflow account can secure you a seat at the recognised developer table](https://medium.freecodecamp.org/how-a-stackoverflow-account-can-secure-you-a-seat-at-the-recognised-developer-table-cc782e1c84de)
-- [ ] 🎧 Listen [SPI 365: Why Staying Small Is the Next Big Thing with Paul Jarvis](https://www.smartpassiveincome.com/podcasts/why-staying-small-is-the-next-big-thing-with-paul-jarvis/)
-- [ ] 🎧 Listen [Automate Your Life: How We Save Over 500 Hours/Year With 5 Time-Saving Techniques (TPS241)](http://www.asianefficiency.com/podcast/241-automate-your-life/)
-- [ ] 🎧 Listen [GitMinutes #40: Git Merge 2016](http://episodes.gitminutes.com/2016/04/gitminutes-40-git-merge-2016.html)
-- [ ] 🎧 Listen [Episode 76. Tick…tock…Time to upgrade to Java 11!](https://www.javapubhouse.com/2018/10/episode-76-ticktocktime-to-upgrade-to.html)
-- [ ] Watch [Jinkubator #28 - 1011 błędów w rekrutacji, które pokazują jaki będzie twój kod - Tomasz Dziurko](https://www.youtube.com/watch?v=rEPaWhyKzcc)
+- [ ] Buy a new book from [books](https://github.com/BartoszDabek/bartoszdabek.com/blob/3a18d3b1b580949d98fd7d83d43773a1b38d3761/posts/personal-goals/miscellaneous/books.md)
+- [ ] 📗 Read [Trail: Collections - Algorithms & Custom Implementations](https://docs.oracle.com/javase/tutorial/collections/index.html)
+- [ ] 📗 Read [Learn Enough Docker to be Useful Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5)
+- [ ] 📗 Read [Slimming Down Your Docker Images Part 4 of Learn Enough Docker to be Useful](https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e)
+- [ ] 🎧 Listen [Effortless English Podcast | Learn English with AJ Hoge Devotion For Your SUCCESS and Happines](http://podplayer.net/?id=65178533)
+- [ ] 🎧 Listen [Episode 74. Unit and…Integration Tests, JaCoCo, Docker and Coverage (and more!)](https://www.javapubhouse.com/2018/07/episode-74-unit-andintegration-tests.html)
+- [ ] 🎧 Listen [Dependency Injection with Koin](http://talkingkotlin.com/dependency-injection-with-koin/)
+- [ ] 🎧 Listen [SPI 366: Anti-Busy. Pro-Purpose. Talking Work-Life Balance with Chalene Johnson](https://www.smartpassiveincome.com/podcasts/anti-busy-pro-purpose-talking-work-life-balance-with-chalene-johnson/)
+- [ ] Watch [WJUG #246 - Jacek Milewski: Testy automatyczne: Czego książki Cię nie nauczą](https://www.youtube.com/watch?v=_7vfW3DpZvU)
 
 ### Things I'll Do in the Future:
 
 - [ ] Make a contribution in some Open Source project
 - [ ] Studies - Etrapez - a derivative course - finish this course
-- [ ] Learn Angular 6
+- [ ] Learn Angular
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents
 - [ ] Refactor 4Rescue App
