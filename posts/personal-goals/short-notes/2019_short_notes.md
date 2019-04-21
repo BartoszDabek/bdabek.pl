@@ -410,3 +410,31 @@ As I wrote yesterday, today we had a meeting with the team to discuss new featur
 13/04/2019
 ---
 I think it's a really good routine that I write here every day. What if I didn't do it? Well.. I think my English would be on a lower level. I really like doing it!
+
+14/04/2019
+---
+What a great Sunday! We celebrated our uncle's 45th birthday with all our family. It was an amazing time :)
+
+15/04/2019
+---
+Today I've been on swimming pool with my friends. Really cool time. We chatted and had fun :).
+
+16/04/2019
+---
+To be honest I don't know what to say for today. It's already the next day and I'm sitting in front of the window. It's a beautiful morning outside. I love this view..
+
+17/04/2019
+---
+Today I finally ran 5 km. The time was good - 4:55min/km. I felt tired after the run and I know that my condition is not in the right place yet. However, I have time to overcome another goal for 2019 (run 5km below 22min) and while training more, I'm closer to this goal!
+
+18/04/2019
+---
+This week I have a lot of work to do in both projects. In addition I have studies and of course there are homework there. I know that if God helps me and gives me wisdom to understand everything, it'll be easy!
+
+19/04/2019
+---
+It's beautifull weather outside. In the morning I ran 4km with decent pace. Afterwards I worked during whole day. In the meantime I was tanning and I did a workout. In the evening I went on swimming pool with my cousins.
+
+20/04/2019
+---
+I tried to write application for studies today but I didn't felt very productive.. I just made some fun with docker and tomcat server. I've found out that tomcat actually is not really EE server, it's just container for servlets. It's good to know :)

@@ -22,22 +22,20 @@ Sports goals 🏆:
 25 Days Challenges 💪💪
 1. ✅ Holding breath (personal best: 3:32)
 2. HackerRank
-3. 100 pushups
+3. 100 pushups (6.05-31.05)
 
-# [04/14/2019]
+# [04/21/2019]
 
 ### Things I'll do This Week:
 
 - [ ] RSI - create SOAP Application
-- [ ] Buy a new book from [books](https://github.com/BartoszDabek/bartoszdabek.com/blob/3a18d3b1b580949d98fd7d83d43773a1b38d3761/posts/personal-goals/miscellaneous/books.md)
-- [ ] 📗 Read [Trail: Collections - Algorithms & Custom Implementations](https://docs.oracle.com/javase/tutorial/collections/index.html)
-- [ ] 📗 Read [Learn Enough Docker to be Useful Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5)
+- [ ] SiUM - create app
 - [ ] 📗 Read [Slimming Down Your Docker Images Part 4 of Learn Enough Docker to be Useful](https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e)
-- [ ] 🎧 Listen [Effortless English Podcast | Learn English with AJ Hoge Devotion For Your SUCCESS and Happines](http://podplayer.net/?id=65178533)
-- [ ] 🎧 Listen [Episode 74. Unit and…Integration Tests, JaCoCo, Docker and Coverage (and more!)](https://www.javapubhouse.com/2018/07/episode-74-unit-andintegration-tests.html)
-- [ ] 🎧 Listen [Dependency Injection with Koin](http://talkingkotlin.com/dependency-injection-with-koin/)
-- [ ] 🎧 Listen [SPI 366: Anti-Busy. Pro-Purpose. Talking Work-Life Balance with Chalene Johnson](https://www.smartpassiveincome.com/podcasts/anti-busy-pro-purpose-talking-work-life-balance-with-chalene-johnson/)
-- [ ] Watch [WJUG #246 - Jacek Milewski: Testy automatyczne: Czego książki Cię nie nauczą](https://www.youtube.com/watch?v=_7vfW3DpZvU)
+- [ ] 📗 Read [Trail: Collections - Interoperability](https://docs.oracle.com/javase/tutorial/collections/interoperability/index.html)
+- [ ] 🎧 Listen [Effortless English Podcast | Learn English with AJ Hoge - Inevitable](http://podplayer.net/?id=68337781)
+- [ ] 🎧 Listen [SPI 367: The Miracle Equation and How to Help You Achieve Your Biggest Goals](https://www.smartpassiveincome.com/podcasts/the-miracle-equation-and-achieve-your-biggest-goals/)
+- [ ] 🎧 Listen [Ktor with Ryan Harter](http://talkingkotlin.com/ktor-with-ryan-harter/)
+- [ ] Watch [WJUG #231 - Maciek Nowak: Elasticsearch dla początkujących](https://www.youtube.com/watch?v=1Nt2lZFbkbg)
 
 ### Things I'll Do in the Future:
 
