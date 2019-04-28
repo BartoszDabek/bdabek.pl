@@ -438,3 +438,31 @@ It's beautifull weather outside. In the morning I ran 4km with decent pace. Afte
 20/04/2019
 ---
 I tried to write application for studies today but I didn't felt very productive.. I just made some fun with docker and tomcat server. I've found out that tomcat actually is not really EE server, it's just container for servlets. It's good to know :)
+
+21/04/2019
+---
+Easter time :). What is most important about this holiday is that Jesus Christ died and after three days got alive. For all the people on the world. Keep that in mind and thanks the Lord everyday for everything He's giving you.
+
+22/04/2019
+---
+It was a great Monday. In the morning with the whole family we went to church. Then we had a familly dinner. Afterwards I went to my friends. We were chatting and had a really good time. That's what I was missing lately - to stop and enjoy life 🖐🖐
+
+23/04/2019
+---
+The first day at work after Easter. I put on a little bit and these are not muscles :( I think I have to start going to the gym to build muscle mass instead of being slim. I like to run but it burns my muscles instead of building them.
+
+24/04/2019
+---
+Today I went to see a new flat, which I bought with my parents. There was not the first stunning impression, but I appreciate it and I think it is nice.
+
+25/04/2019
+---
+It was long day. I have important task to do with deadline to Monday, so I worked veeery long today. Weather outside is BEAUTIFUL, everything blooms. Tomorrow I'll use the weather and I'll work outstide! 
+
+26/04/2019
+---
+Today was summer. 27 degrees outside. I decided to work in the backyard and it was a great decision. I literally love the weather like today!!!😍😍
+
+27/04/2019
+---
+It was another good day. Again - the weather was perfect. I'm grateful to God for everything he gives... even small things like the weather 🙂🙂

@@ -24,18 +24,17 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups (6.05-31.05)
 
-# [04/21/2019]
+# [04/28/2019]
 
 ### Things I'll do This Week:
 
 - [ ] RSI - create SOAP Application
 - [ ] SiUM - create app
 - [ ] 📗 Read [Slimming Down Your Docker Images Part 4 of Learn Enough Docker to be Useful](https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e)
-- [ ] 📗 Read [Trail: Collections - Interoperability](https://docs.oracle.com/javase/tutorial/collections/interoperability/index.html)
-- [ ] 🎧 Listen [Effortless English Podcast | Learn English with AJ Hoge - Inevitable](http://podplayer.net/?id=68337781)
-- [ ] 🎧 Listen [SPI 367: The Miracle Equation and How to Help You Achieve Your Biggest Goals](https://www.smartpassiveincome.com/podcasts/the-miracle-equation-and-achieve-your-biggest-goals/)
-- [ ] 🎧 Listen [Ktor with Ryan Harter](http://talkingkotlin.com/ktor-with-ryan-harter/)
-- [ ] Watch [WJUG #231 - Maciek Nowak: Elasticsearch dla początkujących](https://www.youtube.com/watch?v=1Nt2lZFbkbg)
+- [ ] 📗 Read [Spring MVC – component-scan Vs annotation-config Vs annotation-driven](https://javabeat.net/spring-mvc-component-scan-annotations/)
+- [ ] 📗 Read [Why does Spring MVC respond with a 404 and report “No mapping found for HTTP request with URI](https://stackoverflow.com/questions/41577234/why-does-spring-mvc-respond-with-a-404-and-report-no-mapping-found-for-http-req)
+- [ ] 🎧 Listen [DevTalk #90 - O Własnym Produkcie SAAS z Boguszem Pękalskim](https://www.youtube.com/watch?v=X26S304wsEY&list=PLN2dx2pIJO6PvvvVKOXJ19y8llsL_GMn4&index=8)
+- [ ] Watch [Jinkubator #48 - MongoDB First Aid - Java i bazy dokumentowe - Urszula Trzaskowska](https://www.youtube.com/watch?v=_1hNKXqRmXs)
 
 ### Things I'll Do in the Future:
 
