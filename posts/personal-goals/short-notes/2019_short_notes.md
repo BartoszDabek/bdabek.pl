@@ -466,3 +466,33 @@ Today was summer. 27 degrees outside. I decided to work in the backyard and it w
 27/04/2019
 ---
 It was another good day. Again - the weather was perfect. I'm grateful to God for everything he gives... even small things like the weather 🙂🙂
+
+28/04/2019
+---
+Today we celebrated easter once again! :). It was a good time spent together with friends. The weather wasn't as sunny as a few days earlier but it was nice anyway.
+
+29/04/2019
+---
+Monday... It was another good Monday! 😊. Since my morning habits are everyday, almost every Monday is good, especially when I wake up and see the glowing sun. Today at work I had a little demo preview. We talked with the product owner and one guy on the client's side.Everything went well, they are satisfied and I'm also happy with the work I have done. 👊
+
+30/04/2019
+---
+Last day of April. Whaaat?! I said that few times here but I'll say it again - time flies by so fast.
+
+01/05/2019
+---
+Today I was helping my dad at work in the yard. It's good to do some physical work from time to time instead of clicking on the keyboard 😄😄 
+
+02/05/2019
+---
+I spent the whole day at home. In the evening I went out to buy some food and that's all. I worked on projects for studies that are quite interesting and certainly educate - this is what studies are for 😃
+
+
+03/05/2019
+---
+It was a funny day. In the late afternoon I went out on swimming pool with couple of friends and we met other friends there. Finally we finished our evening together on grill 👍👍
+
+
+04/05/2019
+---
+Today was my birthday. I spent 25 years on this Earth, thanks God I'm all healthy and actually have everything I want/need to have.
