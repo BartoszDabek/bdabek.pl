@@ -496,3 +496,23 @@ It was a funny day. In the late afternoon I went out on swimming pool with coupl
 04/05/2019
 ---
 Today was my birthday. I spent 25 years on this Earth, thanks God I'm all healthy and actually have everything I want/need to have.
+
+05/05/2019
+---
+Birthdays after birthdays... Today we celebrated my nephew birthday. He's one and so adorable. I really love him and when I look at him sometimes I think I want kid too 😅
+
+08/05/2019
+---
+Hahaa! I just noticed that I lost few days in my titles. I wanted to type 06/05 and then I realized - HEY DUDE! IT WAS A FEW DAYS AGO! To be honest I have no idea when I forgot to write something because all the time for over few months I didn't look at the date in computer but always on date in previous title.
+
+09/05/2019
+---
+What a great day. Of course I worked a lot (7am-6pm) but if you really like your job you don't feel bad about it. I really like my work (maybe even love) and it's a pleasure (though not always). However, after work I went out with friends. First we went to the swimming pool and then eat some fast food. It was a good time 👊👊
+
+10/05/2019
+---
+Long Friday. I didn't do anything super interesting. It was a very ordinary day. Work, training, some shopping, tv series and sleep.
+
+11/05/2019
+---
+Wedding day!! Today I celebrated my friends wedding. It was really cool - many friends, good food. I talked a lot and had a good time 👍👍

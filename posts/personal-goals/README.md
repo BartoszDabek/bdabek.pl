@@ -24,16 +24,18 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups (6.05-31.05)
 
-# [05/05/2019]
+# [05/12/2019]
 
 ### Things I'll do This Week:
 
-- [ ] RSI - create SOAP Application
-- [ ] SiUM - create app
+- [ ] RSI - exercise
+- [ ] AiT - group project
+- [ ] Run 2x5 km + 1x3 km
 - [ ] 📗 Read [Slimming Down Your Docker Images Part 4 of Learn Enough Docker to be Useful](https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e)
-- [ ] 📗 Read [Why does Spring MVC respond with a 404 and report “No mapping found for HTTP request with URI](https://stackoverflow.com/questions/41577234/why-does-spring-mvc-respond-with-a-404-and-report-no-mapping-found-for-http-req)
-- [ ] 🎧 Listen [DevTalk #90 - O Własnym Produkcie SAAS z Boguszem Pękalskim](https://www.youtube.com/watch?v=X26S304wsEY&list=PLN2dx2pIJO6PvvvVKOXJ19y8llsL_GMn4&index=8)
-- [ ] Watch [Jinkubator #48 - MongoDB First Aid - Java i bazy dokumentowe - Urszula Trzaskowska](https://www.youtube.com/watch?v=_1hNKXqRmXs)
+- [ ] 📗 Read [Spring Data JPA Tutorial - Getting Started](https://www.javaguides.net/2018/11/spring-data-jpa-tutorial-getting-started.html)
+- [ ] 🎧 Listen [SPI 368: How to Build a YouTube Brand that Makes an Impact with Tim Schmoyer](https://www.smartpassiveincome.com/podcasts/how-to-build-a-youtube-brand-that-makes-an-impact-with-tim-schmoyer/)
+- [ ] 🎧 Listen [DevTalk #95 - O Sztucznej Inteligencji z Krzysztofem Sopyłą](https://www.youtube.com/watch?v=MtYMoYE0_Z0)
+- [ ] Watch [A Note On Java EE Testing](https://youtu.be/x4Fxur-0SB0)
 
 ### Things I'll Do in the Future:
 
