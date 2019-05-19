@@ -516,3 +516,31 @@ Long Friday. I didn't do anything super interesting. It was a very ordinary day.
 11/05/2019
 ---
 Wedding day!! Today I celebrated my friends wedding. It was really cool - many friends, good food. I talked a lot and had a good time 👍👍
+
+12/05/2019
+---
+I have no idea what happened to me today but I was miserable and very unproductive. I slept a lot during the day and felt alone. It wasn't good day to me..
+
+13/05/2019
+---
+It was a good day. If I compare it to yesterday then it's even PERFECT day haha :D. It was very ordinal, work, studies...
+
+14/05/2019
+---
+I was so tired after this day... I worked the whole day and one more additional thing... In my new apartment there is a fan in the kitchen and when it's windy otustide this fan all the time produces weird noises. It drives me totally crazy!!
+
+15/05/2019
+---
+Home sweet home.. I'm back in my hometown again (after 3 days absence :D). It's always good to be here. Today at the swimming pool I realized that I'm fat or bigger than I expected! 😪😪 I need to do something with that!
+
+16/05/2019
+---
+What a great day! Today I choose very wisely - what does it mean?! Well... I went out with my friends. First, we went on the swimming pool and then to the house of one of our friends. It was blessed time. Honestly, I had doubts - go home, eat something healthy and  work or go with friends, eat a pizza and talk. I chose the latter option and I don't regret my decision 😉😉
+
+17/05/2019
+---
+Ahh! Today we had beautiful weather. It's shocking that in May this is like 3rd day with such weather. The other days are usually cloudy, windy or cold... I went for running to the forest today and it's wonderful there. Everything grows up and comes to life.. 
+
+18/05/2019
+---
+It was a good day. I spent it at home, doing homework for studies and watching League of Legends. In the evening I went to run and ran 3km :)
