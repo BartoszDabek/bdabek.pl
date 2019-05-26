@@ -24,20 +24,20 @@ Sports goals 🏆:
 2. HackerRank
 3. 100 pushups (6.05-31.05)
 
-# [05/19/2019]
+# [05/26/2019]
 
 ### Things I'll do This Week:
 
 - [ ] RSI - project
 - [ ] AiT - group project
-- [ ] Run 10km in a week
+- [ ] Run 6km in a week
 - [ ] Make a contribution in some Open Source project
-- [ ] 📗 Read [CDI @ApplicationScoped](http://tomee.apache.org/examples-trunk/cdi-application-scope/)
 - [ ] 📗 Read [15 Docker Commands You Should Know](https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421)
-- [ ] 📗 Read [Mutation Testing with PITest](https://www.baeldung.com/java-mutation-testing-with-pitest)
-- [ ] 🎧 Listen [Episode 52. Of JavaEE, Inter-Tubes, and Socket](https://www.javapubhouse.com/2015/07/episode-52-of-javaee-inter-tubes-and.html)
-- [ ] 🎧 Listen [SQL Delight](http://talkingkotlin.com/sql-delight/)
-- [ ] Watch [WJUG #251 - Szymon Homa: Domain Driven Design i reactive persistence](https://youtu.be/ImQqcCklNFc)
+- [ ] 📗 Read [Chapter 1. Introduction to REST](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/content/en/part1/chapter1/introduction_to_rest.html)
+- [ ] 🎧 Listen [Episode 83. Hey! Your app needs its yearly HealthCheck as well!](https://www.javapubhouse.com/2019/05/episode-83-hey-your-app-needs-its-yearly-healthcheck-as-well.html)
+- [ ] 🎧 Listen [Here Are Our 10 Favorite Mobile Apps To Help You Get More Done (TPS248)](http://www.asianefficiency.com/podcast/248-top-ten-mobile-apps/)
+- [ ] 🎧 Listen [Low Productivity, Procrastination, Back Pain…These Are Some Of The Penalties For Neglecting Your Posture w/ Rick Mathes (TPS246)](http://www.asianefficiency.com/podcast/246-fix-your-posture/)
+- [ ] Watch [Java in a World of Containers by Matthew Gilliard](https://youtu.be/8SdrYGIM384)
 
 ### Things I'll Do in the Future:
 

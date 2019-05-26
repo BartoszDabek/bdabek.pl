@@ -544,3 +544,31 @@ Ahh! Today we had beautiful weather. It's shocking that in May this is like 3rd 
 18/05/2019
 ---
 It was a good day. I spent it at home, doing homework for studies and watching League of Legends. In the evening I went to run and ran 3km :)
+
+19/05/2019
+---
+Another wonderful day! Today, with friends we celebrated the birthday of one of our friends. The funniest thing is that the weather stations said it would rain, but ultimately it was a beautiful day :)
+
+20/05/2019
+---
+It was tough day. In the morning I deployed a new version of our product and it had bugs!! So I literally spent the whole day to fix it. And between that time I still had to be at the university.
+
+21/05/2019
+---
+Hmm... What can I say about today?! I don't know - this is very popular answer and I use it very often, too often... I have to be more creative and more inspiring. I have no idea how, but I know I have to start doing somthing into this. Taking first step is always difficult..😏 
+
+22/05/2019
+---
+Continuing yesterday's thoughts.. Storytelling is a really creative task. If you want to tell your story in an interesting way... This is a task I want to learn.👊👊
+
+23/05/2019
+---
+It was a great day! First - I solved many issues from our JIRA. There wasn't much code to write there, it was more like analyzing and rewriting a few lines of code. Then I had a good workout - my goal is to do at least 3 workouts a week and it was the second. And finally, in the evening I went out with my friends. We went on the swimming pool and had fun 👍👍
+
+24/05/2019
+---
+I'm siting on my chair and I don't know what to write. It was normal day. Oo! I know! Tomorrow in our church we have a conference. I hope there'll be some new people to meet and that God will bless that time.
+
+25/05/2019
+---
+Today - as I mentioned yesterday - we had a conference in our church. There was a lot of people. I met a few new people and spent time with those I already knew. It was a good time 😉😉
