@@ -22,22 +22,22 @@ Sports goals 🏆:
 25 Days Challenges 💪💪
 1. ✅ Holding breath (personal best: 3:32)
 2. HackerRank
-3. 100 pushups (6.05-31.05)
+3. ✅ 100 pushups (6.05-31.05)
 
-# [05/26/2019]
+# [06/02/2019]
 
 ### Things I'll do This Week:
 
 - [ ] RSI - project
+- [ ] SiUM - project
 - [ ] AiT - group project
 - [ ] Run 6km in a week
-- [ ] Make a contribution in some Open Source project
+- [ ] Go out on a bike with my friend
 - [ ] 📗 Read [15 Docker Commands You Should Know](https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421)
-- [ ] 📗 Read [Chapter 1. Introduction to REST](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/content/en/part1/chapter1/introduction_to_rest.html)
-- [ ] 🎧 Listen [Episode 83. Hey! Your app needs its yearly HealthCheck as well!](https://www.javapubhouse.com/2019/05/episode-83-hey-your-app-needs-its-yearly-healthcheck-as-well.html)
-- [ ] 🎧 Listen [Here Are Our 10 Favorite Mobile Apps To Help You Get More Done (TPS248)](http://www.asianefficiency.com/podcast/248-top-ten-mobile-apps/)
-- [ ] 🎧 Listen [Low Productivity, Procrastination, Back Pain…These Are Some Of The Penalties For Neglecting Your Posture w/ Rick Mathes (TPS246)](http://www.asianefficiency.com/podcast/246-fix-your-posture/)
-- [ ] Watch [Java in a World of Containers by Matthew Gilliard](https://youtu.be/8SdrYGIM384)
+- [ ] 📗 Read [Designing RESTful Services](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/content/en/part1/chapter2/designing_restful_services.html)
+- [ ] 🎧 Listen [Your Interview Suggestions](https://www.youtube.com/watch?v=T0uuJ-NtP5I)
+- [ ] 🎧 Listen [Episode 72. A very deep dive on Var, and unmodifiable collections with Stuart Marks (@stuartmarks) himself!](https://www.javapubhouse.com/2018/04/episode-72-very-deep-dive-on-var-and.html)
+- [ ] Watch [WJUG #252 - Ryan Brexter & Oleg Zhurakousky: Community Evening With Spring Cloud](https://www.youtube.com/watch?v=-_tCSIXNcFA)
 
 ### Things I'll Do in the Future:
 
@@ -47,3 +47,4 @@ Sports goals 🏆:
 - [ ] Automate process of filling read/listen contents
 - [ ] Refactor 4Rescue App
 - [ ] Publish 4Rescue to Google Play
+- [ ] Make a contribution in some Open Source project

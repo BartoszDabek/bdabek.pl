@@ -572,3 +572,31 @@ I'm siting on my chair and I don't know what to write. It was normal day. Oo! I 
 25/05/2019
 ---
 Today - as I mentioned yesterday - we had a conference in our church. There was a lot of people. I met a few new people and spent time with those I already knew. It was a good time 😉😉
+
+26/05/2019
+---
+It was one of the best Sunday's in my entire life. I finally understood what life is really about. I want to have this energy and motivation! For everyone who look for the answer what is the most important in our life - it's not money, job or even family. It's God and we should be focused to serve him as much as we can!
+
+27/05/2019
+---
+I was at the dentist today to get rid of wisdom teeth. It was the first visit, so the doctor only carried out an inspection and planned the date of the operation. And you know what? The first available date is April 2020 😄😄. I took it :D.
+
+28/05/2019
+---
+It was a productive day. I talked to my boss, I actually wrote about the promotion and we arranged a meeting for the next week. I solved one major task and came up with the idea of how to finish the next one. I also decided to go to 'Sląsk' and confirmed this decision to my cousin. For now and forever - STOP wasting time :)
+
+29/05/2019
+---
+Another wonderful day! My friend invited me to the grill and I agreed. It was so cool and chill. There was around 15 people, we were chatting and so on. I had really, really good fun! 😀😀
+
+30/05/2019
+---
+It was another beautiful day. Well... in the morning I received bad information - my work colleague got sick - and I have to take all of her responsibilities. Anyway, the whole day was ideal. Our German colleagues had a national holiday so noone was interrupting my work.😅😅
+
+31/05/2019
+---
+Just few sentences about today. It wasn't an easy day. As I mentioned yesterday, I went to the western side of Poland - Silesia. This means I had 7h of travel. And when it comes to work... I was creating parser and after 4h of work I realized that it isn't easy task. Maybe it's not even possible :(
+
+01/06/2019
+---
+It's June! This day was really good. We had a good time here (in Silesia). I have seen and have had a short conversation with many members of my family and I am generally happy that I am here :)
