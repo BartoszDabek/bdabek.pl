@@ -24,20 +24,20 @@ Sports goals 🏆:
 2. HackerRank
 3. ✅ 100 pushups (6.05-31.05)
 
-# [06/02/2019]
+# [06/09/2019]
 
 ### Things I'll do This Week:
 
 - [ ] RSI - project
 - [ ] SiUM - project
-- [ ] AiT - group project
 - [ ] Run 6km in a week
-- [ ] Go out on a bike with my friend
 - [ ] 📗 Read [15 Docker Commands You Should Know](https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421)
-- [ ] 📗 Read [Designing RESTful Services](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/content/en/part1/chapter2/designing_restful_services.html)
-- [ ] 🎧 Listen [Your Interview Suggestions](https://www.youtube.com/watch?v=T0uuJ-NtP5I)
-- [ ] 🎧 Listen [Episode 72. A very deep dive on Var, and unmodifiable collections with Stuart Marks (@stuartmarks) himself!](https://www.javapubhouse.com/2018/04/episode-72-very-deep-dive-on-var-and.html)
-- [ ] Watch [WJUG #252 - Ryan Brexter & Oleg Zhurakousky: Community Evening With Spring Cloud](https://www.youtube.com/watch?v=-_tCSIXNcFA)
+- [ ] 📗 Read [Am I a “real” Software Engineer yet?](https://medium.com/free-code-camp/am-i-a-real-software-engineer-yet-a0f38a2248c0)
+- [ ] 📗 Read [Chapter 3. Your First JAX-RS Service](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/content/en/part1/chapter3/your_first_jax_rs_service.html)
+- [ ] 🎧 Listen [SPI 374: The Psychology of Money and Wealth with Ramit Sethi](https://www.smartpassiveincome.com/podcasts/the-psychology-of-money-and-wealth-with-ramit-sethi/)
+- [ ] 🎧 Listen [Brave New World | Chapter 1](https://www.youtube.com/watch?v=psmAI6tTKeo)
+- [ ] 🎧 Listen [Less Is More](https://www.youtube.com/watch?v=PE-0zoUHPC8)
+- [ ] Watch [WJUG #242 - Dorian Sarnowski: Jak pisać testy i nie zwariować?](https://www.youtube.com/watch?v=bLZFcWE_xrs)
 
 ### Things I'll Do in the Future:
 

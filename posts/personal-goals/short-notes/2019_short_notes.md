@@ -600,3 +600,31 @@ Just few sentences about today. It wasn't an easy day. As I mentioned yesterday,
 01/06/2019
 ---
 It's June! This day was really good. We had a good time here (in Silesia). I have seen and have had a short conversation with many members of my family and I am generally happy that I am here :)
+
+02/06/2019
+---
+Another wonderful day :) We were in the church and it was blessing time! Today we also drove back to our eastern side of Poland. Thank God we arrived without any problems.
+
+03/06/2019
+---
+Today I had to work overhours. This is because tomorrow we have key users training and someone (me) had to prepare system. 😎
+
+04/06/2019
+---
+It was another great day. It's very hot in Poland - it looks like the summer has come to us :). That's good! I can't wait to get back to my hometown and sunbathe.
+
+05/06/2019
+---
+Today I had a periodic conversation with my boss. It's really useful to have this talk at least once a year. In the evening I went out with friends and had a pleasant evening.
+
+06/06/2019
+---
+Finally in hometown ... ;) I want to enjoy the weather outside!! Today with my roommate (we're renting a room for our friend) I ran 3km. The pace on last kilometer was my best in 2019!💪💪
+
+07/06/2019
+---
+Today I realized that I have a lot of work on my studies - 2 individual projects, 1 group project and 1 math exam. The last one will probably take most of my time and energy. I really want to create interesting projects, but because I don't have time I'm afraid it will be medium.
+
+08/06/2019
+---
+It was a very productive day! I was studying math and doing project for studies in react native. In the evening I went out for a bike with my cousin. The weather outside is great! I really love and appreciate days like this! Thanks GOD for that!!!😊😊
