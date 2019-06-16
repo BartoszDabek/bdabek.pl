@@ -628,3 +628,31 @@ Today I realized that I have a lot of work on my studies - 2 individual projects
 08/06/2019
 ---
 It was a very productive day! I was studying math and doing project for studies in react native. In the evening I went out for a bike with my cousin. The weather outside is great! I really love and appreciate days like this! Thanks GOD for that!!!😊😊
+
+09/06/2019
+---
+Very sunny Sunday. However I'm not entirely happy how I spent it. I didn't visit anyone. I were sitting home all day and studying. :(
+
+10/06/2019
+---
+Mo mo Monday. I'm grateful for this day! Today I went to Bialystok and unfortunately I was stuck in traffic. It was caused by a car accident and the road was closed for 40 minutes. Well.. nobody died and it was good to stand there and do nothing :)
+
+11/06/2019
+---
+Ehh!! I don't think I can learn math in 2 days! :(. This is my mistake, I should start this at least a month ago... Well, hope is still alive, the first attempt is on Thursday, the second for 2 weeks. If God help me everything is possible.💪💪
+
+12/06/2019
+---
+I decided to not to go to the office today. Instead I stayed at home and the whole day I was learning math! After all day my hand is sore!! I hope, God will help me on exam 🙏
+
+13/06/2019
+---
+Today was the day of truth - do I know enough to pass exam? The answer is 'I don't know', haha 😅. It wasn't tough. If I started to learn a few days earlier I could pass it without a problem. But I didn't do it and now I'm not sure if I have solved the tasks correctly and whether I'll pass in the first attempt.
+
+14/06/2019
+---
+Wonderful day :). Everything is green, I mean all the trees, grass.. Thanks God for all the creation!
+
+15/06/2019
+---
+It was a nice Saturday. In the morning I went out for run and ran 3 km. Then I was studying, did a workout and finally went to the bike with my friend in the evening 💪💪. There is BEAUTIFUL weather outside and I want to use it 100%!!!

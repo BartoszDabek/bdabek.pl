@@ -24,27 +24,26 @@ Sports goals 🏆:
 2. HackerRank
 3. ✅ 100 pushups (6.05-31.05)
 
-# [06/09/2019]
+# [06/16/2019]
 
 ### Things I'll do This Week:
 
-- [ ] RSI - project
-- [ ] SiUM - project
+- [ ] RSI - project - deadline Monday 4PM
+- [ ] Make a contribution in some Open Source project
 - [ ] Run 6km in a week
-- [ ] 📗 Read [15 Docker Commands You Should Know](https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421)
-- [ ] 📗 Read [Am I a “real” Software Engineer yet?](https://medium.com/free-code-camp/am-i-a-real-software-engineer-yet-a0f38a2248c0)
-- [ ] 📗 Read [Chapter 3. Your First JAX-RS Service](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/content/en/part1/chapter3/your_first_jax_rs_service.html)
-- [ ] 🎧 Listen [SPI 374: The Psychology of Money and Wealth with Ramit Sethi](https://www.smartpassiveincome.com/podcasts/the-psychology-of-money-and-wealth-with-ramit-sethi/)
-- [ ] 🎧 Listen [Brave New World | Chapter 1](https://www.youtube.com/watch?v=psmAI6tTKeo)
-- [ ] 🎧 Listen [Less Is More](https://www.youtube.com/watch?v=PE-0zoUHPC8)
-- [ ] Watch [WJUG #242 - Dorian Sarnowski: Jak pisać testy i nie zwariować?](https://www.youtube.com/watch?v=bLZFcWE_xrs)
+- [ ] Bike 20 km in a week
+- [ ] 📗 Read [Pump up the Volumes: Data in Docker](https://towardsdatascience.com/pump-up-the-volumes-data-in-docker-a21950a8cd8)
+- [ ] 📗 Read [Chapter 4. HTTP Method and URI Matching](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/content/en/part1/chapter4/http_method_and_uri_matching.html)
+- [ ] 📗 Read [RESTful API Design — Step By Step Guide](https://medium.com/better-programming/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
+- [ ] 🎧 Listen [Simply Your Life For Success](https://www.youtube.com/watch?v=SnQWnOVr3Uk)
+- [ ] 🎧 Listen [Common Code in Multiplatform projects](http://talkingkotlin.com/common-code-in-mpp-projects/)
+- [ ] 🎧 Listen [Escape The Summer Productivity Slump With These 7 Tips (TPS250)](http://www.asianefficiency.com/podcast/250-summer-productivity/)
+- [ ] Watch [WJUG #249 - Kamil Szymański: Architecture decision making](https://www.youtube.com/watch?v=1wcoouj8Gko)
 
 ### Things I'll Do in the Future:
 
-- [ ] Studies - Etrapez - a derivative course - finish this course
 - [ ] Learn Angular
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents
 - [ ] Refactor 4Rescue App
 - [ ] Publish 4Rescue to Google Play
-- [ ] Make a contribution in some Open Source project
