@@ -656,3 +656,31 @@ Wonderful day :). Everything is green, I mean all the trees, grass.. Thanks God 
 15/06/2019
 ---
 It was a nice Saturday. In the morning I went out for run and ran 3 km. Then I was studying, did a workout and finally went to the bike with my friend in the evening 💪💪. There is BEAUTIFUL weather outside and I want to use it 100%!!!
+
+16/06/2019
+---
+Ehh 😥. I didn't pass math exam in the first attempt. I'm really curious what mistakes I made. Well.. the good point is that I have still over a week to study and that I know what to expect but still it would be much better if I pass it in the first attempt.
+
+17/06/2019
+---
+Monday Monday Monday.. I love Mondays 😄. Today I almost finished this semester - the only thing that left is math exam. 
+
+18/06/2019
+---
+I ran 3 km today with good pace. If I want to achieve my goal to run 5km under 22 minutes I have to start running longest distances, otherwise I won't complete it.
+
+19/06/2019
+---
+Today I went on a bike with my cousin. We had interesting conversations about life and business. I think that my goal for 2020 will be something related to my own business. Even if it fails, I want to at least try.
+
+20/06/2019
+---
+Another beautiful day! Today we had national holiday in Poland so it was non-working day. And yes - I didn't write any line of code but instead of that I wrote a lot of math exercises on paper. 
+
+21/06/2019
+---
+Yoo hoo, Friday! One more tough week left. In next Thursday I have last exam (I guess) and this semester studying will be finally off!
+
+22/06/2019
+---
+I spent this Saturday lonely. Only me and math.. I really want to pass this exam and finally have few days of relief...

@@ -21,24 +21,22 @@ Sports goals 🏆:
 
 25 Days Challenges 💪💪
 1. ✅ Holding breath (personal best: 3:32)
-2. HackerRank
+2. HackerRank (6.07-31.07)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [06/16/2019]
+# [06/23/2019]
 
 ### Things I'll do This Week:
 
-- [ ] RSI - project - deadline Monday 4PM
-- [ ] Make a contribution in some Open Source project
+- [ ] Prepare to math exam
 - [ ] Run 6km in a week
 - [ ] Bike 20 km in a week
 - [ ] 📗 Read [Pump up the Volumes: Data in Docker](https://towardsdatascience.com/pump-up-the-volumes-data-in-docker-a21950a8cd8)
-- [ ] 📗 Read [Chapter 4. HTTP Method and URI Matching](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/content/en/part1/chapter4/http_method_and_uri_matching.html)
-- [ ] 📗 Read [RESTful API Design — Step By Step Guide](https://medium.com/better-programming/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
-- [ ] 🎧 Listen [Simply Your Life For Success](https://www.youtube.com/watch?v=SnQWnOVr3Uk)
-- [ ] 🎧 Listen [Common Code in Multiplatform projects](http://talkingkotlin.com/common-code-in-mpp-projects/)
-- [ ] 🎧 Listen [Escape The Summer Productivity Slump With These 7 Tips (TPS250)](http://www.asianefficiency.com/podcast/250-summer-productivity/)
-- [ ] Watch [WJUG #249 - Kamil Szymański: Architecture decision making](https://www.youtube.com/watch?v=1wcoouj8Gko)
+- [ ] 📗 Read [Chapter 5. JAX-RS Injection](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter5/jax_rs_injection.html)
+- [ ] 🎧 Listen [SPI 376: How to Actually Make Progress and Grow Your Business—A Conversation with James Wedmore](https://www.smartpassiveincome.com/podcasts/how-to-actually-make-progress-and-grow-your-business/)
+- [ ] 🎧 Listen [Episode 91: Functional Programming with Adam Gordon Bell](https://www.programmingthrowdown.com/2019/06/episode-91-functional-programming-with.html)
+- [ ] 🎧 Listen [Episode 75. Let's get coding with Kotlin!](https://www.javapubhouse.com/2018/08/episode-75-lets-get-coding-with-kotlin.html)
+- [ ] Watch [WJUG #239 - Jacek Kunicki: Jak (nie) używać Reactive Streams w Javie 9+](https://www.youtube.com/watch?v=8zVcpjSxT1o)
 
 ### Things I'll Do in the Future:
 
@@ -47,3 +45,4 @@ Sports goals 🏆:
 - [ ] Automate process of filling read/listen contents
 - [ ] Refactor 4Rescue App
 - [ ] Publish 4Rescue to Google Play
+- [ ] Make a contribution in some Open Source project
