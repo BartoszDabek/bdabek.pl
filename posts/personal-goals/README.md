@@ -24,19 +24,21 @@ Sports goals 🏆:
 2. HackerRank (6.07-31.07)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [06/23/2019]
+# [06/30/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare to math exam
-- [ ] Run 6km in a week
-- [ ] Bike 20 km in a week
-- [ ] 📗 Read [Pump up the Volumes: Data in Docker](https://towardsdatascience.com/pump-up-the-volumes-data-in-docker-a21950a8cd8)
-- [ ] 📗 Read [Chapter 5. JAX-RS Injection](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter5/jax_rs_injection.html)
-- [ ] 🎧 Listen [SPI 376: How to Actually Make Progress and Grow Your Business—A Conversation with James Wedmore](https://www.smartpassiveincome.com/podcasts/how-to-actually-make-progress-and-grow-your-business/)
-- [ ] 🎧 Listen [Episode 91: Functional Programming with Adam Gordon Bell](https://www.programmingthrowdown.com/2019/06/episode-91-functional-programming-with.html)
-- [ ] 🎧 Listen [Episode 75. Let's get coding with Kotlin!](https://www.javapubhouse.com/2018/08/episode-75-lets-get-coding-with-kotlin.html)
-- [ ] Watch [WJUG #239 - Jacek Kunicki: Jak (nie) używać Reactive Streams w Javie 9+](https://www.youtube.com/watch?v=8zVcpjSxT1o)
+- [ ] Plan process of tutorial creation
+- [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox)
+- [ ] Run 8km in a week
+- [ ] Bike 30 km in a week
+- [ ] 📗 Read [Chapter 6. JAX-RS Content Handlers](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter6/jax_rs_content_handlers.html)
+- [ ] 📗 Read [I want to learn Artificial Intelligence and Machine Learning. Where can I start?](https://hackernoon.com/i-want-to-learn-artificial-intelligence-and-machine-learning-where-can-i-start-7a392a3086ec)
+- [ ] 📗 Read [Five important lessons from four years as a software developer](https://medium.com/free-code-camp/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
+- [ ] 🎧 Listen [Project Management with Kurt Schrader](https://softwareengineeringdaily.com/2019/06/24/project-management-with-kurt-schrader/)
+- [ ] 🎧 Listen [Lambda School Education with Andrew Madsen](https://softwareengineeringdaily.com/2019/06/27/lambda-school-education-with-andrew-madsen/)
+- [ ] 🎧 Listen [SPI 377: Retail Arbitrage: Buying and Reselling Items from Stores on Amazon (Revisited)](https://www.smartpassiveincome.com/podcasts/retail-arbitrage-buying-and-reselling-items-from-stores-on-amazon/)
+- [ ] Watch [WJUG #252 - Ola Kunysz & Ewa Borzym](https://www.youtube.com/watch?v=zQRMdwcpb1U)
 
 ### Things I'll Do in the Future:
 
@@ -45,4 +47,3 @@ Sports goals 🏆:
 - [ ] Automate process of filling read/listen contents
 - [ ] Refactor 4Rescue App
 - [ ] Publish 4Rescue to Google Play
-- [ ] Make a contribution in some Open Source project

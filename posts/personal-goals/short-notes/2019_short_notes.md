@@ -684,3 +684,31 @@ Yoo hoo, Friday! One more tough week left. In next Thursday I have last exam (I 
 22/06/2019
 ---
 I spent this Saturday lonely. Only me and math.. I really want to pass this exam and finally have few days of relief...
+
+23/06/2019
+---
+Sunday!! I was in the church celebrating baptism. You know.. I have other profession of faith - Pentecostal, and in our faith we don't baptize children. Anyway.. after all there was a big lunch for everyone, cake, games and good positive atmosphere!
+
+24/06/2019
+---
+Pam pam pam.. Monday :)! It's a new week, which means new challenges. The biggest challenge for me this week is to pass my math exam! I was studying a lot for the last 2 weeks and I hope that God will give me a wisdom to do it.
+
+25/06/2019
+---
+Today I had another great run! Last time I beat my personal record on 3 km's (12:28) and today it was 12:55 - which is also a great result for me!
+
+26/06/2019
+---
+Ulala! I was informed that tomorrow I'll get new laptop! That's good news :). I have to prepare all the data for migrations! And tomorrow I have math exam!!
+
+27/06/2019
+---
+Crazy day... I had this math exam and again I'm not 100% sure if I pass it. I mean I wrote a lot, but... who knows if it was correct? :D. Anyway... I got new laptop!! Yu huu! It's really cool! 
+
+28/06/2019
+---
+End of the working week.. Today I visited my friend and he cut my hair (yeahh... that's my private hairdresser :D). Well...I don't know what else I can say. I'm waiting for the results from the math exam. It should be announced on Monday.
+
+29/06/2019
+---
+Nice Saturday! Finally I had free time!!!! I could do whatever I wanted! And I did :). First I cleaned up my room, then helped a little in the 'Strongbox' open source project - I configured the project to work with Java 9. Late in the afternoon I went for a short nap and finally visited my friends in the evening! It's great to have so much time! :)
