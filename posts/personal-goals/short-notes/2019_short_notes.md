@@ -712,3 +712,31 @@ End of the working week.. Today I visited my friend and he cut my hair (yeahh...
 29/06/2019
 ---
 Nice Saturday! Finally I had free time!!!! I could do whatever I wanted! And I did :). First I cleaned up my room, then helped a little in the 'Strongbox' open source project - I configured the project to work with Java 9. Late in the afternoon I went for a short nap and finally visited my friends in the evening! It's great to have so much time! :)
+
+30/06/2019
+---
+Last day of June. Wow! Half of the year is already gone!! Question is: what did I do in this time? Well.. I know what I did because everything is tracked down here and how about you? 😄.
+
+01/07/2019
+---
+Monday :) I like Mondays 👍. I have task at work which isn't specified in 100% - I mean it's unclear how it should be implemented. But I have to do it somehow... I don't like when something is not precisely told, but at least I'm getting some new experience in 'unclear' area 😂😂
+
+02/07/2019
+---
+I went to the office today. I had to return the external drive I took last week. It's always a bit of a wasted time - 2 hours on the go but I had to... The upside is that during the driving I listen to podcasts ;)
+
+03/07/2019
+---
+Mid of the week 😎. Weather in Poland have definitely changed out. It's 20 Celsius degrees and very windy outside. I don't like this!
+
+04/07/2019
+---
+I did it! I beat my 5km record with stunning result - 21:31!! WoW! I remember few months ago when I was running and telling myself 'dude, 5km under 22 minutes is impossible'... well, with God's help everything is possible!
+
+05/07/2019
+---
+Wedding day! Yuhuuu! Friends of mine got married :). It was amazing wedding! A lot of friends, good food, and fun fun fun :)!
+
+06/07/2019
+---
+Today I had a lot of activities. I woke up at 9am. At 10:30 I went on bike with my cousin. It took 2 hours. Then at 1 PM. we went to the 'day after wedding party'. There was grill, volleyball, a lot of friends, etc. In general, we spent time together... Awesome day ;)
