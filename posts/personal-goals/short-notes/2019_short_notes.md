@@ -740,3 +740,31 @@ Wedding day! Yuhuuu! Friends of mine got married :). It was amazing wedding! A l
 06/07/2019
 ---
 Today I had a lot of activities. I woke up at 9am. At 10:30 I went on bike with my cousin. It took 2 hours. Then at 1 PM. we went to the 'day after wedding party'. There was grill, volleyball, a lot of friends, etc. In general, we spent time together... Awesome day ;)
+
+07/07/2019
+---
+Another Sunday has passed... Since a week the weather in Poland is awful and the forecasts are not promising for the next week :(. Unfortunately my vacation starts tomorrow :D ... life 😅😅  
+
+08/07/2019
+---
+Today I realized how impatient I am. I should work on it. Btw. Monday and the first day of my 2 week holiday - it's very cold and windy outside.😪
+
+09/07/2019
+---
+I decided that I'm not going to Kopanica. This's a Christian camp that we went to almost every year... This year it's too cold and I have many other things to do.
+
+10/07/2019
+---
+I got sick! :( What a pity... I think that the list of things to do this week overwhelmed me, as a result of which I fell ill. In addition, the weather is (in warm words) not cool and I can't go on a bike or running 😥
+
+11/07/2019
+---
+Another day I'm sick :( I felt terrible today, I slept in more than two hours during the day and I was freezing ... Now that I'm writing, it's a lot better 👍👍
+
+12/07/2019
+---
+YES! Finally the weather is slightly better 👍. I felt much better today - I mowed the lawn and did 15km by a bike. I need nice weather to be active 😅😅
+
+13/07/2019
+---
+Another day with wonderful weather 😊. I was sunbathing on the yard and enjoying this day :)

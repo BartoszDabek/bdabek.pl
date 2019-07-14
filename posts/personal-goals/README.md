@@ -24,24 +24,21 @@ Sports goals 🏆:
 2. HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [07/07/2019]
+# [07/14/2019]
 
 ### Things I'll do This Week:
 
+- [ ] Create `Git` presentation to work
 - [ ] Create tutorial on youtube
 - [ ] Plan microservices project
-- [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
-- [ ] Run 10 km in a week
-- [ ] Bike 40 km in a week
-- [ ] 📗 Read [Chapter 7. Server Responses and Exception Handling](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter7/server_responses_and_exception_handling.html)
-- [ ] 📗 Read [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://medium.com/mindorks/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)
-- [ ] 📗 Read [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
-- [ ] 📗 Read [Understanding Clean Code in Android](https://medium.com/mindorks/understanding-clean-code-in-android-ebe42ad89a99)
-- [ ] 🎧 Listen [ACTIVE English Learning](https://www.youtube.com/watch?v=2CHh8-wwkdI)
-- [ ] 🎧 Listen [Permissionless Innovation with Joseph Jacks](https://softwareengineeringdaily.com/2019/07/03/permissionless-innovation-with-joseph-jacks/)
-- [ ] 🎧 Listen [Compiler Plugins with Kevin Most](http://talkingkotlin.com/compiler-plugins/)
-- [ ] 🎧 Listen [SPI 378: Amazon Book Marketing—Everything You Need to Know with Dave Chesson from Kindlepreneur](https://www.smartpassiveincome.com/podcasts/amazon-book-marketing-dave-chesson-from-kindlepreneur/)
-- [ ] Watch [Jinkubator #38 - Clean Code - Tomasz Kucharski](https://www.youtube.com/watch?v=r9XTEOHaotc)
+- [ ] Bike 50 km in a week
+- [ ] Run 8 km in a week
+- [ ] 📗 Read [Chapter 8. JAX-RS Client API](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter8/jax_rs_client_api.html)
+- [ ] 🎧 Listen [SPI 379: How Books Increase Our Authority and Leadership with Azul Terronez](https://www.smartpassiveincome.com/podcasts/how-books-increase-our-authority-and-leadership-with-azul-terronez/)
+- [ ] 🎧 Listen [More Money, More Fun, More Freedom](https://www.youtube.com/watch?v=oHizyLKrG5o)
+- [ ] 🎧 Listen [Episode 84. Let’s get down and dirty w/Netty!](https://www.javapubhouse.com/2019/07/episode-84-lets-get-down-and-dirty-w-netty.html)
+- [ ] 🎧 Listen [Become Productive Again: 6 Ways To Get Back On Track (TPS255)](http://www.asianefficiency.com/podcast/255-back-on-track/)
+- [ ] Watch [Jinkubator #21 - Git - Adam Ruka](https://www.youtube.com/watch?v=RP7-d3ZCdZs)
 
 ### Things I'll Do in the Future:
 
@@ -50,3 +47,4 @@ Sports goals 🏆:
 - [ ] Automate process of filling read/listen contents
 - [ ] Refactor 4Rescue App
 - [ ] Publish 4Rescue to Google Play
+- [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
