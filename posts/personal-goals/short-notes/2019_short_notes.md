@@ -768,3 +768,31 @@ YES! Finally the weather is slightly better 👍. I felt much better today - I m
 13/07/2019
 ---
 Another day with wonderful weather 😊. I was sunbathing on the yard and enjoying this day :)
+
+14/07/2019
+---
+Sunday ... :) I played in a volleyball today. We had barbecue and fun 😉😉
+
+15/07/2019
+---
+It's a year since I write daily notes regularly. Lately I'm thinking about VLOGing also. That's very hard to overcome that fear of not beeing anonymous on the Internet. You know... you have to show your face to the others and get used to camera.. But who knows.. maybe in the future 😏
+
+16/07/2019
+---
+Ehh!!! AGAIN the weather is crap! I hate that.. I think I took my vacations in worst possible time if we talk about weather.
+
+17/07/2019
+---
+Today I had technical job interview talk. I have really big technical debt... And I know in current job there is no future :/. Company itself is great, boss is great but projects or maybe technologies used in that projects are crap 😥.
+
+18/07/2019
+---
+That was a good day :). I finally sat down and started to record youtube tutorial on image processing. Procrastination is my great enemy. I need to learn how to fight it... Actually I know, I have to act instead of looking for other activities 😏
+
+19/07/2019
+---
+I feel amazing 😊. After almost 2 weeks of procrastinations with recording a video tutorial I finally did it! Yes, it's not perfect and I don't have the feeling that thousands of people will watch it. Anyway, I fought with myself and won 👊👏
+
+20/07/2019
+---
+Another wonderful day... especially the evening :). It was a normal Saturday but in the late afternoon my friend invited me to his home. I rejected his offer, so he offered to come to me. I agreed. We had a great evening. We talked and it was really nice time. Ahh.. and the weather was perfect 😊

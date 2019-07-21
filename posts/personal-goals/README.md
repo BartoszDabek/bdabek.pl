@@ -8,8 +8,8 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 1. 💚 Learn design patterns
 2. 💙 Learn data structures
 3. 💡 Create a tutorial on youtube
-4. ✍️ Two job interviews [2/2] ✅
-5. 📱 Publish mobile app
+4. ✍️ Two job interviews [3/2] ✅
+5. 📱 ~~Publish mobile app~~
 6. 🎓 English
 
 Sports goals 🏆:
@@ -24,21 +24,23 @@ Sports goals 🏆:
 2. HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [07/14/2019]
+# [07/21/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Create `Git` presentation to work
-- [ ] Create tutorial on youtube
-- [ ] Plan microservices project
+- [ ] Git presentation - prepare resources and talk about git stages and git workflow
+- [ ] Tutorial on youtube - prepare channel on yt + find 2 resources to promote the video
+- [ ] Microservices project - send emails to creators with domain questions
+- [ ] Microservices project - record video with short project explanation (to increase chances for feedback)
 - [ ] Bike 50 km in a week
-- [ ] Run 8 km in a week
-- [ ] 📗 Read [Chapter 8. JAX-RS Client API](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter8/jax_rs_client_api.html)
-- [ ] 🎧 Listen [SPI 379: How Books Increase Our Authority and Leadership with Azul Terronez](https://www.smartpassiveincome.com/podcasts/how-books-increase-our-authority-and-leadership-with-azul-terronez/)
-- [ ] 🎧 Listen [More Money, More Fun, More Freedom](https://www.youtube.com/watch?v=oHizyLKrG5o)
-- [ ] 🎧 Listen [Episode 84. Let’s get down and dirty w/Netty!](https://www.javapubhouse.com/2019/07/episode-84-lets-get-down-and-dirty-w-netty.html)
-- [ ] 🎧 Listen [Become Productive Again: 6 Ways To Get Back On Track (TPS255)](http://www.asianefficiency.com/podcast/255-back-on-track/)
-- [ ] Watch [Jinkubator #21 - Git - Adam Ruka](https://www.youtube.com/watch?v=RP7-d3ZCdZs)
+- [ ] Run 6 km in a week
+- [ ] 📗 Read [Chapter 9. HTTP Content Negotiation](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter9/http_content_negotiation.html)
+- [ ] 📗 Read [10 Bad Habits of Unsuccessful People](https://forge.medium.com/10-habits-of-unsuccessful-people-you-dont-want-to-copy-d401ac677c91)
+- [ ] 📗 Read [What Makes a Good Developer?](https://blog.usejournal.com/what-makes-a-good-developer-80330712e22)
+- [ ] 🎧 Listen [FAST English Improvement | Listening and Reading Challenge](https://www.youtube.com/watch?v=2rKzwtMr4ro)
+- [ ] 🎧 Listen [SPI 380: 5 Hard Truths About Writing and Publishing Books](https://www.smartpassiveincome.com/podcasts/5-hard-truths-about-writing-and-publishing-books/)
+- [ ] 🎧 Listen [Episode 373: Joel Spolsky on Startups: Growth, and Valuation](https://www.se-radio.net/2019/07/episode-373-joel-spolsky-on-startups-growth-and-valuation/)
+- [ ] Watch [Jinkubator #44 - OAuth2 w praktyce - Piotr Fus](https://www.youtube.com/watch?v=E0rSFwytwcQ)
 
 ### Things I'll Do in the Future:
 
