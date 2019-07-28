@@ -796,3 +796,31 @@ I feel amazing 😊. After almost 2 weeks of procrastinations with recording a v
 20/07/2019
 ---
 Another wonderful day... especially the evening :). It was a normal Saturday but in the late afternoon my friend invited me to his home. I rejected his offer, so he offered to come to me. I agreed. We had a great evening. We talked and it was really nice time. Ahh.. and the weather was perfect 😊
+
+21/07/2019
+---
+Ohh... I realized I forgot to write something about Sunday... It's Tuesday morning already and what I remember I spent good time with friends on Sunday. We played volleyball, ate some food from grill and talked each other :)
+
+22/07/2019
+---
+Mooonday 😍😍. I really missed that ... all the meetings and work to do. Weather outside also started to being beautiful so I also have more energy! 😁
+
+23/07/2019
+---
+Another great day! Today I got confirmation about my travel to the client. So in 2 weeks I'm going to Germany for a week. Actually I'm happy because of that, I wasn't there for a long time - 8 months!🤗
+
+24/07/2019
+---
+Work, work, work.. A lot of work to do this week. I know everything will pay off so I give 100% of myself. In the evening, to de-stress I went on a bike with my cousin. We've made 20 km 😎
+
+25/07/2019
+---
+Time flies by like crazy 😏. It's Thursday already! I have everything prepared for my travel to Germany (plane, hotels, car rent). I just need to get details how much cash I need and if everything is paid already or not. I have a week for that 👍👊 
+
+26/07/2019
+---
+Last days are really crazy. I'm in the position where I want to change company. The motivation to do this is due to the technology I currently work with... It's legacy and I know that I can't learn much more in that area + it'll not be useful in the future. I feel a little bad just because of my boss who was a great boss so far 👏
+
+27/07/2019
+---
+Ahh! What a great Saturday! I've been learning a lot about business - especially about what I need to create my own, law in the Poland, etc... There's so much to learn in this area or maybe I should say too much ...😅

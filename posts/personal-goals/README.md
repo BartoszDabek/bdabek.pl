@@ -24,23 +24,24 @@ Sports goals 🏆:
 2. HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [07/21/2019]
+# [07/28/2019]
 
 ### Things I'll do This Week:
 
+- [ ] Tutorial on youtube - add description to movie and update repo on git (readme)
 - [ ] Git presentation - prepare resources and talk about git stages and git workflow
-- [ ] Tutorial on youtube - prepare channel on yt + find 2 resources to promote the video
-- [ ] Microservices project - send emails to creators with domain questions
+- [ ] Microservices project - prepare list of creators to whom send request (60-100 creators)
 - [ ] Microservices project - record video with short project explanation (to increase chances for feedback)
 - [ ] Bike 50 km in a week
 - [ ] Run 6 km in a week
-- [ ] 📗 Read [Chapter 9. HTTP Content Negotiation](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter9/http_content_negotiation.html)
-- [ ] 📗 Read [10 Bad Habits of Unsuccessful People](https://forge.medium.com/10-habits-of-unsuccessful-people-you-dont-want-to-copy-d401ac677c91)
-- [ ] 📗 Read [What Makes a Good Developer?](https://blog.usejournal.com/what-makes-a-good-developer-80330712e22)
-- [ ] 🎧 Listen [FAST English Improvement | Listening and Reading Challenge](https://www.youtube.com/watch?v=2rKzwtMr4ro)
-- [ ] 🎧 Listen [SPI 380: 5 Hard Truths About Writing and Publishing Books](https://www.smartpassiveincome.com/podcasts/5-hard-truths-about-writing-and-publishing-books/)
-- [ ] 🎧 Listen [Episode 373: Joel Spolsky on Startups: Growth, and Valuation](https://www.se-radio.net/2019/07/episode-373-joel-spolsky-on-startups-growth-and-valuation/)
-- [ ] Watch [Jinkubator #44 - OAuth2 w praktyce - Piotr Fus](https://www.youtube.com/watch?v=E0rSFwytwcQ)
+- [ ] 📗 Read [An intro to Algorithms (Part II): Dynamic Programming](https://medium.com/free-code-camp/an-intro-to-algorithms-dynamic-programming-dd00873362bb)
+- [ ] 📗 Read [Introduction to Schemas in Apache Kafka with the Confluent Schema Registry](https://medium.com/@stephane.maarek/introduction-to-schemas-in-apache-kafka-with-the-confluent-schema-registry-3bf55e401321)
+- [ ] 📗 Read [Chapter 10. HATEOAS](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter10/hateoas.html)
+- [ ] 🎧 Listen [Learn English with Stories | Cut Off Your Tails](https://www.youtube.com/watch?v=LVBWUeFOLWY)
+- [ ] 🎧 Listen [HUGE English Improvement | Just A Little More](https://www.youtube.com/watch?v=L_n3q7Q3Ahg)
+- [ ] 🎧 Listen [Episode 374: Marcus Blankenship on Motivating Programmers](https://www.se-radio.net/2019/07/episode-374-marcus-blankenship-on-motivating-programmers/)
+- [ ] 🎧 Listen [SPI 381: Self-Publishing versus Traditional Publishing](https://www.smartpassiveincome.com/podcasts/self-publishing-versus-traditional-publishing/)
+- [ ] Watch [WJUG #255 - Juergen Hoeller & Mark Paluch: Spring 5.2](https://www.youtube.com/watch?v=FS_vnfNE_sA)
 
 ### Things I'll Do in the Future:
 
@@ -50,3 +51,4 @@ Sports goals 🏆:
 - [ ] Refactor 4Rescue App
 - [ ] Publish 4Rescue to Google Play
 - [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
+- [ ] Microservices project - send emails to creators with domain questions
