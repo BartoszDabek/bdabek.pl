@@ -7,7 +7,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 # Overarching Goals for 2019:
 1. 💚 Learn design patterns
 2. 💙 Learn data structures
-3. 💡 Create a tutorial on youtube
+3. 💡 Create a tutorial on youtube ✅
 4. ✍️ Two job interviews [3/2] ✅
 5. 📱 ~~Publish mobile app~~
 6. 🎓 English
@@ -21,34 +21,32 @@ Sports goals 🏆:
 
 25 Days Challenges 💪💪
 1. ✅ Holding breath (personal best: 3:32)
-2. HackerRank (7.07-1.08)
+2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [07/28/2019]
+# [08/04/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Tutorial on youtube - add description to movie and update repo on git (readme)
-- [ ] Git presentation - prepare resources and talk about git stages and git workflow
+- [ ] Git presentation - prepare resources to talk about git stages and git workflow
 - [ ] Microservices project - prepare list of creators to whom send request (60-100 creators)
-- [ ] Microservices project - record video with short project explanation (to increase chances for feedback)
-- [ ] Bike 50 km in a week
-- [ ] Run 6 km in a week
-- [ ] 📗 Read [An intro to Algorithms (Part II): Dynamic Programming](https://medium.com/free-code-camp/an-intro-to-algorithms-dynamic-programming-dd00873362bb)
-- [ ] 📗 Read [Introduction to Schemas in Apache Kafka with the Confluent Schema Registry](https://medium.com/@stephane.maarek/introduction-to-schemas-in-apache-kafka-with-the-confluent-schema-registry-3bf55e401321)
-- [ ] 📗 Read [Chapter 10. HATEOAS](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter10/hateoas.html)
-- [ ] 🎧 Listen [Learn English with Stories | Cut Off Your Tails](https://www.youtube.com/watch?v=LVBWUeFOLWY)
-- [ ] 🎧 Listen [HUGE English Improvement | Just A Little More](https://www.youtube.com/watch?v=L_n3q7Q3Ahg)
-- [ ] 🎧 Listen [Episode 374: Marcus Blankenship on Motivating Programmers](https://www.se-radio.net/2019/07/episode-374-marcus-blankenship-on-motivating-programmers/)
-- [ ] 🎧 Listen [SPI 381: Self-Publishing versus Traditional Publishing](https://www.smartpassiveincome.com/podcasts/self-publishing-versus-traditional-publishing/)
-- [ ] Watch [WJUG #255 - Juergen Hoeller & Mark Paluch: Spring 5.2](https://www.youtube.com/watch?v=FS_vnfNE_sA)
+- [ ] 📗 Read [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
+- [ ] 📗 Read [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [ ] 📗 Read [All you need to know about “Big O Notation” to crack your next coding interview](https://medium.com/free-code-camp/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4)
+- [ ] 📗 Read [Chapter 11. Scaling JAX-RS Applications](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter11/scaling_jax_rs_applications.html)
+- [ ] 🎧 Listen [Jak będąc MAŁĄ FIRMĄ robić WIELKIE rzeczy w biznesie | WNOP #135](https://www.youtube.com/watch?v=wINVnt58nCs)
+- [ ] 🎧 Listen [SPI 382: The Surprising Truth about How One (Self-Published) Author Sold Millions of Books](https://www.smartpassiveincome.com/podcasts/how-one-self-published-author-sold-millions-of-books/)
+- [ ] 🎧 Listen [Super Fast English Learning | High Intensity Training](https://www.youtube.com/watch?v=16Ukc2YE6eU)
+- [ ] 🎧 Listen [Let The CHALLENGE Begin | Kickoff Time!](https://www.youtube.com/watch?v=O6XIyW3az2Y)
+- [ ] 🎧 Listen [Episode 370: Chris Richardson on Microservice Patterns](https://www.se-radio.net/2019/06/episode-370-chris-richardson-on-microservice-patterns/)
+- [ ] 🎧 Listen [Episode 66. Ok, how about consuming Rest services](https://www.javapubhouse.com/2017/08/episode-66-ok-how-about-consuming-rest.html)
+- [ ] Watch [Why Continuations are Coming to Java](https://www.youtube.com/watch?v=9vupFNsND6o)
 
 ### Things I'll Do in the Future:
 
 - [ ] Learn Angular
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents
-- [ ] Refactor 4Rescue App
-- [ ] Publish 4Rescue to Google Play
 - [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
 - [ ] Microservices project - send emails to creators with domain questions
+- [ ] Microservices project - record video with short project explanation (to increase chances for feedback)

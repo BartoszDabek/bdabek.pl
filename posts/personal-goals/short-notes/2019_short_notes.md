@@ -824,3 +824,31 @@ Last days are really crazy. I'm in the position where I want to change company. 
 27/07/2019
 ---
 Ahh! What a great Saturday! I've been learning a lot about business - especially about what I need to create my own, law in the Poland, etc... There's so much to learn in this area or maybe I should say too much ...😅
+
+28/07/2019
+---
+I watched F1 race today (in TV). It was the best race in 2k19... so many turnovers, crashes and unexpected situations. In addition I was learning about creating my own business 🙂
+
+29/07/2019
+---
+Monday Monday Monday... It means a lot of work 😅. We have new problems on the project and in a week we have go-live (final presentation of our solution). I've been writing a lot about work lately, but of course I also have a private life 😀. For example, today we were on bikes with my cousins.
+
+30/07/2019
+---
+Another wonderful day :). Lately I'm very stressed because of job change... I'm not entirely convinced that I should do it but I know that it can be very promising, so I think it's worth to take a risk and change job. 😏
+
+31/07/2019
+---
+Uhh... I was really worried about today. I had to tell my boss that I want to change job. And someone may ask: dude, why you were worried about it? Well... it's simple - my boss was always fair to me and I think it might be tough to find a boss like him. Anyway he offered me a new project and of course - better money. Now I'm hesitating what to choose 🤔
+
+01/08/2019
+---
+It was decision day... and I decided to stay at current company. Main motivation was that since September I'll be moved to another project, that have more advanced and interesting technologies. Of course, other important point is that money are better but I think that is normal - we sell our time and we expect to be paid, right? 😏
+
+02/08/2019
+---
+At last the weekend begins 😃! I do not have any special plans, but I'm glad that in the end I will be able to rest a bit. This week a lot has happened, especially in the area of work. Thank God for the opportunities that he gave me 😊.
+
+03/08/2019
+---
+Another great day. I had to pack myself 'cause tomorrow I'm flying off to Germany - yeahh... to be honest it took my like 1 hour max (hopefully I didn't forget anything 😁). Today we had also family grill. It is always good to sit together, have a little conversation and relax with good food ☺️. 
