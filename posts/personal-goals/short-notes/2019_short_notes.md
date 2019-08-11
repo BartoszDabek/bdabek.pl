@@ -852,3 +852,31 @@ At last the weekend begins 😃! I do not have any special plans, but I'm glad t
 03/08/2019
 ---
 Another great day. I had to pack myself 'cause tomorrow I'm flying off to Germany - yeahh... to be honest it took my like 1 hour max (hopefully I didn't forget anything 😁). Today we had also family grill. It is always good to sit together, have a little conversation and relax with good food ☺️. 
+
+04/08/2019
+---
+Travel time ✈️ 🚗. It was a long day. In the morning I went to church and right after that I ate veeeery fast lunch and drove to Warsaw. Then I had to get to the airport.. Right after landing in Stuttgart I took my baggage and went to a car rental place. I almost rented Fiat500 but the woman that works in the desk (million thanks!) gave me something better - Ford Fiesta (but that's some sport edition). Finally, after 1 hour travel I finally got into hotel 😊.
+
+05/08/2019
+---
+First day on-site... And of course we encounter some issues that we struggled for the whole day... Eventually we solved that so working day ended well. After work we went for a dinner and we were chatting until the very evening 👊 ✊ 🤛 
+
+06/08/2019
+---
+Uff.. Tough day. From the very morning we had problems with system but again at the end of day everything runs well 👍. Again after work we had 30-40 minutes break in the hotel and aftewards we went on a dinner. Important thing - now we don't have lunches at client - they have vacations 😪. It's sad, I liked their food!
+
+07/08/2019
+---
+We had plans for today to visit 'Metzingen outlet', unfortunately we wokred until 6 pm and that destroyed our plans. It wasn't the best day. My team leader was informed that I leave project since September and the atmosphere wasn't so pleasant 😪. Well... I don't feel bad because of it, that's not my fault that technologies in this project are boring and old... As a developer I need and I want to learn, do something new, something interesting 👊👊. 
+
+08/08/2019
+---
+Last day on-site at the client, the last time I see these people (since September I'm on a new project). I'm quite happy, we had a ton of work to do and to be honest I'm shocked at how poorly everything was managed. This's the end of the project and most of the components have not been tested... Every day we had to prepare quick fixes, sometimes even few times per day... Anyway, I arrived to the hotel next to the airport at Stuttgart (first I got lost in the hotel 😂) and tomorrow I'm flying to Poland 😊.
+
+09/08/2019
+---
+Home sweet home 🏠. I ate a great delicious breakfast at the hotel. Then I went to the airport, which was very close (200m) and flew to 🇵🇱 There was a strong wind and quite turbulence during the landing, but thank God we landed in Warsaw at noon. Later I just took my car and went home :).
+
+10/08/2019
+---
+What a beautiful Saturday ☺️☺️!! Today we had a big holiday in our church - baptism. The weather was really nice - not too hot, not too cold. After baptism we had good time, where everyone could talk to each other, there was a food and it was super cool. I really appreciate moments in my life like this 👍.
