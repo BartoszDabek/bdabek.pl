@@ -880,3 +880,31 @@ Home sweet home 🏠. I ate a great delicious breakfast at the hotel. Then I wen
 10/08/2019
 ---
 What a beautiful Saturday ☺️☺️!! Today we had a big holiday in our church - baptism. The weather was really nice - not too hot, not too cold. After baptism we had good time, where everyone could talk to each other, there was a food and it was super cool. I really appreciate moments in my life like this 👍.
+
+11/08/2019
+---
+Sunday 😊. I spent entire day at church. We had a dinner together after devotion. It was a good time. In the evening I went to my cousins we've made waffles with some toppings. 😁
+
+12/08/2019
+---
+It was another wonderful Monday 👊👍. I had few bugs report which I solved really fast and I had more time for myself. In the evening, I was invited to my cousin to hang out, talk, etc. It was a good time 😉.
+
+13/08/2019
+---
+Another crazy day 😍. I've been at Bialowieza forest with friends. I live 15 km next to it but I haven't been there since 10 years!! That's ridicilous 😂. We had a good time and after that we made a grill at my cousin parents house. It was a good time and to be honest I don't remember myself beeing that active and eager to do something 😅😅.
+
+14/08/2019
+---
+Finally a day when I could spend the evening alone - no parties, no late sleeping... In short: I could rest :)
+
+15/08/2019
+---
+👏👏 What a day! I woke up and went to run 4 km. Today was a national holiday in Poland so I didn't have to work and I had time :). In the late afternoon my 2 cousins and our friend from Germany decided to go out on bicycles. I did 32km (they did about 40 💪💪). I love days like this 😎.
+
+16/08/2019
+---
+Another crazy evening 😁and once again junk food at the evening 😪!! I can't say NO to junk food and have no idea why... Normally I don't eat things like this maybe that is the reason ? 🤔 🤨
+
+17/08/2019
+---
+Today me and my cousin decided to go out and bike to Bialowieza - 17km next to our town. We did it and we made almost 60km overall! Once again it was the perfect day 😊💪!
