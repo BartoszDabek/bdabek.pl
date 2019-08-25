@@ -908,3 +908,31 @@ Another crazy evening 😁and once again junk food at the evening 😪!! I can't
 17/08/2019
 ---
 Today me and my cousin decided to go out and bike to Bialowieza - 17km next to our town. We did it and we made almost 60km overall! Once again it was the perfect day 😊💪!
+
+18/08/2019
+---
+Great Sunday :). It was my cousin's 18th birthday! She's already mature and I still remember how she was a little child 😅😅. Overall we had a great time :)!
+
+19/08/2019
+---
+We had an integration meeting with my colleagues from the new team on the project, which I start from next month. It was nice to eat a burger for free (company cost 😄😄). 
+
+20/08/2019
+---
+I had a lot of meetings today. The main one is about training I'm providing remotely and others are about projects I'm on :). On Thursday I have presentation about Git and I still don't know what I want to tell...😓😓
+
+21/08/2019
+---
+It was another good day. At the noon I was informed that my git-presentation is canceled due to second speaker sick leave. I'm quite happy, especially that I wasn't sure what I want to tell so now I have more time to prepare  😉 😊.
+
+22/08/2019
+---
+What a day 😯! I've been writing the documentation to the module I implemented. During writing I noticed how many mistakes I made in architecture designing 😱 ... And finally I started refactoring the code. Thanks God I've been writing unit tests so it's more easy 👍👏.
+
+23/08/2019
+---
+Friday 😍! Fridays are the best because weekend is there 😝. Today after work I called my cousin and we went out to ride a bike. We did almost 30 km 😊! Not bad, huh?
+
+24/08/2019
+---
+My entire family went on holidays today so I'm home alone now 😅. Today was beautiful weather, I used it and sunbathed. I want to be more tanned than my parents after they back from holidays 😂😂!

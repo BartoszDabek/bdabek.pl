@@ -24,21 +24,24 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [08/18/2019]
+# [08/25/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Git presentation - prepare speech and demo (Thursday = presentation day)
-- [ ] Company - find accountant
-- [ ] Bike 30 km in a week
-- [ ] Run 4 km in a week
-- [ ] 📗 Read [Chapter 13. Asynchronous JAX-RS](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter13/asynchronous_jax_rs.html)
-- [ ] 📗 Read [ddd-by-examples](https://github.com/ddd-by-examples/library#events-in-repositories)
-- [ ] 🎧 Listen [Episode 85. Monitor the World with JMX!](https://www.javapubhouse.com/2019/08/episode-85-monitor-the-world-with-jmx.html)
-- [ ] 🎧 Listen [There’s No Action Without ACT w/ Mridu Parikh (TPS260)](http://www.asianefficiency.com/podcast/260-mridu-parikh/)
-- [ ] 🎧 Listen [Episode 376: Justin Richer On API Security with OAuth 2](https://www.se-radio.net/2019/08/episode-376-justin-richer-on-api-security-with-oauth-2/)
-- [ ] 🎧 Listen [Aging Well](https://www.youtube.com/watch?v=-zj54iQ_g-U)
-- [ ] Watch [WJUG #215 - From Zero to Hero with Spring Boot: Stephane Nicol](https://www.youtube.com/watch?v=Tf5cTzvfSiI)
+- [ ] Company - resign from business card
+- [ ] Company - US VAT
+- [ ] Git presentation - prepare demo
+- [ ] Bike 60 km in a week
+- [ ] Run 8 km in a week
+- [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
+- [ ] 📗 Read [Jak zmapować relację Many to Many i nie zwariować?](https://sztukakodu.pl/jak-zmapowac-relacje-many-to-many-i-nie-zwariowac/?utm_source=jvm-bloggers.com&utm_medium=link&utm_campaign=jvm-bloggers)
+- [ ] 📗 Read [FetchMode w Hibernate, czyli jak pobierać dane](http://nullpointerexception.pl/fetchmode-w-hibernate-czyli-jak-pobierac-dane/?utm_source=jvm-bloggers.com&utm_medium=link&utm_campaign=jvm-bloggers)
+- [ ] 📗 Read [Chapter 14. Deployment and Integration](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter14/deployment_and_integration.html)
+- [ ] 🎧 Listen [Talk To Yourself](https://www.youtube.com/watch?v=9HZCfk88hJY)
+- [ ] 🎧 Listen [Technical Onboarding with Kristen Gallagher](https://softwareengineeringdaily.com/2019/08/22/technical-onboarding-with-kristen-gallagher/)
+- [ ] 🎧 Listen [Crypto and OSS with Haseeb Qureshi, Joseph Jacks, and Alok Vasudev](https://softwareengineeringdaily.com/2019/08/23/crypto-and-oss-with-haseeb-qureshi-joseph-jacks-and-alok-vasudev/)
+- [ ] 🎧 Listen [How To Get Started With Personal Finance With Proven Workflows, Apps and Tools w/ Charles Ngo (TPS261)](http://www.asianefficiency.com/podcast/261-charles-ngo/)
+- [ ] Watch [WJUG #211 - Modularity and hexagonal architecture in real life: Jakub Nabrdalik](https://youtu.be/ILBX9fa9aJo)
 
 ### Things I'll Do in the Future:
 
@@ -48,4 +51,3 @@ Sports goals 🏆:
 - [ ] Microservices project - send emails to creators with domain questions
 - [ ] Microservices project - record video with short project explanation (to increase chances for feedback)
 - [ ] Microservices project - prepare list of creators to whom send request (60-100 creators)
-- [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
