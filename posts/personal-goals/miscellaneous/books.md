@@ -5,6 +5,7 @@
 - [ ] Head First Object-Oriented Analysis and Design
 - [ ] Growing Object-Oriented Software, Guided by Tests
 - [ ] Test Driven: TDD and Acceptance TDD for Java Developers 
+- [ ] 97 Things Every Programmer Should Know: Collective Wisdom from the Experts
 
 ## In Progress
 - [ ] Test-Driven Java Development (Viktor Farcic, Alex Garcia)

@@ -936,3 +936,31 @@ Friday 😍! Fridays are the best because weekend is there 😝. Today after wor
 24/08/2019
 ---
 My entire family went on holidays today so I'm home alone now 😅. Today was beautiful weather, I used it and sunbathed. I want to be more tanned than my parents after they back from holidays 😂😂!
+
+25/08/2019
+---
+It was nice Sunday 🙂. Very sunny and hot - exactly as I like 😎 😍! I'm slowly preparing myself for the new project. I hope that new technologies I'll step into won't overcome me 🤨!
+
+26/08/2019
+---
+Today I had proposition to go to Kielce for projects handover. I suggested to do it remotely (I don't want to go in there now) and they agreed. So since tomorrow I'm starting projects handover 👍☺️
+
+27/08/2019
+---
+Another good day in my life 😉. I've no idea what to write... it was a good, sunny day. As usual, I worked from early morning until late afternoon. I'm very grateful to God for everything I have in my life 🙂
+
+28/08/2019
+---
+And yet another day passed by. Once again the weather outside was great! Today I had a lot of meetings on my new project. I'm sure I'll learn a lot! 👍👊👏
+
+29/08/2019
+---
+Uff 😯! I wrote yesterday that I had a lot of meetings... Today it was like since 10 am until 3 pm I was on the calls. Crazy day!
+
+30/08/2019
+---
+What a great day! Until noon I overhanded projects to the new guy and I started my onboarding process on my new project (I read a lot of documentation in provided Sharepoint). At 4PM I got an email that we have some problems with production system but I don't have details on that.... At 4:30 PM, me and my two cousins cycled to Bialowieza (+/- 20km next to us), ate pizza in there and we went back 😊.
+
+31/08/2019
+---
+It was a great day indeed. I invited few people for a pizza for the evening. We had good time talking and enjoying food 😉. 
