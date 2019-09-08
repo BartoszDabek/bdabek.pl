@@ -24,22 +24,21 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [09/01/2019]
+# [09/08/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Bike 40 km in a week
-- [ ] Run 8 km in a week
-- [ ] Learn Angular - finish [yt course](https://www.youtube.com/watch?v=M3EMO8VqmUY&list=PLqq-6Pq4lTTb7JGBTogaJ8bm7f8VCvFkj&index=15)
-- [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
-- [ ] 📗 Read [What is EJB? The evolution of Enterprise JavaBeans](https://www.javaworld.com/article/3432125/what-is-ejb-the-evolution-of-enterprise-javabeans.html)
-- [ ] 📗 Read [Trzy rzeczy, które powinieneś wiedzieć o Hibernate](http://nullpointerexception.pl/trzy-rzeczy-ktore-powinienes-wiedziec-o-hibernate/)
-- [ ] 📗 Read [Hibernate i problem N + 1 zapytań](http://nullpointerexception.pl/hibernate-i-problem-n-plus-1-zapytan/)
-- [ ] 📗 Read [10 Tips for Proper Application Logging](https://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html)
-- [ ] 🎧 Listen [5 Examples of Tasks You Can Automate To Save Yourself An Hour a Day (TPS262)](http://www.asianefficiency.com/podcast/262-automate-and-save/)
-- [ ] 🎧 Listen [Facebook Engineering Process with Kent Beck](https://softwareengineeringdaily.com/2019/08/28/facebook-engineering-process-with-kent-beck/)
-- [ ] 🎧 Listen [Facebook Release Engineering with Chuck Rossi](https://softwareengineeringdaily.com/2019/08/27/facebook-release-engineering-with-chuck-rossi/)
-- [ ] Watch [Jinkubator #27 - Wzorce projektowe - Krzysztof Jelski](https://www.youtube.com/watch?v=RADOhncoohY)
+- [ ] Bike 30 km in a week
+- [ ] Run 6 km in a week
+- [ ] Learn Angular - finish [yt course](https://www.youtube.com/watch?v=CacMOuzTiJU&list=PLqq-6Pq4lTTb7JGBTogaJ8bm7f8VCvFkj&index=18)
+- [ ] 📗 Read [Best Practices for Many-To-One and One-To-Many Association Mappings](https://thoughts-on-java.org/best-practices-many-one-one-many-associations-mappings/)
+- [ ] 📗 Read [Chapter 15. Securing JAX-RS](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter15/securing_jax_rs.html)
+- [ ] 📗 Read [TestCoverage](https://martinfowler.com/bliki/TestCoverage.html)
+- [ ] 📗 Read [Compile regular expressions once](http://www.javapractices.com/topic/TopicAction.do?Id=104)
+- [ ] 🎧 Listen [15+ Ways TPS Listeners Save Time and Have Time Freedom (TPS263)](http://www.asianefficiency.com/podcast/263-our-productive-audience/)
+- [ ] 🎧 Listen [Monday: Business Management Software with Eran Zinman](https://softwareengineeringdaily.com/2019/09/05/monday-business-management-software-with-eran-zinman/)
+- [ ] 🎧 Listen [Episode 379: Claire Le Goues on Automated Program Repair](https://www.se-radio.net/2019/09/episode-379-claire-le-goues-on-automated-program-repair/)
+- [ ] Watch [WJUG #167 - Garbage Collector w pigułce - Jakub Kubryński](https://www.youtube.com/watch?v=LCr3XyHdaZk)
 
 ### Things I'll Do in the Future:
 
@@ -49,3 +48,4 @@ Sports goals 🏆:
 - [ ] Microservices project - record video with short project explanation (to increase chances for feedback)
 - [ ] Microservices project - prepare list of creators to whom send request (60-100 creators)
 - [ ] Git presentation - prepare demo
+- [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11

@@ -964,3 +964,31 @@ What a great day! Until noon I overhanded projects to the new guy and I started 
 31/08/2019
 ---
 It was a great day indeed. I invited few people for a pizza for the evening. We had good time talking and enjoying food 😉. 
+
+01/09/2019
+---
+Ha! I had a little surprise today 😅! After devotion I went for a cycling. I did 20~kms and visited my cousin...actually part of our family was there, including grandma. I spent 30 min there and went home to watch F1, but my cousin invited our friends to my house (yee, my parents house, but they are on vacations 😄). We had a good time!
+
+02/09/2019
+---
+The first day on the new project 🤗. I received a ton of information and I'm glad that I can work with the latest technologies!! Thank God for this opportunity 😊!
+
+03/09/2019
+---
+Another blessed day! Thank God for all the wisdom he giving me at work. In the evening (very late afternoon) I cycled 15 km with my roommate 👊. It was cold but worth it 💪!
+
+04/09/2019
+---
+It was tough day... All day I straggled with containers to run everything I need smoothly. In addition I had introduction to front-end side where I also see that I'm not that advanced 😐. Well... I hope God will give me wisdom 🙂!
+
+05/09/2019
+---
+It was a much better day than yesterday. I worked really long and hard again 💪💪. However I belive that this effort will be rewarded 🤝 👍. In the evening I decided to run 5km because I didn't do it for a long time. I did it, and I ran whole distance in something around 23:30 - not bad, not good but I'm happy 👊😉.
+
+06/09/2019
+---
+It was a great, great day! I finally resolved all the problems I had with environments and running the application! I found the bug in component that is provided by the other team which caused issues (and I struggled with that for hmm.... 2 days!!). Tomorrow we're going to Silesia for a baptism event. I won't be a driver and that's actually good. I can rest during the travel 😄. And one last - we have a great squad for our trip! 🚗👍👊
+
+07/09/2019
+---
+It was a great day! We drove Silesia and arrived in there at 3 pm with 2 stops on our way - quite good 👍.
