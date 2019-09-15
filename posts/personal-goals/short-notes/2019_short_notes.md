@@ -992,3 +992,31 @@ It was a great, great day! I finally resolved all the problems I had with enviro
 07/09/2019
 ---
 It was a great day! We drove Silesia and arrived in there at 3 pm with 2 stops on our way - quite good 👍.
+
+08/09/2019
+---
+What a blessed day! Today we were celebrating baptism event. All weather forecasts said it would rain but thank God the weather was perfect 👍! Afterwards we went to church to have dinner together. It was a great time 😊. 
+
+09/09/2019
+---
+I felt tired today 😪! I wanted to sleep and didn't have any energy for programming or think by myself. Hopefully tomorrow will be better 🤔.
+
+10/09/2019
+---
+Today I felt much better than the day before. I had energy to work 👍- but because of meetings at the end of the day, I lost it 😑. After work I also cycled 30 km! I'm proud of it 😊.
+
+11/09/2019
+---
+I think I need to change format of that daily writing... I mean it doesn't give me that much right now  🤨(in context of learning English). I think this is a nice task for the next week to figure out how to improve it, because I really like that daily notes - it's a good habit 👍👍.
+
+12/09/2019
+---
+I took my first task on the new project and of course I found myself in weird situation. The changes I made affects on other components so it's not that straightforward to do 😪. Anyway I'm happy I finally started something 🤗!
+
+13/09/2019
+---
+It was a nice day. The weather outside wasn't the best (autumn is finally coming) but I appreciate this day. To be honest - I don't know why 😄.
+
+14/09/2019
+---
+Today I spent a pleasant evening with young people from my church and surrounding churches. We met in the village called 'Reduty' which are 20 km from the town where I live. It was a good time we spent together. It's good to socialize with people 😄😄.

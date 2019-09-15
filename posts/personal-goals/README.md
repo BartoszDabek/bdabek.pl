@@ -24,21 +24,26 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [09/08/2019]
+# [09/15/2019]
 
 ### Things I'll do This Week:
 
+- [ ] Organize company/work/personal papers
+- [ ] Buy a organizational stuff
+- [ ] IntelliJ - configure formatting rules [work]
+- [ ] Organize bookmarks in chrome
 - [ ] Bike 30 km in a week
 - [ ] Run 6 km in a week
-- [ ] Learn Angular - finish [yt course](https://www.youtube.com/watch?v=CacMOuzTiJU&list=PLqq-6Pq4lTTb7JGBTogaJ8bm7f8VCvFkj&index=18)
-- [ ] 📗 Read [Best Practices for Many-To-One and One-To-Many Association Mappings](https://thoughts-on-java.org/best-practices-many-one-one-many-associations-mappings/)
-- [ ] 📗 Read [Chapter 15. Securing JAX-RS](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part1/chapter15/securing_jax_rs.html)
-- [ ] 📗 Read [TestCoverage](https://martinfowler.com/bliki/TestCoverage.html)
-- [ ] 📗 Read [Compile regular expressions once](http://www.javapractices.com/topic/TopicAction.do?Id=104)
-- [ ] 🎧 Listen [15+ Ways TPS Listeners Save Time and Have Time Freedom (TPS263)](http://www.asianefficiency.com/podcast/263-our-productive-audience/)
-- [ ] 🎧 Listen [Monday: Business Management Software with Eran Zinman](https://softwareengineeringdaily.com/2019/09/05/monday-business-management-software-with-eran-zinman/)
-- [ ] 🎧 Listen [Episode 379: Claire Le Goues on Automated Program Repair](https://www.se-radio.net/2019/09/episode-379-claire-le-goues-on-automated-program-repair/)
-- [ ] Watch [WJUG #167 - Garbage Collector w pigułce - Jakub Kubryński](https://www.youtube.com/watch?v=LCr3XyHdaZk)
+- [ ] 📗 Read [Spring Beans and Dependency Injection](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-spring-beans-and-dependency-injection.html)
+- [ ] 📗 Read [Think you understand the Single Responsibility Principle?](https://hackernoon.com/you-dont-understand-the-single-responsibility-principle-abfdd005b137)
+- [ ] 📗 Read [How and Why to Avoid Excessive Nesting](https://www.codeproject.com/Articles/626403/How-and-Why-to-Avoid-Excessive-Nesting)
+- [ ] 📗 Read [java regular expressions: performance and alternative](https://stackoverflow.com/questions/19829892/java-regular-expressions-performance-and-alternative)
+- [ ] 🎧 Listen [Cloud-Native Applications with Cornelia Davis](https://softwareengineeringdaily.com/2019/09/13/cloud-native-applications-with-cornelia-davis/)
+- [ ] 🎧 Listen [DevTalk #100 – O devstyle z Maciejem Aniserowiczem](https://devstyle.pl/2019/09/09/devtalk-100-o-devstyle-z-maciejem-aniserowiczem/)
+- [ ] 🎧 Listen [A Time For Everything](https://www.youtube.com/watch?v=ppBTBiij1Zg)
+- [ ] 🎧 Listen [15+ Things Asian Efficiency Implemented to Double Team Productivity and Collaboration (TPS264)](http://www.asianefficiency.com/podcast/264-how-we-doubled-our-productivity/)
+- [ ] 📽️ Watch [Jinkubator #32 - Be effective, be IntelliJ, czyli jak zintegrować się z własnym IDE - Cezary Draus](https://www.youtube.com/watch?v=Qzz3aEaFv3s)
+- [ ] 📽️ Watch [Spring Boot + Spring Security with JPA authentication and MySQL from scratch - Java Brains](https://www.youtube.com/watch?v=TNt3GHuayXs)
 
 ### Things I'll Do in the Future:
 
@@ -49,3 +54,8 @@ Sports goals 🏆:
 - [ ] Microservices project - prepare list of creators to whom send request (60-100 creators)
 - [ ] Git presentation - prepare demo
 - [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
+- [ ] Create website to store all ideas + move all content from GH (bartoszdabek.com repo) into there
+- [ ] Watch & learn course - [Angular Components In Depth](https://youtu.be/_b0fuqZwJc8?list=PLqq-6Pq4lTTbh7bUrKwyCWr6ABBFEd4bD) 
+- [ ] Write post about Factory Design Pattern
+- [ ] Business strategy for my company - create a plan
+- [ ] Buy organizational items - binders, sticky notes, lighting lamp
