@@ -1020,3 +1020,31 @@ It was a nice day. The weather outside wasn't the best (autumn is finally coming
 14/09/2019
 ---
 Today I spent a pleasant evening with young people from my church and surrounding churches. We met in the village called 'Reduty' which are 20 km from the town where I live. It was a good time we spent together. It's good to socialize with people 😄😄.
+
+15/09/2019
+---
+Today I've been invited to an amazing lunch by my good friends 🤗🍲. I decided to go there by bike (15km one way). It was a good decision because the food was so delicious and I could eat even more 😍(thanks to calories burned during cycling 😀). 
+
+16/09/2019
+---
+Monday... most people hate that day 😥. For me it's a day like any other and I honestly like mondays 😄. I think this is because I like my job and what I do in my life 😊. Thank God for that!
+
+17/09/2019
+---
+I got an offer to give a speech at my university. This's an interesting offer. On Thursday I have to answer if I'm decided or not 🤨. 
+
+18/09/2019
+---
+It's very cold week but in my 'weekly plan' I decided to run 6km. Well... it's windy and cold but today I went for a run. I did half of the distance and it was ok 😏. 
+
+19/09/2019
+---
+I said yes to the offer I received on Monday. I'll give a lecture and practice for students of the Bialystok University of Technology. I decided to talk about design patterns. I have some interesting ideas to discuss... I hope they'll like it 👍👍💪💪.
+
+20/09/2019
+---
+Friday ... It was a hard day 🤨. I had my hands full of work and I felt terrible after work. I was exhausted and had the strange feeling that I was sick (but I wasn't) 😢😳. In addition, in the evening I decided to run 3 km. It was a good decision. After a run and a quick shower I felt good again 👍!
+
+21/09/2019
+---
+Today I prepared a lunch for my parents. It was chicken with rice and vegetables. Quite tasty but I know I could prepare something better 😃😃.

@@ -24,26 +24,25 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [09/15/2019]
+# [09/22/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Organize company/work/personal papers
-- [ ] Buy a organizational stuff
-- [ ] IntelliJ - configure formatting rules [work]
-- [ ] Organize bookmarks in chrome
-- [ ] Bike 30 km in a week
+- [ ] Prepare agenda for students classes
+- [ ] Write post about Factory Design Pattern
+- [ ] Bike 20 km in a week
 - [ ] Run 6 km in a week
-- [ ] 📗 Read [Spring Beans and Dependency Injection](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-spring-beans-and-dependency-injection.html)
-- [ ] 📗 Read [Think you understand the Single Responsibility Principle?](https://hackernoon.com/you-dont-understand-the-single-responsibility-principle-abfdd005b137)
-- [ ] 📗 Read [How and Why to Avoid Excessive Nesting](https://www.codeproject.com/Articles/626403/How-and-Why-to-Avoid-Excessive-Nesting)
-- [ ] 📗 Read [java regular expressions: performance and alternative](https://stackoverflow.com/questions/19829892/java-regular-expressions-performance-and-alternative)
-- [ ] 🎧 Listen [Cloud-Native Applications with Cornelia Davis](https://softwareengineeringdaily.com/2019/09/13/cloud-native-applications-with-cornelia-davis/)
-- [ ] 🎧 Listen [DevTalk #100 – O devstyle z Maciejem Aniserowiczem](https://devstyle.pl/2019/09/09/devtalk-100-o-devstyle-z-maciejem-aniserowiczem/)
-- [ ] 🎧 Listen [A Time For Everything](https://www.youtube.com/watch?v=ppBTBiij1Zg)
-- [ ] 🎧 Listen [15+ Things Asian Efficiency Implemented to Double Team Productivity and Collaboration (TPS264)](http://www.asianefficiency.com/podcast/264-how-we-doubled-our-productivity/)
-- [ ] 📽️ Watch [Jinkubator #32 - Be effective, be IntelliJ, czyli jak zintegrować się z własnym IDE - Cezary Draus](https://www.youtube.com/watch?v=Qzz3aEaFv3s)
-- [ ] 📽️ Watch [Spring Boot + Spring Security with JPA authentication and MySQL from scratch - Java Brains](https://www.youtube.com/watch?v=TNt3GHuayXs)
+- [ ] 📗 Read [Serverless computing: one step forward, two steps back](https://blog.acolyer.org/2019/01/14/serverless-computing-one-step-forward-two-steps-back/)
+- [ ] 📗 Read [Why the Open Closed Principle is the one you need to know but don’t](https://hackernoon.com/why-the-open-closed-principle-is-the-one-you-need-to-know-but-dont-176f7e4416d)
+- [ ] 📗 Read [Java 13 przegląd nowości](http://nullpointerexception.pl/java-13-przeglad-nowosci/)
+- [ ] 📗 Read [Intro to AspectJ](https://www.baeldung.com/aspectj)
+- [ ] 🎧 Listen [What is the SECRET to making goals?](https://youtu.be/D9j5NuOTilk)
+- [ ] 🎧 Listen [DevTalk #101 – O CQRS z Łukaszem Szydło](https://devstyle.pl/2019/09/16/devtalk-101-o-cqrs-z-lukaszem-szydlo/)
+- [ ] 🎧 Listen [SPI 389: How to Get More 1-on-1 Clients with Jenny Shih](https://www.smartpassiveincome.com/podcasts/how-to-get-more-1-on-1-clients-with-jenny-shih/)
+- [ ] 🎧 Listen [ReadMe with Greg Koberger](https://softwareengineeringdaily.com/2019/09/20/readme-with-greg-koberger/)
+- [ ] 📽️ Watch [Episode 06: Intro to Architecture and Systems Design Interviews](https://youtu.be/ZgdS0EUmn70)
+- [ ] 📽️ Watch [Kibana Tutorial | Kibana Dashboard Tutorial | Kibana Elasticsearch | ELK Stack Tutorial | Edureka](https://youtu.be/gQ1c1uILyKI)
+- [ ] 📽️ Watch [Programowanie aspektowe z wykorzystaniem AspectJ - Damian Sinczak](https://www.youtube.com/watch?v=I3h-kGeAn2s)
 
 ### Things I'll Do in the Future:
 
@@ -56,6 +55,5 @@ Sports goals 🏆:
 - [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
 - [ ] Create website to store all ideas + move all content from GH (bartoszdabek.com repo) into there
 - [ ] Watch & learn course - [Angular Components In Depth](https://youtu.be/_b0fuqZwJc8?list=PLqq-6Pq4lTTbh7bUrKwyCWr6ABBFEd4bD) 
-- [ ] Write post about Factory Design Pattern
 - [ ] Business strategy for my company - create a plan
 - [ ] Buy organizational items - binders, sticky notes, lighting lamp
