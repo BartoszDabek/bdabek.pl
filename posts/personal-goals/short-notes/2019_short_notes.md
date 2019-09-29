@@ -1048,3 +1048,31 @@ Friday ... It was a hard day 🤨. I had my hands full of work and I felt terrib
 21/09/2019
 ---
 Today I prepared a lunch for my parents. It was chicken with rice and vegetables. Quite tasty but I know I could prepare something better 😃😃.
+
+22/09/2019
+---
+Ahh... it was a great Sunday! The weather outside was quite nice, if we look at it almost the end of September 😮! I was in the church in the morning and evening - it was a good time. In addition I cycled 20 km - just for relax 😄😄.
+
+23/09/2019
+---
+Today I found out that one of my friends got engaged 😲! His fiancee is really beautiful and I think she will be a wonderful wife. I wish them all the best! He really deserved it 👫.
+
+24/09/2019
+---
+Another wonderful day! Today I met my good friend. We talked for 2 hours and then I went on a swimming pool with my cousin 🏊. Mainly we used only sauna for relax 🧖. I really missed it 😍.
+
+25/09/2019
+---
+Now I understand why programmers hate meetings...😡. Today I had 5 hours of meetings 🤯🤯and to be honest there was a MAXIMUM 1 hour of useful information there!! Then I had a strange headache all day 😥. Next time I'll take the phone and go for a walk during these meetings.. 
+
+26/09/2019
+---
+It was a good day though. I don't feel as much motivated as at the beginning of this week. I don't know what is wrong 😰. Maybe it's because in next week I have to move to live in Bialystok (studies) ❓❔
+
+27/09/2019
+---
+I think it was another good day in my life 👍. I've worked a lot today but I belive that all my efforts will eventually pay off 💲💲💲(they already do). I ran 3 km today - just to relax and organize everything in my head 🏃👟.
+
+28/09/2019
+---
+Today I finally met with my best friend. We cycled about 20~km and talked at that time 🚴👍. I really enjoy moments like these! 😉😉
