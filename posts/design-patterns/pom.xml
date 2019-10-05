@@ -12,6 +12,7 @@
         <module>Observer</module>
         <module>Command</module>
         <module>FactoryMethod</module>
+        <module>AbstractFactory</module>
         <module>common-config</module>
     </modules>
 
