@@ -17,28 +17,28 @@ Sports goals 🏆:
 2. ✅ 5km in under 22 minutes (21:31)
 3. 60m underwater
 4. 95 kg bench press
-5. ✅ 3:30 with held breath
+5. ✅ 3:30 with held breath (3:32)
 
 25 Days Challenges 💪💪
-1. ✅ Holding breath (personal best: 3:32)
+1. ✅ Holding breath (8.02-5.03)
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [09/29/2019]
+# [10/06/2019]
 
 ### Things I'll do This Week:
 
 - [ ] Prepare lecture about Builder Design Pattern
-- [ ] Write post about Abstract Factory Design Pattern
-- [ ] Run 6 km in a week
-- [ ] 📗 Read [The Liskov Substitution Principle — and why you might want to enforce it](https://medium.com/hackernoon/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
-- [ ] 📗 Read [The Interface Segregation Principle — it’s confused](https://medium.com/@jim_ej/the-interface-segregation-principle-its-confused-aa856de97d36)
-- [ ] 📗 Read [Angular Observables](https://angular.io/guide/observables)
-- [ ] 🎧 Listen [English Challenge | Halfway Point](https://youtu.be/Oq5UAMSSJ3Q)
-- [ ] 🎧 Listen [Episode 381: Josh Long on Spring Boot](https://www.se-radio.net/2019/09/episode-381-josh-long-on-spring-boot/)
-- [ ] 🎧 Listen [Kafka Data Pipelines with Robin Moffatt](https://softwareengineeringdaily.com/2019/09/23/kafka-data-pipelines-with-robin-moffatt/)
-- [ ] 🎧 Listen [DevTalk #102 – O Systemach Rozproszonych z Jakubem Kubryńskim](https://devstyle.pl/2019/09/23/devtalk-102-o-systemach-rozproszonych-z-jakubem-kubrynskim/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S01E03 - Przetwarzanie współbieżne w Javie - Tomek Adamczewski](https://www.youtube.com/watch?v=ttvQvDC6z1A)
+- [ ] 📗 Read [Thread pool self-induced deadlocks](https://www.nurkiewicz.com/2018/09/thread-pool-self-induced-deadlocks.html?utm_source=jvm-bloggers.com&utm_medium=link&utm_campaign=jvm-bloggers)
+- [ ] 📗 Read [Najczęściej popełniane błędy w Spring Framework](http://nullpointerexception.pl/najczesciej-popelniane-bledy-w-spring-framework/)
+- [ ] 📗 Read [The RxJS library](https://angular.io/guide/rx-library)
+- [ ] 🎧 Listen [Learn Real English not School English](https://youtu.be/nctksGqMup4)
+- [ ] 🎧 Listen [Episode 86. Move Over Slow Startup times, GraalVM…IS…HERE. (and cross-language support, and less memory footprint…)](https://www.javapubhouse.com/2019/10/episode-86-move-over-slow-startup-times-graalvm-is-here-and-cross-language-support-and-less-memory-footprint.html)
+- [ ] 🎧 Listen [Episode 93: A Journey to Programming Mastery](https://www.programmingthrowdown.com/2019/09/episode-93-journey-to-programming.html)
+- [ ] 🎧 Listen [Episode 55. Let’s get GIT-it With it!](https://www.javapubhouse.com/2016/01/episode-55-lets-get-git-it-with-it.html)
+- [ ] 🎧 Listen [Webinar Rozmowy o Jakości - Jarek Ratajski](https://youtu.be/LJPLM7M4xvw)
+- [ ] 📽️ Watch [Hadoop Tutorial For Beginners | Hadoop Ecosystem Explained in 20 min! - Frank Kane](https://youtu.be/DCaiZq3aBSc)
+- [ ] 📽️ Watch [Introduction to Hadoop | Hadoop Tutorial for Beginners | Hadoop Training | Edureka](https://youtu.be/rqVuj4nft-E)
 
 ### Things I'll Do in the Future:
 
@@ -53,3 +53,4 @@ Sports goals 🏆:
 - [ ] Watch & learn course - [Angular Components In Depth](https://youtu.be/_b0fuqZwJc8?list=PLqq-6Pq4lTTbh7bUrKwyCWr6ABBFEd4bD) 
 - [ ] Business strategy for my company - plan for 2020
 - [ ] Buy organizational items - binders, sticky notes, lighting lamp
+- [ ] Write post on medium

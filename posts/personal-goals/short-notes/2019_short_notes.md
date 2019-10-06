@@ -1076,3 +1076,31 @@ I think it was another good day in my life 👍. I've worked a lot today but I b
 28/09/2019
 ---
 Today I finally met with my best friend. We cycled about 20~km and talked at that time 🚴👍. I really enjoy moments like these! 😉😉
+
+29/09/2019
+---
+I spent the whole day at home 😰.. I could go out with my friends but I decided not to. I don't think it was the right decision 😥. 
+
+30/09/2019
+---
+Last day of September - fall is coming 🌂🧥🧤. Today I visited my friend - we were talking and had a good time. Afterwards I drove to Bialystok 🚗. It's good that I have a place where to live but honestly I don't really like that big cities. I prefer to live in a little town (I guess :D).
+
+01/10/2019
+---
+It was a tough day 😑... I had a problem at work that I couldn't resolve. The biggest problem is that if I can't resolve something I'm trying more and more. The result of that is that I worked for a whole day (and yes - I resolved it) 😫!
+
+02/10/2019
+---
+Another exhausting day 🤯. Work + studies are really tough! I don't have time for my own things - today I haven't done the training that I do every Wednesday 😥. I hope that the next days will be better. 
+
+03/10/2019
+---
+I drove home today and I realizied that the autumn is so beautiful! 🚗🏡🍂 Trees with diiferent colors, people are warmer (at least it is my opinion) - all of that makes me very grateful for God! 🙏
+
+04/10/2019
+---
+It was a very active day 💪! After work I decided to go to volleyball training 🏐and then went to the pool with my friends 🏊. Overall it was a really good day :)
+
+05/10/2019
+---
+It was a good Saturday ❤️. I learned new things about the maven tool 👩🏻‍💻. In the evening I went to my friend for a haircut and then we went for a run 🏃
