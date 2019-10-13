@@ -1104,3 +1104,31 @@ It was a very active day 💪! After work I decided to go to volleyball training
 05/10/2019
 ---
 It was a good Saturday ❤️. I learned new things about the maven tool 👩🏻‍💻. In the evening I went to my friend for a haircut and then we went for a run 🏃
+
+06/10/2019
+---
+Coooold... It was very cold outside today ❄️. I think nothing special happened today - in the morning, I was in church and in the evening I went to Bialystok.
+
+07/10/2019
+---
+Work > studies > work 😫... For a year I'll have more time 😂😂. Nothing to add for today.
+
+08/10/2019
+---
+Today it was a little better. I wasn't in a rush at work and had some free time 😎. Arghh... Lately I have a weird problem. After the morning bath my legs itch me! 😫 It's so annoying 😡!
+
+09/10/2019
+---
+Another tough day 🤐. I found a bug in our system that is so dumb -  communication has definitely failed  😭😭 - that I need to browse the repo, commit after commit and ask a lot of questions to people who made it 🙃
+
+10/10/2019
+---
+Human nature is really strange... we know that something is good and will give us profit in the future but instead we choose bad things. Why? 🤔🤷🏽‍♂️
+
+11/10/2019
+---
+Hi 👋! It's weekend finally!! I think this week was very exhausting and I'm a little tired. Today with friends we went on pool and afterwards we went to eat some fast food 🍗
+
+12/10/2019
+---
+Honestly? I wasted most of the day. Instead of doing things for studies or something I like, I decided to work... 😓 I should be ashamed and this is a lesson for me - don't do work after work 🤨

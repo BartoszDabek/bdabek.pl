@@ -24,21 +24,23 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [10/06/2019]
+# [10/13/2019]
 
 ### Things I'll do This Week:
 
 - [ ] Prepare lecture about Builder Design Pattern
-- [ ] 📗 Read [Thread pool self-induced deadlocks](https://www.nurkiewicz.com/2018/09/thread-pool-self-induced-deadlocks.html?utm_source=jvm-bloggers.com&utm_medium=link&utm_campaign=jvm-bloggers)
-- [ ] 📗 Read [Najczęściej popełniane błędy w Spring Framework](http://nullpointerexception.pl/najczesciej-popelniane-bledy-w-spring-framework/)
-- [ ] 📗 Read [The RxJS library](https://angular.io/guide/rx-library)
-- [ ] 🎧 Listen [Learn Real English not School English](https://youtu.be/nctksGqMup4)
-- [ ] 🎧 Listen [Episode 86. Move Over Slow Startup times, GraalVM…IS…HERE. (and cross-language support, and less memory footprint…)](https://www.javapubhouse.com/2019/10/episode-86-move-over-slow-startup-times-graalvm-is-here-and-cross-language-support-and-less-memory-footprint.html)
-- [ ] 🎧 Listen [Episode 93: A Journey to Programming Mastery](https://www.programmingthrowdown.com/2019/09/episode-93-journey-to-programming.html)
-- [ ] 🎧 Listen [Episode 55. Let’s get GIT-it With it!](https://www.javapubhouse.com/2016/01/episode-55-lets-get-git-it-with-it.html)
-- [ ] 🎧 Listen [Webinar Rozmowy o Jakości - Jarek Ratajski](https://youtu.be/LJPLM7M4xvw)
-- [ ] 📽️ Watch [Hadoop Tutorial For Beginners | Hadoop Ecosystem Explained in 20 min! - Frank Kane](https://youtu.be/DCaiZq3aBSc)
-- [ ] 📽️ Watch [Introduction to Hadoop | Hadoop Tutorial for Beginners | Hadoop Training | Edureka](https://youtu.be/rqVuj4nft-E)
+- [ ] Studies: ZSO - prepare VM with linux
+- [ ] Studies: ZSO - task 1
+- [ ] Studies: SWD - prepare plan + technologies
+- [ ] Studies: ZIO - functional description
+- [ ] 📗 Read [Observables in Angular](https://angular.io/guide/observables-in-angular)
+- [ ] 📗 Read [Wszystko o CSP 2.0 – Content Security Policy jako uniwersalny strażnik bezpieczeństwa aplikacji webowej](https://sekurak.pl/wszystko-o-csp-2-0-content-security-policy-jako-uniwersalny-straznik-bezpieczenstwa-aplikacji-webowej/)
+- [ ] 📗 Read [Dobry POM](https://lafkblogs.wordpress.com/2019/09/28/dobry-pom/?utm_source=jvm-bloggers.com&utm_medium=link&utm_campaign=jvm-bloggers)
+- [ ] 🎧 Listen [SPI 392: Everything You Need to Know about Membership Websites with Stu McLaren](https://www.smartpassiveincome.com/podcasts/membership-websites-with-stu-mclaren/)
+- [ ] 🎧 Listen [Episode 94: Search at Etsy](https://www.programmingthrowdown.com/2019/10/episode-94-search-at-etsy.html)
+- [ ] 🎧 Listen [An Evernote Consultant Reveals How She Uses The Tool To Manage Busy Life and Business (TPS268)](http://www.asianefficiency.com/podcast/268-stacey-harmon/)
+- [ ] 🎧 Listen [DevTalk #103 – O Flutterze z Dominikiem Roszkowskim](https://devstyle.pl/2019/10/07/devtalk-103-o-flutterze-z-dominikiem-roszkowskim/)
+- [ ] 📽️ Watch [Observer Pattern – Design Patterns (ep 2)](https://youtu.be/_BpmfnqjgzQ)
 
 ### Things I'll Do in the Future:
 
