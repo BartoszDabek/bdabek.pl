@@ -24,26 +24,27 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [10/13/2019]
+# [10/20/2019]
 
 ### Things I'll do This Week:
 
+- [ ] Finish 10 questions for BTI
 - [ ] Prepare lecture about Builder Design Pattern
-- [ ] Studies: ZSO - prepare VM with linux
+- [ ] Prepare lecture about Strategy Design Pattern
 - [ ] Studies: ZSO - task 1
 - [ ] Studies: SWD - prepare plan + technologies
-- [ ] Studies: ZIO - functional description
-- [ ] 📗 Read [Observables in Angular](https://angular.io/guide/observables-in-angular)
-- [ ] 📗 Read [Wszystko o CSP 2.0 – Content Security Policy jako uniwersalny strażnik bezpieczeństwa aplikacji webowej](https://sekurak.pl/wszystko-o-csp-2-0-content-security-policy-jako-uniwersalny-straznik-bezpieczenstwa-aplikacji-webowej/)
-- [ ] 📗 Read [Dobry POM](https://lafkblogs.wordpress.com/2019/09/28/dobry-pom/?utm_source=jvm-bloggers.com&utm_medium=link&utm_campaign=jvm-bloggers)
-- [ ] 🎧 Listen [SPI 392: Everything You Need to Know about Membership Websites with Stu McLaren](https://www.smartpassiveincome.com/podcasts/membership-websites-with-stu-mclaren/)
-- [ ] 🎧 Listen [Episode 94: Search at Etsy](https://www.programmingthrowdown.com/2019/10/episode-94-search-at-etsy.html)
-- [ ] 🎧 Listen [An Evernote Consultant Reveals How She Uses The Tool To Manage Busy Life and Business (TPS268)](http://www.asianefficiency.com/podcast/268-stacey-harmon/)
-- [ ] 🎧 Listen [DevTalk #103 – O Flutterze z Dominikiem Roszkowskim](https://devstyle.pl/2019/10/07/devtalk-103-o-flutterze-z-dominikiem-roszkowskim/)
-- [ ] 📽️ Watch [Observer Pattern – Design Patterns (ep 2)](https://youtu.be/_BpmfnqjgzQ)
+- [ ] Studies: SWD - write app to read data from file input
+- [ ] 📗 Read [Map.merge() - One method to rule them all](https://www.nurkiewicz.com/2019/03/mapmerge-one-method-to-rule-them-all.html)
+- [ ] 📗 Read [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754#targetText=Reactive%20programming%20is%20programming%20with,is%20that%20idea%20on%20steroids.)
+- [ ] 🎧 Listen [English Learning | Staying Motivated Is NUMBER 1!](https://youtu.be/5fTs4km0sVs)
+- [ ] 🎧 Listen [Episode 384: Boris Cherny on TypeScript](https://www.se-radio.net/2019/10/episode-384-boris-cherny-on-typescript/)
+- [ ] 🎧 Listen [LinkedIn Kafka with Nacho Solis](https://softwareengineeringdaily.com/2019/10/18/linkedin-kafka-with-nacho-solis/)
+- [ ] 🎧 Listen [Episode 383: Neil Madden On Securing Your API](https://www.se-radio.net/2019/10/episode-383-neil-madden-on-securing-your-api/)
+- [ ] 📽️ Watch [JAVAFAKTURA - S01E02 - Optionale i streamy - Adam Król](https://youtu.be/38SWOT_aMJ8)
 
 ### Things I'll Do in the Future:
 
+- [ ] Reorganize things to-do in the future
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents
 - [ ] Microservices project - send emails to creators with domain questions

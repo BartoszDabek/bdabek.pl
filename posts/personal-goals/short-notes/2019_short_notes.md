@@ -1132,3 +1132,31 @@ Hi 👋! It's weekend finally!! I think this week was very exhausting and I'm a 
 12/10/2019
 ---
 Honestly? I wasted most of the day. Instead of doing things for studies or something I like, I decided to work... 😓 I should be ashamed and this is a lesson for me - don't do work after work 🤨
+
+13/10/2019
+---
+It was a quite nice Sunday :). I visited my friends, been at the church, watched F1 and went to Bialystok. Quite good..
+
+14/10/2019
+---
+Good Monday! I did a good work (finally closed the topic that I had since Wednesday...), I've been at the University and did some work on my presentation about design patterns 👏👍 
+
+15/10/2019
+---
+Yay! It was a cool day! 😎 I didn't have to go to the University and I was productive at work + I had some free time to do some tasks for studies 💪.
+
+16/10/2019
+---
+It was another good day. Surprisingly this week is really good for me and thanks God for that 🙏. Today I've met with friends from church. We were singing songs, praying together and talking ☺️. I've met new person and it was a nice time :)
+
+17/10/2019
+---
+What a crazy day it was 😅. I finished my work at 9 PM! But it's all ok because during the day I had to be on studies + I was also traveling (drove home) 🙂. 
+
+18/10/2019
+---
+Few times I've been thinking whether all this short notes makes any sense 🤔... Well, I don't have answer to that yet but since over a year this's my morning routine I don't want to break it ✋
+
+19/10/2019
+---
+Another good day :). I did some homework for studies + I got invited on wedding 👰🤵. I wrote about my friend who got engaged about a month ago. They invited me and all my family to the wedding :). I'm happy about this and I want to go there!
