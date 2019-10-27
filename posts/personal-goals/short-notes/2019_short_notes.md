@@ -1160,3 +1160,31 @@ Few times I've been thinking whether all this short notes makes any sense 🤔..
 19/10/2019
 ---
 Another good day :). I did some homework for studies + I got invited on wedding 👰🤵. I wrote about my friend who got engaged about a month ago. They invited me and all my family to the wedding :). I'm happy about this and I want to go there!
+
+20/10/2019
+---
+Thank you God for that wonderful Sunday. We were celebrating thanksgiving holiday at our church. We had dinner and it was a good time that we spent together. 🦃🥕
+
+21/10/2019
+---
+Mooonday! Who hates Mondays❓I don't! Of course, it would be perfect to have a longer weekend but if I like my job it's not like: 'arghhhh.. 5 days until the weekend again'. Try to like your job and Monday will be a pleasure for you! 🔥❤
+
+22/10/2019
+---
+I spoke to one of my teachers today and I don't have to attend his workshops 😎😎. Of course I have to do everything other students do but I can do it from my home :)!
+
+23/10/2019
+---
+Today I started training on clean code & writing good tests. After the training, I met our trainer and went out to a local meeting of a java group called jsession. A lot of knowledge for one day! 👍🔥
+
+24/10/2019
+---
+Second day of training. It was quite better - we talked about tdd and practiced it 👨🏻 💻. I spent the second part of the day studying and doing projects for studies.. Sounds interesting, huh? 🙄
+
+25/10/2019
+---
+Last day of training 🙄. I knew about most of the things that the trainer told us, but I still treat this training as valuable because I learned some details 👍
+
+26/10/2019
+---
+Today I've been at the [DevForge](https://www.facebook.com/KonferencjaDevForge/) conference in Bialystok. Presentations on the conference was technically advanced and had high quality 🔥👍❤. As always after conferences now there are some aspects to think about in my career...🤔
