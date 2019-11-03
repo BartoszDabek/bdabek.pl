@@ -24,34 +24,26 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [10/27/2019]
+# [11/03/2019]
 
 ### Things I'll do This Week:
 
 - [ ] Prepare lecture about Strategy Design Pattern
-- [ ] Studies: SWD - write app to read data from file input
-- [ ] Reorganize `Things todo in the future`
-- [ ] Run mutation tests on the project
-- [ ] 📗 Read [Chapter 1. Reactive Programming with RxJava](https://www.oreilly.com/library/view/reactive-programming-with/9781491931646/ch01.html)
-- [ ] 📗 Read [GraphQL server in Java: Part I: Basics](https://www.nurkiewicz.com/2019/10/graphql-server-in-java-part-i-basics.html)
-- [ ] 📗 Read [Pytania rekrutacyjne – Jak działa HashMapa w Javie?](http://nullpointerexception.pl/pytania-rekrutacyjne-jak-dziala-hashmapa-w-javie/)
-- [ ] 🎧 Listen [Episode 95: WebRTC with Sean DuBois](https://www.programmingthrowdown.com/2019/10/episode-95-webrtc-with-sean-dubois.html)
-- [ ] 🎧 Listen [The English Learning Formula](https://youtu.be/HqIXBeTKCCo)
-- [ ] 🎧 Listen [Strategic Planning: Get From Where You Are To Where You Want To Be (TPS270)](http://www.asianefficiency.com/podcast/270-strategic-planning/)
-- [ ] 🎧 Listen [DevTalk #104 – O angielskim w IT z Maciejem Jędrzejewskim](https://devstyle.pl/2019/10/21/devtalk-104-o-angielskim-w-it-z-maciejem-jedrzejewskim/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S01E05 - Testowanie w Javie na przykładzie JUnit5 - Tomek Owczarek](https://youtu.be/1bNKqe-KNao)
+- [ ] Prepare lecture about Decorator Design Pattern
+- [ ] 📗 Read [GraphQL server in Java: Part II: Understanding Resolvers](https://www.nurkiewicz.com/2019/10/graphql-server-in-java-part-ii.html)
+- [ ] 📗 Read [Spring Security i Json Web Token](http://nullpointerexception.pl/spring-security-i-json-web-token/)
+- [ ] 📗 Read [Chapter 4. Applying Reactive Programming to Existing Applications](https://www.oreilly.com/library/view/reactive-programming-with/9781491931646/ch04.html#threads-in-rxjava)
+- [ ] 🎧 Listen [SPI 394: Organizing Your Life with April and Eric Perry](https://www.smartpassiveincome.com/podcasts/organizing-your-life-with-april-and-eric-perry/)
+- [ ] 🎧 Listen [Episode 385: Evan Gilman and Doug Barth on Zero-Trust Networks](https://www.se-radio.net/2019/10/episode-385-evan-gilman-and-doug-barth-on-zero-trust-networks/)
+- [ ] 🎧 Listen [Your Money or Your Life | Chapter 4](https://youtu.be/n3wqIWE_q0s)
+- [ ] 🎧 Listen [Facebook Leadership with Arturo Bejar](https://softwareengineeringdaily.com/2019/11/01/facebook-leadership-with-arturo-bejar/)
+- [ ] 📽️ Watch [Mutation testing with pitest](https://youtu.be/nf2xpqcZouY)
 
 ### Things I'll Do in the Future:
 
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents
-- [ ] Microservices project - send emails to creators with domain questions
-- [ ] Microservices project - record video with short project explanation (to increase chances for feedback)
-- [ ] Microservices project - prepare list of creators to whom send request (60-100 creators)
-- [ ] Git presentation - prepare demo
-- [ ] Make a contribution in [Strongbox](https://github.com/strongbox/strongbox) - add support for Java 11
 - [ ] Create website to store all ideas + move all content from GH (bartoszdabek.com repo) into there
 - [ ] Watch & learn course - [Angular Components In Depth](https://youtu.be/_b0fuqZwJc8?list=PLqq-6Pq4lTTbh7bUrKwyCWr6ABBFEd4bD) 
 - [ ] Business strategy for my company - plan for 2020
-- [ ] Buy organizational items - binders, sticky notes, lighting lamp
-- [ ] Write post on medium
+- [ ] Start writing on medium (2020)

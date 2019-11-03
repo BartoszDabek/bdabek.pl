@@ -1188,3 +1188,31 @@ Last day of training 🙄. I knew about most of the things that the trainer told
 26/10/2019
 ---
 Today I've been at the [DevForge](https://www.facebook.com/KonferencjaDevForge/) conference in Bialystok. Presentations on the conference was technically advanced and had high quality 🔥👍❤. As always after conferences now there are some aspects to think about in my career...🤔
+
+27/10/2019
+---
+I realized that I lost motivation for studies and for a work. I really like to study and for sure I like my job, but something is wrong... maybe I'm too overwhelmed? 🤯
+
+28/10/2019
+---
+Monday :) I did a good job at work and finally almost finished bug that follow me for a few days. I think that that's the reason why I lost motivation for a work 🙄. Btw. I practiced TDD today and it was quite fun 😉
+
+29/10/2019
+---
+Today I worked in an office - recently I started to like work from there 😮. I also started a new morning routine - morning workout - 4 times a week 💪. I've been doing it for two days and after these workouts I felt great 👊!
+
+30/10/2019
+---
+Today I had fasting. It is tough to not eat a whole day... and what if some people doing that for few days 🤯? It's amazing feeling and I want to do that every month.
+
+31/10/2019
+---
+Last day of October ☺️. I practice cold showers for a few days in the morning after workouts 💧💧. It's very stimulating - you have more energy and enjoy when the shower is over 😂!
+
+01/11/2019
+---
+Yohoo, it's November already 😀🙌! Today was my dad's birthday. He invited the whole family and we celebrated 🎈. There were many cakes 🎂, gifts 🎁and valuable conversations 😊.
+
+02/11/2019
+---
+I spent most of this autumn Saturday doing one of my university projects. But in the evening I went to the swimming pool with my friends - it was very fun 😅. I really like and appreciate such moments 😍.
