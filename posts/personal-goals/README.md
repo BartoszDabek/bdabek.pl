@@ -24,20 +24,20 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [11/03/2019]
+# [11/10/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare lecture about Strategy Design Pattern
 - [ ] Prepare lecture about Decorator Design Pattern
-- [ ] 📗 Read [GraphQL server in Java: Part II: Understanding Resolvers](https://www.nurkiewicz.com/2019/10/graphql-server-in-java-part-ii.html)
-- [ ] 📗 Read [Spring Security i Json Web Token](http://nullpointerexception.pl/spring-security-i-json-web-token/)
-- [ ] 📗 Read [Chapter 4. Applying Reactive Programming to Existing Applications](https://www.oreilly.com/library/view/reactive-programming-with/9781491931646/ch04.html#threads-in-rxjava)
-- [ ] 🎧 Listen [SPI 394: Organizing Your Life with April and Eric Perry](https://www.smartpassiveincome.com/podcasts/organizing-your-life-with-april-and-eric-perry/)
-- [ ] 🎧 Listen [Episode 385: Evan Gilman and Doug Barth on Zero-Trust Networks](https://www.se-radio.net/2019/10/episode-385-evan-gilman-and-doug-barth-on-zero-trust-networks/)
-- [ ] 🎧 Listen [Your Money or Your Life | Chapter 4](https://youtu.be/n3wqIWE_q0s)
-- [ ] 🎧 Listen [Facebook Leadership with Arturo Bejar](https://softwareengineeringdaily.com/2019/11/01/facebook-leadership-with-arturo-bejar/)
-- [ ] 📽️ Watch [Mutation testing with pitest](https://youtu.be/nf2xpqcZouY)
+- [ ] Prepare tasks for students to Builder & Strategy Design Patterns
+- [ ] 📗 Read [Spring Transaction Management: An unconventional guide](https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide)
+- [ ] 📗 Read [Spring Data JPA – wprowadzenie](http://nullpointerexception.pl/spring-data-jpa-wprowadzenie/)
+- [ ] 📗 Read [RxNetty vs Tomcat Performance Results](https://github.com/Netflix-Skunkworks/WSPerfLab/blob/master/test-results/RxNetty_vs_Tomcat_April2015.pdf)
+- [ ] 🎧 Listen [Drones with Chris Anderson](https://softwareengineeringdaily.com/2019/11/08/drones-with-chris-anderson/)
+- [ ] 🎧 Listen [Episode 87. Ok, it’s time to get Reactive!](https://www.javapubhouse.com/2019/11/episode-87-ok-its-time-to-get-reactive.html)
+- [ ] 🎧 Listen [DevTalk #105 – O SAP z Pawłem Wiejkutem](https://devstyle.pl/2019/11/04/devtalk-105-o-sap-z-pawlem-wiejkutem/)
+- [ ] 🎧 Listen [SPI 395: Podcasting in 2020—What You Need to Know](https://www.smartpassiveincome.com/podcasts/podcasting-in-2020-what-you-need-to-know/)
+- [ ] 📽️ Watch [JAVAFAKTURA - S02E01 - S is for Spring - Tomek Adamczewski](https://youtu.be/P58WjHtGl18)
 
 ### Things I'll Do in the Future:
 

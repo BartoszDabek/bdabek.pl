@@ -1216,3 +1216,31 @@ Yohoo, it's November already 😀🙌! Today was my dad's birthday. He invited t
 02/11/2019
 ---
 I spent most of this autumn Saturday doing one of my university projects. But in the evening I went to the swimming pool with my friends - it was very fun 😅. I really like and appreciate such moments 😍.
+
+03/11/2019
+---
+It was wonderful Sunday 😊☀️. I had a lot of fun with my nephew.. :)
+
+04/11/2019
+---
+Work 💻 -> Studies 🧑‍🎓 -> Work 🔨... Yeah, it's Monday! :D I have to get used to it for a few months :)
+
+05/11/2019
+---
+I don't know if I'm stupid or hardworking. I spent the whole day on the code refactor. I could just fix the bug and do something more interesting but I choose to refactor the code for 12 hours.. Is it passion or beeing dumb? 🤔🤔
+
+06/11/2019
+---
+Today after work and study I visited my friend. There were some people there. It was a good time 👍
+
+07/11/2019
+---
+Home sweet home :). Today I went back to my parents house. I feel great in here ❤. I love the nature and everything around here 😊
+
+08/11/2019
+---
+If you follow someone and someone's ideas you probably won't succeed like that person. I don't know why but this sentence follows me and I had to write it somewhere ✍🏽📓
+
+09/11/2019
+---
+It was a crazy day! At the end of the day everything in my head was in English 😂. This is because all day I read one of the chapters of the book Reactive Programming written by Tomasz Nurkiewicz. The book itself is very interesting! 📚

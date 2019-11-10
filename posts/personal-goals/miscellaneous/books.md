@@ -11,6 +11,7 @@
 - [ ] The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin
 - [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
 - [ ] Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman - Dave Hoover, Adewale Oshineye
+- [ ] Reactive Programming with RxJava - Ben Christensen, Tomasz Nurkiewicz
 
 ## In Progress
 - [ ] 97 Things Every Programmer Should Know: Collective Wisdom from the Experts
