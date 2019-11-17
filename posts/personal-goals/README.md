@@ -24,20 +24,22 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [11/10/2019]
+# [11/17/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare lecture about Decorator Design Pattern
-- [ ] Prepare tasks for students to Builder & Strategy Design Patterns
-- [ ] 📗 Read [Spring Transaction Management: An unconventional guide](https://www.marcobehler.com/guides/spring-transaction-management-unconventional-guide)
-- [ ] 📗 Read [Spring Data JPA – wprowadzenie](http://nullpointerexception.pl/spring-data-jpa-wprowadzenie/)
-- [ ] 📗 Read [RxNetty vs Tomcat Performance Results](https://github.com/Netflix-Skunkworks/WSPerfLab/blob/master/test-results/RxNetty_vs_Tomcat_April2015.pdf)
-- [ ] 🎧 Listen [Drones with Chris Anderson](https://softwareengineeringdaily.com/2019/11/08/drones-with-chris-anderson/)
-- [ ] 🎧 Listen [Episode 87. Ok, it’s time to get Reactive!](https://www.javapubhouse.com/2019/11/episode-87-ok-its-time-to-get-reactive.html)
-- [ ] 🎧 Listen [DevTalk #105 – O SAP z Pawłem Wiejkutem](https://devstyle.pl/2019/11/04/devtalk-105-o-sap-z-pawlem-wiejkutem/)
-- [ ] 🎧 Listen [SPI 395: Podcasting in 2020—What You Need to Know](https://www.smartpassiveincome.com/podcasts/podcasting-in-2020-what-you-need-to-know/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S02E01 - S is for Spring - Tomek Adamczewski](https://youtu.be/P58WjHtGl18)
+- [ ] Prepare lecture about Observer Design Pattern
+- [ ] Prepare tasks for students on Decorator & Observer Design Patterns
+- [ ] Send information on Java8+ threads tutorials to my potential promotor
+- [ ] 📗 Read [The Ultimate Guide to Java Stream API Collectors](https://4comprehension.com/an-ultimate-guide-to-java-stream-api-collectors/)
+- [ ] 📗 Read [Improving CompletableFuture#allOf/anyOf API Java Methods](https://4comprehension.com/improving-completablefutureallof-anyof-api-java-methods/)
+- [ ] 📗 Read [GitHub Actions in action!](http://wittchen.io/github-actions-in-action/)
+- [ ] 📗 Read [Know your tools: JVM heap profiler in action.](https://devolution.tech/know-your-tools-jvm-heap-profiler-in-action/)
+- [ ] 📗 Read [Why NULL is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
+- [ ] 🎧 Listen [Episode 96: Continuous Integration with Rob Zuber](https://www.programmingthrowdown.com/2019/11/episode-96-continuous-integration-with.html)
+- [ ] 🎧 Listen [Episode 387: Abhinav Asthana on Designing and Testing APIs](https://www.se-radio.net/2019/11/episode-387-abhinav-asthana-on-designing-and-testing-apis/)
+- [ ] 🎧 Listen [Redis with Alvin Richards](https://softwareengineeringdaily.com/2019/10/24/redis-with-alvin-richards/)
+- [ ] 📽️ Watch [JAVAFAKTURA - S02E02 - Spring re-Booted - Adam Król](https://youtu.be/9HPG8gsDqzs)
 
 ### Things I'll Do in the Future:
 

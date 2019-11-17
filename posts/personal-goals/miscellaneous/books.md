@@ -14,11 +14,15 @@
 - [ ] Reactive Programming with RxJava - Ben Christensen, Tomasz Nurkiewicz
 
 ## In Progress
-- [ ] 97 Things Every Programmer Should Know: Collective Wisdom from the Experts
+
+- [ ] Test-Driven Development by Example - Kent Beck
 
 ## Books read
+
+### 2019
 - [x] Clean code
 - [x] Effective Java 3rd Edition
 - [x] Working effectively with legacy code
 - [x] Head First Design Patterns
 - [x] Test-Driven Java Development (Viktor Farcic, Alex Garcia)
+- [x] 97 Things Every Programmer Should Know: Collective Wisdom from the Experts

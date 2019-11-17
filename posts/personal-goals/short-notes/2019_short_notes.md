@@ -1244,3 +1244,31 @@ If you follow someone and someone's ideas you probably won't succeed like that p
 09/11/2019
 ---
 It was a crazy day! At the end of the day everything in my head was in English 😂. This is because all day I read one of the chapters of the book Reactive Programming written by Tomasz Nurkiewicz. The book itself is very interesting! 📚
+
+10/11/2019
+---
+Sunday, Sunday 😏. Today I had a little thoughts that I write daily notes here for over a year 😲. Quite nice, right ?
+
+11/11/2019
+---
+Today was a national holiday in Poland so I didn't have to go to work 🙂. Instead, I worked on university assignments all day. I have several projects to do in this semester 🤨. 
+
+12/11/2019
+---
+ARghhh... I lost the whole day 😥. Well.. maybe it's not completely lost because I spent this time with my parents. Our ordered furnitures arrived today and we started to assemble them. It literally took us all afternoon and evening 🤯.
+
+13/11/2019
+---
+Like a week earlier, today I visited my friend 🙂. Actually, every week we have meetings with a group of people from our religion. At this meetings we talk about God, pray and sing songs.
+
+14/11/2019
+---
+It was a busy day 😥. Work -> studies -> work -> studies -> and finally drive home 🤯. I have idea for a business - to help people to organize their life by using all the technology we have. It may sound stupid but there are so many people that aren't aware of all the applications that can help them everyday! 
+
+15/11/2019
+---
+Today after work I went out with my friends on pool. We had a lot of fun 😅.
+
+16/11/2019
+---
+I feel like I'm missing something in my life... I don't even know how to describe that feeling. I need to do fasting on Wednesday and pray God to give me an answer and change something my life 🙏.
