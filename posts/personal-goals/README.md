@@ -24,28 +24,26 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [11/17/2019]
+# [11/24/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare lecture about Observer Design Pattern
-- [ ] Prepare tasks for students on Decorator & Observer Design Patterns
-- [ ] Send information on Java8+ threads tutorials to my potential promotor
-- [ ] 📗 Read [The Ultimate Guide to Java Stream API Collectors](https://4comprehension.com/an-ultimate-guide-to-java-stream-api-collectors/)
-- [ ] 📗 Read [Improving CompletableFuture#allOf/anyOf API Java Methods](https://4comprehension.com/improving-completablefutureallof-anyof-api-java-methods/)
-- [ ] 📗 Read [GitHub Actions in action!](http://wittchen.io/github-actions-in-action/)
-- [ ] 📗 Read [Know your tools: JVM heap profiler in action.](https://devolution.tech/know-your-tools-jvm-heap-profiler-in-action/)
-- [ ] 📗 Read [Why NULL is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
-- [ ] 🎧 Listen [Episode 96: Continuous Integration with Rob Zuber](https://www.programmingthrowdown.com/2019/11/episode-96-continuous-integration-with.html)
-- [ ] 🎧 Listen [Episode 387: Abhinav Asthana on Designing and Testing APIs](https://www.se-radio.net/2019/11/episode-387-abhinav-asthana-on-designing-and-testing-apis/)
-- [ ] 🎧 Listen [Redis with Alvin Richards](https://softwareengineeringdaily.com/2019/10/24/redis-with-alvin-richards/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S02E02 - Spring re-Booted - Adam Król](https://youtu.be/9HPG8gsDqzs)
+- [ ] Watch & learn course - [Angular Components In Depth](https://youtu.be/_b0fuqZwJc8?list=PLqq-6Pq4lTTbh7bUrKwyCWr6ABBFEd4bD) 
+- [ ] 📗 Read [Zmiany w Javie od wersji 8 do Java 11](http://nullpointerexception.pl/zmiany-w-javie-od-wersji-8-do-java-11/)
+- [ ] 📗 Read [The Ultimate Guide to the Java Stream API groupingBy() Collector](https://4comprehension.com/the-ultimate-guide-to-the-java-stream-api-groupingby-collector/)
+- [ ] 📗 Read [A New JDK12 Stream API Collector – Collectors#teeing](https://4comprehension.com/a-new-jdk12-stream-api-collector-collectorsteeing/)
+- [ ] 📗 Read [Using CircleCI to deploy Hexo blog to GitHub Pages - how to set it up?](https://e.printstacktrace.blog/using-circleci-to-deploy-hexo-blog-to-github-pages-how-to-set-it-up/)
+- [ ] 🎧 Listen [Web Application Testing with Gabriel-James Safar](https://softwareengineeringdaily.com/2019/11/22/web-application-testing-with-gabriel-james-safar/)
+- [ ] 🎧 Listen [Want To Start Over? Here’s How We Would Do It (TPS274)](http://www.asianefficiency.com/podcast/274-start-over/)
+- [ ] 🎧 Listen [DevTalk #106 – O biznesie i technologii z Lechem Kaniukiem](https://devstyle.pl/2019/11/18/devtalk-106-o-biznesie-i-technologii-z-lechem-kaniukiem/)
+- [ ] 🎧 Listen [GraalVM Quarkus: Java Acceleration with Guillaume Smet and Emmanuel Bernard](https://softwareengineeringdaily.com/2019/11/14/graalvm-quarkus-java-acceleration-with-guillaume-smet-and-emmanuel-bernard/)
+- [ ] 📽️ Watch [GOTO 2015 • Applying Reactive Programming with Rx • Ben Christensen](https://youtu.be/8OcCSQS0tug)
+- [ ] 📽️ Watch [JAVAFAKTURA - S01E07 - Object Oriented Programming - Piotr Kotynia](https://youtu.be/uY0nFUbYw98)
 
 ### Things I'll Do in the Future:
 
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents
 - [ ] Create website to store all ideas + move all content from GH (bartoszdabek.com repo) into there
-- [ ] Watch & learn course - [Angular Components In Depth](https://youtu.be/_b0fuqZwJc8?list=PLqq-6Pq4lTTbh7bUrKwyCWr6ABBFEd4bD) 
 - [ ] Business strategy for my company - plan for 2020
 - [ ] Start writing on medium (2020)

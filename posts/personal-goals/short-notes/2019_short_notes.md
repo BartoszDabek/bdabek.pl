@@ -1272,3 +1272,31 @@ Today after work I went out with my friends on pool. We had a lot of fun 😅.
 16/11/2019
 ---
 I feel like I'm missing something in my life... I don't even know how to describe that feeling. I need to do fasting on Wednesday and pray God to give me an answer and change something my life 🙏.
+
+17/11/2019
+---
+Today is Sunday 😊. Since today I start drinking green tea instead of black tea. I read that it's healthier and better for teeth 🤩. Beside that - it was a normal Sunday. I've been at the church, we had familly dinner and I watched F1 :).
+
+18/11/2019
+---
+Lately I have big issues with waking up..😴When my alarm rings, all I do is turn it off and say to myself - OK, 2 more minutes. And guess what. I wake up after 2 hours 😲.
+
+19/11/2019
+---
+I found a solution to my waking problem. I keep my alarm clock in the next room so I have to get up and thanks to that I feel a bit awake 😎. Today I conducted classes at the University of technology in Bialystok on design patterns. Nice experience, I have one more lesson next week 👍.
+
+20/11/2019
+---
+That was a good day. My idea of keeping the alarm clock in the next room works 👍. Today I decided to fast - I have my personal reasons for that 😉.
+
+21/11/2019
+---
+I forgot that today I have no classes and I realized this when I stood in front of the classroom door 😅. Nothing bad happened I just went to my hometown earlier ;)
+
+22/11/2019
+---
+Bam bam bam Friday 🤗! I felt so good at work today. Time passed so quickly that I didn't even feel like I was at work (maybe because I worked from home? 😎).
+
+23/11/2019
+---
+It was another day of study - I spent almost the whole Saturday learning. In the evening I went out to the swimming pool with my cousin 🏊.
