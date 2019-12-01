@@ -24,26 +24,25 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [11/24/2019]
+# [12/01/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Watch & learn course - [Angular Components In Depth](https://youtu.be/_b0fuqZwJc8?list=PLqq-6Pq4lTTbh7bUrKwyCWr6ABBFEd4bD) 
-- [ ] 📗 Read [Zmiany w Javie od wersji 8 do Java 11](http://nullpointerexception.pl/zmiany-w-javie-od-wersji-8-do-java-11/)
-- [ ] 📗 Read [The Ultimate Guide to the Java Stream API groupingBy() Collector](https://4comprehension.com/the-ultimate-guide-to-the-java-stream-api-groupingby-collector/)
-- [ ] 📗 Read [A New JDK12 Stream API Collector – Collectors#teeing](https://4comprehension.com/a-new-jdk12-stream-api-collector-collectorsteeing/)
-- [ ] 📗 Read [Using CircleCI to deploy Hexo blog to GitHub Pages - how to set it up?](https://e.printstacktrace.blog/using-circleci-to-deploy-hexo-blog-to-github-pages-how-to-set-it-up/)
-- [ ] 🎧 Listen [Web Application Testing with Gabriel-James Safar](https://softwareengineeringdaily.com/2019/11/22/web-application-testing-with-gabriel-james-safar/)
-- [ ] 🎧 Listen [Want To Start Over? Here’s How We Would Do It (TPS274)](http://www.asianefficiency.com/podcast/274-start-over/)
-- [ ] 🎧 Listen [DevTalk #106 – O biznesie i technologii z Lechem Kaniukiem](https://devstyle.pl/2019/11/18/devtalk-106-o-biznesie-i-technologii-z-lechem-kaniukiem/)
-- [ ] 🎧 Listen [GraalVM Quarkus: Java Acceleration with Guillaume Smet and Emmanuel Bernard](https://softwareengineeringdaily.com/2019/11/14/graalvm-quarkus-java-acceleration-with-guillaume-smet-and-emmanuel-bernard/)
-- [ ] 📽️ Watch [GOTO 2015 • Applying Reactive Programming with Rx • Ben Christensen](https://youtu.be/8OcCSQS0tug)
-- [ ] 📽️ Watch [JAVAFAKTURA - S01E07 - Object Oriented Programming - Piotr Kotynia](https://youtu.be/uY0nFUbYw98)
+- [ ] Create website to store all ideas + move all content from GH (bartoszdabek.com repo) into there - investigate Hexo
+- [ ] 📗 Read [How We’re Improving and Advancing Kafka at LinkedIn](https://engineering.linkedin.com/apache-kafka/how-we_re-improving-and-advancing-kafka-linkedin)
+- [ ] 📗 Read [3 metody Javy, które mogą dawać zaskakujące wyniki?](http://nullpointerexception.pl/3-metody-javy-ktore-moga-dawac-zaskakujace-wyniki/)
+- [ ] 📗 Read [Final – klasy i metody](https://jgardo.dev/2019/11/26/final-klasy-i-metody/)
+- [ ] 📗 Read [Jak tworzyć maile aby nie trafiały do spamu](https://socodeit.pl/2019/11/jak-tworzyc-maile-aby-nie-trafialy-do-spamu/)
+- [ ] 🎧 Listen [SPI 398: 5 Different Affiliate Marketing Strategies I Use](https://www.smartpassiveincome.com/podcasts/5-different-affiliate-marketing-strategies-i-use/)
+- [ ] 🎧 Listen [HTTP with Julia Evans](https://softwareengineeringdaily.com/2019/11/21/http-with-julia-evans/)
+- [ ] 🎧 Listen [SE-Radio Episode 390: Sam Procter on Security in Software Design](https://www.se-radio.net/2019/11/se-radio-episode-390-sam-procter-on-security-in-software-design/)
+- [ ] 🎧 Listen [SPI 399: Last Minute Cyber Monday Strategies to Get More Sales](https://www.smartpassiveincome.com/podcasts/last-minute-cyber-monday-strategies-to-get-more-sales/)
+- [ ] 📽️ Watch [JAVAFAKTURA - S01E06 - Zmiany w kluczowych pakietach JDK - Paweł Balczyński](https://youtu.be/8xKcER7NYms)
+- [ ] 📽️ Watch [Łączymy się z API Spotify i zapisujemy ulubionych artystów do MongoDB – projekt Spring Boot!](https://youtu.be/qNvT99L5Uc4)
 
 ### Things I'll Do in the Future:
 
 - [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
 - [ ] Automate process of filling read/listen contents
-- [ ] Create website to store all ideas + move all content from GH (bartoszdabek.com repo) into there
 - [ ] Business strategy for my company - plan for 2020
 - [ ] Start writing on medium (2020)

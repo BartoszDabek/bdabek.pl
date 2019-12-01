@@ -1300,3 +1300,31 @@ Bam bam bam Friday 🤗! I felt so good at work today. Time passed so quickly th
 23/11/2019
 ---
 It was another day of study - I spent almost the whole Saturday learning. In the evening I went out to the swimming pool with my cousin 🏊.
+
+24/11/2019
+---
+I feel like I chose wrong today. My friend offered me to went out for a concert but I decided to stay home and do projects 🤔. It was wrong 	choice - next time I won't refuse!
+
+25/11/2019
+---
+I was so tired that I got up late 😴. I didn't feel well most of the day - I had a strange headache. Maybe it was unconscious stress before tomorrow? Tomorrow I'll teach again at the University of Technology about the object-oriented design patterns.
+
+26/11/2019
+---
+Mission accomplished 😎. I gave a lectures with a great success (I guess). 95% of studens told they were glad about classes we had. I feel motivated to act now. In 2020 I have to do something to bring value for students (blog for studens, hmm?).
+
+27/11/2019
+---
+My alarm clock rule works! Keeping an alarm clock in the next room is a great idea 👍. Today I was in the office all day. After work I just ate something and went to sleep 😴. I was literally tired..
+
+28/11/2019
+---
+I had a quite nice day :). I'm not really sure what I can write after over a year of writing in here.. My days are very often the same 🙄. What to write to get people being interested in? 🤔
+
+29/11/2019
+---
+Friiiday 😍. You know what?! I feel like I've already done most of the work... I mean: I don't have any urgent study projects or any urgent tasks at work. It feels good... freedom 👍. I'm slowly starting to think about planning 2020 - there's only a month left until the next year 😏.
+
+30/11/2019
+---
+I came up with some great ideas tonight 💡. One of them is to create a podcast in which I can talk with influencers (youtubers/streamers/others) about their lives. Another idea is more about me - I decided that in the last week of December I wouldn't write daily notes until the end of the year. Instead I'll read everything I wrote in 2019 and write a review of 2019 ✍️📓.
