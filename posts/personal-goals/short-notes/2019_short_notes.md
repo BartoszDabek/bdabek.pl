@@ -1328,3 +1328,31 @@ Friiiday 😍. You know what?! I feel like I've already done most of the work...
 30/11/2019
 ---
 I came up with some great ideas tonight 💡. One of them is to create a podcast in which I can talk with influencers (youtubers/streamers/others) about their lives. Another idea is more about me - I decided that in the last week of December I wouldn't write daily notes until the end of the year. Instead I'll read everything I wrote in 2019 and write a review of 2019 ✍️📓.
+
+01/12/2019
+---
+WooW, it's December already 😱. It was nice Sunday. I worked a little bit (on Friday I'm going on wedding so that are exchange hours). I feel fine, but for the future - always disable all work communicators on Sunday - that's a day for the God!
+
+02/12/2019
+---
+I have terrible feeling that I didn't do anything valuable at work 😨. I spent a lot of time on very weird bug with one of my colleague... but after 8 hours of work we realized that we are at the same point where we started 🤯🤯.
+
+03/12/2019
+---
+'Hello World' 😉. I had a good day. Nothing special happened but I feel very well 😮. Thank God for that!
+
+04/12/2019
+---
+Long day, huh 🤤. Tomorrow we're going to the wedding 👰🤵 so I have to do most of the things from the todo list for today. I assume I won't have time to do it there... ;). I hope to meet new people 🧑‍🤝‍🧑
+
+05/12/2019
+---
+Today, together with my parents we went to Silesia. It was 6 hours drive by car and I was a driver 🚗. I'm literally tired....😫 But thank God for the blessed journey.
+
+06/12/2019
+---
+Wedding day! It was fun. I met new people and frankly I'm too tired to write anything more.. 😅
+
+07/12/2019
+---
+Day 2 of celebrating 🎈! The bride and groom organized a dinner and after that we all went to prayer together. I met a few people and had a good time ;)

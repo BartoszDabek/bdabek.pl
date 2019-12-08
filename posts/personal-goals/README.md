@@ -24,21 +24,21 @@ Sports goals 🏆:
 2. ✅ HackerRank (7.07-1.08)
 3. ✅ 100 pushups (6.05-31.05)
 
-# [12/01/2019]
+# [12/08/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Create website to store all ideas + move all content from GH (bartoszdabek.com repo) into there - investigate Hexo
-- [ ] 📗 Read [How We’re Improving and Advancing Kafka at LinkedIn](https://engineering.linkedin.com/apache-kafka/how-we_re-improving-and-advancing-kafka-linkedin)
-- [ ] 📗 Read [3 metody Javy, które mogą dawać zaskakujące wyniki?](http://nullpointerexception.pl/3-metody-javy-ktore-moga-dawac-zaskakujace-wyniki/)
-- [ ] 📗 Read [Final – klasy i metody](https://jgardo.dev/2019/11/26/final-klasy-i-metody/)
-- [ ] 📗 Read [Jak tworzyć maile aby nie trafiały do spamu](https://socodeit.pl/2019/11/jak-tworzyc-maile-aby-nie-trafialy-do-spamu/)
-- [ ] 🎧 Listen [SPI 398: 5 Different Affiliate Marketing Strategies I Use](https://www.smartpassiveincome.com/podcasts/5-different-affiliate-marketing-strategies-i-use/)
-- [ ] 🎧 Listen [HTTP with Julia Evans](https://softwareengineeringdaily.com/2019/11/21/http-with-julia-evans/)
-- [ ] 🎧 Listen [SE-Radio Episode 390: Sam Procter on Security in Software Design](https://www.se-radio.net/2019/11/se-radio-episode-390-sam-procter-on-security-in-software-design/)
-- [ ] 🎧 Listen [SPI 399: Last Minute Cyber Monday Strategies to Get More Sales](https://www.smartpassiveincome.com/podcasts/last-minute-cyber-monday-strategies-to-get-more-sales/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S01E06 - Zmiany w kluczowych pakietach JDK - Paweł Balczyński](https://youtu.be/8xKcER7NYms)
-- [ ] 📽️ Watch [Łączymy się z API Spotify i zapisujemy ulubionych artystów do MongoDB – projekt Spring Boot!](https://youtu.be/qNvT99L5Uc4)
+- [ ] Create demo program for master thesis (multithread app)
+- [ ] Create website based on [Hexo](https://hexo.io/)
+- [ ] 📗 Read [Final – zmienne lokalne i argumenty metod, a wydajność](https://jgardo.dev/2019/12/04/final-zmienne-lokalne-i-argumenty-metod-a-wydajnosc/)
+- [ ] 📗 Read [3 rzeczy, które zmieniły moją programistyczną karierę...](http://olaqnysz.blogspot.com/2019/12/3-rzeczy-ktore-zmieniy-moja.html)
+- [ ] 📗 Read [Dlaczego zawsze powinieneś używać ArrayList w Javie?](http://nullpointerexception.pl/dlaczego-zawsze-powinienes-uzywac-arraylist-w-javie/)
+- [ ] 📗 Read [How do transactions work in Apache Kafka?](https://chrzaszcz.dev/2019/12/kafka-transactions/)
+- [ ] 🎧 Listen [SPI 400: Top 10 Things I’ve Learned Since Recording 400 Episodes of the SPI Podcast](https://www.smartpassiveincome.com/podcasts/10-things-ive-learned-since-recording-400-episodes/)
+- [ ] 🎧 Listen [Productive Networking: 5 Secrets To Connect That Anyone Can Do (TPS276)](http://www.asianefficiency.com/podcast/276-productive-networking/)
+- [ ] 🎧 Listen [Java 13 with Georges Saab](https://softwareengineeringdaily.com/2019/12/03/java-13-with-georges-saab/)
+- [ ] 🎧 Listen [DevTalk #107 – o UX z Wojtkiem Kutyła](https://devstyle.pl/2019/12/02/devtalk-107-o-ux-z-wojtkiem-kutyla/)
+- [ ] 📽️ Watch [Programowanie wielowątkowe w języku Java](https://youtu.be/2wEJLjppwFY)
 
 ### Things I'll Do in the Future:
 
