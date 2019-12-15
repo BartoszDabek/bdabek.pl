@@ -1356,3 +1356,31 @@ Wedding day! It was fun. I met new people and frankly I'm too tired to write any
 07/12/2019
 ---
 Day 2 of celebrating 🎈! The bride and groom organized a dinner and after that we all went to prayer together. I met a few people and had a good time ;)
+
+08/12/2019
+---
+Today we went back home... Our travel went really smoothly (5 hours drive). As the days before - I'm tired... 😩. I think that following week will be tough 🤔. 
+
+09/12/2019
+---
+The week has begun!😎 I had really tough Monday - mainly at work... I'm currently doing a task (bugfix) which is not trivial and very non-deterministic. I believe God will help me with that 😊.  
+
+10/12/2019
+---
+This day was completely  opposite to the previous one. I had a lot to do at work, but I was 100% focused and the work went very well. Maybe it was because I was working in the client's office today? 🤨
+
+11/12/2019
+---
+Wednesday - I fasted today 🤫. In the evening I went to a friend of mine - people from our church was there. We talked, prayed and generally had a good time 👍 
+
+12/12/2019
+---
+Home, sweet home 🤗. Today I backed home and went to the pool with my cousin. Additionally I found finally how to use my 3rd monitor and now I work on 3 monitors! 😊🖥️
+
+13/12/2019
+---
+Friday, yohoo 🤗🤗! It was really good day. I did a few tasks at work and felt very productive 👍. I also wasted a lot of time on youtube - I'm not proud of it but I don't feel bad. Sometimes I have to reset myself and I think that's what makes works for me 😏.
+
+14/12/2019
+---
+And the next day is history.. ;) Despite Saturday, I also worked today. On Friday, my superior asked me if I could work at the weekend and I said that Saturday was okay - and I did. Nobody bothers you, you do your job 😎 - that's how you can work. 
