@@ -1384,3 +1384,31 @@ Friday, yohoo 🤗🤗! It was really good day. I did a few tasks at work and fe
 14/12/2019
 ---
 And the next day is history.. ;) Despite Saturday, I also worked today. On Friday, my superior asked me if I could work at the weekend and I said that Saturday was okay - and I did. Nobody bothers you, you do your job 😎 - that's how you can work. 
+
+15/12/2019
+---
+It was a really good Sunday 💪. I could be in church in the morning and in the evening. And in the evening, after the service, our friends who married a week ago and I was there at the wedding visited us. Thank God for this time 😉.
+
+16/12/2019
+---
+And one more day God gave me to live ;). Today after work I had some kind of headache and I didn't feel the best 😩. So in the evening - altogether with my cousin - we went to the pool. 👍
+
+17/12/2019
+---
+I think that since the next year I'll stop writing daily notes. To be honest? I accomplished what I wanted to and I think it doesn't bring more value to me 😒.
+
+18/12/2019
+---
+Today I'm very busy (as usual 😅) and my day looked like the previous one..
+
+19/12/2019
+---
+I'm back home. Now I'll have a looong break from my studies - I won't return there until 2020 🤯. Time flies so quickly 😦😱
+
+20/12/2019
+---
+I don't feel this Christmas at all...😥 The weather looks like autumn, there is no snow and it's quite warm for December. I'm sad and little angry about it 😤😤!
+
+21/12/2019
+---
+Today one of my cousins came back from Germany. We celebrated it and went to the pool 😄.
