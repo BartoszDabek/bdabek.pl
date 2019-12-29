@@ -1412,3 +1412,31 @@ I don't feel this Christmas at all...😥 The weather looks like autumn, there i
 21/12/2019
 ---
 Today one of my cousins came back from Germany. We celebrated it and went to the pool 😄.
+
+22/12/2019
+---
+It's almost Christmas 🎄 and for real - I don't feel it 😑. I want snow...❄️❄️
+
+23/12/2019
+---
+I was at the pool with my friends today. We had a lot of fun and it was a good relax after a whole day of work 👍☺️.
+
+24/12/2019
+---
+Christmas Eve Day 🎄🎁. I'm happy and sad at the same time 🤨. I'm happy because it's Christmas but sad because there is no snow outside the window... I love snowy Christmas but anyway to all of you - remember that Christmas is the time of God's birth and that is the most important in this holiday - not gifts :)!
+
+25/12/2019
+---
+Christmas :). I love this time and I think most of us also 😊. I wish you all a Merry Christmas! ❤
+
+26/12/2019
+---
+Boxing Day - I found out that in the USA they don't celebrate the 2nd Christmas day and they call it 'Boxing day'. For me - it was a good day 😉.
+
+27/12/2019
+---
+Today we organized a bachelor party with friends for our friend who's getting married in 3 weeks 🎈🎉! We went to the pool and then to the pizza. It was rather a quiet party and it was about being able to have a good time with valuable conversations.
+
+28/12/2019
+---
+It was a productive and powerful day 😎! First, I started by buying a host and domain name [bdabek.pl](https://bdabek.pl/), then I did a project for my studies and in the evening I went to the church youth meeting 👍👍.

@@ -1,48 +1,44 @@
 Personal Goals
 ==============
-
 Personal goals made open source. I want thanks to [una](https://github.com/una/personal-goals) for her personal goals repo that I can take pattern from and what made me motivate to work. 
 
+# Overarching Goals for 2020 🏆🥇
+1. Help 3 strangers 🧚‍♂️
+2. Build an active community (at least 50 unique blog visits) 🧑‍🤝‍🧑
+3. Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙
+4. Visit 2 different countries ✈️
+5. Master Technical University graduation 👨‍🎓
 
-# Overarching Goals for 2019:
-1. 💚 Learn design patterns ✅
-2. 💙 Learn data structures ❌
-3. 💡 Create a tutorial on youtube ✅
-4. ✍️ Two job interviews [3/2] ✅
-5. 📱 ~~Publish mobile app~~
-6. 🎓 English ✅
+## Sports goals 💪🥈
+1. 10km under 50 minutes 👟
+2. 50m underwater 🏊
+3. 3:45 with held breath 🧘
+4. Run 100 km in a year 🏃
+5. Cycle 500 km in a year 🚴
 
-Sports goals 🏆:
-1. ❌ Standing on hands
-2. ✅ 5km in under 22 minutes (21:31)
-3. ❌ 60m underwater
-4. ❌ 95 kg bench press 
-5. ✅ 3:30 with held breath (3:32)
+## 25 Days Challenges 🔥🥉
+1. Holding breath 🧘
+2. HackerRank 👨‍💻
+3. 100 pushups 🙇
+4. 50 pull-ups 🏋️‍♂️
+5. Blogging every day 📝
+6. Cold showers 🚿
 
-25 Days Challenges 💪💪
-1. ✅ Holding breath (8.02-5.03)
-2. ✅ HackerRank (7.07-1.08)
-3. ✅ 100 pushups (6.05-31.05)
-
-# [12/22/2019]
+# [12/29/2019]
 
 ### Things I'll do This Week:
 
-- [ ] Business strategy for my company - plans for 2020 (and further?)
-- [ ] 📗 Read [Testy jednostkowe i TDD – czy to dobry pomysł?](http://nullpointerexception.pl/testy-jednostkowe-i-tdd-czy-to-dobry-pomysl/)
-- [ ] 📗 Read [JAVA MICROBENCHMARK HARNESS – JMH](https://javaleader.pl/2019/12/12/java-microbenchmark-harness-jmh/)
-- [ ] 📗 Read [Microservices are hard](https://blog.pchudzik.com/201912/microservices-are-hard/)
-- [ ] 📗 Read [3 things to do to before crunch time will suck the life out of you](https://puradawid.pro/working/3-things-to-do-before-crunch-time-will-suck-the-life-out-of-you.html)
-- [ ] 🎧 Listen [SPI 402: Everyone Needs to Have a Podcast](https://www.smartpassiveincome.com/podcasts/everyone-needs-to-have-a-podcast/)
-- [ ] 🎧 Listen [Episode 393: Jay Kreps on Enterprise Integration Architecture with a Kafka Event Log](https://www.se-radio.net/2019/12/episode-393-jay-kreps-on-enterprise-integration-architecture-with-a-kafka-event-log/)
-- [ ] 🎧 Listen [How To Succeed At Both Work and Education Without Feeling Overwhelmed (TPS278)](http://www.asianefficiency.com/podcast/278-overwhelm/)
-- [ ] 🎧 Listen [DevTalk #108 – O Programowaniu Obiektowym z Tomaszem Stolarczykiem](https://devstyle.pl/2019/12/16/devtalk-108-o-programowaniu-obiektowym-z-tomaszem-stolarczykiem/)
-- [ ] 📽️ Watch [KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton](https://youtu.be/te3OU9fxC8U)
-- [ ] 📽️ Watch [JAVAFAKTURA - S01E08 - Na OOP świat się nie kończy - Artur Czajka](https://youtu.be/xRuoH0Nq43A)
+- [ ] Write an annual review
+- [ ] Prepare [bdabek.pl](https://bdabek.pl/) https redirect + webiste layout
+- [ ] 📗 Read [NullPointerException :: getMessage() in Java 14 - a helpful tool or an useless feature?](https://puradawid.pro/java/nullpointerexception-getmessage-in-java-14.html)
+- [ ] 📗 Read [Final – pola statyczne](https://jgardo.dev/2019/12/18/final-pola-statyczne/)
+- [ ] 📗 Read [PULA STRINGÓW](https://javaleader.pl/2019/12/14/pula-stringow)
+- [ ] 📗 Read [Facade Pattern](https://springframework.guru/gang-of-four-design-patterns/facade-pattern/)
+- [ ] 🎧 Listen [Rhythmic Change](https://youtu.be/S2NOoTIxxg4)
+- [ ] 🎧 Listen [Here’s How To Improve Every Year Using Our Annual Review Template (TPS279)](http://www.asianefficiency.com/podcast/279-annual-review/)
+- [ ] 🎧 Listen [Basic Income with Floyd Marinescu](https://softwareengineeringdaily.com/2019/12/12/basic-income-with-floyd-marinescu/)
+- [ ] 📽️ Watch [The Art of Code](https://youtu.be/gdSlcxxYAA8)
+- [ ] 📽️ Watch [WJUG #257 - Krzysztof Ślusarski - Just-In-Time compiler - ukryty "przyjaciel"](https://youtu.be/f8zaYDJctTA)
 
-### Things I'll Do in the Future:
 
-- [ ] Create a file to put all podcasts that I listen (write short note about what was in there and make some calculations about how long it takes)
-- [ ] Automate process of filling read/listen contents
-- [ ] Buy a domain
-- [ ] Start writing on medium (2020)
+### Things I'll Do in the Future 🏅
