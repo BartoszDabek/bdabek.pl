@@ -1440,3 +1440,15 @@ Today we organized a bachelor party with friends for our friend who's getting ma
 28/12/2019
 ---
 It was a productive and powerful day 😎! First, I started by buying a host and domain name [bdabek.pl](https://bdabek.pl/), then I did a project for my studies and in the evening I went to the church youth meeting 👍👍.
+
+29/12/2019
+---
+I'm not quite happy with how I spent this Sunday 🙄. I should have met with friends but instead I chose a computer and studying... I'm mad at myself 😤!
+
+30/12/2019
+---
+I read 1/3 of my 2019 daily notes and weekly reviews today. It's worth having these notes, because in December we forget about many of the little things that made us happy during this year 😲🤛! 
+
+31/12/2019
+---
+It's the last day of this year! 🎆🎆 Thank you for being with me and wish you all the best in 2020 😊!

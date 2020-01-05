@@ -14,12 +14,14 @@
 - [ ] Reactive Programming with RxJava - Ben Christensen, Tomasz Nurkiewicz
 
 ## In Progress
-
-- [ ] Test-Driven Development by Example - Kent Beck
+- [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin
 
 ## Books read
+### 2020
+
 
 ### 2019
+- [x] Test-Driven Development by Example - Kent Beck
 - [x] Clean code
 - [x] Effective Java 3rd Edition
 - [x] Working effectively with legacy code
