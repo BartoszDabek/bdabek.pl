@@ -24,22 +24,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [01/05/2020]
+# [01/12/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare presentation about multi-threading
-- [ ] Write and publish post on JVM topic at [bdabek.pl](https://bdabek.pl/)
-- [ ] 📗 Read [Tworzenie obiektów z finalnymi polami instancyjnymi](https://jgardo.dev/2019/12/28/tworzenie-obiektow-z-finalnymi-polami-instancyjnymi/)
-- [ ] 📗 Read [Difference Between Preview, Experimental, and Incubating Features in Java](https://4comprehension.com/preview-experimental-and-incubating-features-in-java/)
-- [ ] 📗 Read [Grouping and organizing Java classes](https://allegro.tech/2019/12/grouping-and-organizing-classes.html)
-- [ ] 🎧 Listen [Goals with Heart](https://youtu.be/JiTeng2Sdas)
-- [ ] 🎧 Listen [SPI 404: The 5 Dysfunctions of a Team with Patrick Lencioni](https://www.smartpassiveincome.com/podcasts/the-5-dysfunctions-of-a-team/)
-- [ ] 🎧 Listen [Christmas Episode](https://player.fm/series/programming-throwdown/christmas-episode)
-- [ ] 🎧 Listen [What Do Productivity Ninjas Do To Prepare For An Amazing 2020? (TPS280)](http://www.asianefficiency.com/podcast/280-amazing-2020/)
-- [ ] 📽️ Watch ["Uncle" Bob Martin - "The Future of Programming"](https://youtu.be/ecIWPzGEbFc)
-- [ ] 📽️ Watch [2019 - Jakub Nabrdalik - Common mistakes when moving to microservices & cloud](https://youtu.be/jo46-CP6ywU)
-- [ ] 📽️ Watch [Advanced Java: Multi-threading](https://www.youtube.com/watch?v=8sgDgXUUJ68&list=PLBB24CFB073F1048E)
+- [ ] TAR - Kafka homework
+- [ ] Take 2 cold showers
+- [ ] Write and publish post on JMeter/Kafka at [bdabek.pl](https://bdabek.pl/)
+- [ ] 📗 Read [DDD_Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html)
+- [ ] 📗 Read [Repository](https://www.martinfowler.com/eaaCatalog/repository.html)
+- [ ] 📗 Read [Data Transfer Object](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
+- [ ] 📗 Read [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [ ] 🎧 Listen [Slack Data Platform with Josh Wills](https://softwareengineeringdaily.com/2020/01/10/slack-data-platform-with-josh-wills/)
+- [ ] 🎧 Listen [SPI 405: Gather Your Community or Get Left Behind—Mighty Networks and More with Gina Bianchini](https://www.smartpassiveincome.com/podcasts/mighty-networks-with-gina-bianchini/)
+- [ ] 🎧 Listen [6 Simple Ways To Stick To Your Goals This Year That Don’t Involve Willpower (TPS281)](http://www.asianefficiency.com/podcast/281-stick-to-your-goals/)
+- [ ] 🎧 Listen [Resolution, Enthusiasm, Devotion | Deep Meaning of Words](https://youtu.be/R97ggAOjEyo)
+- [ ] 📽️ Watch [WJUG #262 - Arkadiusz Gasiński - Fruits of the Loom - Lightweight Concurrency for Java](https://youtu.be/4sDd9eZ168w)
 
 
 ### Things I'll Do in the Future 🏅
