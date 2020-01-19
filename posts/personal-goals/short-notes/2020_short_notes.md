@@ -41,3 +41,31 @@ Friday 😍😍! It was a very good day. With God's help, I solved all the probl
 11/01/2020
 ---
 Today I was at the funeral of my distant uncle ⛪. It's good to think about death and keep that in mind in your life. We should try to live in a way that doesn't waste time and give happienes to others! 🙆🏻‍♂️
+
+12/01/2020
+---
+👋Sunday. It actually was a sunny day 😄. Today, after church I talked to one of my friends, who showed me his house. I spent the rest of the day at home ;]
+
+13/01/2020
+---
+The week has begun! Today I went to the Bialystok and I'll stay here until Thursday. Thanks God that I have my own apartment!! 👍
+
+14/01/2020
+---
+It's been a busy but pleasant day. I had to be at the university today and by the way I passed one subject 👨‍🎓👍. I also had to work late (7-8pm) because during the day I studied instead of working 🤫
+
+15/01/2020
+---
+It was a nice day. I worked in my client's office today - it's cool to be there once in a while 😉. Later I had to go to the university - I had a presentation in one subject about multithreaded programming. And at the very end of the day my friends came by (actually, a friend rents a room from me and his fiancée came by) and we had a good time 👍👊.
+
+16/01/2020
+---
+Back home :). I love this place where I was born - it is quiet and peaceful. Nature is not yet so much disturbed by technological progress and the human hand. Today's entry is very 'poetic' 😅.
+
+17/01/2020
+---
+Another good day 🙂. No special revelations. At work I did my job and I'm going safely to the weekend 💪. Tomorrow I'll be a wedding witness and today we had an entry attempts  - it's rather not stressful, after all it's not my wedding 😄👰🤵.
+
+18/01/2020
+---
+Wedding day 💒🔔🔔! I was a witness today but thank God I wasn't stressed out :). A beautiful wedding and a good wedding! 😉

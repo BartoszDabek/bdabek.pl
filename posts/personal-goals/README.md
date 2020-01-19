@@ -24,22 +24,21 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [01/12/2020]
+# [01/19/2020]
 
 ### Things I'll do This Week:
 
 - [ ] TAR - Kafka homework
-- [ ] Take 2 cold showers
 - [ ] Write and publish post on JMeter/Kafka at [bdabek.pl](https://bdabek.pl/)
-- [ ] 📗 Read [DDD_Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html)
-- [ ] 📗 Read [Repository](https://www.martinfowler.com/eaaCatalog/repository.html)
-- [ ] 📗 Read [Data Transfer Object](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
-- [ ] 📗 Read [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-- [ ] 🎧 Listen [Slack Data Platform with Josh Wills](https://softwareengineeringdaily.com/2020/01/10/slack-data-platform-with-josh-wills/)
-- [ ] 🎧 Listen [SPI 405: Gather Your Community or Get Left Behind—Mighty Networks and More with Gina Bianchini](https://www.smartpassiveincome.com/podcasts/mighty-networks-with-gina-bianchini/)
-- [ ] 🎧 Listen [6 Simple Ways To Stick To Your Goals This Year That Don’t Involve Willpower (TPS281)](http://www.asianefficiency.com/podcast/281-stick-to-your-goals/)
-- [ ] 🎧 Listen [Resolution, Enthusiasm, Devotion | Deep Meaning of Words](https://youtu.be/R97ggAOjEyo)
-- [ ] 📽️ Watch [WJUG #262 - Arkadiusz Gasiński - Fruits of the Loom - Lightweight Concurrency for Java](https://youtu.be/4sDd9eZ168w)
+- [ ] 📗 Read [(Prawie) cała prawda o nazywaniu metod](https://szkolatestow.online/prawie-cala-prawda-o-nazywaniu-metod/)
+- [ ] 📗 Read [Is Kotlin Java++ or beta of Java?](https://devolution.tech/is-kotlin-java-or-beta-of-java/)
+- [ ] 📗 Read [Hexagonal architecture](https://declara.com/content/va7eLmgJ)
+- [ ] 📗 Read [Po co są potrzebne testy jednostkowe?](http://nullpointerexception.pl/po-co-sa-potrzebne-testy-jednostkowe/)
+- [ ] 🎧 Listen [W 6 LAT STWORZYŁ FIRMĘ WARTĄ 635 500 000 ZŁ - Dawid Zieliński | #005](https://youtu.be/7W5d4hpJFn4)
+- [ ] 🎧 Listen [Apollo GraphQL with Geoff Schmidt](https://softwareengineeringdaily.com/2020/01/17/apollo-graphql-with-geoff-schmidt/)
+- [ ] 🎧 Listen [SPI 406: The 7 DOs and DONTs of Email Marketing Success](https://www.smartpassiveincome.com/podcasts/dos-and-donts-of-email-marketing/)
+- [ ] 🎧 Listen [Web Automation: The Easiest Way To Be More Productive Online (TPS282)](http://www.asianefficiency.com/podcast/282-web-automation/)
+- [ ] 📽️ Watch [WJUG #261 - Kevlin Henney - Structure and Interpretation of Test Cases](https://youtu.be/Qhz7cQQVBv4)
 
 
 ### Things I'll Do in the Future 🏅
