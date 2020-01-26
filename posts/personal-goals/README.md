@@ -17,28 +17,28 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Cycle 500 km in a year 🚴
 
 ## 25 Days Challenges 🔥🥉
-1. Holding breath 🧘(1.01-25.01)
+1. ✅ Holding breath 🧘(1.01-25.01)
 2. HackerRank 👨‍💻
 3. 100 pushups 🙇
 4. 50 pull-ups 🏋️‍♂️
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [01/19/2020]
+# [01/26/2020]
 
 ### Things I'll do This Week:
 
-- [ ] TAR - Kafka homework
-- [ ] Write and publish post on JMeter/Kafka at [bdabek.pl](https://bdabek.pl/)
-- [ ] 📗 Read [(Prawie) cała prawda o nazywaniu metod](https://szkolatestow.online/prawie-cala-prawda-o-nazywaniu-metod/)
-- [ ] 📗 Read [Is Kotlin Java++ or beta of Java?](https://devolution.tech/is-kotlin-java-or-beta-of-java/)
-- [ ] 📗 Read [Hexagonal architecture](https://declara.com/content/va7eLmgJ)
-- [ ] 📗 Read [Po co są potrzebne testy jednostkowe?](http://nullpointerexception.pl/po-co-sa-potrzebne-testy-jednostkowe/)
-- [ ] 🎧 Listen [W 6 LAT STWORZYŁ FIRMĘ WARTĄ 635 500 000 ZŁ - Dawid Zieliński | #005](https://youtu.be/7W5d4hpJFn4)
-- [ ] 🎧 Listen [Apollo GraphQL with Geoff Schmidt](https://softwareengineeringdaily.com/2020/01/17/apollo-graphql-with-geoff-schmidt/)
-- [ ] 🎧 Listen [SPI 406: The 7 DOs and DONTs of Email Marketing Success](https://www.smartpassiveincome.com/podcasts/dos-and-donts-of-email-marketing/)
-- [ ] 🎧 Listen [Web Automation: The Easiest Way To Be More Productive Online (TPS282)](http://www.asianefficiency.com/podcast/282-web-automation/)
-- [ ] 📽️ Watch [WJUG #261 - Kevlin Henney - Structure and Interpretation of Test Cases](https://youtu.be/Qhz7cQQVBv4)
+- [ ] Research on second bank account
+- [ ] Blog post about 'Interesting topics to write about'
+- [ ] 📗 Read [How HashMap works in Java](https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html)
+- [ ] 📗 Read [Working of HashMap in Java](https://www.javatpoint.com/working-of-hashmap-in-java)
+- [ ] 📗 Read [How HashMap Works in Java](https://dzone.com/articles/how-hashmap-works-in-java)
+- [ ] 📗 Read [Java 14 – Record classes](https://blog.mloza.pl/java-14-record-classes/)
+- [ ] 🎧 Listen [Episode 88. Logging! (An Interview w/Renaud from DataDog)](https://www.javapubhouse.com/2020/01/episode-88-logging-an-interview-w-renaud-from-datadog.html)
+- [ ] 🎧 Listen [80 TYSIĘCY INFLUENCERÓW POD SWOJĄ MARKĄ - BARTEK SIBIGA | #006](https://youtu.be/igkClbUIGxE)
+- [ ] 🎧 Listen [Episode 396: Barry O’Reilly on Antifragile Architecture](https://www.se-radio.net/2020/01/episode-396-barry-oreilly-on-antifragile-architecture/)
+- [ ] 🎧 Listen [JS Party with Kevin Ball](https://softwareengineeringdaily.com/2020/01/16/js-party-with-kevin-ball/)
+- [ ] 📽️ Watch [Toruń JUG #32 - "Asynchronous by default, synchronous when necessary" - Tomasz Nurkiewicz](https://youtu.be/YjJZaGVwKAY)
 
 
 ### Things I'll Do in the Future 🏅

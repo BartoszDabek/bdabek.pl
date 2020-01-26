@@ -69,3 +69,31 @@ Another good day 🙂. No special revelations. At work I did my job and I'm goin
 18/01/2020
 ---
 Wedding day 💒🔔🔔! I was a witness today but thank God I wasn't stressed out :). A beautiful wedding and a good wedding! 😉
+
+19/01/2020
+---
+Sunday :). Today we had dinner together with the guests and the wedding couple. It was okay 😊. I talked with many friends and I think I had a good time 👊. In the evening I went with my cousin to the pool 🏊🏊.
+
+20/01/2020
+---
+It was a good Monday. I had some free time and thanks to that I could spent the evening with my friend and his fiance 👍👍.
+
+21/01/2020
+---
+Another beautiful day 😊. This time I had more work than yesterday, but maybe that's a good thing, at least I didn't waste time on some stupidity. In the evening we went to a friend's for dinner. It was tasty and funny 🥘😅.
+
+22/01/2020
+---
+The next day when I spent the evening at someone 😏. It's good because this year is supposed to be different from the previous one where I mainly devoted my time to study and work. This time the goal is different - to spend time with family, friends - people more or less close to me 👊.
+
+23/01/2020
+---
+It's been a hard day. I was doing an urgent patch to the application + a few other things stopped working...😪😪 From the positive things I came back to my beloved Hajnówka ❤.
+
+24/01/2020
+---
+Friday 🤗🤗! To be honest, I was very ineffective today. I solved the problems from yesterday (some of them solved themselves, I only got the information that it's ready) and then I took care of the organizational issues (docker, git). Sometimes it takes days like this to get a buzz off 🤯.
+
+25/01/2020
+---
+Interesting Saturday 🙂. I guess I didn't do much - I was preparing to pass the subject for Monday and wrote a post on my blog, and yet I feel that I was productive 🤩. And in the evening, I went to the pool with my friends and then I bumped into friends for a while. 👊
