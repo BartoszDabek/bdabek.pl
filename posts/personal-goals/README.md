@@ -24,21 +24,21 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [01/26/2020]
+# [02/02/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Research on second bank account
-- [ ] Blog post about 'Interesting topics to write about'
-- [ ] 📗 Read [How HashMap works in Java](https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html)
-- [ ] 📗 Read [Working of HashMap in Java](https://www.javatpoint.com/working-of-hashmap-in-java)
-- [ ] 📗 Read [How HashMap Works in Java](https://dzone.com/articles/how-hashmap-works-in-java)
-- [ ] 📗 Read [Java 14 – Record classes](https://blog.mloza.pl/java-14-record-classes/)
-- [ ] 🎧 Listen [Episode 88. Logging! (An Interview w/Renaud from DataDog)](https://www.javapubhouse.com/2020/01/episode-88-logging-an-interview-w-renaud-from-datadog.html)
-- [ ] 🎧 Listen [80 TYSIĘCY INFLUENCERÓW POD SWOJĄ MARKĄ - BARTEK SIBIGA | #006](https://youtu.be/igkClbUIGxE)
-- [ ] 🎧 Listen [Episode 396: Barry O’Reilly on Antifragile Architecture](https://www.se-radio.net/2020/01/episode-396-barry-oreilly-on-antifragile-architecture/)
-- [ ] 🎧 Listen [JS Party with Kevin Ball](https://softwareengineeringdaily.com/2020/01/16/js-party-with-kevin-ball/)
-- [ ] 📽️ Watch [Toruń JUG #32 - "Asynchronous by default, synchronous when necessary" - Tomasz Nurkiewicz](https://youtu.be/YjJZaGVwKAY)
+- [ ] Register blog for [JVM Bloggers](http://jvm-bloggers.com/)
+- [ ] 📝 Blog post
+- [ ] 📗 Read [Hash Code – Introduction](https://devolution.tech/hash-code-introduction/)
+- [ ] 📗 Read [Zadanie rekrutacyjne Java w 2 tygodnie](https://devrev.pl/zadanie-rekrutacyjne-java-w-2-tygodnie/)
+- [ ] 📗 Read [Trendy w świecie Javy 2020](http://nullpointerexception.pl/trendy-w-swiecie-javy-2020/)
+- [ ] 📗 Read [Junior Developer a Regular](https://bartlomiejchmielewski.pl/junior-developer-a-regular/)
+- [ ] 🎧 Listen [Episode 98: Agile Thinking with ZenHub](https://www.programmingthrowdown.com/2020/01/episode-98-agile-thinking-with-zenhub.html)
+- [ ] 🎧 Listen [A Maker and Creative Entrepreneur Reveals Her Personal Productivity System (w/ Best Self’s Cathryn Lavery) (TPS284)](http://www.asianefficiency.com/podcast/284-cathryn-lavery/)
+- [ ] 🎧 Listen [RZUCIŁ PRACĘ ZA 35 000 ZŁ/MIES. I ZROBIŁ APKĘ DLA ŻŁOBKÓW - Jakub Pawelski | #007](https://youtu.be/Fi2-y093eVk)
+- [ ] 🎧 Listen [English SPEAKING CHALLENGE Starts Tomorrow](https://youtu.be/j8zhv8Z040c)
+- [ ] 📽️ Watch [JAVAFAKTURA - S02E04 - Maze of Data - Tomek Wysocki](https://youtu.be/Vp3qe1ZyVOg)
 
 
 ### Things I'll Do in the Future 🏅

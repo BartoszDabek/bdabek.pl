@@ -97,3 +97,31 @@ Friday 🤗🤗! To be honest, I was very ineffective today. I solved the proble
 25/01/2020
 ---
 Interesting Saturday 🙂. I guess I didn't do much - I was preparing to pass the subject for Monday and wrote a post on my blog, and yet I feel that I was productive 🤩. And in the evening, I went to the pool with my friends and then I bumped into friends for a while. 👊
+
+26/01/2020
+---
+The wonderful day☺️. I could be at the service today and have lunch with my parents later. In the evening we went to listen to carols. It was a performance organized by the neighboring church. It was a very good time. 👍👍
+
+27/01/2020
+---
+Yes! I passed the exam 👊! It's Monday and I felt very unproductive at work. I worked for really long time (10-12 hours?) and I feel like I did nothing 😪. At the end of the day, I noticed something very strange under my left eye - something like a bruise. I wonder, is it caused by fatigue or rather by sitting in front of the computer too long? 
+
+28/01/2020
+---
+It was a bad day. I feel like I didn't do anything at work even though I worked 8 hours 😶... I also decided to come home earlier and I did - at 7pm I was in Hajnówka and spent the evening with my friends 🙂. 
+
+29/01/2020
+---
+Today was much better than yesterday 👍👍. In fact, I was working on modifying one query to the database which took me a whole 8 hours. But at least I see some progress 🙂. Today I also went for a run with my friend - we ran about 4.5 km and then we went to the pool to take a bath 😂🤣.
+
+30/01/2020
+---
+Today, with friends we went to visit our mutual friends together. We made pizzas 🍕🍕 and we had a nice evening ☺️! 
+
+31/01/2020
+---
+Last day of January 😲! How quickly that time went by! Tonight I went to the pool again with my cousin 🏊.
+
+01/02/2020
+---
+And it's the new month 👊! It was a nice day. I spent a lot of time studying or actually reading slides from the presentation - next week I will have 2 exams 👨🎓. In the evening - as is lately often - I went with my cousin to the swimming pool 💪💪 - I'm only worried about the fact that we go there mainly to relax and do not swim much...
