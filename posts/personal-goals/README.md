@@ -18,27 +18,26 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 
 ## 25 Days Challenges 🔥🥉
 1. ✅ Holding breath 🧘(1.01-25.01)
-2. HackerRank 👨‍💻
+2. HackerRank 👨‍💻(10.02-06.03)
 3. 100 pushups 🙇
 4. 50 pull-ups 🏋️‍♂️
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [02/02/2020]
+# [02/09/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Register blog for [JVM Bloggers](http://jvm-bloggers.com/)
 - [ ] 📝 Blog post
-- [ ] 📗 Read [Hash Code – Introduction](https://devolution.tech/hash-code-introduction/)
-- [ ] 📗 Read [Zadanie rekrutacyjne Java w 2 tygodnie](https://devrev.pl/zadanie-rekrutacyjne-java-w-2-tygodnie/)
-- [ ] 📗 Read [Trendy w świecie Javy 2020](http://nullpointerexception.pl/trendy-w-swiecie-javy-2020/)
-- [ ] 📗 Read [Junior Developer a Regular](https://bartlomiejchmielewski.pl/junior-developer-a-regular/)
-- [ ] 🎧 Listen [Episode 98: Agile Thinking with ZenHub](https://www.programmingthrowdown.com/2020/01/episode-98-agile-thinking-with-zenhub.html)
-- [ ] 🎧 Listen [A Maker and Creative Entrepreneur Reveals Her Personal Productivity System (w/ Best Self’s Cathryn Lavery) (TPS284)](http://www.asianefficiency.com/podcast/284-cathryn-lavery/)
-- [ ] 🎧 Listen [RZUCIŁ PRACĘ ZA 35 000 ZŁ/MIES. I ZROBIŁ APKĘ DLA ŻŁOBKÓW - Jakub Pawelski | #007](https://youtu.be/Fi2-y093eVk)
-- [ ] 🎧 Listen [English SPEAKING CHALLENGE Starts Tomorrow](https://youtu.be/j8zhv8Z040c)
-- [ ] 📽️ Watch [JAVAFAKTURA - S02E04 - Maze of Data - Tomek Wysocki](https://youtu.be/Vp3qe1ZyVOg)
+- [ ] 📗 Read [Difference between Primitive and Reference variable in Java](https://javarevisited.blogspot.com/2015/09/difference-between-primitive-and-reference-variable-java.html)
+- [ ] 📗 Read [Hibernate – najczęściej popełniane błędy](https://nullpointerexception.pl/hibernate-najczesciej-popelniane-bledy/)
+- [ ] 📗 Read [Hash Code – Java's collections](https://devolution.tech/hash-code-java-collections/)
+- [ ] 📗 Read [SPRING WEBFLUX – PROGRAMOWANIE REAKTYWNE W SPRINGU](https://javaleader.pl/2020/01/23/spring-webflux-programowanie-reaktywne-w-springu/)
+- [ ] 🎧 Listen [ZMIENIŁ RODZINNY BIZNES W MILIONOWĄ MASZYNĘ - Paweł Szwajkowski | #008](https://youtu.be/hzjVc2tlIFg)
+- [ ] 🎧 Listen [DevTalk #110 – O Event Storming z Mariuszem Gil](https://devstyle.pl/2020/02/03/devtalk-110-o-event-storming-z-mariuszem-gil/)
+- [ ] 🎧 Listen [10 Health Hacks to Feel More Energized and Focused (TPS285)](http://www.asianefficiency.com/podcast/285-health-hacks/)
+- [ ] 🎧 Listen [Episode 397: Pat Helland on Data Management with Microservices](https://www.se-radio.net/2020/02/episode-397-pat-helland-on-data-management-with-microservices/)
+- [ ] 📽️ Watch [JAVAFAKTURA - S02E06 - Kontrakty i testy - Marcin Grzejszczak](https://youtu.be/raZLr001FHQ)
 
 
 ### Things I'll Do in the Future 🏅

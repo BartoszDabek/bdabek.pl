@@ -125,3 +125,31 @@ Last day of January 😲! How quickly that time went by! Tonight I went to the p
 01/02/2020
 ---
 And it's the new month 👊! It was a nice day. I spent a lot of time studying or actually reading slides from the presentation - next week I will have 2 exams 👨🎓. In the evening - as is lately often - I went with my cousin to the swimming pool 💪💪 - I'm only worried about the fact that we go there mainly to relax and do not swim much...
+
+02/02/2020
+---
+I'm in pain! After yesterday's pool, my back started hurting 😫😫! We were at my uncle's for his 50th birthday today. It was fun - we could meet the whole family but the pain was sometimes unbearable 😪.
+
+03/02/2020
+---
+Monday. I was at a job interview today. I found out how much I don't know and after the interview I felt very bad - mentally - something like I lost some battle 😥. Nevertheless, this will always be a good thing, because now I'll go through all these topics myself and be richer with new knowledge 🤗!
+
+04/02/2020
+---
+There it is! Finally I finished updating the documentation of the installation of our environments and at the same time I cleaned up some docker containers 👍👍.
+
+05/02/2020
+---
+Tonight I got an answer after Monday's job interview. I was offered a junior position. It may seem like a step backwards but I think I can learn a lot there and I have to seriously consider 🤨🤨.
+
+06/02/2020
+---
+The next day is over. Today, exceptionally, I wasn't going anywhere. I spent the whole day at home in front of the computer - I am not proud of it but I do not regret 😅. Slowly I have to present my mindset for writing my thesis 👨🎓.
+
+07/02/2020
+---
+What a day it was... I took up a job and couldn't let go - one thing didn't work and it didn't leave me alone 😣. At the very end of the day I solved it 👍😊! Apart from that, I wrote about this job offer a few days earlier. I decided to reject it due to the lack of possibility to work remotely in 100% - and this is my goal. 
+
+08/02/2020
+---
+A lot has happened today. In the morning, my cousin and I went to the countryside and we loaded the wood for firewood and then came back with a tractor 😄🚜. Then I went running with my friend and we did 6 km 🏃 (we had a very average time). At the end of the day - to relax - I went with my cousin to the pool 🤗.
