@@ -24,20 +24,21 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [02/09/2020]
+# [02/16/2020]
 
 ### Things I'll do This Week:
 
+- [ ] Prepare naive K-Means algorithm (from github)
 - [ ] 📝 Blog post
-- [ ] 📗 Read [Difference between Primitive and Reference variable in Java](https://javarevisited.blogspot.com/2015/09/difference-between-primitive-and-reference-variable-java.html)
-- [ ] 📗 Read [Hibernate – najczęściej popełniane błędy](https://nullpointerexception.pl/hibernate-najczesciej-popelniane-bledy/)
-- [ ] 📗 Read [Hash Code – Java's collections](https://devolution.tech/hash-code-java-collections/)
-- [ ] 📗 Read [SPRING WEBFLUX – PROGRAMOWANIE REAKTYWNE W SPRINGU](https://javaleader.pl/2020/01/23/spring-webflux-programowanie-reaktywne-w-springu/)
-- [ ] 🎧 Listen [ZMIENIŁ RODZINNY BIZNES W MILIONOWĄ MASZYNĘ - Paweł Szwajkowski | #008](https://youtu.be/hzjVc2tlIFg)
-- [ ] 🎧 Listen [DevTalk #110 – O Event Storming z Mariuszem Gil](https://devstyle.pl/2020/02/03/devtalk-110-o-event-storming-z-mariuszem-gil/)
-- [ ] 🎧 Listen [10 Health Hacks to Feel More Energized and Focused (TPS285)](http://www.asianefficiency.com/podcast/285-health-hacks/)
-- [ ] 🎧 Listen [Episode 397: Pat Helland on Data Management with Microservices](https://www.se-radio.net/2020/02/episode-397-pat-helland-on-data-management-with-microservices/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S02E06 - Kontrakty i testy - Marcin Grzejszczak](https://youtu.be/raZLr001FHQ)
+- [ ] 📗 Read [ThreadLocal](https://jgardo.dev/2020/02/03/threadlocal/)
+- [ ] 📗 Read [Importy nieprzerywające pracy w IntelliJ](http://pkubowicz.pl/importy-nieprzerywajace-pracy-w-intellij/)
+- [ ] 📗 Read [Java Wrapper Classes Internal Caching](https://howtodoinjava.com/java/basics/object-initialization-best-practices-internal-caching-in-wrapper-classes/)
+- [ ] 📗 Read [A Java Programmer's Guide to Byte Code](https://www.beyondjava.net/java-programmers-guide-java-byte-code)
+- [ ] 🎧 Listen [AUTO WARTE 15 MILIONÓW - Mariusz Król | #009](https://youtu.be/IGRW5MnnVx8)
+- [ ] 🎧 Listen [DevTalk #109 – O Analityce w Gamingu z Kamilem Ciukszo](https://devstyle.pl/2020/01/20/devtalk-109-o-analityce-w-gamingu-z-kamilem-ciukszo/)
+- [ ] 🎧 Listen [SPI 409: An Interview with Jess, my Executive Assistant (and How We Choreograph Our Work Together)](https://www.smartpassiveincome.com/podcasts/an-interview-with-my-executive-assistant/)
+- [ ] 🎧 Listen [SPI 410: How Building a Tribe Took this Man from Rock Bottom to Massive Business Success](https://www.smartpassiveincome.com/podcasts/from-rock-bottom-to-massive-business-success/)
+- [ ] 📽️ Watch [Everything You Ever Wanted to Know About Java and Didn’t Know Whom to Ask](https://youtu.be/6KwANs_F5n0)
 
 
 ### Things I'll Do in the Future 🏅

@@ -153,3 +153,31 @@ What a day it was... I took up a job and couldn't let go - one thing didn't work
 08/02/2020
 ---
 A lot has happened today. In the morning, my cousin and I went to the countryside and we loaded the wood for firewood and then came back with a tractor 😄🚜. Then I went running with my friend and we did 6 km 🏃 (we had a very average time). At the end of the day - to relax - I went with my cousin to the pool 🤗.
+
+09/02/2020
+---
+It was a wonderful Sunday 😍😍! It was very sunny. In the morning I was in the church and in the afternoon I went to see friends. At first we went for a walk and then we ate, talked and played some board games 😉.
+
+10/02/2020
+---
+Today, however, the weather was terrible - it was raining and the wind was blowing. Despite everything I went running with my friend and we did 3.8km 🏃🏃. I think that this year's goal of 100km could have been raised to 200 😀.
+
+11/02/2020
+---
+Ahhhh!! Today I almost reached the 50m underwater goal 🏊. I've swam 40-45 meters and surfaced. I'm a bit angry, because I still had oxygen to do 1-2 more repss. 💪💪
+
+12/02/2020
+---
+It was a good day :). Nothing unusual happened, but still I'm satisfied. I spent the whole day at home and started to get acquainted with materials for my thesis 📗👍.
+
+13/02/2020
+---
+Finally, I was able to finish the task at work - or actually pass it on for review 👍. Besides, it was an ordinary day and nothing interesting was going on 🙂.
+
+14/02/2020
+---
+My roommate is sick and I feel that slowly this disease is also taking me 🤧🤧. Still, it was a good day 😉. Today I ran a little over 4.5km with my friend even though I did not feel 100% healthy 👍.
+
+15/02/2020
+---
+And I got sick 😰🤒. I spent the whole day reading scientific papers on the subject of my thesis... My head is steaming after that day...🤯
