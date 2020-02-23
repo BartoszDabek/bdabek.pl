@@ -181,3 +181,31 @@ My roommate is sick and I feel that slowly this disease is also taking me 🤧�
 15/02/2020
 ---
 And I got sick 😰🤒. I spent the whole day reading scientific papers on the subject of my thesis... My head is steaming after that day...🤯
+
+16/02/2020
+---
+Today I felt much better - actually I almost recovered 🤗. Today I was only in church and spent the rest of the day at home 🏠. In the evening my cousin came to me and together we watched over my nephew 👶👶.
+
+17/02/2020
+---
+It was a nice Monday 😎! It was very, VERY warm - 12 degrees in mid-February 🤯! I'm a little glad because I like it when it's warm and on the other hand I'm afraid for what's happening to the climate this year 😶.
+
+18/02/2020
+---
+The next day passed 😏. Actually, I didn't do anything very valuable today. I finished a pdf with 10 keyboard shortcuts to IntelliJ and downloaded some repositories with the code to calculate k means 👍.
+
+19/02/2020
+---
+Again, I haven't moved much from home, but I feel it was a good day 👍👍. We had some meetings at work today (in the meantime I did my home training), someone even went to my website and wrote a comment [bdabek.pl](bdabek.pl) 👊.
+
+20/02/2020
+---
+Today I was at the pool with my cousin 💪. I could use this relaxation because today we had a lot of work with the git and all the branching 😮.
+
+21/02/2020
+---
+Another good day! :) Today I was at the pool again - this time with my two buddies. My blog [bdabek.pl](bdabek.pl) has been approved for jvm-bloggers and gained a lot of traffic thanks to this 👍👍.
+
+22/02/2020
+---
+Oh, yes! This Saturday started wonderfully 😍. It was sunny in the morning 😎 so I went running with my friend (we would have gone anyway), we did 6 km and then I went to him for breakfast. I started writing my thesis (I wrote one page 😅) and in the evening I went with my cousin to the pool to relax 🤗🤗.

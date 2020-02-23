@@ -24,21 +24,27 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [02/16/2020]
+# [02/23/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare naive K-Means algorithm (from github)
+- [ ] Prepare [this meal](https://youtu.be/OgfbU2BEk2E)
+- [ ] ‍🎓 Thesis - write chapter about Lloyd's Algorithm
+- [ ] Prepare first page presentation for tests learning at the University
 - [ ] 📝 Blog post
-- [ ] 📗 Read [ThreadLocal](https://jgardo.dev/2020/02/03/threadlocal/)
-- [ ] 📗 Read [Importy nieprzerywające pracy w IntelliJ](http://pkubowicz.pl/importy-nieprzerywajace-pracy-w-intellij/)
-- [ ] 📗 Read [Java Wrapper Classes Internal Caching](https://howtodoinjava.com/java/basics/object-initialization-best-practices-internal-caching-in-wrapper-classes/)
-- [ ] 📗 Read [A Java Programmer's Guide to Byte Code](https://www.beyondjava.net/java-programmers-guide-java-byte-code)
-- [ ] 🎧 Listen [AUTO WARTE 15 MILIONÓW - Mariusz Król | #009](https://youtu.be/IGRW5MnnVx8)
-- [ ] 🎧 Listen [DevTalk #109 – O Analityce w Gamingu z Kamilem Ciukszo](https://devstyle.pl/2020/01/20/devtalk-109-o-analityce-w-gamingu-z-kamilem-ciukszo/)
-- [ ] 🎧 Listen [SPI 409: An Interview with Jess, my Executive Assistant (and How We Choreograph Our Work Together)](https://www.smartpassiveincome.com/podcasts/an-interview-with-my-executive-assistant/)
-- [ ] 🎧 Listen [SPI 410: How Building a Tribe Took this Man from Rock Bottom to Massive Business Success](https://www.smartpassiveincome.com/podcasts/from-rock-bottom-to-massive-business-success/)
-- [ ] 📽️ Watch [Everything You Ever Wanted to Know About Java and Didn’t Know Whom to Ask](https://youtu.be/6KwANs_F5n0)
+- [ ] 📗 Read [Difference between Stack and Heap memory in Java](https://javarevisited.blogspot.com/2013/01/difference-between-stack-and-heap-java.html)
+- [ ] 📗 Read [Autoboxing](https://docs.oracle.com/javase/1.5.0/docs/guide/language/autoboxing.html)
+- [ ] 📗 Read [A Child's Garden of Cache Effects](https://www.beyondjava.net/blog/childs-garden-cache-effects)
+- [ ] 📗 Read [Hash Code – Java's collections](https://devolution.tech/hash-code-java-collections/)
+- [ ] 📗 Read [Hash Code – Problems](https://devolution.tech/hash-code-problems/)
+- [ ] 📗 Read [Var](https://jgardo.dev/2020/02/20/var/)
+- [ ] 🎧 Listen [CARDI B KUPOWAŁA U NIEJ KOSMETYKI - Susanna Michałek | #010](https://youtu.be/4MJ72S9JrXk)
+- [ ] 🎧 Listen [Episode 99: Squashing bugs using AI and Machine Learning with Boris Paskalev](https://www.programmingthrowdown.com/2020/02/episode-99-squashing-bugs-using-ai-and.html)
+- [ ] 🎧 Listen [SPI 411: 5 Market Must-Haves When Building a Business That Will Succeed, with Ryan Levesque](https://www.smartpassiveincome.com/podcasts/market-must-haves-for-a-successful-business/)
+- [ ] 🎧 Listen [DevTalk #111 – O Nierelacyjnych i Relacyjnych Bazach Danych z Damianem Widerą](https://devstyle.pl/2020/02/17/devtalk-111-o-nierelacyjnych-i-relacyjnych-bazach-danych-z-damianem-widera/)
+- [ ] 📽️ Watch [JAVAFAKTURA - S02E08 - zAOPiekuj się mną, mocno tak! - Marcin Erbel](https://youtu.be/wYTkJ6q-JhQ)
+- [ ] 📽️ Watch [JAVAFAKTURA - S01E05 - Testowanie w Javie na przykładzie JUnit5 - Tomek Owczarek](https://youtu.be/1bNKqe-KNao)
 
 
 ### Things I'll Do in the Future 🏅
+- [ ] Organize an event to help people (children from the orphanage / homeless)
