@@ -209,3 +209,31 @@ Another good day! :) Today I was at the pool again - this time with my two buddi
 22/02/2020
 ---
 Oh, yes! This Saturday started wonderfully 😍. It was sunny in the morning 😎 so I went running with my friend (we would have gone anyway), we did 6 km and then I went to him for breakfast. I started writing my thesis (I wrote one page 😅) and in the evening I went with my cousin to the pool to relax 🤗🤗.
+
+23/02/2020
+---
+It was a good day until evening. I don't want to write what happened because it's private, but let's just say I'm a little angry.
+
+24/02/2020
+---
+All day long it was very hard for me to focus 😥. At 4:30 p.m. I went running with a friend of mine and it took my emotions away. 
+
+25/02/2020
+---
+This afternoon I went to Bialystok 🚗. It's time to start the last semester of studies! 👨🎓
+
+26/02/2020
+---
+It's been a tough day 😨. It's mostly about work... it turned out that what I had to implement wasn't necessary. The biggest pain is that I analyzed it in terms of how to solve it and so I realized that we don't need it after 3 days 😪😭.
+
+27/02/2020
+---
+As far as work is concerned, it was much better today 👍! After all, I know what to do 😉. In the evening I went with my cousin (who is getting married in July) to the pool to relax. ☺️
+
+28/02/2020
+---
+It was a good Friday 😊👍! At work, I did everything according to plan so I had more time in the afternoon. Using it, I made myself a nice dinner. I spent the evening with my friends - we talked, played and ate unhealthy food 😆.
+
+29/02/2020
+---
+Last day of February 😯! Today I went running with my friend - we did 5 km and finally endomondo started to measure the distance 🏃👍. During the day I wrote some of my thesis and in the evening - again with my friend - we went to the pool 🏊.

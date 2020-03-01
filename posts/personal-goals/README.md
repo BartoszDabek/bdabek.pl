@@ -4,7 +4,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 
 # Overarching Goals for 2020 🏆🥇
 1. Help 3 strangers 🧚‍♂️
-2. Build an active community (at least 50 unique blog visits) 🧑‍🤝‍🧑
+2. Build an active community (2.5k unique blog visits in a month) 🧑‍🤝‍🧑
 3. Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙
 4. Visit 2 different countries ✈️
 5. Master Technical University graduation 👨‍🎓
@@ -13,8 +13,8 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 1. 10km under 50 minutes 👟
 2. 50m underwater 🏊
 3. 3:45 with held breath 🧘
-4. Run 100 km in a year 🏃
-5. Cycle 500 km in a year 🚴
+4. Run 200 km in a year 🏃
+5. Cycle 600 km in a year 🚴
 
 ## 25 Days Challenges 🔥🥉
 1. ✅ Holding breath 🧘(1.01-25.01)
@@ -24,26 +24,26 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [02/23/2020]
+# [03/01/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare [this meal](https://youtu.be/OgfbU2BEk2E)
 - [ ] ‍🎓 Thesis - write chapter about Lloyd's Algorithm
-- [ ] Prepare first page presentation for tests learning at the University
+- [ ] ‍🎓 Thesis - run promoter algorithm
+- [ ] ‍🎓 Thesis - prepare project on BB
+- [ ] ‍🎓 Thesis - validate reading binary data
+- [ ] ‍🎓 Studies - Database homework
+- [ ] Prepare [this meal](https://youtu.be/DHsnBStnkl4)
 - [ ] 📝 Blog post
-- [ ] 📗 Read [Difference between Stack and Heap memory in Java](https://javarevisited.blogspot.com/2013/01/difference-between-stack-and-heap-java.html)
-- [ ] 📗 Read [Autoboxing](https://docs.oracle.com/javase/1.5.0/docs/guide/language/autoboxing.html)
-- [ ] 📗 Read [A Child's Garden of Cache Effects](https://www.beyondjava.net/blog/childs-garden-cache-effects)
-- [ ] 📗 Read [Hash Code – Java's collections](https://devolution.tech/hash-code-java-collections/)
-- [ ] 📗 Read [Hash Code – Problems](https://devolution.tech/hash-code-problems/)
-- [ ] 📗 Read [Var](https://jgardo.dev/2020/02/20/var/)
-- [ ] 🎧 Listen [CARDI B KUPOWAŁA U NIEJ KOSMETYKI - Susanna Michałek | #010](https://youtu.be/4MJ72S9JrXk)
-- [ ] 🎧 Listen [Episode 99: Squashing bugs using AI and Machine Learning with Boris Paskalev](https://www.programmingthrowdown.com/2020/02/episode-99-squashing-bugs-using-ai-and.html)
-- [ ] 🎧 Listen [SPI 411: 5 Market Must-Haves When Building a Business That Will Succeed, with Ryan Levesque](https://www.smartpassiveincome.com/podcasts/market-must-haves-for-a-successful-business/)
-- [ ] 🎧 Listen [DevTalk #111 – O Nierelacyjnych i Relacyjnych Bazach Danych z Damianem Widerą](https://devstyle.pl/2020/02/17/devtalk-111-o-nierelacyjnych-i-relacyjnych-bazach-danych-z-damianem-widera/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S02E08 - zAOPiekuj się mną, mocno tak! - Marcin Erbel](https://youtu.be/wYTkJ6q-JhQ)
-- [ ] 📽️ Watch [JAVAFAKTURA - S01E05 - Testowanie w Javie na przykładzie JUnit5 - Tomek Owczarek](https://youtu.be/1bNKqe-KNao)
+- [ ] 📗 Read [2 solution of java.lang.OutOfMemoryError in Java](https://javarevisited.blogspot.com/2011/09/javalangoutofmemoryerror-permgen-space.html)
+- [ ] 📗 Read [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
+- [ ] 📗 Read [Java 14 – Co nowego w kolejnym wydaniu?](https://blog.mloza.pl/java-14-co-nowego-w-kolejnym-wydaniu/)
+- [ ] 📗 Read [Parallel Collection Processing: Without Parallel Streams (1/3)](https://4comprehension.com/parallel-collection-processing-1/)
+- [ ] 🎧 Listen [MOTYWACJA JEST DLA IDIOTÓW - Zen Jaskiniowca | #011](https://youtu.be/t_NsOSKSL70)
+- [ ] 🎧 Listen [The 12 Week Year: The “Secret Sauce” To Achieving Your Goals Every Quarter (TPS288)](http://www.asianefficiency.com/podcast/288-12-week-year/)
+- [ ] 🎧 Listen [Episode 400: Michaela Greiler on Code Reviews](https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/)
+- [ ] 🎧 Listen [SPI 412: The Power and Pain of Partnerships & The Future of Content on the Web, with Darrell Vesterfelt](https://www.smartpassiveincome.com/podcasts/the-power-and-pain-of-partnerships/)
+- [ ] 📽️ Watch [Brian Goetz on Java Language Futures: 2019 Edition](https://youtu.be/xlTBof3P4Xc)
 
 
 ### Things I'll Do in the Future 🏅
