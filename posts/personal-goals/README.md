@@ -18,32 +18,30 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 
 ## 25 Days Challenges 🔥🥉
 1. ✅ Holding breath 🧘(1.01-25.01)
-2. HackerRank 👨‍💻(10.02-06.03)
+2. ✅ HackerRank 👨‍💻(10.02-06.03)
 3. 100 pushups 🙇
 4. 50 pull-ups 🏋️‍♂️
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [03/01/2020]
+# [03/08/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - write chapter about Lloyd's Algorithm
-- [ ] ‍🎓 Thesis - run promoter algorithm
-- [ ] ‍🎓 Thesis - prepare project on BB
-- [ ] ‍🎓 Thesis - validate reading binary data
+- [ ] ‍🎓 Thesis - prepare program to read binary data from input
+- [ ] ‍🎓 Thesis - prepare interfaces for k-means native algorithm
 - [ ] ‍🎓 Studies - Database homework
-- [ ] Prepare [this meal](https://youtu.be/DHsnBStnkl4)
+- [ ] 👨‍🍳 Prepare [this meal](https://youtu.be/Vq1a29cKn5A)
 - [ ] 📝 Blog post
-- [ ] 📗 Read [2 solution of java.lang.OutOfMemoryError in Java](https://javarevisited.blogspot.com/2011/09/javalangoutofmemoryerror-permgen-space.html)
-- [ ] 📗 Read [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
-- [ ] 📗 Read [Java 14 – Co nowego w kolejnym wydaniu?](https://blog.mloza.pl/java-14-co-nowego-w-kolejnym-wydaniu/)
-- [ ] 📗 Read [Parallel Collection Processing: Without Parallel Streams (1/3)](https://4comprehension.com/parallel-collection-processing-1/)
-- [ ] 🎧 Listen [MOTYWACJA JEST DLA IDIOTÓW - Zen Jaskiniowca | #011](https://youtu.be/t_NsOSKSL70)
-- [ ] 🎧 Listen [The 12 Week Year: The “Secret Sauce” To Achieving Your Goals Every Quarter (TPS288)](http://www.asianefficiency.com/podcast/288-12-week-year/)
-- [ ] 🎧 Listen [Episode 400: Michaela Greiler on Code Reviews](https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/)
-- [ ] 🎧 Listen [SPI 412: The Power and Pain of Partnerships & The Future of Content on the Web, with Darrell Vesterfelt](https://www.smartpassiveincome.com/podcasts/the-power-and-pain-of-partnerships/)
-- [ ] 📽️ Watch [Brian Goetz on Java Language Futures: 2019 Edition](https://youtu.be/xlTBof3P4Xc)
+- [ ] 📗 Read [Co to jest cold start Lambdy? Wyjaśnię Ci go w 4 minuty](https://serverlesspolska.pl/2020/02/29/Co-to-jest-cold-start-Lambdy-Wyjasnie-Ci-go-w-4-minuty/)
+- [ ] 📗 Read [3 najpopularniejsze wzorce projektowe](https://nullpointerexception.pl/3-najpopularniejsze-wzorce-projektowe/)
+- [ ] 📗 Read [Jak tworzyć REST API?](https://nullpointerexception.pl/jak-tworzyc-rest-api/)
+- [ ] 📗 Read [Quarkus – kolejny nowy framework Javowy](https://nullpointerexception.pl/quarkus-kolejny-nowy-framework-javowy/)
+- [ ] 🎧 Listen [WALCZ O SWOJE, BARIERY ISTNIEJĄ TYLKO W NASZYCH GŁOWACH - Mariusz Kędzierski | #012](https://youtu.be/KPXjPDRbDCY)
+- [ ] 🎧 Listen [Episode 401: Jeremy Miller on Waterfall Versus Agile](https://www.se-radio.net/2020/03/episode-401-jeremy-miller-on-waterfall-versus-agile/)
+- [ ] 🎧 Listen [Work-Life Balance Is A Myth, But Here’s How To Be Better In Your Work and Personal Life Without Falling Apart (TPS289)](http://www.asianefficiency.com/podcast/289-work-life-balance/)
+- [ ] 🎧 Listen [DevTalk #112 – O Progressive Web Applications z Adamem Barem](https://devstyle.pl/2020/03/02/devtalk-112-o-progressive-web-applications-z-adamem-barem/)
+- [ ] 📽️ Watch [JAVAFAKTURA - S02E07 - Spring webflux? A komu to potrzebne? - Tobiasz Kowalski](https://youtu.be/wapUrn6oqeU)
 
 
 ### Things I'll Do in the Future 🏅

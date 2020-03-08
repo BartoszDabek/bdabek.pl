@@ -237,3 +237,31 @@ It was a good Friday 😊👍! At work, I did everything according to plan so I 
 29/02/2020
 ---
 Last day of February 😯! Today I went running with my friend - we did 5 km and finally endomondo started to measure the distance 🏃👍. During the day I wrote some of my thesis and in the evening - again with my friend - we went to the pool 🏊.
+
+01/03/2020
+---
+Very standard Sunday - I was in church in the morning, then I studied and worked on the analysis of the Master's thesis code 😲. I do not like such Sundays 🤔... 
+
+02/03/2020
+---
+Tough Monday 🤨. At work I was dealing with branches and a few people from the team didn't adjust to the git workflow and some inconveniences came out 😥.
+
+03/03/2020
+---
+Today was much better :). Throughout the day I had meetings 🎧. Almost always after such a day my head explodes 🤯, and today it was fine 👍. After work we started the cycling season with my cousin 🚴🚴 - we drove a modest 20 km 🔥!
+
+04/03/2020
+---
+It was a nice Wednesday 🤗. In the afternoon I went to Bialystok to study 🚗 and after class I went to my friends - on Wednesdays we have such meetings where we meet and talk about God 👍.
+
+05/03/2020
+---
+I was in the office today 🤗. I had a conversation with my boss about my development in the company and so we talked in general. In the afternoon I cane home (to Hajnowka) and made myself an orange chicken 💪👨🍳.
+
+06/03/2020
+---
+The last day of the HackerRank challenge 🤗 - that time has passed very quickly 😮! It turned out very well that this was the last day of the challenge because today we went to Silesia (and I will probably be more limited in time). In general this whole 'trip' is so spontaneous. I found out on Wednesday that there is such a possibility and I said - we are going! 😅
+
+07/03/2020
+---
+It was wonderful Saturday ☺️. We are at Silesia and we have a really good time with God here. Also I've met new friends :)
