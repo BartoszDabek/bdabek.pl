@@ -265,3 +265,31 @@ The last day of the HackerRank challenge 🤗 - that time has passed very quickl
 07/03/2020
 ---
 It was wonderful Saturday ☺️. We are at Silesia and we have a really good time with God here. Also I've met new friends :)
+
+08/03/2020
+---
+We stayed in Silesia until the evening 😲. But to be honest I don't regret it - we had a very good time there 😉👍.
+
+09/03/2020
+---
+It was a great Monday 😉👍. I feel very spiritually built and I always want to have this state 💪. So this is a note to me - Bartek, at the end of the year, as you read this, mention the condition you have now, and if you do not have it, do it all to make this come back!
+
+10/03/2020
+---
+I had a good day again, 😉! I skip work - everything was normal here. I spent the evening with my friend - we went to the pool and then we talked until late in the evening 👍.
+
+11/03/2020
+---
+The world is scared of the coronavirus disease 😮. The Polish economy is going down like crazy - maybe it's time to invest some money on the stock market? 🤔
+
+12/03/2020
+---
+Another great day 🤗🤗! Tonight I was in the church, then I went with my friend to the cauldron - the shelves were empty, people went crazy for fear of the virus 🙄.
+
+13/03/2020
+---
+Friday 😎. It was very hard for me to work today - I couldn't concentrate on my work and I did little 🙄. I also invested some money in Orlen's shares today - I'm looking at it rather long term, we'll see what comes out of it 😏.
+
+14/03/2020
+---
+The world has gone crazy 🤔. I am very curious to see if I will live to see the end of this year and be able to read my notes in peace if so thank God. It's getting weird in the world now 😥.

@@ -19,30 +19,30 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 ## 25 Days Challenges 🔥🥉
 1. ✅ Holding breath 🧘(1.01-25.01)
 2. ✅ HackerRank 👨‍💻(10.02-06.03)
-3. 100 pushups 🙇
+3. 100 pushups 🙇(1.04-25.04)
 4. 50 pull-ups 🏋️‍♂️
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [03/08/2020]
+# [03/15/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - prepare program to read binary data from input
-- [ ] ‍🎓 Thesis - prepare interfaces for k-means native algorithm
-- [ ] ‍🎓 Studies - Database homework
-- [ ] 👨‍🍳 Prepare [this meal](https://youtu.be/Vq1a29cKn5A)
+- [ ] Prepare presentation about tests
+- [ ] ‍🎓 Thesis - prepare k-means naive algorithm
+- [ ] 👨‍🍳 Prepare [this meal](https://youtu.be/YNY0H8Eoves)
 - [ ] 📝 Blog post
-- [ ] 📗 Read [Co to jest cold start Lambdy? Wyjaśnię Ci go w 4 minuty](https://serverlesspolska.pl/2020/02/29/Co-to-jest-cold-start-Lambdy-Wyjasnie-Ci-go-w-4-minuty/)
-- [ ] 📗 Read [3 najpopularniejsze wzorce projektowe](https://nullpointerexception.pl/3-najpopularniejsze-wzorce-projektowe/)
-- [ ] 📗 Read [Jak tworzyć REST API?](https://nullpointerexception.pl/jak-tworzyc-rest-api/)
-- [ ] 📗 Read [Quarkus – kolejny nowy framework Javowy](https://nullpointerexception.pl/quarkus-kolejny-nowy-framework-javowy/)
-- [ ] 🎧 Listen [WALCZ O SWOJE, BARIERY ISTNIEJĄ TYLKO W NASZYCH GŁOWACH - Mariusz Kędzierski | #012](https://youtu.be/KPXjPDRbDCY)
-- [ ] 🎧 Listen [Episode 401: Jeremy Miller on Waterfall Versus Agile](https://www.se-radio.net/2020/03/episode-401-jeremy-miller-on-waterfall-versus-agile/)
-- [ ] 🎧 Listen [Work-Life Balance Is A Myth, But Here’s How To Be Better In Your Work and Personal Life Without Falling Apart (TPS289)](http://www.asianefficiency.com/podcast/289-work-life-balance/)
-- [ ] 🎧 Listen [DevTalk #112 – O Progressive Web Applications z Adamem Barem](https://devstyle.pl/2020/03/02/devtalk-112-o-progressive-web-applications-z-adamem-barem/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S02E07 - Spring webflux? A komu to potrzebne? - Tobiasz Kowalski](https://youtu.be/wapUrn6oqeU)
+- [ ] 📗 Read [Why Do We Need Thread.currentThread().interrupt() in Interruptible Methods?](https://dzone.com/articles/why-do-we-need-threadcurrentthreadinterrupt-in-int)
+- [ ] 📗 Read [10 Things Java Programmer should learn in 2020](https://hackernoon.com/10-things-java-developer-should-learn-in-2020-px9j309i)
+- [ ] 📗 Read [Understanding Thread Interruption in Java](https://dzone.com/articles/understanding-thread-interruption-in-java)
+- [ ] 📗 Read [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
+- [ ] 🎧 Listen [Surviving The Economic Crisis](https://youtu.be/pxu5yWn5UJ0)
+- [ ] 🎧 Listen [SYTUACJA W POLSCE JEST LEPSZA NIŻ W STANACH - AJTHEPOLISHAMERICAN | #013](https://youtu.be/i9GpgOajqSk)
+- [ ] 🎧 Listen [Cloud Investing with Danel Dayan](https://softwareengineeringdaily.com/2020/03/11/cloud-investing-with-danel-dayan/)
+- [ ] 🎧 Listen [Have A Side Hustle? 5 Ways To Maximize Your Time, Energy, and Attention With a Job and a Freelance or Passion Project (TPS290)](http://www.asianefficiency.com/podcast/290-side-hustle/)
+- [ ] 📽️ Watch [JAVAFAKTURA - S02E03 - Spring MVC - REST in peace - Tomasz Owczarek](https://youtu.be/LXZyHa1PDSg)
 
 
 ### Things I'll Do in the Future 🏅
 - [ ] Organize an event to help people (children from the orphanage / homeless)
+- [ ] Learn [AWS Cloud](https://www.youtube.com/user/Nephaste20/featured)
