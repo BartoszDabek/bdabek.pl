@@ -293,3 +293,31 @@ Friday 😎. It was very hard for me to work today - I couldn't concentrate on m
 14/03/2020
 ---
 The world has gone crazy 🤔. I am very curious to see if I will live to see the end of this year and be able to read my notes in peace if so thank God. It's getting weird in the world now 😥.
+
+15/03/2020
+---
+It was a pleasant Sunday 🙂. In the morning I was in church, then we had a family dinner, then I visited my friend and in the evening I went to church again 👍👍.
+
+16/03/2020
+---
+Monday 🧡! All in all, it was a good day. In the evening - despite the fact that I didn't have much desire - we got in the car with our friends and went to the forest to talk 😊.
+
+17/03/2020
+---
+It was such a weird day 🤔. All the people around are panicking about the coronavirus 😶😶 - where does that get us all?
+
+18/03/2020
+---
+Today it was beautiful outside - 15 degrees and you could feel the spring 😍😍. In the afternoon I went for a run, did 4 km. I was running and my cousin was riding a bike next door so we also talked a little 🙂.
+
+19/03/2020
+---
+I really enjoyed today's 😉. The weather behind the window was poor but still I feel the spring is slowly coming 🤗. In the evening I could be at a service with my cousin, where the good word 👍 was preached.
+
+20/03/2020
+---
+Friday 🤗🤗. We start the weekend! Today I invited my cousin to dinner and made MEGA delicious turkey with rice, mushrooms and broccoli 🔪👨🍳❤. Then we went for a walk in the forest - a great feeling 👍.
+
+21/03/2020
+---
+Today I spent almost the whole day writing the algorithm for my thesis 🤯🤯. In the meantime, I did some other things, e.g. I cleaned the room 😆.

@@ -24,23 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [03/15/2020]
+# [03/22/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Prepare presentation about tests
-- [ ] ‍🎓 Thesis - prepare k-means naive algorithm
-- [ ] 👨‍🍳 Prepare [this meal](https://youtu.be/YNY0H8Eoves)
+- [ ] Finish presentation about tests
+- [ ] ‍🎓 Thesis - finish k-means naive algorithm
+- [ ] 👨‍🍳 Prepare [Prosty MEKSYKAŃSKI Kurczak z RYŻEM - LunchBOX na 4 dni - 697 kcal](https://youtu.be/dQFXkyBNUco)
 - [ ] 📝 Blog post
-- [ ] 📗 Read [Why Do We Need Thread.currentThread().interrupt() in Interruptible Methods?](https://dzone.com/articles/why-do-we-need-threadcurrentthreadinterrupt-in-int)
-- [ ] 📗 Read [10 Things Java Programmer should learn in 2020](https://hackernoon.com/10-things-java-developer-should-learn-in-2020-px9j309i)
-- [ ] 📗 Read [Understanding Thread Interruption in Java](https://dzone.com/articles/understanding-thread-interruption-in-java)
-- [ ] 📗 Read [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
-- [ ] 🎧 Listen [Surviving The Economic Crisis](https://youtu.be/pxu5yWn5UJ0)
-- [ ] 🎧 Listen [SYTUACJA W POLSCE JEST LEPSZA NIŻ W STANACH - AJTHEPOLISHAMERICAN | #013](https://youtu.be/i9GpgOajqSk)
-- [ ] 🎧 Listen [Cloud Investing with Danel Dayan](https://softwareengineeringdaily.com/2020/03/11/cloud-investing-with-danel-dayan/)
-- [ ] 🎧 Listen [Have A Side Hustle? 5 Ways To Maximize Your Time, Energy, and Attention With a Job and a Freelance or Passion Project (TPS290)](http://www.asianefficiency.com/podcast/290-side-hustle/)
-- [ ] 📽️ Watch [JAVAFAKTURA - S02E03 - Spring MVC - REST in peace - Tomasz Owczarek](https://youtu.be/LXZyHa1PDSg)
+- [ ] Update [bdabek.pl](https://www.bdabek.pl/cele-2020/)
+- [ ] 📗 Read [Useful JVM Flags – Part 5 (Young Generation Garbage Collection)](https://blog.codecentric.de/en/2012/08/useful-jvm-flags-part-5-young-generation-garbage-collection/)
+- [ ] 📗 Read [Ile kosztuje Garbage Collection – tworzenie obiektów](https://jgardo.dev/2020/03/18/ile-kosztuje-garbage-collection-tworzenie-obiektow/)
+- [ ] 📗 Read [Architektura warstwowa – sposób na organizację kodu](https://nullpointerexception.pl/architektura-warstwowa-sposob-na-organizacje-kodu)
+- [ ] 📗 Read [AWS Free Tier – darmowy hosting aplikacji lub strony na AWS](https://blog.mloza.pl/aws-free-tier-darmowy-hosting-aplikacji-lub-strony-na-aws)
+- [ ] 🎧 Listen [CZEKA NAS OGROMNY KRYZYS GOSPODARCZY NA ŚWIECIE - Cezary Graf | #014](https://youtu.be/sqM_4aw9f-E)
+- [ ] 🎧 Listen [Economic Disaster Prepare Now](https://youtu.be/cQ6cgzSSg5s)
+- [ ] 🎧 Listen [COVID-19: How To Be As Productive As Possible During Coronavirus Isolation (TPS291.5)](http://www.asianefficiency.com/podcast/291-5-covid19-coronavirus-isolation/)
+- [ ] 🎧 Listen [How To Design A More Focused and Productive Work Environment (TPS291)](http://www.asianefficiency.com/podcast/291-environment/)
+- [ ] 📽️ Watch [jSession#19 - Fantastic Frameworks and How to Avoid Them - Grzegorz Piwowarek](https://youtu.be/WwEQcA1gPLM)
 
 
 ### Things I'll Do in the Future 🏅
