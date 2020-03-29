@@ -12,7 +12,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 ## Sports goals 💪🥈
 1. 10km under 50 minutes 👟
 2. 50m underwater 🏊
-3. 3:45 with held breath 🧘
+3. ✅ 3:45 with held breath 🧘(24.03.2019)
 4. Run 200 km in a year 🏃
 5. Cycle 600 km in a year 🚴
 
@@ -24,24 +24,27 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [03/22/2020]
+# [03/29/2020]
 
 ### Things I'll do This Week:
 
 - [ ] Finish presentation about tests
-- [ ] ‍🎓 Thesis - finish k-means naive algorithm
-- [ ] 👨‍🍳 Prepare [Prosty MEKSYKAŃSKI Kurczak z RYŻEM - LunchBOX na 4 dni - 697 kcal](https://youtu.be/dQFXkyBNUco)
+- [ ] ‍🎓 Studies - prepare to database classes
+- [ ] ‍🎓 Thesis - clean code & add parameters input
+- [ ] ‍🎓 Thesis - write a chapter on Elkan's algorithm
 - [ ] 📝 Blog post
-- [ ] Update [bdabek.pl](https://www.bdabek.pl/cele-2020/)
-- [ ] 📗 Read [Useful JVM Flags – Part 5 (Young Generation Garbage Collection)](https://blog.codecentric.de/en/2012/08/useful-jvm-flags-part-5-young-generation-garbage-collection/)
-- [ ] 📗 Read [Ile kosztuje Garbage Collection – tworzenie obiektów](https://jgardo.dev/2020/03/18/ile-kosztuje-garbage-collection-tworzenie-obiektow/)
-- [ ] 📗 Read [Architektura warstwowa – sposób na organizację kodu](https://nullpointerexception.pl/architektura-warstwowa-sposob-na-organizacje-kodu)
-- [ ] 📗 Read [AWS Free Tier – darmowy hosting aplikacji lub strony na AWS](https://blog.mloza.pl/aws-free-tier-darmowy-hosting-aplikacji-lub-strony-na-aws)
-- [ ] 🎧 Listen [CZEKA NAS OGROMNY KRYZYS GOSPODARCZY NA ŚWIECIE - Cezary Graf | #014](https://youtu.be/sqM_4aw9f-E)
-- [ ] 🎧 Listen [Economic Disaster Prepare Now](https://youtu.be/cQ6cgzSSg5s)
-- [ ] 🎧 Listen [COVID-19: How To Be As Productive As Possible During Coronavirus Isolation (TPS291.5)](http://www.asianefficiency.com/podcast/291-5-covid19-coronavirus-isolation/)
-- [ ] 🎧 Listen [How To Design A More Focused and Productive Work Environment (TPS291)](http://www.asianefficiency.com/podcast/291-environment/)
-- [ ] 📽️ Watch [jSession#19 - Fantastic Frameworks and How to Avoid Them - Grzegorz Piwowarek](https://youtu.be/WwEQcA1gPLM)
+- [ ] 👨‍🍳 Prepare [Ciekawy TOST kanapka bez PIECZYWA](https://youtu.be/9YOOourTvMA)
+- [ ] 📗 Read [AWS – Amazon Web Services – co to jest i w jaki sposób mogę to wykorzystać?](https://blog.mloza.pl/aws-amazon-web-services-co-to-jest-i-w-jaki-sposob-moge-to-wykorzystac/)
+- [ ] 📗 Read [Don't use LocalDateTime.](http://blog.schauderhaft.de/2018/03/14/dont-use-localdatetime/)
+- [ ] 📗 Read [Hibernate Best Practices](https://thoughts-on-java.org/hibernate-best-practices/)
+- [ ] 📗 Read [GraphQL server in Java: Part III: Improving concurrency](https://www.nurkiewicz.com/2020/03/graphql-server-in-java-part-iii.html)
+- [ ] 📗 Read [Video: Wszystko co powinieneś wiedzieć o rekordach w Javie 14](https://nullpointerexception.pl/video-wszystko-co-powinienes-wiedziec-o-rekordach-w-javie-14/)
+- [ ] 🎧 Listen [NIE SIEDŹ W DOMU (pozwól, że wyjaśnię) - Sebastian Kilichowski | #015](https://youtu.be/LHKRKE6Nd7I)
+- [ ] 🎧 Listen [Real Wealth](https://youtu.be/lGulQ8jNlKs)
+- [ ] 🎧 Listen [SPI 416: Before Your First (or Next) Presentation DO THIS, with Grant Baldwin](https://www.smartpassiveincome.com/podcasts/before-your-first-presentation-do-this/)
+- [ ] 🎧 Listen [DevTalk #113 – O Testach w Architekturze z Jakubem Pilimonem](https://devstyle.pl/2020/03/23/devtalk-113-o-testach-w-architekturze-z-jakubem-pilimonem/)
+- [ ] 📽️ Watch [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://youtu.be/x2-rSnhpw0g)
+- [ ] 📽️ Watch [Jakub Kubryński "Software craftsmanship: przerost formy nad treścią?" [DNA Conf 2020]](https://youtu.be/Cc1Xfcu39QU)
 
 
 ### Things I'll Do in the Future 🏅

@@ -321,3 +321,31 @@ Friday 🤗🤗. We start the weekend! Today I invited my cousin to dinner and m
 21/03/2020
 ---
 Today I spent almost the whole day writing the algorithm for my thesis 🤯🤯. In the meantime, I did some other things, e.g. I cleaned the room 😆.
+
+22/03/2020
+---
+It was a good Sunday 😉. In the morning, instead of going to church, we met in a group with friends (because of the ban on meeting more than 50 people). It was very nice (btw. I went there on foot 👟 - about 4 km one way). In the evening I had a short call with my thesis supervisor - he helped me a little with understanding the code 👍.
+
+23/03/2020
+---
+It was a very productive day 💪🔥! I got up at 4:30am and started my day as always with one extra brick - a DNA course I bought yesterday. Besides, the day was like a day, everything was fine at work and after work I went to run with my friend and did 6 km 🏃🏃. I also managed to write a correctly naive version of the algorithm which I sat on yesterday with my promoter 😊.
+
+24/03/2020
+---
+WoW! Today I managed to achieve one of my annual goals - to last 3:45 minutes without oxygen 👍👍! It's a pity that the pool is closed because I would probably be able to beat 50 meters underwater too 😏.
+
+25/03/2020
+---
+The middle of the week and so far the hardest (in terms of time) day - I didn't even have time to do my training 😥. But I went running with my friend and we did 6.5 km 🏃. For the first time this year we ran together at my place.
+
+26/03/2020
+---
+Today was a quiet day. I spent the whole day at home. A little study, a little blog - nothing special 😉.
+
+27/03/2020
+---
+Time to start the weekend 😍! Today we went out on bikes with friends - we went to the forest 🤗. It is beautiful there! 
+
+28/03/2020
+---
+Today we repeated the activity from yesterday and again we went by bike to the forest 🚴 - this time we did 30km. Later we made dinner at my place - it was quite good 👍.
