@@ -349,3 +349,31 @@ Time to start the weekend 😍! Today we went out on bikes with friends - we wen
 28/03/2020
 ---
 Today we repeated the activity from yesterday and again we went by bike to the forest 🚴 - this time we did 30km. Later we made dinner at my place - it was quite good 👍.
+
+29/03/2020
+---
+Oh, I didn't move at all today 😲 We had a family service at our house today so I just had to go down the stairs. It was a 'different' Sunday, but still very pleasant 😉. 
+
+30/03/2020
+---
+And another Monday is behind us. 🙂 I had an online 'test' from the databases today - I think I did quite well 👍. 
+
+31/03/2020
+---
+It was an ordinary day. I wasn't moving from home and I didn't do anything unusual 😶. I started my thesis a little bit, but no fireworks. Somehow today I missed the motivation to do 🤔.
+
+01/04/2020
+---
+Wednesday is always a busy day 😓. You know, work and then classes... Just a little more and that's it 👍  !
+
+02/04/2020
+---
+It was a good day 👍. During the day I went out to run with my friend and we did almost 6 km 💪. 
+
+03/04/2020
+---
+There he is! Friday 😍. I had a good day again today. At work I started a topic that is difficult, but outside of work I have everything under control. Well, maybe outside of my MA thesis, which I planned to write this week and I barely started 🤨
+
+04/04/2020
+---
+Today I did overtime at work 😮. Besides, I went out for a run with my friend and after the run we went to him and ate delicious homemade hamburgers 🍔.
