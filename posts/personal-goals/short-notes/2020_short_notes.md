@@ -377,3 +377,31 @@ There he is! Friday 😍. I had a good day again today. At work I started a topi
 04/04/2020
 ---
 Today I did overtime at work 😮. Besides, I went out for a run with my friend and after the run we went to him and ate delicious homemade hamburgers 🍔.
+
+05/04/2020
+---
+Wonderful Sunday 😍😍! In the morning we went to our uncle and auntie's, where we had a home service and then a family dinner. Later I came home on foot (about 5km) - but it was worth it - the weather was WONDERFUL 🤗🤗!
+
+06/04/2020
+---
+Today was wonderful weather 😎😍! I don't even know what to write, but I know that the more this weather is outside, the less I want to study and work 😯. And I still have to finish my master's degree in 😪.
+
+07/04/2020
+---
+Another great day! 👍 Today was even better weather than yesterday! Just today we had such a mini summer 😍😍. 
+
+08/04/2020
+---
+Wednesday = little free time 😐. I had a colloquium from databases today + at work I'm also struggling with one bug on the production 😰... but soon a long weekend - on Friday I'm picking up overtime for the last Saturday 😉!
+
+09/04/2020
+---
+Thank God it was a quiet day 😉. I solved yesterday's production problem and I can start a long weekend because tomorrow I'm taking a holiday 👍. 
+
+10/04/2020
+---
+Today I spent the whole day writing my thesis ✍️.  In the afternoon I went cycling with my cousin and we drove 20 km through the forest 🌳🌲. 
+
+11/04/2020
+---
+It's just beautiful 👌! Today I started to continue writing my thesis - I finished writing around noon. I thought I would write some more algorithm and it turned out that by the evening I had written a working algorithm in a single thread version 👍! And additionally, I ran 4km in the meantime and walked with my cousin for an hour on the tracks and forest 💪😊.

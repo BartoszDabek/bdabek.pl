@@ -24,24 +24,25 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [04/05/2020]
+# [04/12/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - write a chapter on Elkan's algorithm
+- [ ] ‍🎓 Thesis - write Elkan's multithreaded algorithm
 - [ ] 📝 Blog post
-- [ ] 👨‍🍳 Prepare [Micha 1800 kcal - pełnowartościowy posiłek dla 1-3 osoby](https://youtu.be/YNY0H8Eoves)
-- [ ] 📗 Read [Highlights from Git 2.26](https://github.blog/2020-03-22-highlights-from-git-2-26/)
-- [ ] 📗 Read [Pytania rekrutacyjne – czym różni się klasa abstrakcyjna od interfejsu?](https://nullpointerexception.pl/pytania-rekrutacyjne-czym-rozni-sie-klasa-abstrakcyjna-od-interfejsu/)
-- [ ] 📗 Read [Czas Mavena minął](http://pkubowicz.pl/czas-mavena-minal/)
-- [ ] 📗 Read [Metryki, GŁUPCZE!](https://sztukakodu.pl/metryki-glupcze/)
-- [ ] 🎧 Listen [80% RESTAURACJI UPADNIE W CIĄGU 3 LAT - Grzegorz Kłos | #016](https://youtu.be/JuDOYqXNNxc)
-- [ ] 🎧 Listen [You Are Living In The Dark Ages](https://youtu.be/-5oofzQjFRk)
-- [ ] 🎧 Listen [FBO 105: Ucz się od najlepszych. Miliarder Zbigniew Jakubas dla społeczności FBO](https://lectonapp.com/pl/audiobook/709a169a-4e2c-4c45-83e3-ca372bd9039f?_lst)
-- [ ] 🎧 Listen [How To Plan Your Perfect Week In Under 45 Minutes (TPS293)](https://www.asianefficiency.com/podcast/293-perfect-week/)
-- [ ] 📽️ Watch [🚀 DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://youtu.be/EZ05e7EMOLM)
+- [ ] 👨‍🍳 Prepare [Pancake śniadaniowy](https://youtu.be/Fz-ni5UjlSI?t=73)
+- [ ] 📗 Read [Celebrating 15 years of Git: An interview with Git maintainer Junio Hamano](https://github.blog/2020-04-07-celebrating-15-years-of-git-an-interview-with-git-maintainer-junio-hamano/)
+- [ ] 📗 Read [Spring Batch – co warto wiedzieć o przetwarzaniu wsadowym](https://nullpointerexception.pl/spring-batch-co-warto-wiedziec-o-przetwarzaniu-wsadowym/)
+- [ ] 📗 Read [Nowości w Javie](https://ttpsc.com/pl/blog/blog-nowosci-w-javie/)
+- [ ] 📗 Read [Top 6 Data Structures Every Java Programmer Should Learn](https://www.java67.com/2013/08/ata-structures-in-java-programming-array-linked-list-map-set-stack-queue.html)
+- [ ] 🎧 Listen [DevTalk #114 – O Service Mesh z Jakubem Dyszkiewiczem](https://devstyle.pl/2020/04/06/devtalk-114-o-service-mesh-z-jakubem-dyszkiewiczem/)
+- [ ] 🎧 Listen [ILE POWINIENEŚ MIEĆ PIENIĘDZY W WIEKU 20, 30 I 40 LAT? CYKL ŻYCIA I DOCHODÓW](https://marciniwuc.com/ile-powinienes-miec-pieniedzy-w-wieku-20-30-i-40-lat-ile-oszczedzac-miesiecznie/)
+- [ ] 🎧 Listen [Information Dieting](https://youtu.be/dbv_KCOQ86E)
+- [ ] 🎧 Listen [Episode 405: Yevgeniy Brikman on Infrastructure as Code Best Practices](https://www.se-radio.net/2020/04/episode-405-yevgeniy-brikman-on-infrastructure-as-code-best-practices/)
+- [ ] 📽️ Watch [Reactive APIs of Java 9](https://youtu.be/b3BNMqNXnYM)
 
 
 ### Things I'll Do in the Future 🏅
 - [ ] Organize an event to help people (children from the orphanage / homeless)
 - [ ] Learn [AWS Cloud](https://www.youtube.com/user/Nephaste20/featured)
+- [ ] Scrum Master certification
