@@ -24,22 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [04/12/2020]
+# [04/19/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - write Elkan's multithreaded algorithm
+- [ ] ‍🎓 Thesis - write 3 subsections on multithreading in Java
+- [ ] ‍🎓 Studies - Databases
 - [ ] 📝 Blog post
-- [ ] 👨‍🍳 Prepare [Pancake śniadaniowy](https://youtu.be/Fz-ni5UjlSI?t=73)
-- [ ] 📗 Read [Celebrating 15 years of Git: An interview with Git maintainer Junio Hamano](https://github.blog/2020-04-07-celebrating-15-years-of-git-an-interview-with-git-maintainer-junio-hamano/)
-- [ ] 📗 Read [Spring Batch – co warto wiedzieć o przetwarzaniu wsadowym](https://nullpointerexception.pl/spring-batch-co-warto-wiedziec-o-przetwarzaniu-wsadowym/)
-- [ ] 📗 Read [Nowości w Javie](https://ttpsc.com/pl/blog/blog-nowosci-w-javie/)
-- [ ] 📗 Read [Top 6 Data Structures Every Java Programmer Should Learn](https://www.java67.com/2013/08/ata-structures-in-java-programming-array-linked-list-map-set-stack-queue.html)
-- [ ] 🎧 Listen [DevTalk #114 – O Service Mesh z Jakubem Dyszkiewiczem](https://devstyle.pl/2020/04/06/devtalk-114-o-service-mesh-z-jakubem-dyszkiewiczem/)
-- [ ] 🎧 Listen [ILE POWINIENEŚ MIEĆ PIENIĘDZY W WIEKU 20, 30 I 40 LAT? CYKL ŻYCIA I DOCHODÓW](https://marciniwuc.com/ile-powinienes-miec-pieniedzy-w-wieku-20-30-i-40-lat-ile-oszczedzac-miesiecznie/)
-- [ ] 🎧 Listen [Information Dieting](https://youtu.be/dbv_KCOQ86E)
-- [ ] 🎧 Listen [Episode 405: Yevgeniy Brikman on Infrastructure as Code Best Practices](https://www.se-radio.net/2020/04/episode-405-yevgeniy-brikman-on-infrastructure-as-code-best-practices/)
-- [ ] 📽️ Watch [Reactive APIs of Java 9](https://youtu.be/b3BNMqNXnYM)
+- [ ] 👨‍🍳 Prepare [Proteinowy MOCARZ - szybki placek na śniadanie. Idealny przed i po TRENINGU](https://youtu.be/bspPkNEZIPs)
+- [ ] 📗 Read [Spock vs JUnit 5 - the ultimate feature comparison](https://blog.solidsoft.pl/2020/04/15/spock-vs-junit-5-the-ultimate-feature-comparison/)
+- [ ] 📗 Read [For vs list comprehension vs map](https://mmazurek.dev/for-vs-list-comprehension-vs-map/)
+- [ ] 📗 Read [Czego się nauczyłem i ile zarobiłem sprzedając kursy na Udemy przez ponad dwa lata?](https://www.michalgellert.pl/blog/czego-sie-nauczylem-i-ile-zarobilem-sprzedajac-kursy-na-udemy-przez-ponad-dwa-lata/)
+- [ ] 📗 Read [How to time out Jenkins Pipeline stage and keep the pipeline running?](https://e.printstacktrace.blog/how-to-time-out-jenkins-pipeline-stage-and-keep-the-pipeline-running/)
+- [ ] 📗 Read [Wielowątkowość cz. 2](https://wprostychslowach.pl/2020/03/27/wielowatkowosc-cz-2/)
+- [ ] 🎧 Listen [3 Simple Ways to Bounce Back From Failure and Thrive (TPS295)](https://www.asianefficiency.com/podcast/295-failure/)
+- [ ] 🎧 Listen [Q1 Goal Check-In: How We’re Doing, And How You Can Stay On Track With Yours (TPS294)](https://www.asianefficiency.com/podcast/294-stay-on-track/)
+- [ ] 🎧 Listen [Episode 406: Torin Sandall on Distributed Policy Enforcement](https://www.se-radio.net/2020/04/episode-406-torin-sandall-on-distributed-policy-enforcement/)
+- [ ] 🎧 Listen [Episode 89. Kubernetes! (Oh container orchestration)](https://www.javapubhouse.com/2020/04/episode-89-kubernetes-oh-container-orchestration.html)
+- [ ] 📽️ Watch [Inżynier serverless - rola przyszłości?](https://serverlesspolska.pl/2020/04/12/Inzynier-serverless/)
 
 
 ### Things I'll Do in the Future 🏅

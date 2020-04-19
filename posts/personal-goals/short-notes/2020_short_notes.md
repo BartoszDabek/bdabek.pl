@@ -405,3 +405,31 @@ Today I spent the whole day writing my thesis ✍️.  In the afternoon I went c
 11/04/2020
 ---
 It's just beautiful 👌! Today I started to continue writing my thesis - I finished writing around noon. I thought I would write some more algorithm and it turned out that by the evening I had written a working algorithm in a single thread version 👍! And additionally, I ran 4km in the meantime and walked with my cousin for an hour on the tracks and forest 💪😊.
+
+12/04/2020
+---
+First day of the Resurrection holidays 👍. We spent that day as a family. At first we had a service and then a family dinner 🍗🍗. It was a well spent Sunday 😉.
+
+13/04/2020
+---
+And the second day of the holidays 👊🏼. This time we gathered at my parents' house. Just like yesterday, it was a cool time 👍🏼. 
+
+14/04/2020
+---
+It was so hard for me to focus today 😫. I did almost nothing productive... I hope this is a temporary crisis 😅.
+
+15/04/2020
+---
+It was rather a good day. It was hard for me to focus on work again... but at least this time I did some of the things on my todo list 👍🏼. 
+
+16/04/2020
+---
+Today after work I went running and then I went to visit my friend. There was also my brother with his wife and child 😉. 
+
+17/04/2020
+---
+I spent all day at home 🤔. I don't feel like writing anymore because this morning I got a little bit of a bad mood 😑.
+
+18/04/2020
+---
+It was a strange day... Me and my friend went running to the woods to run and then on our way back we met the police 👮, who warned us that we can't do that. What a time...

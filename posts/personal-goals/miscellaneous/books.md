@@ -14,10 +14,11 @@
 - [ ] Reactive Programming with RxJava - Ben Christensen, Tomasz Nurkiewicz
 
 ## In Progress
-- [ ] Bezpieczeństwo aplikacji webowych - Securitum
+- [ ] Effective Java 3rd Edition
 
 ## Books read
 ### 2020
+- [x] Bezpieczeństwo aplikacji webowych - Securitum
 - [x] Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin
 
 
