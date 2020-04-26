@@ -433,3 +433,31 @@ I spent all day at home 🤔. I don't feel like writing anymore because this mor
 18/04/2020
 ---
 It was a strange day... Me and my friend went running to the woods to run and then on our way back we met the police 👮, who warned us that we can't do that. What a time...
+
+19/04/2020
+---
+It was a bad start to the day... but thank God everything turned out to be better 😉. We were at Grandma's today - we had a service and then a family dinner 👍. Later in the afternoon I also went to visit my friend 👊.
+
+20/04/2020
+---
+Time flies so fast...  It's almost the end of April. Today I was on a bike with my friend and we did 45 km 🚴🤯. I was very tired after coming back but also very happy 💪💪.
+
+21/04/2020
+---
+It was just a regular Tuesday.The only place I moved out of the house was to go to my hairdresser... 🤔
+
+22/04/2020
+---
+Wednesday - on this day I always have a lot on my mind because I still have 3 hours of studies outside of work. 😕 But today, despite the fact that I had to write a course pass and later present the progress of my MA thesis, I liked this Wednesday 😉.
+
+23/04/2020
+---
+I'm glad that my pushups challenge is coming to an end 🤗. In recent days I have been short of vitamins because of exhaustion and some of my muscles have been vibrating e.g. while sitting 😯😯.
+
+24/04/2020
+---
+Friday 🤗🤩! Not much happened today - I didn't even leave the house today (and it was warm outside, only there was no sun). I refreshed my website - I added and modified a new theme. Now it looks really cool 👍👍.
+
+25/04/2020
+---
+Nice Saturday, 👍. Today I'm finishing my challenge with pumps. 💪 Together with my friend we ran 8 km today 😮 - although our pace was poor... but the distance counts. I also wrote several subsections of my thesis today ✍🏻👊🏻
