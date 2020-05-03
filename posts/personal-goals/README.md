@@ -24,25 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [04/26/2020]
+# [05/03/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - finish chapter on multithreading in Java
-- [ ] ‍🎓 Thesis - Write test to my program to verify it doesn't have race conditions
-- [ ] ‍🎓 Thesis - Replace code printf's with logger logs
-- [ ] ‍🎓 Studies - lecture presentation
-- [ ] 📝 Blog post about JMeter
-- [ ] 👨‍🍳 Prepare [Pyszne KOKTAJLE na ODPORNOŚĆ - dobre kalorie](https://youtu.be/RUPfihOOViA)
-- [ ] 📗 Read [How to Use JMeter for Performance & Load Testing](https://www.guru99.com/jmeter-performance-testing.html)
-- [ ] 📗 Read [Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
-- [ ] 📗 Read [OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
-- [ ] 📗 Read [Thirteen rules for developing secure Java applications](https://www.javaworld.com/article/2076837/twelve-rules-for-developing-more-secure-java-code.html)
-- [ ] 🎧 Listen [Zoom Vulnerabilities with Patrick Wardle](https://softwareengineeringdaily.com/2020/04/20/zoom-vulnerabilities-with-patrick-wardle/)
-- [ ] 🎧 Listen [Shutdown | Benefits and Lessons Learned](https://youtu.be/v6cjP2HtlgE)
-- [ ] 🎧 Listen [NGINX API Management with Kevin Jones](https://softwareengineeringdaily.com/2020/04/22/nginx-api-management-with-kevin-jones/)
-- [ ] 🎧 Listen [SPI 420: How the CEO of Everbowl is Radically Growing and Creating an Amazing User Experience for His Customers](https://www.smartpassiveincome.com/podcasts/ceo-everbowl-radically-growing-creating-amazing-user-experience/)
-- [ ] 📽️ Watch [JMeter Tutorial for Developers & Devops](https://youtu.be/QOON0T0oDOI)
+- [ ] ‍🎓 Thesis - choose and write section on 3rd algorithm
+- [ ] ‍🎓 Thesis - run algorithms on real dataset
+- [ ] 📝 Blog post about logs
+- [ ] 👨‍🍳 Prepare [RYŻ z Jajkiem. Expresowe pełnowartościowe śniadanie.](https://youtu.be/ouuH1oDLdqA)
+- [ ] 📗 Read [When should I write an Architecture Decision Record?](https://labs.spotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/)
+- [ ] 📗 Read [Temporal Coupling Between Method Calls](https://www.yegor256.com/2015/12/08/temporal-coupling-between-method-calls.html)
+- [ ] 📗 Read [Impact](https://www.michalbartyzel.pl/2020/04/impact.html)
+- [ ] 📗 Read [Understanding Java Memory Model](https://medium.com/platform-engineer/understanding-java-memory-model-1d0863f6d973)
+- [ ] 🎧 Listen [YOU Are Responsible For Your Life](https://youtu.be/3txopdcbLZw)
+- [ ] 🎧 Listen [How to Focus While Fear, News and Social Media Is Dominating Your Life (TPS296)](https://www.asianefficiency.com/podcast/296-focus-without-fear/)
+- [ ] 🎧 Listen [Sprzedaż produktów online bez społeczności?](https://malawielkafirma.pl/sprzedaz-online-bez-spolecznosci/)
+- [ ] 🎧 Listen [031 – Od programisty do skalowalnego biznesu, SaaS, Bogusz Pękalski, Polisa w Chmurze](https://piotrbucki.pl/031)
+- [ ] 📽️ Watch [A practical approach to Java Memory Model with Andrzej Czarny](https://youtu.be/pS5dPQwgnYo)
+- [ ] 📽️ Watch [2016 - Jakub Kubryński - JPA - beyond copy-paste](https://youtu.be/UPWkpl5PL_w)
 
 
 ### Things I'll Do in the Future 🏅

@@ -461,3 +461,31 @@ Friday 🤗🤩! Not much happened today - I didn't even leave the house today (
 25/04/2020
 ---
 Nice Saturday, 👍. Today I'm finishing my challenge with pumps. 💪 Together with my friend we ran 8 km today 😮 - although our pace was poor... but the distance counts. I also wrote several subsections of my thesis today ✍🏻👊🏻
+
+26/04/2020
+---
+A wonderful Sunday - and I don't mean today's weather. In the morning I went with my dad to church 😊, and then I went to dinner to my family. In the evening, I took a walk during which a lot of ideas came up. Lesson learned to do more such walks 👍👍
+
+27/04/2020
+---
+Monday 😍! I hope this is going to be a good week. Looking at the weather forecast, this is how it will be 👍🤗. And today's day didn't have any fireworks so I have nothing to describe 🙋♂.
+
+28/04/2020
+---
+Nice day 😉. I cycled with my cousin today - we did about 30 km 🚴👍.
+
+29/04/2020
+---
+Wednesday 😪. Outside the window it got ugly and yet, as always, on Wednesday, I had a lot of classes 😫. But it wasn't such a bad day in general 🙄.
+
+30/04/2020
+---
+It is time to prepare for the next long weekend 👍🏼. That's good because I have some things to do (writing my thesis)...🏃🏽
+
+01/05/2020
+---
+And we have May 😍! I think it's one of the most beautiful seasons... Today was a job holiday in Poland, so I didn't work 🤗, instead I wrote an article on my blog and tried to write my MA, but nothing came out of it 🤔.
+
+02/05/2020
+---
+It was an insanely productive day 👊🏼💪🏼! I finished writing the chapter of my thesis, wrote tests for the algorithm, improved it so that there are no thread races... and additionally, I went for a walk and walked about 6 km (it's beautiful in the forest 😍).
