@@ -24,24 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [05/03/2020]
+# [05/10/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - choose and write section on 3rd algorithm
-- [ ] ‍🎓 Thesis - run algorithms on real dataset
+- [ ] ‍🎓 Thesis - implement Hamerly algorithm
 - [ ] 📝 Blog post about logs
-- [ ] 👨‍🍳 Prepare [RYŻ z Jajkiem. Expresowe pełnowartościowe śniadanie.](https://youtu.be/ouuH1oDLdqA)
-- [ ] 📗 Read [When should I write an Architecture Decision Record?](https://labs.spotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/)
-- [ ] 📗 Read [Temporal Coupling Between Method Calls](https://www.yegor256.com/2015/12/08/temporal-coupling-between-method-calls.html)
-- [ ] 📗 Read [Impact](https://www.michalbartyzel.pl/2020/04/impact.html)
-- [ ] 📗 Read [Understanding Java Memory Model](https://medium.com/platform-engineer/understanding-java-memory-model-1d0863f6d973)
-- [ ] 🎧 Listen [YOU Are Responsible For Your Life](https://youtu.be/3txopdcbLZw)
-- [ ] 🎧 Listen [How to Focus While Fear, News and Social Media Is Dominating Your Life (TPS296)](https://www.asianefficiency.com/podcast/296-focus-without-fear/)
-- [ ] 🎧 Listen [Sprzedaż produktów online bez społeczności?](https://malawielkafirma.pl/sprzedaz-online-bez-spolecznosci/)
-- [ ] 🎧 Listen [031 – Od programisty do skalowalnego biznesu, SaaS, Bogusz Pękalski, Polisa w Chmurze](https://piotrbucki.pl/031)
-- [ ] 📽️ Watch [A practical approach to Java Memory Model with Andrzej Czarny](https://youtu.be/pS5dPQwgnYo)
-- [ ] 📽️ Watch [2016 - Jakub Kubryński - JPA - beyond copy-paste](https://youtu.be/UPWkpl5PL_w)
+- [ ] 👨‍🍳 Prepare [KEBAB W BUŁCE, taki że nie kupisz już więcej na mieście.](https://youtu.be/OwGSru1vJX0)
+- [ ] 📗 Read [SonarQube – pierwsze kroki.](https://altkomsoftware.pl/blog/sonarqube-pierwsze-kroki/)
+- [ ] 📗 Read [Flame Graphs – czy aby na pewno nie pali się na produkcji?](https://codecouple.pl/2020/04/28/flame-graphs-czy-aby-na-pewno-nie-pali-sie-na-produkcji/)
+- [ ] 📗 Read [Understanding JVM Architecture](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722)
+- [ ] 📗 Read [Guide to the Hibernate EntityManager](https://www.baeldung.com/hibernate-entitymanager)
+- [ ] 📗 Read [JPA EntityManager – Hibernate EntityManager](https://www.journaldev.com/17379/jpa-entitymanager-hibernate)
+- [ ] 🎧 Listen [1. O modelowaniu agregatów z Kubą Pilimonem](https://www.bettersoftwaredesign.pl/episodes/1)
+- [ ] 🎧 Listen [WNOP 139: Plusy i minusy transparentności, czyli czy warto komunikować się otwarcie i szczerze](https://jakoszczedzacpieniadze.pl/wnop-transparentnosc-czy-warto-plusy-i-minusy)
+- [ ] 🎧 Listen [O początkach pracy na swoim. Jak przejść z korporacji do własnej firmy i popełnić jak najmniej błędów](https://malawielkafirma.pl/przejscie-z-korporacji-na-swoje/)
+- [ ] 🎧 Listen [047 – Email marketing, wszystko co potrzebujesz wiedzieć, Paweł Sala, FreshMail](https://piotrbucki.pl/047)
+- [ ] 📽️ Watch [Optional by Stuart Marks](https://youtu.be/fBYhtvY19xA)
+- [ ] 📽️ Watch [WJUG #267 ONLINE - Krzysztof Ślusarski Profiling cz. 1 - kręgi piekła profilingu (JProfiler G1GC)](https://youtu.be/qI1-I0NnaGQ)
 
 
 ### Things I'll Do in the Future 🏅

@@ -489,3 +489,31 @@ And we have May 😍! I think it's one of the most beautiful seasons... Today wa
 02/05/2020
 ---
 It was an insanely productive day 👊🏼💪🏼! I finished writing the chapter of my thesis, wrote tests for the algorithm, improved it so that there are no thread races... and additionally, I went for a walk and walked about 6 km (it's beautiful in the forest 😍).
+
+03/05/2020
+---
+Today we celebrated my nephew's birthday and my 😊. I have a birthday tomorrow and my nephew on Wednesday. We had a nice family time 😉.
+
+04/05/2020
+---
+Today is my birthday 😉. Let me put it this way - I am grateful to God for the whole 26 years I have had - I have a wonderful life and family 🤗! And now let's go back to today. In the afternoon the weather got wonderful 😍😍 and together with my friend we went running - we did 9 km 😯!
+
+05/05/2020
+---
+I don't know what to say about today. The day wasn't bad, but it wasn't good either... I know for sure I wasn't very productive and somehow I didn't feel like doing anything 😥😥.
+
+06/05/2020
+---
+It was a very hard day and not only because I had a class today. Around noon I started to feel very bad and it kept me going until the evening, but thank God the evening was all right 🤗. 
+
+07/05/2020
+---
+It wasn't the best day. I got busy and didn't even go out into the fresh air. I have a lot on my mind lately - I have to start telling others no and slowly empty my stack 🤯.
+
+08/05/2020
+---
+And today, on the contrary, it was a good day ☺️. Today I also spent the whole day at home but still felt better mentally, hmm..😏
+
+09/05/2020
+---
+It was good Saturday, 👍. I finished the second chapter of my thesis 🤗. In addition, we went on bikes with my cousin 🚴, but we had an interesting adventure... About 15 km from home a tire got punctured. Fortunately, my dad came and took the bike 🙏🏼.
