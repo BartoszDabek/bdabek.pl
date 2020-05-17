@@ -517,3 +517,31 @@ And today, on the contrary, it was a good day ☺️. Today I also spent the who
 09/05/2020
 ---
 It was good Saturday, 👍. I finished the second chapter of my thesis 🤗. In addition, we went on bikes with my cousin 🚴, but we had an interesting adventure... About 15 km from home a tire got punctured. Fortunately, my dad came and took the bike 🙏🏼.
+
+10/05/2020
+---
+It was by far the best Sunday this year 🤗🤗 both in terms of weather and how I spent it 👍🏼. We had a family meeting in the morning and then lunch together. Later I went cycling with my friends and we had a nice afternoon and evening 💪🏼💪🏼! 
+
+11/05/2020
+---
+A wonderful day - weather like in summer 😍😍! I didn't take too much advantage of it because today I focused very much on work and didn't even go out to run 😒😒.
+
+12/05/2020
+---
+Amazing, it was snowing this morning ❄️🤯! It was a good day - I even went and ran 3 km (to get rid of stress from work).
+
+13/05/2020
+---
+That was the worst day in a long time 😓. I removed the wrong table from the database by my ignorance, so I worked until tonight...
+
+14/05/2020
+---
+Today it wasn't easy again, but thank God all problems at work were finally solved 🙏. After work - to relax - I went with my cousin on bikes and then I made a home kebab 🔪! It was tasty !!!! 👍🏼👍🏼 
+
+15/05/2020
+---
+Friday 😍. I waited a long time for this day - because it was a tough week. Today, after work, I went on a bike and drove 17 km 🚴🚴. I think that sport is just some way to relieve the stress 😏.
+
+16/05/2020
+---
+This Saturday wasn't promising to be an interesting day - the weather was cloudy and not encouraging 🌫️... Until the afternoon I sat at home and wrote my thesis ✍🏽. Later my cousin proposed to go to Bialowieza and we did it. We went in 4 to Bialowieza and came from the village - together we walked 7 km! When we came back, I went running with my friend 🏃🏃, so in the end it was an intense day 🤗.

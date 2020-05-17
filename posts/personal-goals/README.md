@@ -5,7 +5,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 # Overarching Goals for 2020 🏆🥇
 1. Help 3 strangers 🧚‍♂️
 2. Build an active community (2.5k unique blog visits in a month) 🧑‍🤝‍🧑
-3. Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙
+3. ~~Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙~~
 4. Visit 2 different countries ✈️
 5. Master Technical University graduation 👨‍🎓
 
@@ -24,24 +24,25 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [05/10/2020]
+# [05/17/2020]
 
 ### Things I'll do This Week:
 
 - [ ] ‍🎓 Thesis - implement Hamerly algorithm
-- [ ] 📝 Blog post about logs
-- [ ] 👨‍🍳 Prepare [KEBAB W BUŁCE, taki że nie kupisz już więcej na mieście.](https://youtu.be/OwGSru1vJX0)
-- [ ] 📗 Read [SonarQube – pierwsze kroki.](https://altkomsoftware.pl/blog/sonarqube-pierwsze-kroki/)
-- [ ] 📗 Read [Flame Graphs – czy aby na pewno nie pali się na produkcji?](https://codecouple.pl/2020/04/28/flame-graphs-czy-aby-na-pewno-nie-pali-sie-na-produkcji/)
-- [ ] 📗 Read [Understanding JVM Architecture](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722)
-- [ ] 📗 Read [Guide to the Hibernate EntityManager](https://www.baeldung.com/hibernate-entitymanager)
-- [ ] 📗 Read [JPA EntityManager – Hibernate EntityManager](https://www.journaldev.com/17379/jpa-entitymanager-hibernate)
-- [ ] 🎧 Listen [1. O modelowaniu agregatów z Kubą Pilimonem](https://www.bettersoftwaredesign.pl/episodes/1)
-- [ ] 🎧 Listen [WNOP 139: Plusy i minusy transparentności, czyli czy warto komunikować się otwarcie i szczerze](https://jakoszczedzacpieniadze.pl/wnop-transparentnosc-czy-warto-plusy-i-minusy)
-- [ ] 🎧 Listen [O początkach pracy na swoim. Jak przejść z korporacji do własnej firmy i popełnić jak najmniej błędów](https://malawielkafirma.pl/przejscie-z-korporacji-na-swoje/)
-- [ ] 🎧 Listen [047 – Email marketing, wszystko co potrzebujesz wiedzieć, Paweł Sala, FreshMail](https://piotrbucki.pl/047)
-- [ ] 📽️ Watch [Optional by Stuart Marks](https://youtu.be/fBYhtvY19xA)
-- [ ] 📽️ Watch [WJUG #267 ONLINE - Krzysztof Ślusarski Profiling cz. 1 - kręgi piekła profilingu (JProfiler G1GC)](https://youtu.be/qI1-I0NnaGQ)
+- [ ] ‍🎓 Thesis - prepare test plan
+- [ ] 📝 Blog - write a post
+- [ ] 📝 Blog - propose collaboration (linkowa sroda)
+- [ ] 👨‍🍳 Prepare [FIT SERNIK na zimno - pyszny i prosty. "Atak Leśnych Owoców"](https://youtu.be/FQ3pauMvIPI)
+- [ ] 📗 Read [JSR 133 (Java Memory Model) FAQ](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr-133-faq.html)
+- [ ] 📗 Read [Understanding Java Garbage Collection](https://medium.com/platform-engineer/understanding-java-garbage-collection-54fc9230659a)
+- [ ] 📗 Read [Top 20 Spring Boot Interview Questions with Answers for Java Developers](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html#ixzz6LuuRju17)
+- [ ] 📗 Read [Minimize dependencies](https://jlbp.dev/JLBP-1)
+- [ ] 🎧 Listen [Dochód pasywny z e‑booków – jak to zrobić raz a dobrze?](https://malawielkafirma.pl/dochod-pasywny-z-e-bookow/)
+- [ ] 🎧 Listen [4 Ways You Can Be Happy, Healthy, and Sane When Stuck At Home (TPS299)](https://www.asianefficiency.com/podcast/299-healthy-at-home/)
+- [ ] 🎧 Listen [Episode 409: Joe Kutner on the Twelve-Factor App](https://www.se-radio.net/2020/05/episode-409-joe-kutner-on-the-twelve-factor-app/)
+- [ ] 🎧 Listen [True Wealth versus Money](https://youtu.be/2M9GI8I51tY)
+- [ ] 📽️ Watch [Collections Refueled by Stuart Marks](https://youtu.be/q6zF3vf114M)
+- [ ] 📽️ Watch [Git Guts - stwórzmy repozytorium git w notatniku!](https://youtu.be/bfmVOYaKoVI)
 
 
 ### Things I'll Do in the Future 🏅
