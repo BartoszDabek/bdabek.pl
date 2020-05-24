@@ -545,3 +545,31 @@ Friday 😍. I waited a long time for this day - because it was a tough week. To
 16/05/2020
 ---
 This Saturday wasn't promising to be an interesting day - the weather was cloudy and not encouraging 🌫️... Until the afternoon I sat at home and wrote my thesis ✍🏽. Later my cousin proposed to go to Bialowieza and we did it. We went in 4 to Bialowieza and came from the village - together we walked 7 km! When we came back, I went running with my friend 🏃🏃, so in the end it was an intense day 🤗.
+
+17/05/2020
+---
+A wonderful Sunday 🤗😍! We were all family today at Grandma and Grandpa's. It was a really good family time (and later a very good dinner 👍🏼). Later I came home and with God's help I managed to write the last algorithm for my thesis! Yupii! 😀😀
+
+18/05/2020
+---
+It was definitely a nice Monday 😍! Weather was lousy but still I had a lot of energy :). Additionally there were also customers to watch the apartment for rent 😏.
+
+19/05/2020
+---
+Ahhh... It was a weird day 🤔, nothing was wrong but on the other hand it wasn't good either. I had a technical interview today and it went wrong - that's probably the reason.
+
+20/05/2020
+---
+Surprisingly, it was good Wednesday 🙂. I always had a lot of work to do for the class but this time everything went somehow smoothly + I still ran 4 km during the class 👍🏽.
+
+21/05/2020
+---
+It was a good day. Everything was calm and in the afternoon I went out with my cousins on a bicycle 👍 (although it was very windy and not easy to ride).
+
+22/05/2020
+---
+Beautiful Friday! 😊. Maybe the weather wasn't the best, but finally the weekend starts 😋. I noticed that I need to focus more on the details of what I do - a note for the future.
+
+23/05/2020
+---
+This was by far the best Saturday of the year 😍😍! In the morning, I grasped the things I had to do and then it started. I went with my cousin's bike to my grandmother's 🚴, then I went to play beach volleyball with my friends, then to barbecue to them and at the end I went to a friend from my teenage years and we could remember the old days... Beautiful day 🤗!

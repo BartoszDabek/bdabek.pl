@@ -24,25 +24,23 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [05/17/2020]
+# [05/24/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - implement Hamerly algorithm
-- [ ] ‍🎓 Thesis - prepare test plan
-- [ ] 📝 Blog - write a post
+- [ ] ‍🎓 Thesis - write 2 subsections
+- [ ] ‍🎓 Thesis - create sbatch scripts for tests plan
 - [ ] 📝 Blog - propose collaboration (linkowa sroda)
-- [ ] 👨‍🍳 Prepare [FIT SERNIK na zimno - pyszny i prosty. "Atak Leśnych Owoców"](https://youtu.be/FQ3pauMvIPI)
-- [ ] 📗 Read [JSR 133 (Java Memory Model) FAQ](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr-133-faq.html)
+- [ ] 👨‍🍳 Prepare [PIZZA NA CAŁĄ BLACHĘ - SUPER CIASTO miękkie i puszyste](https://youtu.be/hmlPEUD4aIY)
 - [ ] 📗 Read [Understanding Java Garbage Collection](https://medium.com/platform-engineer/understanding-java-garbage-collection-54fc9230659a)
-- [ ] 📗 Read [Top 20 Spring Boot Interview Questions with Answers for Java Developers](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html#ixzz6LuuRju17)
-- [ ] 📗 Read [Minimize dependencies](https://jlbp.dev/JLBP-1)
+- [ ] 📗 Read [Minimize API surface](https://jlbp.dev/JLBP-2)
+- [ ] 📗 Read [Access Strategies in JPA and Hibernate – Which is better, field or property access?](https://thorben-janssen.com/access-strategies-in-jpa-and-hibernate/)
+- [ ] 📗 Read [Hexagonal Architecture by example - a hands-on introduction](https://allegro.tech/2020/05/hexagonal-architecture-by-example.html)
 - [ ] 🎧 Listen [Dochód pasywny z e‑booków – jak to zrobić raz a dobrze?](https://malawielkafirma.pl/dochod-pasywny-z-e-bookow/)
-- [ ] 🎧 Listen [4 Ways You Can Be Happy, Healthy, and Sane When Stuck At Home (TPS299)](https://www.asianefficiency.com/podcast/299-healthy-at-home/)
-- [ ] 🎧 Listen [Episode 409: Joe Kutner on the Twelve-Factor App](https://www.se-radio.net/2020/05/episode-409-joe-kutner-on-the-twelve-factor-app/)
-- [ ] 🎧 Listen [True Wealth versus Money](https://youtu.be/2M9GI8I51tY)
-- [ ] 📽️ Watch [Collections Refueled by Stuart Marks](https://youtu.be/q6zF3vf114M)
-- [ ] 📽️ Watch [Git Guts - stwórzmy repozytorium git w notatniku!](https://youtu.be/bfmVOYaKoVI)
+- [ ] 🎧 Listen [#28 Patologie Mikroserwisów - Platforma](https://patoarchitekci.io/28/)
+- [ ] 🎧 Listen [DevTalk #116 – O TypeScript z Tomaszem Ducinem](https://devstyle.pl/2020/05/18/devtalk-116-o-typescript-z-tomaszem-ducinem/)
+- [ ] 🎧 Listen [Episode 90. Let’s get Recording (AND VIDEO!)](https://www.javapubhouse.com/2020/05/episode-90-lets-get-recording-and-video.html)
+- [ ] 📽️ Watch [KJUG #31 "Wycieczka po współbieżności w Javie"](https://youtu.be/fLXp81DuyPU)
 
 
 ### Things I'll Do in the Future 🏅
