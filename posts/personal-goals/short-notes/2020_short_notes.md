@@ -573,3 +573,31 @@ Beautiful Friday! 😊. Maybe the weather wasn't the best, but finally the weeke
 23/05/2020
 ---
 This was by far the best Saturday of the year 😍😍! In the morning, I grasped the things I had to do and then it started. I went with my cousin's bike to my grandmother's 🚴, then I went to play beach volleyball with my friends, then to barbecue to them and at the end I went to a friend from my teenage years and we could remember the old days... Beautiful day 🤗!
+
+24/05/2020
+---
+And another wonderful day 😍. For most of the day the weather was bad but in the evening the sun was shining. In the morning I was in church and then at my cousin's birthday party. And in the evening I went for a walk 🤗🤗.
+
+25/05/2020
+---
+It's amazing how quickly that time passes. It was an ordinary Monday without revelation - in the evening I went to run 4 km 🙃.
+
+26/05/2020
+---
+Hmm... I don't know what to say about today - it was okay. Out of the cooler things, today I went on bikes with my cousin 😅.
+
+27/05/2020
+---
+Another good day :). It's probably another Wednesday when the combination of work and study is not a kind of challenge 😏. Maybe because I focus a little less on studies 🤫...
+
+28/05/2020
+---
+Unexpected overtime at work came to me today 😮. Actually, I'm glad because I just needed those extra hours 😄. 
+
+29/05/2020
+---
+It's cool because Friday, but we have a big topic at work and we have to do overtime on Saturday 🤔🤔.
+
+30/05/2020
+---
+Ahhh... what a day. It's been raining all day 😕. It wouldn't change much in my life because I've been working from morning to evening anyway. One more thing... I was wrong and the blog posting went 5 hours later than I planned. 🙄

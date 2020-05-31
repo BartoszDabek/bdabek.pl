@@ -24,26 +24,27 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿
 
-# [05/24/2020]
+# [05/31/2020]
 
 ### Things I'll do This Week:
 
 - [ ] ‍🎓 Thesis - write 2 subsections
-- [ ] ‍🎓 Thesis - create sbatch scripts for tests plan
-- [ ] 📝 Blog - propose collaboration (linkowa sroda)
+- [ ] ‍🎓 Thesis - fix sbatch scripts and run tests on machines
+- [ ] 📝 Blog - write a post
 - [ ] 👨‍🍳 Prepare [PIZZA NA CAŁĄ BLACHĘ - SUPER CIASTO miękkie i puszyste](https://youtu.be/hmlPEUD4aIY)
-- [ ] 📗 Read [Understanding Java Garbage Collection](https://medium.com/platform-engineer/understanding-java-garbage-collection-54fc9230659a)
-- [ ] 📗 Read [Minimize API surface](https://jlbp.dev/JLBP-2)
 - [ ] 📗 Read [Access Strategies in JPA and Hibernate – Which is better, field or property access?](https://thorben-janssen.com/access-strategies-in-jpa-and-hibernate/)
-- [ ] 📗 Read [Hexagonal Architecture by example - a hands-on introduction](https://allegro.tech/2020/05/hexagonal-architecture-by-example.html)
-- [ ] 🎧 Listen [Dochód pasywny z e‑booków – jak to zrobić raz a dobrze?](https://malawielkafirma.pl/dochod-pasywny-z-e-bookow/)
-- [ ] 🎧 Listen [#28 Patologie Mikroserwisów - Platforma](https://patoarchitekci.io/28/)
-- [ ] 🎧 Listen [DevTalk #116 – O TypeScript z Tomaszem Ducinem](https://devstyle.pl/2020/05/18/devtalk-116-o-typescript-z-tomaszem-ducinem/)
-- [ ] 🎧 Listen [Episode 90. Let’s get Recording (AND VIDEO!)](https://www.javapubhouse.com/2020/05/episode-90-lets-get-recording-and-video.html)
-- [ ] 📽️ Watch [KJUG #31 "Wycieczka po współbieżności w Javie"](https://youtu.be/fLXp81DuyPU)
+- [ ] 📗 Read [Architecture with 800 of My Closest Friends: The Evolution of Comcast’s Architecture Guild](https://www.infoq.com/articles/architecture-guild-800-friends/)
+- [ ] 📗 Read [Use Semantic Versioning](https://jlbp.dev/JLBP-3)
+- [ ] 📗 Read [Czego nauczyło mnie przeniesienie danych z jednej tabeli do drugiej?](https://kobietydokodu.pl/czego-nauczylo-mnie-przeniesienie-danych-z-jednej-tabeli-do-drugiej/)
+- [ ] 🎧 Listen [Arise or Die | Free Yourself | QAnon](https://youtu.be/-zZnraioY74)
+- [ ] 🎧 Listen [#56 Jak wygląda obecnie inwestowanie na giełdzie? – Artur Wiśniewski](https://generali-investments.pl/contents/display-article/klient-indywidualny/56-jak-wyglada-obecnie-inwestowanie-na-gieldzie-artur-wisniewski)
+- [ ] 🎧 Listen [How We Improved Our Lives and Work With Journaling – And You Can Too (TPS301)](https://www.asianefficiency.com/podcast/301-journaling/)
+- [ ] 🎧 Listen [#27 Patologie Mikroserwisów - Repozytoria](https://patoarchitekci.io/27/)
+- [ ] 📽️ Watch [KJUG #33 "Common mistakes when moving to Microservices, 2 years later"](https://youtu.be/PSZ2jJRTP3I)
 
 
 ### Things I'll Do in the Future 🏅
 - [ ] Organize an event to help people (children from the orphanage / homeless)
 - [ ] Learn [AWS Cloud](https://www.youtube.com/user/Nephaste20/featured)
 - [ ] Scrum Master certification
+- [ ] Deep learning of [Hibernate](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
