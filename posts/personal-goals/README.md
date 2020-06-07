@@ -20,27 +20,23 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 1. ✅ Holding breath 🧘(1.01-25.01)
 2. ✅ HackerRank 👨‍💻(10.02-06.03)
 3. ✅ 100 pushups 🙇(1.04-25.04)
-4. 50 pull-ups 🏋️‍♂️
+4. 50 pull-ups 🏋️‍♂️(15.06-10.07)
 5. Blogging every day 📝
-6. Cold showers 🚿
+6. Cold showers 🚿(15.06-10.07)
 
-# [05/31/2020]
+# [06/07/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - write 2 subsections
 - [ ] ‍🎓 Thesis - fix sbatch scripts and run tests on machines
 - [ ] 📝 Blog - write a post
-- [ ] 👨‍🍳 Prepare [PIZZA NA CAŁĄ BLACHĘ - SUPER CIASTO miękkie i puszyste](https://youtu.be/hmlPEUD4aIY)
-- [ ] 📗 Read [Access Strategies in JPA and Hibernate – Which is better, field or property access?](https://thorben-janssen.com/access-strategies-in-jpa-and-hibernate/)
 - [ ] 📗 Read [Architecture with 800 of My Closest Friends: The Evolution of Comcast’s Architecture Guild](https://www.infoq.com/articles/architecture-guild-800-friends/)
 - [ ] 📗 Read [Use Semantic Versioning](https://jlbp.dev/JLBP-3)
 - [ ] 📗 Read [Czego nauczyło mnie przeniesienie danych z jednej tabeli do drugiej?](https://kobietydokodu.pl/czego-nauczylo-mnie-przeniesienie-danych-z-jednej-tabeli-do-drugiej/)
-- [ ] 🎧 Listen [Arise or Die | Free Yourself | QAnon](https://youtu.be/-zZnraioY74)
-- [ ] 🎧 Listen [#56 Jak wygląda obecnie inwestowanie na giełdzie? – Artur Wiśniewski](https://generali-investments.pl/contents/display-article/klient-indywidualny/56-jak-wyglada-obecnie-inwestowanie-na-gieldzie-artur-wisniewski)
-- [ ] 🎧 Listen [How We Improved Our Lives and Work With Journaling – And You Can Too (TPS301)](https://www.asianefficiency.com/podcast/301-journaling/)
-- [ ] 🎧 Listen [#27 Patologie Mikroserwisów - Repozytoria](https://patoarchitekci.io/27/)
-- [ ] 📽️ Watch [KJUG #33 "Common mistakes when moving to Microservices, 2 years later"](https://youtu.be/PSZ2jJRTP3I)
+- [ ] 🎧 Listen [Rest and Sleep](https://youtu.be/ZMhSCjeP5wI)
+- [ ] 🎧 Listen [Budowanie społeczności w social mediach to droga przez mękę? Popraw te błędy, a nabierzesz rozpędu](https://malawielkafirma.pl/budowanie-spolecznosci-w-social-mediach/)
+- [ ] 🎧 Listen [Can Productivity Challenges Help You Grow? Yes! Here Are Ours (And What We Did) (TPS302)](https://www.asianefficiency.com/podcast/302-challenges/)
+- [ ] 📽️ Watch [271. WJUG ONLINE & ViacomCBS - "INTO THE SPRING" - Michał Rowicki [PL]](https://youtu.be/7aYg3Dweeb4)
 
 
 ### Things I'll Do in the Future 🏅

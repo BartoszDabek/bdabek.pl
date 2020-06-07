@@ -601,3 +601,31 @@ It's cool because Friday, but we have a big topic at work and we have to do over
 30/05/2020
 ---
 Ahhh... what a day. It's been raining all day 😕. It wouldn't change much in my life because I've been working from morning to evening anyway. One more thing... I was wrong and the blog posting went 5 hours later than I planned. 🙄
+
+31/05/2020
+---
+And the last day of May 😮! It was a beautiful Sunday. In the morning I was in the church and in the afternoon we went to the neighboring church and had a good time together with the youth. There was a grill and volleyball 🤗👍🏻.
+
+1/06/2020
+---
+Today I listened to an interesting episode of the podcast [TPS](https://www.asianefficiency.com/podcast/301-journaling/) about keeping such an everyday diary. I want to check how certain things will work out for me, so now in such daily notes I'll always briefly mention yesterday - what I managed to do or what I am grateful for (because I always write my diary in the morning) and then one plan for today 👍🏼. So today's plan is to write a thoughtful agenda for the blog post.
+
+2/06/2020
+---
+It took all day yesterday to write application audit logs... and as it turned out, in the end it doesn't work anyway 😣! Yesterday, instead of finishing work normally at 3:00 p.m. I was sitting on those logs until 9:00 p.m... it was a mistake. That's why I didn't do yesterday's plan which was to write an agenda for the blog. That's why I'm postponing it until today.
+
+3/06/2020
+---
+Yesterday's day was much better ☺️. I finished my work at normal time, went running with my friend, made small changes in the algorithm for my thesis and yet I wrote the agenda for the post blog 👍🏼👍🏼. Today I want to improve the test scenarios for my thesis and write one section of the blog post 💪🏼. 
+
+4/06/2020
+---
+Yesterday's day was cool 😏. I took a light and pleasant topic at work. After work I went to play beach volleyball, then I went out with my cousin on bicycles and at the end of the day I corrected the scripts for my thesis. Yesterday I didn't manage to write a blog so today I will have to write the majority - we can do it 😎.
+
+5/06/2020
+---
+Another nice day. Yesterday, thank God, I didn't have much work 😉. I wrote some content for a blog article and in the evening I went for a walk in the forest 🌳🌳. Today I will finish the blog and enjoy this beautiful Saturday! 😎😍
+
+6/06/2020
+---
+That day was exactly as I described it - I wrote an article and then from noon to evening something was still going on - bike, volleyball, sunbathing, grill 😍🤗. Something wonderful! Such moments are beautiful! There are no plans for today. It is Sunday - the Lord's day. If I do something, it is only as an additional activity 😉.
