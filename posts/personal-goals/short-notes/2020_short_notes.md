@@ -629,3 +629,23 @@ Another nice day. Yesterday, thank God, I didn't have much work 😉. I wrote so
 6/06/2020
 ---
 That day was exactly as I described it - I wrote an article and then from noon to evening something was still going on - bike, volleyball, sunbathing, grill 😍🤗. Something wonderful! Such moments are beautiful! There are no plans for today. It is Sunday - the Lord's day. If I do something, it is only as an additional activity 😉.
+
+7/06/2020
+---
+Wonderful, beautiful Sunday 😍😍! The whole day was very sunny 😎. Yesterday, despite the fact that I didn't plan to do so, I managed to correct the scripts and write an article on the blog. Today I'm going to read an article about architects' guild and enter results of some scripts into excel. 👍
+
+8/06/2020
+---
+Another beautiful day 🤗. I didn't manage to read the article about architects' guild, but I made a beautiful template for test results 😁. The plan for today is simple - finish reading the article and run at least 5 km 🏃🏃.
+
+9/06/2020
+---
+It's been a bit stupid for me to write it again in a row but it was another great day 😅 . Yesterday I ran over 6 km and read the article + additionally I rewrote the test results to excel 👍. Plan for today - clean up the room, pack up for the trip (I'm going to the mountains and from tomorrow to Sunday I don't use a computer) and ride 30 km by bike 🚴🚴.
+
+10-13/06/2020
+---
+Yesterday I did not manage to ride my bike because of the weather - it was raining heavily from noon to evening 😒. By the way - I am changing the dates in this diary so that yesterday's day is really yesterday. But it is not important at this point - the most important is that I am going to the mountains :). I will not use the computer until Sunday - and that is the goal. Turn off and cut off completely from the Internet life 🙂. I'm off, bye! 👋
+
+14/06/2020
+---
+I just got back from the mountains. It was wonderful. I completely calmed down + we got some mountain summits 🙃🙃. The views are indescribable ☺️.

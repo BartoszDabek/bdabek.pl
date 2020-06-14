@@ -24,19 +24,21 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿(15.06-10.07)
 
-# [06/07/2020]
+# [06/14/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - fix sbatch scripts and run tests on machines
+- [ ] ‍🎓 Thesis - fix chapters after promoter comments
 - [ ] 📝 Blog - write a post
-- [ ] 📗 Read [Architecture with 800 of My Closest Friends: The Evolution of Comcast’s Architecture Guild](https://www.infoq.com/articles/architecture-guild-800-friends/)
-- [ ] 📗 Read [Use Semantic Versioning](https://jlbp.dev/JLBP-3)
-- [ ] 📗 Read [Czego nauczyło mnie przeniesienie danych z jednej tabeli do drugiej?](https://kobietydokodu.pl/czego-nauczylo-mnie-przeniesienie-danych-z-jednej-tabeli-do-drugiej/)
-- [ ] 🎧 Listen [Rest and Sleep](https://youtu.be/ZMhSCjeP5wI)
-- [ ] 🎧 Listen [Budowanie społeczności w social mediach to droga przez mękę? Popraw te błędy, a nabierzesz rozpędu](https://malawielkafirma.pl/budowanie-spolecznosci-w-social-mediach/)
-- [ ] 🎧 Listen [Can Productivity Challenges Help You Grow? Yes! Here Are Ours (And What We Did) (TPS302)](https://www.asianefficiency.com/podcast/302-challenges/)
-- [ ] 📽️ Watch [271. WJUG ONLINE & ViacomCBS - "INTO THE SPRING" - Michał Rowicki [PL]](https://youtu.be/7aYg3Dweeb4)
+- [ ] 📗 Read [Chapter 2. Entity](https://docs.jboss.org/hibernate/orm/5.0/mappingGuide/en-US/html/ch02.html)
+- [ ] 📗 Read [ashMap vs ConcurrentHashMap – Czym Się Różnią? 🗺](https://sztukakodu.pl/hashmap-vs-concurrenthashmap-czym-sie-roznia/)
+- [ ] 📗 Read [HOW TO BE MORE PRODUCTIVE BY WORKING LESS](https://markmanson.net/how-to-be-more-productive)
+- [ ] 📗 Read [Java Records – How to use them with Hibernate and JPA](https://thorben-janssen.com/java-records-hibernate-jpa/)
+- [ ] 🎧 Listen [Inwestujesz świadomie czy naiwnie? [+ujawniam tytuł mojej książki]](https://marciniwuc.com/najlepsza-ksiazka-o-inwestowaniu-aktualnosci-11-czerwca-2020/)
+- [ ] 🎧 Listen [050 – Podcast, co daje nagrywanie i jak to robić](https://piotrbucki.pl/050)
+- [ ] 🎧 Listen [051 – Marketing b2b – jak to robić, Łukasz Kosuniak, Grow Consulting](https://piotrbucki.pl/051)
+- [ ] 🎧 Listen [Episode 412: Sam Gavis-Hughson on Technical Interviews](https://www.se-radio.net/2020/06/episode-412-sam-gavis-hughson-on-technical-interviews/)
+- [ ] 📽️ Watch [WJUG #272 "Profiling cz. 2 - Async-profiler, Perf, FlameGraph" - Krzysztof Ślusarski](https://youtu.be/EwQib3aYPvc)
 
 
 ### Things I'll Do in the Future 🏅
