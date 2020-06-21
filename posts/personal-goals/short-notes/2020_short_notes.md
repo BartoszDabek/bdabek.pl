@@ -649,3 +649,31 @@ Yesterday I did not manage to ride my bike because of the weather - it was raini
 14/06/2020
 ---
 I just got back from the mountains. It was wonderful. I completely calmed down + we got some mountain summits 🙃🙃. The views are indescribable ☺️.
+
+15/06/2020
+---
+As for yesterday, I don't have much to say. After the trip I went to sleep and slept for a long time 😆. Plan for today - finish the project for the studies and prepare for its presentation and additionally make an agenda for the blog entry. 👊🏽
+
+16/06/2020
+---
+The plan for yesterday was done 💪. The whole day yesterday was fine - I cycled 20 km 🚴. Today I want to make corrections after my promoter's comments to my thesis and write one section in the blog post.
+
+17/06/2020
+---
+Yesterday, there was beautiful weather since the afternoon 😍. I took full advantage of both the weather and the fact that I was on holiday 😎😎. But today I have to get back to work 😋. The plan for today is to complete all the studies and finish writing (or maybe more exploring) yesterday's blog post.
+
+18/06/2020
+---
+And again, a beautiful day. I went cycling with my cousin today and when we were coming back we were caught in heavy rain 😆. Although I got wet, I'm still happy 😅😅. Yesterday I did not manage to do anything with the blog post, so this is my main mission today.
+
+19/06/2020
+---
+Yesterday I ran over 5 km 🏃, wrote a large part of the article on the blog and at the end of the day I came up with an idea to solve the problem at work 😀. Aah because I didn't mention it - for most of the day I was struggling with an architectural problem at work and I couldn't think of anything... The goal for today: to finish writing an article on the blog ✍🏽.
+
+20/06/2020
+---
+Yesterday I failed to achieve my goal. But nothing happened. I'll do it today 👍. Why didn't I succeed? I've read a lot about what I'm writing and spent a lot of time debugging the code. So the plan for today is to finish the blog article and enjoy the day - go cycling or something 😎😍.
+
+21/06/2020
+---
+Yesterday's day was 100% successful 👊. The last days are really beautiful and sunny - I love it 😍! Today is Sunday so I have no plans - I'll just enjoy life and see what comes out 😉.

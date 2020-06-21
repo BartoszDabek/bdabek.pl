@@ -24,21 +24,23 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿(15.06-10.07)
 
-# [06/14/2020]
+# [06/21/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - fix chapters after promoter comments
+- [ ] ‍🎓 Thesis - fix scripts
+- [ ] ‍🎓 Thesis - write subchapter on implementing Elkan
 - [ ] 📝 Blog - write a post
-- [ ] 📗 Read [Chapter 2. Entity](https://docs.jboss.org/hibernate/orm/5.0/mappingGuide/en-US/html/ch02.html)
-- [ ] 📗 Read [ashMap vs ConcurrentHashMap – Czym Się Różnią? 🗺](https://sztukakodu.pl/hashmap-vs-concurrenthashmap-czym-sie-roznia/)
-- [ ] 📗 Read [HOW TO BE MORE PRODUCTIVE BY WORKING LESS](https://markmanson.net/how-to-be-more-productive)
-- [ ] 📗 Read [Java Records – How to use them with Hibernate and JPA](https://thorben-janssen.com/java-records-hibernate-jpa/)
-- [ ] 🎧 Listen [Inwestujesz świadomie czy naiwnie? [+ujawniam tytuł mojej książki]](https://marciniwuc.com/najlepsza-ksiazka-o-inwestowaniu-aktualnosci-11-czerwca-2020/)
-- [ ] 🎧 Listen [050 – Podcast, co daje nagrywanie i jak to robić](https://piotrbucki.pl/050)
-- [ ] 🎧 Listen [051 – Marketing b2b – jak to robić, Łukasz Kosuniak, Grow Consulting](https://piotrbucki.pl/051)
-- [ ] 🎧 Listen [Episode 412: Sam Gavis-Hughson on Technical Interviews](https://www.se-radio.net/2020/06/episode-412-sam-gavis-hughson-on-technical-interviews/)
-- [ ] 📽️ Watch [WJUG #272 "Profiling cz. 2 - Async-profiler, Perf, FlameGraph" - Krzysztof Ślusarski](https://youtu.be/EwQib3aYPvc)
+- [ ] 📝 Blog - write collaboration proposal
+- [ ] 📗 Read [Difference between @Component, @Service, @Controller, and @Repository in Spring](https://javarevisited.blogspot.com/2017/11/difference-between-component-service.html#ixzz6P8aSoQeX)
+- [ ] 📗 Read [Spring @Transactional - isolation, propagation](https://stackoverflow.com/questions/8490852/spring-transactional-isolation-propagation)
+- [ ] 📗 Read [Transaction Management](https://docs.spring.io/spring/docs/current/spring-framework-reference/data-access.html)
+- [ ] 📗 Read [Avoid dependencies on unstable libraries and features](https://jlbp.dev/JLBP-4)
+- [ ] 🎧 Listen [Fat Loss and Fitness Resources](https://youtu.be/p_caT8AmgAg)
+- [ ] 🎧 Listen [Did You Choose The Right Goals? Here’s How To Find Out And Get Unstuck (TPS304)](https://www.asianefficiency.com/podcast/304-right-goals/)
+- [ ] 🎧 Listen [Od content marketingu do sprzedaży. Co zrobić, żeby dzielenie się wiedzą przekładało się na nowych klientów?](https://malawielkafirma.pl/od-content-marketingu-do-sprzedazy/)
+- [ ] 🎧 Listen [#26 OAuth 2, OIDC i JWT... z Markiem Grabarzem](https://patoarchitekci.io/26/)
+- [ ] 📽️ Watch [Spring Framework - Lesson 1 - The context](https://youtu.be/m-L-r862J-E?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
 
 
 ### Things I'll Do in the Future 🏅
