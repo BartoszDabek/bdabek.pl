@@ -677,3 +677,31 @@ Yesterday I failed to achieve my goal. But nothing happened. I'll do it today �
 21/06/2020
 ---
 Yesterday's day was 100% successful 👊. The last days are really beautiful and sunny - I love it 😍! Today is Sunday so I have no plans - I'll just enjoy life and see what comes out 😉.
+
+22/06/2020
+---
+Yesterday, unfortunately, the weather wasn't good. It was warm but cloudy and rainy - only in the evening the weather became pleasant 😏. Nevertheless, yesterday's Sunday was fine - I was 2x in church at the morning and evening service 🙃. And what are my plans for today? Write an agenda for the blog post and if the weather is good, go out on a bike.
+
+23/06/2020
+---
+The whole day yesterday was cloudy but there was no rain and thanks to that I could go out with my cousin on a bike 😏. The plan for today is to finish writing an article on the blog 👍🏻.
+
+24/06/2020
+---
+Yesterday it was cloudy and quite cold for the last days 😢. Thanks to that I managed to write a post on the blog 😆. Plan for today: run at least 6 km and write a subsection of my thesis 👨🎓.
+
+25/06/2020
+---
+I didn't manage to fulfill 100% of yesterday's plan because I didn't write a sub-section of my thesis - at least I buried it there a bit and changed the sequence diagram. BUT I managed to run 10km below 50 minutes 🏃💪🏼 yesterday - so the annual plan is done! And the goal for today is, of course, to finish writing this subsection of my MA thesis 😉.
+
+26/06/2020
+---
+God gave another beautiful day yesterday 😍😍. I did everything I planned and additionally I cycled 30 km with my cousin 🚴. The plan for today is to propose cooperation on the blog and prepare a new project for the blog ☺️.
+
+27/06/2020
+---
+And the weekend started - it started beautifully. Yesterday's weather was Wonderful 😍. I managed to carry out another annual plan - to ride 600 km by bike during the year 🚴. I also talked to my friend about the cooperation on the blog and I see that it goes in the right direction 👍. What about today? I have an article to read about transactionality and then the wedding! 😁👰
+
+28/06/2020
+---
+Yesterday (and practically still today) I was at the wedding 🤵♂ 👰♂️. It was fun 👍🏻👍🏻. Plan for today? Enjoy a beautiful and sunny Sunday 😎🤗.

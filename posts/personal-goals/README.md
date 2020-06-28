@@ -10,11 +10,11 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Master Technical University graduation 👨‍🎓
 
 ## Sports goals 💪🥈
-1. 10km under 50 minutes 👟
+1. ✅ 10km under 50 minutes 👟(24.06.2020 - time: 45:36)
 2. 50m underwater 🏊
-3. ✅ 3:45 with held breath 🧘(24.03.2019)
+3. ✅ 3:45 with held breath 🧘(24.03.2020)
 4. Run 200 km in a year 🏃
-5. Cycle 600 km in a year 🚴
+5. ✅ Cycle 600 km in a year 🚴(26.06.2020)
 
 ## 25 Days Challenges 🔥🥉
 1. ✅ Holding breath 🧘(1.01-25.01)
@@ -24,23 +24,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿(15.06-10.07)
 
-# [06/21/2020]
+# [06/28/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - fix scripts
-- [ ] ‍🎓 Thesis - write subchapter on implementing Elkan
+- [ ] ‍🎓 Thesis - write subchapter on implementing Hamerly
 - [ ] 📝 Blog - write a post
-- [ ] 📝 Blog - write collaboration proposal
-- [ ] 📗 Read [Difference between @Component, @Service, @Controller, and @Repository in Spring](https://javarevisited.blogspot.com/2017/11/difference-between-component-service.html#ixzz6P8aSoQeX)
-- [ ] 📗 Read [Spring @Transactional - isolation, propagation](https://stackoverflow.com/questions/8490852/spring-transactional-isolation-propagation)
-- [ ] 📗 Read [Transaction Management](https://docs.spring.io/spring/docs/current/spring-framework-reference/data-access.html)
-- [ ] 📗 Read [Avoid dependencies on unstable libraries and features](https://jlbp.dev/JLBP-4)
-- [ ] 🎧 Listen [Fat Loss and Fitness Resources](https://youtu.be/p_caT8AmgAg)
-- [ ] 🎧 Listen [Did You Choose The Right Goals? Here’s How To Find Out And Get Unstuck (TPS304)](https://www.asianefficiency.com/podcast/304-right-goals/)
-- [ ] 🎧 Listen [Od content marketingu do sprzedaży. Co zrobić, żeby dzielenie się wiedzą przekładało się na nowych klientów?](https://malawielkafirma.pl/od-content-marketingu-do-sprzedazy/)
-- [ ] 🎧 Listen [#26 OAuth 2, OIDC i JWT... z Markiem Grabarzem](https://patoarchitekci.io/26/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 1 - The context](https://youtu.be/m-L-r862J-E?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📝 Blog - details on collaboration 
+- [ ] 📗 Read [How to generate UUIDs as primary keys with Hibernate](https://thorben-janssen.com/generate-uuids-primary-keys-hibernate/)
+- [ ] 📗 Read [JPA 2.1 – 12 features every developer should know](https://thorben-janssen.com/jpa-21-overview/)
+- [ ] 📗 Read [Docker, Ogry, Cebule i Warstwy cz1 - Wirtualne Maszyny, Warstwy i Kontenery](https://cupofcodes.pl/docker-ogry-cebule-i-warstwy-cz1-wirtualne-maszyny-warstwy-i-kontenery/)
+- [ ] 📗 Read [Persisting application state](https://allegro.tech/2020/06/persisting-application-state.html)
+- [ ] 🎧 Listen [The Seven Deadly Sins | Gluttony](https://youtu.be/Y4spAu75T-U)
+- [ ] 🎧 Listen [DevTalk #117 – O iOS i Swift z Sebastianem Osińskim](https://devstyle.pl/2020/06/22/devtalk-117-o-ios-i-swift-z-sebastianem-osinskim/)
+- [ ] 🎧 Listen [Episode 91. OracleJDK? OpenJDK?, Zulu? Corretto? So many!](https://www.javapubhouse.com/2020/06/episode-91-oraclejdk-openjdk-zulu-corretto-so-many.html)
+- [ ] 🎧 Listen [052 – RPA – Robotic process automation od strony biznesowej, Marcin Motel, UiPath](https://piotrbucki.pl/052)
+- [ ] 📽️ Watch [Spring Framework - Lesson 3 - It's time to connect to your database](https://youtu.be/_t3BbWs5PcI?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
 
 
 ### Things I'll Do in the Future 🏅
