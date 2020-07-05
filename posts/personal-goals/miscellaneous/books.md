@@ -14,10 +14,11 @@
 - [ ] Reactive Programming with RxJava - Ben Christensen, Tomasz Nurkiewicz
 
 ## In Progress
-- [ ] Effective Java 3rd Edition
+- [ ] Finansowy ninja - Michał Szafrański
 
 ## Books read
 ### 2020
+- [x] Effective Java 3rd Edition
 - [x] Bezpieczeństwo aplikacji webowych - Securitum
 - [x] Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin
 

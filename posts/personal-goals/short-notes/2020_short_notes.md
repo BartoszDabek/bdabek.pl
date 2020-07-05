@@ -705,3 +705,31 @@ And the weekend started - it started beautifully. Yesterday's weather was Wonder
 28/06/2020
 ---
 Yesterday (and practically still today) I was at the wedding 🤵♂ 👰♂️. It was fun 👍🏻👍🏻. Plan for today? Enjoy a beautiful and sunny Sunday 😎🤗.
+
+29/06/2020
+---
+It was a good Sunday 😏. I was at the wedding rehearsals and really enjoyed the beautiful weather all day. Thank God I also had the desire and opportunity to be at both services 🙂. Plan for today: write an agenda for the blog.
+
+30/06/2020
+---
+This is the last day of the month 😮! Time flies incredibly fast so it's worth enjoying moments... As for yesterday I didn't manage to do anything with the agenda for the blog, and today I certainly won't do it either. Today I will have two technical talks so the plan for today is no plan 🤣.
+
+01/07/2020
+---
+Yesterday's day wasn't an easy one 🤯, but I think I did quite well on both interviews I had 👍.Today I have one more conversation waiting - but a little less important 🤫. The plan for today is to finally write an agenda for the blog 😅.
+
+02/07/2020
+---
+So far I have a very good week... Yesterday's technical interview went quite well and I had feedback response from the other interview which is not that bad (it's quite good actually). Yesterday mission to write agenda for the blog is done :). Today mission is to write a whole blog post because on Friday I'm at the wedding (again).
+
+03/07/2020
+---
+I couldn't do yesterday's task with writing a blog 😢. I didn't even start it... Yesterday's day was very busy and in fact, when I finished work at 15, I didn't turn on the computer for my own purposes. The plan for today is to write +/- valid article and have fun at the wedding 🤣👍.
+
+04/07/2020
+---
+Yesterday I got up at 4 a.m. and I was getting up at 4 a.m. and I still didn't have enough time for everything 🙄. And yet, I managed to do yesterday's goal - to write an almost finished article for the blog. The mission for today is to finish and 'polish' the details and later on the bike and wedding rehearsal. 
+
+05/07/2020
+---
+Yesterday was wonderful 🤗. I went by bike to the wedding rehearsals. We had a beautiful weather and I spent time from noon to very evening in a nice atmosphere. Thank God for all this 🙏. Today is Sunday, so it is standard - no plan for today - we enjoy life 🙂🙂.

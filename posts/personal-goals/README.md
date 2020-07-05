@@ -24,22 +24,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. Cold showers 🚿(15.06-10.07)
 
-# [06/28/2020]
+# [07/05/2020]
 
 ### Things I'll do This Week:
 
-- [ ] ‍🎓 Thesis - write subchapter on implementing Hamerly
 - [ ] 📝 Blog - write a post
-- [ ] 📝 Blog - details on collaboration 
-- [ ] 📗 Read [How to generate UUIDs as primary keys with Hibernate](https://thorben-janssen.com/generate-uuids-primary-keys-hibernate/)
-- [ ] 📗 Read [JPA 2.1 – 12 features every developer should know](https://thorben-janssen.com/jpa-21-overview/)
+- [ ] 📝 Blog - create a repo and trello board for sharing documents with Marek
+- [ ] ‍🎓 Thesis - write subchapter on implementing Hamerly
 - [ ] 📗 Read [Docker, Ogry, Cebule i Warstwy cz1 - Wirtualne Maszyny, Warstwy i Kontenery](https://cupofcodes.pl/docker-ogry-cebule-i-warstwy-cz1-wirtualne-maszyny-warstwy-i-kontenery/)
-- [ ] 📗 Read [Persisting application state](https://allegro.tech/2020/06/persisting-application-state.html)
-- [ ] 🎧 Listen [The Seven Deadly Sins | Gluttony](https://youtu.be/Y4spAu75T-U)
-- [ ] 🎧 Listen [DevTalk #117 – O iOS i Swift z Sebastianem Osińskim](https://devstyle.pl/2020/06/22/devtalk-117-o-ios-i-swift-z-sebastianem-osinskim/)
-- [ ] 🎧 Listen [Episode 91. OracleJDK? OpenJDK?, Zulu? Corretto? So many!](https://www.javapubhouse.com/2020/06/episode-91-oraclejdk-openjdk-zulu-corretto-so-many.html)
-- [ ] 🎧 Listen [052 – RPA – Robotic process automation od strony biznesowej, Marcin Motel, UiPath](https://piotrbucki.pl/052)
-- [ ] 📽️ Watch [Spring Framework - Lesson 3 - It's time to connect to your database](https://youtu.be/_t3BbWs5PcI?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📗 Read [Inheritance Strategies with JPA and Hibernate – The Complete Guide](https://thorben-janssen.com/complete-guide-inheritance-strategies-jpa-hibernate)
+- [ ] 📗 Read [The Twelve Factors](https://12factor.net/)
+- [ ] 📗 Read [JAVA 8 – COMPLETABLEFUTURE VS FUTURE](https://javaleader.pl/2020/06/28/java-8-completablefuture-vs-future/)
+- [ ] 🎧 Listen [Movement Makes Energy](https://youtu.be/KxXY3O1RORA)
+- [ ] 🎧 Listen [Episode 415: Berkay on Incident Management](https://www.se-radio.net/2020/06/episode-415-berkay-on-incident-management/)
+- [ ] 🎧 Listen [Master Your Calendar: 3 Actionable Tips To Take Control of Your Day (TPS306)](https://www.asianefficiency.com/podcast/306-master-your-calendar/)
+- [ ] 🎧 Listen [Od popularnej blogerki do właścicielki marki modowej – jak znaleźć niszę w trudnej branży i być zawsze krok przed konkurencją](https://malawielkafirma.pl/od-blogerki-do-wlascicielki-marki-modowej/)
+- [ ] 📽️ Watch [Spring Framework - Lesson 2 - Wiring, Autowiring, Qualifier and more options to manage the context](https://youtu.be/uXkXMSnRWkU?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
 
 
 ### Things I'll Do in the Future 🏅
