@@ -733,3 +733,31 @@ Yesterday I got up at 4 a.m. and I was getting up at 4 a.m. and I still didn't h
 05/07/2020
 ---
 Yesterday was wonderful 🤗. I went by bike to the wedding rehearsals. We had a beautiful weather and I spent time from noon to very evening in a nice atmosphere. Thank God for all this 🙏. Today is Sunday, so it is standard - no plan for today - we enjoy life 🙂🙂.
+
+06/07/2020
+---
+I had a tough night - I got up and felt like I was going to throw up 😨🤒. It's a little better now - I still have a slight headache but I believe God will help me. The plan for today is simple: write an agenda for a blog.
+
+07/07/2020
+---
+Monday passed very pleasantly - it was the last such hot day, now for the next few days the temperature will be lower 😢. Yesterday I managed to write an agenda for my blog and ride a few kilometers by bike ✍🏼💪🏼. The plan for today is to finish the article on the blog 🙂. 
+
+08/07/2020
+---
+Yesterday it was cloudy and I had this feeling for a while that it was like autumn. But it's summer and now I see the beautiful sun outside 😍. I couldn't achieve yesterday's plan in 100%, so today I will finish writing an article for the blog.
+
+09/07/2020
+---
+Again, I failed to complete the plan - to write a blog. I forgot to write about it earlier, but on July 7 I managed to finish my annual sports goal - to run 200km 💪🏼🏆. I am very pleased with it 🤗. The plan for today is the same as yesterday - to finish this blog post. 
+
+10/07/2020
+---
+I finally managed to finish the article on the blog 😛. That's good because this week I have to write a subsection of my thesis and at the weekend I have another wedding 😅.Well, I actually wrote plan for today - my thesis.
+
+11/07/2020
+---
+I wrote or maybe modified a little bit of my thesis yesterday, but I haven't managed to finish the whole chapter I planned. In fact, I have 2 drawings left to complete and that's it - I will have 3 chapters of the thesis finished. Today will be my cousin's wedding - I hope it will be a blessed time 🙂. 
+
+12/07/2020
+---
+Yesterday I completed the third chapter of my thesis and then the wedding 👰. It was a different wedding... there wasn't much going on at it 🤔. But for me it doesn't matter that much - I talked to my friends and at least it ended earlier, so I got some sleep 😅😅.

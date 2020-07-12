@@ -13,33 +13,32 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 1. ✅ 10km under 50 minutes 👟(24.06.2020 - time: 45:36)
 2. 50m underwater 🏊
 3. ✅ 3:45 with held breath 🧘(24.03.2020)
-4. Run 200 km in a year 🏃
+4. ✅ Run 200 km in a year 🏃(07.07.2020)
 5. ✅ Cycle 600 km in a year 🚴(26.06.2020)
 
 ## 25 Days Challenges 🔥🥉
 1. ✅ Holding breath 🧘(1.01-25.01)
 2. ✅ HackerRank 👨‍💻(10.02-06.03)
 3. ✅ 100 pushups 🙇(1.04-25.04)
-4. 50 pull-ups 🏋️‍♂️(15.06-10.07)
+4. ✅ 50 pull-ups 🏋️‍♂️(15.06-10.07)
 5. Blogging every day 📝
-6. Cold showers 🚿(15.06-10.07)
+6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [07/05/2020]
+# [07/12/2020]
 
 ### Things I'll do This Week:
 
 - [ ] 📝 Blog - write a post
-- [ ] 📝 Blog - create a repo and trello board for sharing documents with Marek
-- [ ] ‍🎓 Thesis - write subchapter on implementing Hamerly
-- [ ] 📗 Read [Docker, Ogry, Cebule i Warstwy cz1 - Wirtualne Maszyny, Warstwy i Kontenery](https://cupofcodes.pl/docker-ogry-cebule-i-warstwy-cz1-wirtualne-maszyny-warstwy-i-kontenery/)
-- [ ] 📗 Read [Inheritance Strategies with JPA and Hibernate – The Complete Guide](https://thorben-janssen.com/complete-guide-inheritance-strategies-jpa-hibernate)
-- [ ] 📗 Read [The Twelve Factors](https://12factor.net/)
-- [ ] 📗 Read [JAVA 8 – COMPLETABLEFUTURE VS FUTURE](https://javaleader.pl/2020/06/28/java-8-completablefuture-vs-future/)
-- [ ] 🎧 Listen [Movement Makes Energy](https://youtu.be/KxXY3O1RORA)
-- [ ] 🎧 Listen [Episode 415: Berkay on Incident Management](https://www.se-radio.net/2020/06/episode-415-berkay-on-incident-management/)
-- [ ] 🎧 Listen [Master Your Calendar: 3 Actionable Tips To Take Control of Your Day (TPS306)](https://www.asianefficiency.com/podcast/306-master-your-calendar/)
-- [ ] 🎧 Listen [Od popularnej blogerki do właścicielki marki modowej – jak znaleźć niszę w trudnej branży i być zawsze krok przed konkurencją](https://malawielkafirma.pl/od-blogerki-do-wlascicielki-marki-modowej/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 2 - Wiring, Autowiring, Qualifier and more options to manage the context](https://youtu.be/uXkXMSnRWkU?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📝 Blog - add wordpress access to Marek
+- [ ] 📗 Read [Co warto wiedzieć o pulach wątków w Javie? – Najlepszy przewodnik jakiego potrzebujesz 🎢](https://sztukakodu.pl/co-warto-wiedziec-o-pulach-watkow-w-javie-najlepszy-przewodnik-jakiego-potrzebujesz/)
+- [ ] 📗 Read [Wypaliłem się projektami po godzinach – spowiedź](https://www.michalgellert.pl/blog/wypalilem-sie-projektami-po-godzinach)
+- [ ] 📗 Read [Lombok & Hibernate: How to Avoid Common Pitfalls](https://thorben-janssen.com/lombok-hibernate-how-to-avoid-common-pitfalls/)
+- [ ] 📗 Read [How to implement a soft delete with Hibernate](https://thorben-janssen.com/implement-soft-delete-hibernate/)
+- [ ] 🎧 Listen [Make Money | Get Aggressive | No Fear!](https://youtu.be/iy4S2nOz5jI)
+- [ ] 🎧 Listen [WNOP 141: Firma na YouTube, czyli jak wykorzystać wideo w biznesie – Adrian Gorzycki, Przygody Przedsiębiorców](https://jakoszczedzacpieniadze.pl/jak-wykorzystac-wideo-w-biznesie-firma-na-youtube-adrian-gorzycki)
+- [ ] 🎧 Listen [Rozliczanie za efekty – finansowa katastrofa czy szansa na przyciągnięcie niezdecydowanych klientów?](https://malawielkafirma.pl/rozliczanie-za-efekty/)
+- [ ] 📽️ Watch [Spring Security - First things you need to understand about SSO](https://youtu.be/jszb3N07OyI?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📽️ Watch [Event Storming - od analizy do architektury](https://youtu.be/u4aFjePJJTM)
 
 
 ### Things I'll Do in the Future 🏅
