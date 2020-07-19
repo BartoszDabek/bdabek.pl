@@ -761,3 +761,31 @@ I wrote or maybe modified a little bit of my thesis yesterday, but I haven't man
 12/07/2020
 ---
 Yesterday I completed the third chapter of my thesis and then the wedding 👰. It was a different wedding... there wasn't much going on at it 🤔. But for me it doesn't matter that much - I talked to my friends and at least it ended earlier, so I got some sleep 😅😅.
+
+13/07/2020
+---
+Yesterday we had a very pleasant Sunday 😎. There was a barbecue and there were wedding rehearsals. In the evening - thank God - I could give my testimony in the church 🙂. The plan for today is a Monday standard - write an agenda for a blog.
+
+14/07/2020
+---
+Yesterday I had a crazy day at work - all day long we were fighting with production bugs 🤯🤯! Fortunately, we managed to patch everything up 🤓. Yesterday I did not start the blog. In the evening my friends arrived and I decided that they are more important 😛.
+
+15/07/2020
+---
+Yesterday's day was good 👍🏻. I read a lot, enjoyed the day and of course I worked 😋. In the evening the weather became beautiful so I went on a bike 🚴. The plan for today is to finally write this agenda on a blog and maybe something more than that 😊.
+
+16/07/2020
+---
+It was a wonderful day 😍😎! All day long the weather was BEAUTIFUL! In the evening I managed to write an agenda for the blog entry. I also had a meeting with my friend Marek, with whom I will run the blog together - such a 30-minute online meeting. The plan for today is to write an article ✍🏻👈🏼.
+
+17/07/2020
+---
+Another nice day 🙃. Nothing unusual has happened. I managed to write an article and that makes me very happy 😋👍. The plan for today is to start writing a chapter on the results of my thesis 👊🎓.
+
+18/07/2020
+---
+Yesterday was a very successful day. I had a peaceful day at work and after work it was also great 🤗. In the evening the weather outside became wonderful, so I read a book in the backyard and wrote some master's thesis 🙃. It's just like yesterday in short. What about today? Now it's 6:20 in the morning, I'm just sitting with coffee, nutella, peanut butter, honey and rice waffles 😍😍. I just ran 5 km and now I'm planning my day. The main goal for today - to edit an article on the blog before publication - is to provide details. And after that, enjoy the day 👍👍!
+
+19/07/2020
+---
+Yesterday was a wonderful day 😍. Until noon, I had such productivity and so much energy that I am in shock 😲. Later on it was ok, but a little bit worse than in the morning - I'm rather a morning 'bird'. Today I am going to the neighboring church where the baptism will take place and I will probably spend the whole day there ⛪.

@@ -24,21 +24,25 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [07/12/2020]
+# [07/19/2020]
 
 ### Things I'll do This Week:
 
+- [ ] 💰 Prepare sheet on bank accounts and promotions
+- [ ] 💰 Prepare home budget sheet
+- [ ] 🎓 Studies - write subchapter about datasets
 - [ ] 📝 Blog - write a post
-- [ ] 📝 Blog - add wordpress access to Marek
-- [ ] 📗 Read [Co warto wiedzieć o pulach wątków w Javie? – Najlepszy przewodnik jakiego potrzebujesz 🎢](https://sztukakodu.pl/co-warto-wiedziec-o-pulach-watkow-w-javie-najlepszy-przewodnik-jakiego-potrzebujesz/)
-- [ ] 📗 Read [Wypaliłem się projektami po godzinach – spowiedź](https://www.michalgellert.pl/blog/wypalilem-sie-projektami-po-godzinach)
-- [ ] 📗 Read [Lombok & Hibernate: How to Avoid Common Pitfalls](https://thorben-janssen.com/lombok-hibernate-how-to-avoid-common-pitfalls/)
-- [ ] 📗 Read [How to implement a soft delete with Hibernate](https://thorben-janssen.com/implement-soft-delete-hibernate/)
-- [ ] 🎧 Listen [Make Money | Get Aggressive | No Fear!](https://youtu.be/iy4S2nOz5jI)
-- [ ] 🎧 Listen [WNOP 141: Firma na YouTube, czyli jak wykorzystać wideo w biznesie – Adrian Gorzycki, Przygody Przedsiębiorców](https://jakoszczedzacpieniadze.pl/jak-wykorzystac-wideo-w-biznesie-firma-na-youtube-adrian-gorzycki)
-- [ ] 🎧 Listen [Rozliczanie za efekty – finansowa katastrofa czy szansa na przyciągnięcie niezdecydowanych klientów?](https://malawielkafirma.pl/rozliczanie-za-efekty/)
-- [ ] 📽️ Watch [Spring Security - First things you need to understand about SSO](https://youtu.be/jszb3N07OyI?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
-- [ ] 📽️ Watch [Event Storming - od analizy do architektury](https://youtu.be/u4aFjePJJTM)
+- [ ] 📝 Blog - [optimize website](https://mmazurek.dev/jak-zwiekszylem-szybkosc-bloga-dwukrotnie)
+- [ ] 📗 Read [The IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
+- [ ] 📗 Read [Unsynchronized PersistenceContext – How to model conversations with JPA](https://thorben-janssen.com/unsychronized-persistencecontext-implement-conversations-jpa/)
+- [ ] 📗 Read [Next Generation Session Management with Spring Session](https://www.infoq.com/articles/Next-Generation-Session-Management-with-Spring-Session/)
+- [ ] 📗 Read [Common code approach: from rich libraries to rich environment](https://allegro.tech/2020/07/common-code-approach.html)
+- [ ] 🎧 Listen [WNOP 049: Jak przeprowadzić się na drugi koniec świata – opowiada Piotr Motyl z Tajlandii](https://jakoszczedzacpieniadze.pl/jak-przeprowadzic-sie-do-tajlandii)
+- [ ] 🎧 Listen [Jak znaleźć swój biznesowy cel? Goście podcastu MWF opowiadają o krętych drogach do założenia własnej firmy](https://malawielkafirma.pl/jak-znalezc-biznesowy-cel/)
+- [ ] 🎧 Listen [053 – Skalowanie firmy – najważniejsze aspekty](https://piotrbucki.pl/053)
+- [ ] 🎧 Listen [#63 Czym jest mentoring i jak może pomóc nam w rozwoju biznesu? – Adrian Migoń](https://generali-investments.pl/contents/display-article/klient-indywidualny/63-czym-jest-mentoring-i-jak-moze-pomoc-nam-w-rozwoju-biznesu-adrian-migon)
+- [ ] 📽️ Watch [161. The Bootiful (Reactive) Application - Josh Long](https://youtu.be/5Vko4YhOh00)
+- [ ] 📽️ Watch [Spring Security - Manage your users in the database with JdbcUserDetailsManager](https://youtu.be/zTsclxzid3I?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
 
 
 ### Things I'll Do in the Future 🏅
