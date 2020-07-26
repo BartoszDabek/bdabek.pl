@@ -24,25 +24,23 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [07/19/2020]
+# [07/26/2020]
 
 ### Things I'll do This Week:
 
-- [ ] 💰 Prepare sheet on bank accounts and promotions
-- [ ] 💰 Prepare home budget sheet
-- [ ] 🎓 Studies - write subchapter about datasets
+- [ ] 💳 [Santander promotion](https://static3.santander.pl/asset/r/e/g/regulamin-promocji-twoje-konto-z-premia-150-zl_99009.pdf)
+- [ ] 🎓 Studies - write subchapter about experimental research - prepare graphs
 - [ ] 📝 Blog - write a post
-- [ ] 📝 Blog - [optimize website](https://mmazurek.dev/jak-zwiekszylem-szybkosc-bloga-dwukrotnie)
 - [ ] 📗 Read [The IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
-- [ ] 📗 Read [Unsynchronized PersistenceContext – How to model conversations with JPA](https://thorben-janssen.com/unsychronized-persistencecontext-implement-conversations-jpa/)
-- [ ] 📗 Read [Next Generation Session Management with Spring Session](https://www.infoq.com/articles/Next-Generation-Session-Management-with-Spring-Session/)
-- [ ] 📗 Read [Common code approach: from rich libraries to rich environment](https://allegro.tech/2020/07/common-code-approach.html)
-- [ ] 🎧 Listen [WNOP 049: Jak przeprowadzić się na drugi koniec świata – opowiada Piotr Motyl z Tajlandii](https://jakoszczedzacpieniadze.pl/jak-przeprowadzic-sie-do-tajlandii)
-- [ ] 🎧 Listen [Jak znaleźć swój biznesowy cel? Goście podcastu MWF opowiadają o krętych drogach do założenia własnej firmy](https://malawielkafirma.pl/jak-znalezc-biznesowy-cel/)
-- [ ] 🎧 Listen [053 – Skalowanie firmy – najważniejsze aspekty](https://piotrbucki.pl/053)
-- [ ] 🎧 Listen [#63 Czym jest mentoring i jak może pomóc nam w rozwoju biznesu? – Adrian Migoń](https://generali-investments.pl/contents/display-article/klient-indywidualny/63-czym-jest-mentoring-i-jak-moze-pomoc-nam-w-rozwoju-biznesu-adrian-migon)
-- [ ] 📽️ Watch [161. The Bootiful (Reactive) Application - Josh Long](https://youtu.be/5Vko4YhOh00)
-- [ ] 📽️ Watch [Spring Security - Manage your users in the database with JdbcUserDetailsManager](https://youtu.be/zTsclxzid3I?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📗 Read [Common Hibernate Exceptions Every Developer Must Know](https://thorben-janssen.com/hibernate-exceptions/)
+- [ ] 📗 Read [Why Event Sourcing is a microservice communication anti-pattern](https://dev.to/olibutzki/why-event-sourcing-is-a-microservice-anti-pattern-3mcj)
+- [ ] 📗 Read [Avoid dependencies that overlap classes with other dependencies](https://jlbp.dev/JLBP-5)
+- [ ] 🎧 Listen [The Secret to Most MONEY and The BEST JOBS](https://youtu.be/IhHsPod8230)
+- [ ] 🎧 Listen [SPI 432: From Zero Audience to a Successful Podcast-Based Business, with Sophie Walker](https://www.smartpassiveincome.com/podcasts/zero-audience-successful-podcast-based-business-sophie-walker/)
+- [ ] 🎧 Listen [Episode 418: Functional Programming in Enterprise Applications](https://www.se-radio.net/2020/07/episode-418-functional-programming-in-enterprise-applications/)
+- [ ] 🎧 Listen [WNOP 108: Zawód: Programista, czyli jak zostać developerem i ile zarabiają programiści – zdradza Maciej Aniserowicz](https://jakoszczedzacpieniadze.pl/jak-zostac-programista-ile-zarabia-developer)
+- [ ] 📽️ Watch [Introduction to Microservices, Docker, and Kubernetes](https://youtu.be/1xo-0gCVhTU)
+- [ ] 📽️ Watch [Spring Security - How to use Spring Data with JPA to define your UserDetailsService](https://youtu.be/uTrtM9iabnQ?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
 
 
 ### Things I'll Do in the Future 🏅

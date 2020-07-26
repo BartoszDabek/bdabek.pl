@@ -789,3 +789,31 @@ Yesterday was a very successful day. I had a peaceful day at work and after work
 19/07/2020
 ---
 Yesterday was a wonderful day 😍. Until noon, I had such productivity and so much energy that I am in shock 😲. Later on it was ok, but a little bit worse than in the morning - I'm rather a morning 'bird'. Today I am going to the neighboring church where the baptism will take place and I will probably spend the whole day there ⛪.
+
+20/07/2020
+---
+Yesterday was exactly what I thought 😛. I spent the whole day in a neighboring church. I came home for the evening and went on a bike 😁. The weather for the last few days is a real miracle 😍😍😍! Plan for today - optimize the website of the blog 💪.
+
+21/07/2020
+---
+Yesterday was probably the last day of such beautiful summer weather in the near future. Now there's no sun outside the window and it's cloudy, but maybe this will motivate me to do 😏😏. The plan for today is to write as much content as possible for the blog ✍🏻.
+
+22/07/2020
+---
+Yesterday was fun. I had a negotiation with a current client and they offered me an interesting offer... even very interesting, where I can learn a lot and make good money 👍🏻. In 2 days' time I'm supposed to give an answer what I'm doing... At the end of the year, when I will make a summary, we will see if I chose well 😄 . And today's plan is to write a blog post because yesterday it didn't work out.  
+
+23/07/2020
+---
+Yesterday, all day long I was thinking about what decision to make in connection with the change of job 🤯. It's Thursday morning and today I'll give you an answer, but I'm not convinced about the decision 🤔... Today I'm going to finish my blog post - yesterday I started and described a bit 👍.
+
+24/07/2020
+---
+Yesterday, everything was already in my head and I know what decision I will make today - I am moving on to a new job. Admittedly, it is a distant perskeptic, because only since November, but the handle has come - time for new challenges 😅. As for the goal for today - to finish all the details of the blog entry (tomorrow I will probably not be at my computer all day).
+
+25/07/2020
+---
+Yesterday I managed to write a subsection of my thesis 🤗! Besides, I cycled, finished the details of the article on the blog and made the decision to change my job to the end. A lot of things happened as for Friday. As I mentioned today, I won't be sitting at the computer much, because at 8 o'clock I'm going for a canoeing trip 💪🏼 💪🏼. The plan for today is simple - have fun and take a break from the constant work and pursuit of goals 🙃.
+
+26/07/2020
+---
+Yesterday, the canoeing was great 😍! The whole day was very cool ☺️. Today is Sunday so it is also without a plan 😅. You have to enjoy and enjoy the weather because it is wonderful 😎🤩!
