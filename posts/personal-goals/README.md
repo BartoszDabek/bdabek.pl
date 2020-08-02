@@ -24,23 +24,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [07/26/2020]
+# [08/02/2020]
 
 ### Things I'll do This Week:
 
-- [ ] 💳 [Santander promotion](https://static3.santander.pl/asset/r/e/g/regulamin-promocji-twoje-konto-z-premia-150-zl_99009.pdf)
-- [ ] 🎓 Studies - write subchapter about experimental research - prepare graphs
 - [ ] 📝 Blog - write a post
+- [ ] 🎓 Studies - write subchapter about experimental research - prepare graphs
 - [ ] 📗 Read [The IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
-- [ ] 📗 Read [Common Hibernate Exceptions Every Developer Must Know](https://thorben-janssen.com/hibernate-exceptions/)
-- [ ] 📗 Read [Why Event Sourcing is a microservice communication anti-pattern](https://dev.to/olibutzki/why-event-sourcing-is-a-microservice-anti-pattern-3mcj)
-- [ ] 📗 Read [Avoid dependencies that overlap classes with other dependencies](https://jlbp.dev/JLBP-5)
-- [ ] 🎧 Listen [The Secret to Most MONEY and The BEST JOBS](https://youtu.be/IhHsPod8230)
-- [ ] 🎧 Listen [SPI 432: From Zero Audience to a Successful Podcast-Based Business, with Sophie Walker](https://www.smartpassiveincome.com/podcasts/zero-audience-successful-podcast-based-business-sophie-walker/)
-- [ ] 🎧 Listen [Episode 418: Functional Programming in Enterprise Applications](https://www.se-radio.net/2020/07/episode-418-functional-programming-in-enterprise-applications/)
-- [ ] 🎧 Listen [WNOP 108: Zawód: Programista, czyli jak zostać developerem i ile zarabiają programiści – zdradza Maciej Aniserowicz](https://jakoszczedzacpieniadze.pl/jak-zostac-programista-ile-zarabia-developer)
-- [ ] 📽️ Watch [Introduction to Microservices, Docker, and Kubernetes](https://youtu.be/1xo-0gCVhTU)
-- [ ] 📽️ Watch [Spring Security - How to use Spring Data with JPA to define your UserDetailsService](https://youtu.be/uTrtM9iabnQ?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📗 Read [Chapter 2. Event-Driven Architecture](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html#idm46148422094696)
+- [ ] 📗 Read [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
+- [ ] 📗 Read [Ternary Associations – Modelling Associations between 3 Entities](https://thorben-janssen.com/ternary-associations/)
+- [ ] 🎧 Listen [Episode 103: Working From Home](https://www.programmingthrowdown.com/2020/07/episode-103-working-from-home.html)
+- [ ] 🎧 Listen [Episode 419: John Ellithorpe on the Role of a CTO](https://www.se-radio.net/2020/07/episode-419-john-ellithorpe-on-the-role-of-a-cto/)
+- [ ] 🎧 Listen [How To Build a Second Brain and Be More Organized w/ Tiago Forte (TPS310)](https://www.asianefficiency.com/podcast/310-tiago-forte/)
+- [ ] 🎧 Listen [Snake Diet English | Very Important Weight Loss Tip](https://youtu.be/J3fDDJOpuk8)
+- [ ] 📽️ Watch [Sławomir Sobótka - DDD Q&A - wersja rozszerzona](https://youtu.be/do-xqIbKZ_8)
+- [ ] 📽️ Watch [Spring Framework - Lesson 4 - Aspect Oriented Programming - AOP](https://youtu.be/BVk54NRRFsY?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
 
 
 ### Things I'll Do in the Future 🏅

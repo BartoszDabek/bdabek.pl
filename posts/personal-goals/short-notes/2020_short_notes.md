@@ -817,3 +817,31 @@ Yesterday I managed to write a subsection of my thesis 🤗! Besides, I cycled, 
 26/07/2020
 ---
 Yesterday, the canoeing was great 😍! The whole day was very cool ☺️. Today is Sunday so it is also without a plan 😅. You have to enjoy and enjoy the weather because it is wonderful 😎🤩!
+
+27/07/2020
+---
+It was a very nice Sunday. In the afternoon I went to my cousins' grill - I ate, talked and had fun 🤣. Today I have to get back to reality 🙄. The plan for today is to improve the blog post and prepare the introduction to the new ✍️.
+
+28/07/2020
+---
+The weather was nice yesterday until noon but then something broke down 😭. I couldn't go out on my bike... but I'm gonna get it today! The plan for today is to write an agenda for a blog (or preferably the whole post 😅).
+
+29/07/2020
+---
+Yesterday was okay. Nothing unusual happened. I was sticking to my plan and I'm planning the same thing today ✔️. I am going to write 2/3 of the article on my blog 👍.
+
+30/07/2020
+---
+Yesterday I didn't manage to write a word in the blog article. Instead, I was exploring the subject and reading articles on it. Admittedly, I started a little bit late because about 20, but well... before that I enjoyed the day and I worked 😋. The plan for today is to write most of the article.
+
+31/07/2020
+---
+End of next month 😮. Quickly. The plan for yesterday was not fully implemented so today I have to finish the whole article.
+
+01/08/2020
+---
+I'm going to be baptized today. This is probably the most important day of my life. That's why I tried to get most things done yesterday or before. The plan for today is to be baptized with dignity. 
+
+02/08/2020
+---
+Thank God for yesterday's 🙏🙏! It gave a wonderful weather and I could be baptized together with 4 other people 🙂🙂. As for today's plans, there are no plans 😛. I will be resting and enjoying the day with my family.
