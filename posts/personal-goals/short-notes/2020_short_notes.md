@@ -845,3 +845,31 @@ I'm going to be baptized today. This is probably the most important day of my li
 02/08/2020
 ---
 Thank God for yesterday's 🙏🙏! It gave a wonderful weather and I could be baptized together with 4 other people 🙂🙂. As for today's plans, there are no plans 😛. I will be resting and enjoying the day with my family.
+
+03/08/2020
+---
+Yesterday God gave another beautiful day 😍😍! We hosted a family from Silesia and had dinner together with our grandparents. But today it's time to get back to normal. It's 12 minutes past 6 am. I've already travelled 4 km and now it's time to start working. For today, the plan is as standard as it is on Monday. I want to write an agenda for a blog.
+
+04/08/2020
+---
+Yesterday I had a good day - I was running, cycling and I managed to write an agenda for the blog 🤗! Today the weather is not so encouraging and I think I will spend more time on a blog article to write something there (although I have to read a lot more before).
+
+05/08/2020
+---
+Yesterday it was ugly but warm outside 😋 and thanks to that I went to run - I did 4 km 🏃. I didn't manage to write anything on the blog, but that's because I read a lot and studied. The plan for today is to write the whole article 💪🏻💪🏻!
+
+06/08/2020
+---
+Yesterday I managed to write the whole article in terms of content. All that remains today is to finish the summary and format the whole article 🙃. In addition, today I want to read two articles that I have written for this week, so that tomorrow only writing my thesis remains.
+
+07/08/2020
+---
+Yesterday was beautiful 😍!There was beautiful sunshine outside all day long and I did everything I planned ❤️👍! The plan for today is - apart from enjoying the weather - to write my thesis. I have to make some charts and write something there ✍️.
+
+08/08/2020
+---
+Yesterday was another beautiful day 😎😍! I didn't manage to write my thesis as I planned, but at least I tried 😂! I even made a table and entered the data into it! What about today? Today I am going to Augustow with my brother and his wife 🙂. We'll enjoy the weather!
+
+09/08/2020
+---
+It was great in Augustow! There was some family and friends and we had a good time together. It's been a long time since I was so much in the water 😁😁. The weather was good for us 🙂👍! Today is Sunday and as standard there are no plans - although it would be nice to do something positive 😅.

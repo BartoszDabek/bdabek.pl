@@ -24,22 +24,21 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [08/02/2020]
+# [08/09/2020]
 
 ### Things I'll do This Week:
 
-- [ ] 📝 Blog - write a post
 - [ ] 🎓 Studies - write subchapter about experimental research - prepare graphs
 - [ ] 📗 Read [The IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
-- [ ] 📗 Read [Chapter 2. Event-Driven Architecture](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html#idm46148422094696)
-- [ ] 📗 Read [Highlights from Git 2.28](https://github.blog/2020-07-27-highlights-from-git-2-28/)
-- [ ] 📗 Read [Ternary Associations – Modelling Associations between 3 Entities](https://thorben-janssen.com/ternary-associations/)
-- [ ] 🎧 Listen [Episode 103: Working From Home](https://www.programmingthrowdown.com/2020/07/episode-103-working-from-home.html)
-- [ ] 🎧 Listen [Episode 419: John Ellithorpe on the Role of a CTO](https://www.se-radio.net/2020/07/episode-419-john-ellithorpe-on-the-role-of-a-cto/)
-- [ ] 🎧 Listen [How To Build a Second Brain and Be More Organized w/ Tiago Forte (TPS310)](https://www.asianefficiency.com/podcast/310-tiago-forte/)
-- [ ] 🎧 Listen [Snake Diet English | Very Important Weight Loss Tip](https://youtu.be/J3fDDJOpuk8)
-- [ ] 📽️ Watch [Sławomir Sobótka - DDD Q&A - wersja rozszerzona](https://youtu.be/do-xqIbKZ_8)
-- [ ] 📽️ Watch [Spring Framework - Lesson 4 - Aspect Oriented Programming - AOP](https://youtu.be/BVk54NRRFsY?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📗 Read [5 Primary Key Mappings for JPA and Hibernate Every Developer Should Know](https://thorben-janssen.com/primary-key-mappings-jpa-hibernate/)
+- [ ] 📗 Read [Daylight saving time and time zone best practices [closed]](https://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
+- [ ] 📗 Read [Java at 25: Features that made an impact and a look to the future](https://stackoverflow.blog/2020/07/30/java-at-25-features-that-made-an-impact-and-a-look-to-the-future/)
+- [ ] 🎧 Listen [Episode 420: Ryan Ripley on Making Scrum Work](https://www.se-radio.net/2020/08/episode-420-ryan-ripley-on-making-scrum-work/)
+- [ ] 🎧 Listen [SPI 434: How to Know What to Fix Next with Mike Michalowicz](https://www.smartpassiveincome.com/podcasts/know-fix-next-mike-michalowicz/)
+- [ ] 🎧 Listen [054 – 1/2 O komunikacji dla liderów, managerów i zespołów, Piotr Bucki, bucki.pro](https://piotrbucki.pl/054)
+- [ ] 🎧 Listen [Your GTD Weekly Review: Be Consistent And Achieve “Mind Like Water” Each Week (TPS311)](https://www.asianefficiency.com/podcast/311-weekly-review/)
+- [ ] 📽️ Watch [Spring Framework - Lesson 5 - @Transactional](https://youtu.be/HiiS0NVwnLg?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📽️ Watch [Cloud Native Java - Josh Long](https://youtu.be/5q8B6lYhFvE)
 
 
 ### Things I'll Do in the Future 🏅
