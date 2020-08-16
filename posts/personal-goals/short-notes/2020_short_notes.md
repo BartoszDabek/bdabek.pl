@@ -873,3 +873,31 @@ Yesterday was another beautiful day 😎😍! I didn't manage to write my thesis
 09/08/2020
 ---
 It was great in Augustow! There was some family and friends and we had a good time together. It's been a long time since I was so much in the water 😁😁. The weather was good for us 🙂👍! Today is Sunday and as standard there are no plans - although it would be nice to do something positive 😅.
+
+10/08/2020
+---
+I had a great time this Sunday - I'm happy 👍. Thank God I could be in church morning and evening. After the morning service I was at my cousins' for a delicious dinner 🍴❤️! Later I wrote my thesis a little bit more, and so Sunday was done. And what is the plan for today? Master's thesis + enjoy the weather!
+
+11/08/2020
+---
+Yesterday's day was cool 👍. I cycled 30 km, prepared charts for my MA thesis (the first one is always the most difficult one) and had an honest conversation with a friend. Today I would like to write a little article on my blog and squeeze my thesis. And now I go running 🏃😁!
+
+12/08/2020
+---
+My legs hurt after yesterday's 😅. Yesterday I was running, did a leg training and yet I was cycling. A bit much for one day 😋 but what - there is nice weather so I use it! 😍😍 Today I'm not making any plans - I made an appointment with my friend for a bicycle and I assume it may take us all evening 🙄🙃.
+
+13/08/2020
+---
+Yesterday's day deserves a special mention. Finally, I acted like a man and explained with a friend where we stand and where we are going. I am glad that this has happened and I hope that when I will read these notes at the end of the year it will be a nice memory. Anyway, when it comes to choosing a partner, I believe in God and that He will lead the way. And back to reality, the plan for today is to write as many as possible an article on the blog... 🙂. 
+
+14/08/2020
+---
+Another nice day behind us 😉. Yesterday I managed to write the content for the article and for today there are only minor corrections. Besides, today I'm off work and I'm going to go out on a bike with a friend. And in the evening I'm going to the bachelor party 😁😁!
+
+15/08/2020
+---
+Yesterday's day was SUPER! 😍😍 In the morning we cycled over 80km with a friend - we went to the border with Belarus 😛. At the bachelor party we were on a laser tag, then on go-karts and finally we went to eat something. Go-karts are really great fun - I was on them for the first time but I immediately loved it 😁😁! Today is Saturday and it's time to get back to reality. In a moment my cousin comes to me with her friends for breakfast and then I will continue writing my thesis! 🙂
+
+16/08/2020
+---
+Unlike the whole week, this Saturday was frankly lazy and I liked the way I spent it on average 🙄. Admittedly, I wrote a bit of my thesis and ran 5 km but it wasn't that. Today is Sunday and by default I don't plan anything for Sunday 😝.

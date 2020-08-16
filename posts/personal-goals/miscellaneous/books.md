@@ -14,10 +14,11 @@
 - [ ] Reactive Programming with RxJava - Ben Christensen, Tomasz Nurkiewicz
 
 ## In Progress
-- [ ] Finansowy ninja - Michał Szafrański
+- [ ] Patterns of Enterprise Application Architecture - Martin Fowler
 
 ## Books read
 ### 2020
+- [x] Finansowy ninja - Michał Szafrański
 - [x] Effective Java 3rd Edition
 - [x] Bezpieczeństwo aplikacji webowych - Securitum
 - [x] Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin

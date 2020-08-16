@@ -24,21 +24,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [08/09/2020]
+# [08/16/2020]
 
 ### Things I'll do This Week:
 
-- [ ] 🎓 Studies - write subchapter about experimental research - prepare graphs
+- [ ] 🎓 Studies - finish as much as possible chapter about experimentals
+- [ ] 🎓 Studies - write summary chapter
 - [ ] 📗 Read [The IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
-- [ ] 📗 Read [5 Primary Key Mappings for JPA and Hibernate Every Developer Should Know](https://thorben-janssen.com/primary-key-mappings-jpa-hibernate/)
-- [ ] 📗 Read [Daylight saving time and time zone best practices [closed]](https://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
-- [ ] 📗 Read [Java at 25: Features that made an impact and a look to the future](https://stackoverflow.blog/2020/07/30/java-at-25-features-that-made-an-impact-and-a-look-to-the-future/)
-- [ ] 🎧 Listen [Episode 420: Ryan Ripley on Making Scrum Work](https://www.se-radio.net/2020/08/episode-420-ryan-ripley-on-making-scrum-work/)
-- [ ] 🎧 Listen [SPI 434: How to Know What to Fix Next with Mike Michalowicz](https://www.smartpassiveincome.com/podcasts/know-fix-next-mike-michalowicz/)
-- [ ] 🎧 Listen [054 – 1/2 O komunikacji dla liderów, managerów i zespołów, Piotr Bucki, bucki.pro](https://piotrbucki.pl/054)
-- [ ] 🎧 Listen [Your GTD Weekly Review: Be Consistent And Achieve “Mind Like Water” Each Week (TPS311)](https://www.asianefficiency.com/podcast/311-weekly-review/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 5 - @Transactional](https://youtu.be/HiiS0NVwnLg?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
-- [ ] 📽️ Watch [Cloud Native Java - Josh Long](https://youtu.be/5q8B6lYhFvE)
+- [ ] 📗 Read [Modeling self-referencing associations with Hibernate](https://thorben-janssen.com/self-referencing-associations/)
+- [ ] 📗 Read [How to generate primary keys with JPA and Hibernate](https://thorben-janssen.com/jpa-generate-primary-keys/)
+- [ ] 📗 Read [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
+- [ ] 🎧 Listen [Prowadzisz biznes lokalny? Dowiedz się, jak go promować, żeby twoimi klientami byli nie tylko przypadkowi przechodnie](https://malawielkafirma.pl/jak-promowac-biznes-lokalny/)
+- [ ] 🎧 Listen [Tim Stringer on Managing Personal Tasks & Team Projects, Communication, and Holistic Productivity (TPS312)](https://www.asianefficiency.com/podcast/312-tim-stringer/)
+- [ ] 🎧 Listen [Episode 421: Doug Fawley on gRPC](https://www.se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/)
+- [ ] 🎧 Listen [SPI 435: 7 Terrible Traps Entrepreneurs Fall Into (And How to Get Out of Them)](https://www.smartpassiveincome.com/podcasts/7-terrible-traps-entrepreneurs/)
+- [ ] 📽️ Watch [Spring Framework - Lesson 6 - Transaction propagation](https://youtu.be/O9vrhKlGZbE?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
+- [ ] 📽️ Watch [The RSocket Revolution](https://youtu.be/ipVfRdl5SP0)
 
 
 ### Things I'll Do in the Future 🏅
