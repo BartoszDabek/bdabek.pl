@@ -24,22 +24,21 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [08/16/2020]
+# [08/23/2020]
 
 ### Things I'll do This Week:
 
 - [ ] 🎓 Studies - finish as much as possible chapter about experimentals
-- [ ] 🎓 Studies - write summary chapter
+- [ ] 🎓 Studies - read whole thesis and send to promoter
 - [ ] 📗 Read [The IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
-- [ ] 📗 Read [Modeling self-referencing associations with Hibernate](https://thorben-janssen.com/self-referencing-associations/)
-- [ ] 📗 Read [How to generate primary keys with JPA and Hibernate](https://thorben-janssen.com/jpa-generate-primary-keys/)
-- [ ] 📗 Read [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
-- [ ] 🎧 Listen [Prowadzisz biznes lokalny? Dowiedz się, jak go promować, żeby twoimi klientami byli nie tylko przypadkowi przechodnie](https://malawielkafirma.pl/jak-promowac-biznes-lokalny/)
-- [ ] 🎧 Listen [Tim Stringer on Managing Personal Tasks & Team Projects, Communication, and Holistic Productivity (TPS312)](https://www.asianefficiency.com/podcast/312-tim-stringer/)
-- [ ] 🎧 Listen [Episode 421: Doug Fawley on gRPC](https://www.se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/)
-- [ ] 🎧 Listen [SPI 435: 7 Terrible Traps Entrepreneurs Fall Into (And How to Get Out of Them)](https://www.smartpassiveincome.com/podcasts/7-terrible-traps-entrepreneurs/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 6 - Transaction propagation](https://youtu.be/O9vrhKlGZbE?list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ)
-- [ ] 📽️ Watch [The RSocket Revolution](https://youtu.be/ipVfRdl5SP0)
+- [ ] 📗 Read [Mapping Arrays with Hibernate](https://thorben-janssen.com/mapping-arrays-with-hibernate/)
+- [ ] 📗 Read [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [ ] 📗 Read [CQRS](https://martinfowler.com/bliki/CQRS.html)
+- [ ] 🎧 Listen [SPI 436: How to Become a Valuable Leader with Dave Stachowiak](https://www.smartpassiveincome.com/podcasts/become-valuable-leader-dave-stachowiak/)
+- [ ] 🎧 Listen [Episode 422: Michael Geers on Micro Frontends](https://www.se-radio.net/2020/08/episode-422-michael-geers-on-micro-frontends/)
+- [ ] 🎧 Listen [The Best Apps and Tools To Work From Home Productively (TPS313)](https://www.asianefficiency.com/podcast/313-work-from-home/)
+- [ ] 📽️ Watch [Spring Framework - Lesson 7 - Transaction isolation](https://youtu.be/QzyucYRGRlk)
+- [ ] 📽️ Watch [ITT 2018 - Jakub Nabrdalik - Hexagonal Architecture in practice](https://youtu.be/sOaS83Ir8Ck)
 
 
 ### Things I'll Do in the Future 🏅

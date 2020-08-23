@@ -901,3 +901,31 @@ Yesterday's day was SUPER! 😍😍 In the morning we cycled over 80km with a fr
 16/08/2020
 ---
 Unlike the whole week, this Saturday was frankly lazy and I liked the way I spent it on average 🙄. Admittedly, I wrote a bit of my thesis and ran 5 km but it wasn't that. Today is Sunday and by default I don't plan anything for Sunday 😝.
+
+17/08/2020
+---
+Time to start the new week 🤗. Yesterday it was sunny again and thank God I could be at two services: morning and evening. Besides, I wrote a bit of my thesis so I'm getting close to the end of 🙂. What about today? Today I would like to finish the chapter concluding my thesis!
+
+18/08/2020
+---
+Yesterday God gave us another beautiful day 👍👍! Today it's quite different outside the window - you can't see the sun, which made it harder for me to get out of bed 😅. Yesterday I managed to write an English summary, introduction and conclusion of my thesis 🤗! This means that I only have a few charts left to make as soon as the calculations on the server are finished. Great! The plan for today is to prepare a draft article for the blog.
+
+19/08/2020
+---
+Yesterday wasn't as sunny as the whole week before but it was hot 😏. I managed to recognize the topic around the blog article and describe what I will write about 😜. For today I invited my cousins to a home-made kebab for dinner - we'll see what it comes out of 😁😁. The plan for today is to write one section of the article on the blog and then make a kebab 😂.
+
+20/08/2020
+---
+And yesterday was great. I spent the whole evening in the good company of girls 🤣.We celebrated our cousin's birthday. The plan for today is to go out on a bike and write an article on a blog.
+
+21/08/2020
+---
+Yesterday was my brother's birthday and it just so happened that he came back from the seaside for the evening so we celebrated a little bit 😋. I didn't want to write an article on the blog yesterday so it stays with me for today. Today I took a vacation at work and I'm going to the wedding at 2pm! 😍 🤵👰
+
+22/08/2020
+---
+Yesterday's wedding was beautiful. Beautiful place, beautiful young couple and all the time spent was something wonderful 🙂👍. Today is the day after the wedding and we will all meet together again, I think we will have a good time. I have no extra plans for today and I don't want to - I will enjoy the day! 🤗
+
+23/08/2020
+---
+Saturday was very pleasant - except maybe one exception... About half the people after the wedding got food poisoning 😅 - including me. This resulted in frequent visits to the 😂 toilet. Still, it doesn't change that the day was beautiful and thank God for that! Today we have a Sunday and as always on Sundays - no plans and what comes out will come out 🙂.
