@@ -3,7 +3,7 @@ Personal Goals
 Personal goals made open source. I want thanks to [una](https://github.com/una/personal-goals) for her personal goals repo that I can take pattern from and what made me motivate to work. 
 
 # Overarching Goals for 2020 🏆🥇
-1. Help 3 strangers 🧚‍♂️
+1. Help 3 strangers 🧚‍♂️ [1/3]
 2. Build an active community (2.5k unique blog visits in a month) 🧑‍🤝‍🧑
 3. ~~Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙~~
 4. Visit 2 different countries ✈️
@@ -24,21 +24,23 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [08/23/2020]
+# [08/30/2020]
 
 ### Things I'll do This Week:
 
-- [ ] 🎓 Studies - finish as much as possible chapter about experimentals
-- [ ] 🎓 Studies - read whole thesis and send to promoter
+- [ ] Blog - refactor home page and about me
 - [ ] 📗 Read [The IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
-- [ ] 📗 Read [Mapping Arrays with Hibernate](https://thorben-janssen.com/mapping-arrays-with-hibernate/)
-- [ ] 📗 Read [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
-- [ ] 📗 Read [CQRS](https://martinfowler.com/bliki/CQRS.html)
-- [ ] 🎧 Listen [SPI 436: How to Become a Valuable Leader with Dave Stachowiak](https://www.smartpassiveincome.com/podcasts/become-valuable-leader-dave-stachowiak/)
-- [ ] 🎧 Listen [Episode 422: Michael Geers on Micro Frontends](https://www.se-radio.net/2020/08/episode-422-michael-geers-on-micro-frontends/)
-- [ ] 🎧 Listen [The Best Apps and Tools To Work From Home Productively (TPS313)](https://www.asianefficiency.com/podcast/313-work-from-home/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 7 - Transaction isolation](https://youtu.be/QzyucYRGRlk)
-- [ ] 📽️ Watch [ITT 2018 - Jakub Nabrdalik - Hexagonal Architecture in practice](https://youtu.be/sOaS83Ir8Ck)
+- [ ] 📗 Read [Chapter 4. Microservices Architecture Pattern](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch04.html)
+- [ ] 📗 Read [What are microservices?](https://microservices.io/index.html)
+- [ ] 📗 Read [Speed-up your Query with Parameter Padding](https://thorben-janssen.com/parameter-padding/)
+- [ ] 📗 Read [Four Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33)
+- [ ] 📗 Read [5 common Spring @Transactional pitfalls [Spring & JPA pitfalls series]](https://codete.com/blog/5-common-spring-transactional-pitfalls/)
+- [ ] 🎧 Listen [How To Get Into Flow State and Make Massive Progress Quickly (TPS314)](https://www.asianefficiency.com/podcast/314-flow-state/)
+- [ ] 🎧 Listen [FBO 071: ZACZĄŁ OSZCZĘDZAĆ I SCHUDŁ 15 KILO W 3 MIESIĄCE! POZNAJ HISTORIĘ MARCINA](https://marciniwuc.com/fbo-071-zaczal-oszczedzac-i-schudl-15-kilo-w-3-miesiace/)
+- [ ] 🎧 Listen [Episode 423: Ryan Singer on Remote Work](https://www.se-radio.net/2020/08/episode-423-ryan-singer-on-remote-work/)
+- [ ] 🎧 Listen [055 – 2/2 O komunikacji dla liderów, managerów i zespołów, Piotr Bucki, bucki.pro](https://piotrbucki.pl/055)
+- [ ] 📽️ Watch [156. WrocławJUG [MID, PL] - Problemy wynikające z modularyzacji. - Łukasz Szydło](https://youtu.be/JJXmgCx_wh0)
+- [ ] 📽️ Watch [Spring Framework - Lesson 8 - Spring Boot 101](https://youtu.be/kVlYg95d_5s)
 
 
 ### Things I'll Do in the Future 🏅

@@ -929,3 +929,31 @@ Yesterday's wedding was beautiful. Beautiful place, beautiful young couple and a
 23/08/2020
 ---
 Saturday was very pleasant - except maybe one exception... About half the people after the wedding got food poisoning 😅 - including me. This resulted in frequent visits to the 😂 toilet. Still, it doesn't change that the day was beautiful and thank God for that! Today we have a Sunday and as always on Sundays - no plans and what comes out will come out 🙂.
+
+24/08/2020
+---
+Yesterday I invited family and friends for coffee. We sat and talked - maybe not as I fully imagined it, but it was quite ok 👍. We also made waffles - they were cool although I don't like waffles (I prefer something healthier 😛). And coming back to today - the plan is to read the thesis, make eventual corrections and send to the promoter.
+
+25/08/2020
+---
+I couldn't make the plan yesterday but I have a good excuse 🙂. Yesterday was one of the last such sunnier days, so I went on bikes with my friend - we were riding and talking 🙃. And actually the whole afternoon and evening went down on it. So I am moving yesterday's plan for today 👍.
+
+26/08/2020
+---
+Yesterday the weather was average for most of the day but thank God the evening got a bit nicer so I went out on a bike with a colleague 🚴🚴. I also managed to do my plan and send my thesis to the promoter. Plan for today is to write an agenda for the blog :).
+
+27/08/2020
+---
+Yesterday's day was one of the few days this month when I didn't have any physical activity (bicycle / running) so in the evening I went for a 2 km walk. Actually, yesterday wasn't much happening... I was working and besides that I made the plan I assumed - i.e. write an agenda for a blog. Today the plan is to write the first sub-item.
+
+28/08/2020
+---
+Yesterday I did not manage to complete the plan so today I would like to write the whole article. Yesterday we also had guests - my dad's brother and his wife. On this occasion sitting with them I ate some cake and for the last 2 days I have not had any physical activity and feels bad about it 😂. So today I want to do 40 km by bike 🚴.
+
+29/08/2020
+---
+Yesterday's weather wasn't very good ( it' s the end of the summer so I don't even expect it to be sunny and warm) but it was good enough to go out on a bike 😅. I did the 40 km I assumed this morning. I also managed to write most of the article on the blog - although I won't say, I started to do it around 8 pm 🤫. The plan for today is of course to finish the blog article and additionally I want to plan a budget for the next month 👍. 
+
+30/08/2020
+---
+Yesterday, despite the rainy weather, I had a good day 🙂. In the evening we had a youth meeting where I could share my testimony about how God saved my life and freed me from the sin of pornography. And thank God for giving me the courage to do so! Besides, I planned my budget for September and finished the article on the blog 👍. Today is Sunday as a standard day of rest, I hope that something will happen and I will be able to meet with my friends.
