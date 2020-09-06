@@ -24,23 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [08/30/2020]
+# [09/06/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Blog - refactor home page and about me
-- [ ] 📗 Read [The IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
-- [ ] 📗 Read [Chapter 4. Microservices Architecture Pattern](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch04.html)
-- [ ] 📗 Read [What are microservices?](https://microservices.io/index.html)
-- [ ] 📗 Read [Speed-up your Query with Parameter Padding](https://thorben-janssen.com/parameter-padding/)
-- [ ] 📗 Read [Four Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33)
-- [ ] 📗 Read [5 common Spring @Transactional pitfalls [Spring & JPA pitfalls series]](https://codete.com/blog/5-common-spring-transactional-pitfalls/)
-- [ ] 🎧 Listen [How To Get Into Flow State and Make Massive Progress Quickly (TPS314)](https://www.asianefficiency.com/podcast/314-flow-state/)
-- [ ] 🎧 Listen [FBO 071: ZACZĄŁ OSZCZĘDZAĆ I SCHUDŁ 15 KILO W 3 MIESIĄCE! POZNAJ HISTORIĘ MARCINA](https://marciniwuc.com/fbo-071-zaczal-oszczedzac-i-schudl-15-kilo-w-3-miesiace/)
-- [ ] 🎧 Listen [Episode 423: Ryan Singer on Remote Work](https://www.se-radio.net/2020/08/episode-423-ryan-singer-on-remote-work/)
-- [ ] 🎧 Listen [055 – 2/2 O komunikacji dla liderów, managerów i zespołów, Piotr Bucki, bucki.pro](https://piotrbucki.pl/055)
-- [ ] 📽️ Watch [156. WrocławJUG [MID, PL] - Problemy wynikające z modularyzacji. - Łukasz Szydło](https://youtu.be/JJXmgCx_wh0)
-- [ ] 📽️ Watch [Spring Framework - Lesson 8 - Spring Boot 101](https://youtu.be/kVlYg95d_5s)
+- [ ] Studies - make final fixes and send thesis to the promoter
+- [ ] Blog - write post
+- [ ] 📗 Read [Domain Driven Design and Development In Practice](https://www.infoq.com/articles/ddd-in-practice/)
+- [ ] 📗 Read [Domain Events vs. Event Sourcing](https://www.innoq.com/en/blog/domain-events-versus-event-sourcing/)
+- [ ] 📗 Read [Domain Driven Design krok po kroku](https://bottega.com.pl/pdf/materialy/ddd/ddd1.pdf)
+- [ ] 📗 Read [Pricing Psychology: 10 Timeless Strategies to Increase Sales](https://www.helpscout.com/blog/pricing-strategies/)
+- [ ] 📗 Read [Composite Repositories – Extend your Spring Data JPA Repository](https://thorben-janssen.com/composite-repositories-spring-data-jpa/)
+- [ ] 🎧 Listen [Episode 92. Not your Grandpa’s Serialization!](https://www.javapubhouse.com/2020/08/episode-92-not-your-grandpas-serialization.html)
+- [ ] 🎧 Listen [Need to Prioritize? Here’s Our Favorite Tool That You Can Start Using Today (TPS315)](https://www.asianefficiency.com/podcast/315-ice-matrix/)
+- [ ] 🎧 Listen [SPI 437: Life After Being a High-Performance CEO with Jon Oringer](https://www.smartpassiveincome.com/podcasts/life-after-being-high-performance-ceo-jon-oringer/)
+- [ ] 🎧 Listen [API Change Management with Aidan Cunniffe](https://softwareengineeringdaily.com/2020/09/02/api-change-management-with-aidan-cunniffe/)
+- [ ] 📽️ Watch [What is DDD - Eric Evans - DDD Europe 2019](https://youtu.be/pMuiVlnGqjk)
+- [ ] 📽️ Watch [WJUG #177 - Domain Driven Design w praktyce - Krzysztof Muchewicz](https://youtu.be/sWvS8GC2AO4)
+- [ ] 📽️ Watch [Spring Framework - Lesson 9 - REST endpoints](https://youtu.be/VE_NRRxc2lw)
 
 
 ### Things I'll Do in the Future 🏅

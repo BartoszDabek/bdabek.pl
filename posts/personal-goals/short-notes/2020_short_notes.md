@@ -957,3 +957,31 @@ Yesterday's weather wasn't very good ( it' s the end of the summer so I don't ev
 30/08/2020
 ---
 Yesterday, despite the rainy weather, I had a good day 🙂. In the evening we had a youth meeting where I could share my testimony about how God saved my life and freed me from the sin of pornography. And thank God for giving me the courage to do so! Besides, I planned my budget for September and finished the article on the blog 👍. Today is Sunday as a standard day of rest, I hope that something will happen and I will be able to meet with my friends.
+
+31/08/2020
+---
+WoW, this is the last day of August 😦! The holiday period passed very quickly... If you don't look at it, a lot has happened during this time in my life - we'll see how I'll remember it at the end of the year with the annual summary 😛. As for yesterday, I could be at a friend's place for dinner - we celebrated their mom's birthday. It was a nice time. The plan for today is to finish reading the Springs documentation and go out on a bike with my childhood friend and tell him about God 🙂.
+
+01/09/2020
+---
+Yesterday I went out on a bike with my childhood friend. We had a few adventures e.g. rain or a tube that came out of my tire so I had to come back for a second bike 😅. But while riding I could also tell him a little bit about God and it was cool because he listened to 🙂. I also managed to make the plan I had set myself for yesterday and even more 😛. Today I would like to write a part of the article on my blog.
+
+02/09/2020
+---
+Yesterday I didn't manage to carry out the plan I had planned - i.e. to write parts of the article on the blog 🤔. Although I can say that I had a reason for that - a roommate moved in with me, the same one who lived here a year ago and we talked a lot. I am moving yesterday's plans for today 😅.
+
+03/09/2020
+---
+Yesterday I managed to write most of the article on my blog. Additionally, yesterday my promoter sent comments to my thesis and I have already corrected most of those comments - there are still a few left. During the day, nothing interesting happened yesterday, I did not have any physical activity or anything 😒. Today I want to go out on a bike + finish the article on the blog.
+
+04/09/2020
+---
+Ekhmm... yesterday outside of work I only managed to ride a bike. I didn't finish writing an article on my blog and correcting my thesis. Reason? I was at the evening service in the church 😏. So once again I am postponing yesterday's plans for today 😅.
+
+05/09/2020
+---
+A nice day yesterday was 🙃. I managed to finish the article on my blog + I drove over 40 km by bike 🚴 and by the way I visited my grandparents in the village 🙂. Everything is calm at work, too - lately, thank God, work has fallen to a further priority in my life. The plan for today is to make all the improvements in my thesis and enjoy the day - especially since my cousin from Germany came today.
+
+06/09/2020
+---
+It was good Saturday 👍! I corrected most of my thesis (I only have minor remarks left from the promoter), met with my cousin and we went together to the pool 🙂. In the evening my cousin came to me, we made burgers and talked about God 🤗! Aaa... and still in the morning (around 11 am so I don't know if it's such a morning 😅) I was on a bike. This is what I call a good day 👊! And today's plan is as standard as on Sunday - rest, visit, enjoy life 😉😉.
