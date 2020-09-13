@@ -24,24 +24,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [09/06/2020]
+# [09/13/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Studies - make final fixes and send thesis to the promoter
 - [ ] Blog - write post
-- [ ] 📗 Read [Domain Driven Design and Development In Practice](https://www.infoq.com/articles/ddd-in-practice/)
-- [ ] 📗 Read [Domain Events vs. Event Sourcing](https://www.innoq.com/en/blog/domain-events-versus-event-sourcing/)
-- [ ] 📗 Read [Domain Driven Design krok po kroku](https://bottega.com.pl/pdf/materialy/ddd/ddd1.pdf)
-- [ ] 📗 Read [Pricing Psychology: 10 Timeless Strategies to Increase Sales](https://www.helpscout.com/blog/pricing-strategies/)
-- [ ] 📗 Read [Composite Repositories – Extend your Spring Data JPA Repository](https://thorben-janssen.com/composite-repositories-spring-data-jpa/)
-- [ ] 🎧 Listen [Episode 92. Not your Grandpa’s Serialization!](https://www.javapubhouse.com/2020/08/episode-92-not-your-grandpas-serialization.html)
-- [ ] 🎧 Listen [Need to Prioritize? Here’s Our Favorite Tool That You Can Start Using Today (TPS315)](https://www.asianefficiency.com/podcast/315-ice-matrix/)
-- [ ] 🎧 Listen [SPI 437: Life After Being a High-Performance CEO with Jon Oringer](https://www.smartpassiveincome.com/podcasts/life-after-being-high-performance-ceo-jon-oringer/)
-- [ ] 🎧 Listen [API Change Management with Aidan Cunniffe](https://softwareengineeringdaily.com/2020/09/02/api-change-management-with-aidan-cunniffe/)
-- [ ] 📽️ Watch [What is DDD - Eric Evans - DDD Europe 2019](https://youtu.be/pMuiVlnGqjk)
-- [ ] 📽️ Watch [WJUG #177 - Domain Driven Design w praktyce - Krzysztof Muchewicz](https://youtu.be/sWvS8GC2AO4)
-- [ ] 📽️ Watch [Spring Framework - Lesson 9 - REST endpoints](https://youtu.be/VE_NRRxc2lw)
+- [ ] 📗 Read [The Best Sales Letter of All Time](https://medium.com/better-marketing/the-sales-letter-that-generated-over-2-billion-in-revenue-eef1193bf303)
+- [ ] 📗 Read [All Things Distributed](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
+- [ ] 📗 Read [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
+- [ ] 📗 Read [RxJava po prostu](https://bartlomiejchmielewski.pl/rxjava/)
+- [ ] 📗 Read [Domain Driven Design - Sposób na projektowanie złożonych modeli biznesowych](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
+- [ ] 🎧 Listen [SPI 438: How IPA Can Lead to the Best Version of You—Productivity, Staying True to Yourself, and More with Eric Partaker](https://www.smartpassiveincome.com/podcasts/ipa-best-version-yourself-productivity-staying-true-eric-partaker/)
+- [ ] 🎧 Listen [#71 Jak zabezpieczyć swój majątek przy prowadzeniu działalności gospodarczej? – Piotr Kantorowski](https://generali-investments.pl/contents/display-article/klient-indywidualny/71-jak-zabezpieczyc-swoj-majatek-przy-prowadzeniu-dzialalnosci-gospodarczej-%E2%80%93-piotr-kantorowski)
+- [ ] 🎧 Listen [A World Traveler and Entrepreneur Reveals His Personal Productivity System w/ Chris Reynolds (TPS316)](https://www.asianefficiency.com/podcast/316-chris-reynolds/)
+- [ ] 🎧 Listen [Skromność nie zawsze popłaca, ale chwalić się trzeba umieć. Jak opowiadać o sobie odważnie i bez przynudzania?](https://malawielkafirma.pl/jak-opowiadac-o-sobie/)
+- [ ] 📽️ Watch [Event-Driven Architectures for Spring Developers](https://youtu.be/BFcoFu-udQA)
+- [ ] 📽️ Watch [Spring Framework - Lesson 10 - More details on REST](https://youtu.be/ZQbg0Z0CDjE)
 
 
 ### Things I'll Do in the Future 🏅

@@ -985,3 +985,31 @@ A nice day yesterday was 🙃. I managed to finish the article on my blog + I dr
 06/09/2020
 ---
 It was good Saturday 👍! I corrected most of my thesis (I only have minor remarks left from the promoter), met with my cousin and we went together to the pool 🙂. In the evening my cousin came to me, we made burgers and talked about God 🤗! Aaa... and still in the morning (around 11 am so I don't know if it's such a morning 😅) I was on a bike. This is what I call a good day 👊! And today's plan is as standard as on Sunday - rest, visit, enjoy life 😉😉.
+
+07/09/2020
+---
+Beautiful Sunday 🤗. After the morning service I ate a light dinner at home and then went for a barbecue to my cousins. There was a handful of friends and we could spend time together. In the evening I went to the second service and after that I started writing on a messenger with a girl who I think I love 🤫. The plan for today is to visit my friend and run or ride a bicycle together and additionally make corrections to my thesis 🙂.
+
+08/09/2020
+---
+Yesterday I met with my friend after about 3 weeks! We went out on bikes together and talked a lot 🙂🙂. I also managed to make corrections to my thesis - although not everything is perfect, but frankly speaking I have other priorities. Today I would like to start writing an article for my blog but what's also important, I'm planning to visit my friend again only this time his whole family in his apartment 😛.
+
+09/09/2020
+---
+Yesterday I did not manage to write an article on my blog but I visited my friend and his family 😍😇. We had a nice time, we talked about various topics. Today I would like to start writing this article but we will see what this day brings... Surely, if the weather will be quite nice, I want to go out on a bike 👍💪.
+
+10/09/2020
+---
+Yesterday it was nice weather and I went cycling - I did 40 km 🚴💪. The weather was so nice that in the late afternoon (evening) I decided to offer my friend a walk and that's how we spent the evening - talking and walking 🙃. Of course for this reason I didn't have enough time for a blog article, but it's okay - these are important and more important things. Today I will deal with the article 😛.
+
+11/09/2020
+---
+The next day passed and I still haven't started to write an article on the blog 🙄🙄. I always have an excuse, e.g. yesterday I had a lot of work to do, then I had to and wanted to run away, then I went to the evening service and when I started writing an article I started an interesting discussion on God's matters with my roommate 😅. Maybe tonight will be a good day, although it may be hard because I want to go out on a bike, and what the evening will bring is unknown 😀.
+
+12/09/2020
+---
+Yesterday there was a lot going on 😮. First of all, we had a lot of problems at work, all week long. There were so many problems that I said right away - Friday after 3 pm I am unavailable! And that's how it was, right after work I went on a bike and did 40 km to get some good stress off 😄. Later a friend of mine spoke to me if I wanted to go for a run and well... I didn't refuse - so we ran 5.5 km 😝. After the run I went to him and ate some unhealthy food + I talked to him and his wife 🙂.At the end of the day I still managed to write an article on the blog - I was totally surprised because I kept postponing it and as it turned out it was enough to start properly! Cool 👍!
+
+13/09/2020
+---
+It was a well spent Saturday 👍. I read a lot, I was with my friend on bicycles and in the evening our cousins came to my brother and sister-in-law so we could have a good time 😍. It is Sunday today and as usual on Sunday I have no plans, although I would like to cycle because last night I ate a lot of junk food 😋.
