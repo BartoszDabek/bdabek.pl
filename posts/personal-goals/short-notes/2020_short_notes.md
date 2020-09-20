@@ -1013,3 +1013,31 @@ Yesterday there was a lot going on 😮. First of all, we had a lot of problems 
 13/09/2020
 ---
 It was a well spent Saturday 👍. I read a lot, I was with my friend on bicycles and in the evening our cousins came to my brother and sister-in-law so we could have a good time 😍. It is Sunday today and as usual on Sunday I have no plans, although I would like to cycle because last night I ate a lot of junk food 😋.
+
+14/09/2020
+---
+Beautiful Sunday - sunny and joyful 😍. In the morning I was at the service, then I went out on a bike and spent the evening with the youth from the neighboring church - we played volleyball and talked till very late. It will be warm and sunny again for the next three days 😍😎! I want to use it as soon as possible 🤗. So the plan for today is to go out on a bike 🚴🚴.
+
+15/09/2020
+---
+I was able to execute yesterday's plan in 100%. I was on a bike and spent the evening with friends 🤗🤗. At first we played volleyball and then we went to a friend's house and there we talked and had a nice time 👍. Today is also expected to be nice weather so I want to use this day as much as possible 🙃.
+
+16/09/2020
+---
+I think that again yesterday was a good day - I was on a bike and did over 40 km 🚴. Besides, I was preparing documents for my thesis because soon I will have to defend myself - thank God for giving me the strength to write it 🙏. Since today is the last beautiful and sunny day, I would also like to go out on a bike 😎. Additionally, I have to bind my thesis and print out all required documents. It would also be nice to start writing an article on the blog 🙂.
+
+17/09/2020
+---
+Yesterday I managed to do almost everything except the article on the blog 🤫... And the cover of my thesis didn't quite work out either (I framed it but it has to be fixed) and today I will have to go again and do it. Today I am additionally going to Bialystok to pass all the documents concerning my thesis. And I have no plans for today - I have a fast day and I want it to be a day dedicated to God 🙏.
+
+18/09/2020
+---
+Yesterday I managed to deal with all the documents in Bialystok and, thank God, I spent all day in the fast 🙂.Yesterday I also had online training at work, so I could afford a lighter day. Today I have to go back to work and write an article on my blog - this is my plan for today 👍.
+
+19/09/2020
+---
+The plan has been executed in 100% 🤗! I managed to write an article on my blog and even found time to ride a bike - this year I did almost 2000 kilometers 😲, and that's not the end of the year 💪💪. The plan for today is to finish reading the article about transactions in Java and in the evening to go to a youth meeting, which will be held in the village 🙂.
+
+20/09/2020
+---
+As for yesterday, I had no exorbitant plans and of course I managed to make them 😛. But apart from that, I did some other - in my opinion - important things: I cleaned the room, ran 10 km with my friend and helped my mother to make apple jam (I peeled apples). In the evening we had a nice time with the youth and that's how Saturday passed 🙂. Today is Sunday and my plans are to be at both services (in the evening I serve).

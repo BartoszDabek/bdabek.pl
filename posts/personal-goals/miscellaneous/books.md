@@ -15,6 +15,7 @@
 
 ## In Progress
 - [ ] Patterns of Enterprise Application Architecture - Martin Fowler
+- [ ] Finansowa Forteca - Marcin Iwuć
 
 ## Books read
 ### 2020
