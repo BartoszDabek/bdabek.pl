@@ -24,24 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [09/20/2020]
+# [09/27/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Studies - prepare presentation for diploma exam
-- [ ] Studies - 10 questions for diploma exam
+- [ ] Studies - 15 questions for diploma exam
+- [ ] Studies - get ready to present presentation
 - [ ] Blog - write post
-- [ ] 📗 Read [Obszary pamięci Maszyny Wirtualnej Javy (JVM)](https://softwareskill.pl/obszary-pamieci-maszyny-wirtualnej-javy-jvm)
-- [ ] 📗 Read [Java inner class and static nested class](https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class)
-- [ ] 📗 Read [Pagination with JPA and Hibernate](https://thorben-janssen.com/pagination-jpa-hibernate/?ck_subscriber_id=890236268)
-- [ ] 📗 Read [Steve Jobs Marketing Lessons: 10 timeless lessons he’s taught us and his most famous marketing quotes](https://postcron.com/en/blog/10-amazing-marketing-lessons-steve-jobs-taught-us/)
-- [ ] 📗 Read [Domain Event](https://www.martinfowler.com/eaaDev/DomainEvent.html)
-- [ ] 🎧 Listen [SPI 439: The #1 Most Underrated Way to Grow Your Email List and Brand Today (Let Me “Quiz” You)](https://www.smartpassiveincome.com/podcasts/most-underrated-way-grow-email-list-brand-today-quiz/)
-- [ ] 🎧 Listen [Enterprise Investing with Ed Sim](https://softwareengineeringdaily.com/2020/09/18/enterprise-investing-with-ed-sim/)
-- [ ] 🎧 Listen [Episode 426: Philip Kiely on Writing for Software Developers](https://www.se-radio.net/2020/09/episode-426-philip-kiely-on-writing-for-software-developers/)
-- [ ] 🎧 Listen [Dlaczego moja strona internetowa nie przyciąga klientów?](https://malawielkafirma.pl/dlaczego-moja-strona-nie-przyciaga-klientow/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 11 - Spring Data](https://youtu.be/SPtBUh_of4s)
-- [ ] 📽️ Watch [Project Loom: Modern Scalable Concurrency for the Java Platform](https://youtu.be/fOEPEXTpbJA)
+- [ ] 📗 Read [Domain Driven Design krok po kroku Część II: Zaawansowane modelowanie DDD – techniki strategiczne: konteksty i architektu- ra zdarzeniowa](https://bottega.com.pl/pdf/materialy/ddd/ddd2.pdf)
+- [ ] 📗 Read [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
+- [ ] 📗 Read [Event Driven Patterns](https://medium.com/faun/four-event-driven-patterns-4b1cad5ac5e3)
+- [ ] 📗 Read [PresentationDomainDataLayering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
+- [ ] 📗 Read [101 sposobów jak oszczędzać i zarabiać, czyli skąd wytrzasnąć dodatkowe pieniądze](https://jakoszczedzacpieniadze.pl/101-sposobow-na-oszczedzanie-i-zarabianie)
+- [ ] 🎧 Listen [Decision Fatigue: Here’s How To Outsmart This Productivity Killer (TPS318)](https://www.asianefficiency.com/podcast/318-decision-fatigue/)
+- [ ] 🎧 Listen [Internet Archive Book Scanning with Davide Semenzin](https://softwareengineeringdaily.com/2020/09/15/internet-archive-book-scanning-with-davide-semenzin/)
+- [ ] 🎧 Listen [#31 Patologie Mikroserwisów - Czy rozmiar ma znaczenie?](https://patoarchitekci.io/31/)
+- [ ] 🎧 Listen [#25 Service Discovery](https://patoarchitekci.io/25/)
+- [ ] 📽️ Watch [Spring Framework - Lesson 12 - Basic Contracts in Spring Data](https://youtu.be/rpFpED4BGlI)
+- [ ] 📽️ Watch [A Deep Dive into Spring Application Events](https://youtu.be/4oBqCtdRIYo)
 
 
 ### Things I'll Do in the Future 🏅

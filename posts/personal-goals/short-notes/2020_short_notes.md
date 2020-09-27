@@ -1041,3 +1041,31 @@ The plan has been executed in 100% 🤗! I managed to write an article on my blo
 20/09/2020
 ---
 As for yesterday, I had no exorbitant plans and of course I managed to make them 😛. But apart from that, I did some other - in my opinion - important things: I cleaned the room, ran 10 km with my friend and helped my mother to make apple jam (I peeled apples). In the evening we had a nice time with the youth and that's how Saturday passed 🙂. Today is Sunday and my plans are to be at both services (in the evening I serve).
+
+21/09/2020
+---
+Ohh... what a beautiful Sunday it was 😍. Especially in spiritual terms - it can be seen that God listened to my Thursday's post 😇😇. And today you have to go back to everyday life 😝. The plan for today is to go out on a bike and start writing an article on the blog (and the coolest thing would be to write the whole article).
+
+22/09/2020
+---
+Yesterday I succeeded only in part of the plan - the one related to the bike 😅. But with what style - we went on a bike in 3 - me and two friends. And that was a well spent time 🙂. In the evening I went to a friend's place and we played a board game. Today the plan is the same as yesterday - this time only, I want to spend the evening more peacefully 😛.
+
+23/09/2020
+---
+This time yesterday's plan went more successful than last time 🤣. I did not write the whole article on the blog, but one paragraph yes. Today I want to enjoy the weather again and go cycling. Additionally, today is my sister-in-law's birthday, yesterday I made a cake so tonight we will celebrate 😍✨.
+
+24/09/2020
+---
+Yesterday I had another successful day. I wrote another section of the article, drove 40 km by bike and in the evening we spent time with family celebrating my sister-in-law's birthday 🙂. And again, the plan for today will be similar to that of yesterday 😅 - a bicycle, an article on the blog and in the evening I want to go to the service. I enjoy the weather 100% as long as it is 😎🤗!
+
+25/09/2020
+---
+Yesterday's plan was fulfilled in 100% 🙃! I cycled 40 km by bike, wrote the whole article on the blog and spent a good time with my family in the evening. We sat and talked about God's themes with my brother, his wife and our parents 👍. And what about today? I would like to prepare a presentation to defend my thesis - a large part of it I already have taken from an earlier diploma seminar 😅. Additionally, it would be nice to prepare 3 questions for the exam.
+
+26/09/2020
+---
+And once again, yesterday's plan is 100% done 🤗. It turned out that I have all the questions for the diploma exam as well - I just have to learn it (30 pdf pages 🤔). Yesterday I found out that my cousin had a car accident and I visited him twice - once in the morning and once in the evening 😋 - he has a broken shoulder but thank God he is alive. All right - let's get back to our plans for today. I would like to prepare another 7 questions to defend my thesis. As a preparation I mean to rewrite it on a piece of paper and learn something there 😆. Additionally, it would be nice to go out on a bicycle and ride 20-30 km 🚴🚴. 
+
+27/09/2020
+---
+Yesterday's day went according to the plan 🙃. I cycled 30 km but it was very hard - there was a huge wind and it was hard to ride 😧 but I made it 💪. In the evening I was also at a special service in the church next door - in Dubicze - there was a pastor who goes to India and helps. He talked about the mission + said a preaching. Today is Sunday - Lord's day, the day of rest. I am planning to go to the neighboring church on agappe after the morning service 🙂.
