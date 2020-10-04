@@ -1069,3 +1069,31 @@ And once again, yesterday's plan is 100% done 🤗. It turned out that I have al
 27/09/2020
 ---
 Yesterday's day went according to the plan 🙃. I cycled 30 km but it was very hard - there was a huge wind and it was hard to ride 😧 but I made it 💪. In the evening I was also at a special service in the church next door - in Dubicze - there was a pastor who goes to India and helps. He talked about the mission + said a preaching. Today is Sunday - Lord's day, the day of rest. I am planning to go to the neighboring church on agappe after the morning service 🙂.
+
+28/09/2020
+---
+Although yesterday the weather wasn't good, it was a beautiful day 🤗! From morning to evening something was happening. After the morning service - as I planned - I went to the neighboring church on agappe. We had a very good time 👏👏! Today I decided to fast and on this day I am not setting up any special activities either. We will see what this day brings 🙂. 
+
+29/09/2020
+---
+Yesterday I spent my day fasting and it was a good day 🙃. Today I will finally eat something 🤗 (I already ate a pancake in the morning 😆).Today's goal is to prepare a sketch of an article for a blog about what I will want to write about + preparation for a presentation to defend my thesis. 
+
+30/09/2020
+---
+Another great day 😍! Apart from the fact that I managed to do everything I planned to do yesterday, I also went out with my friends to the pool in the evening and then we went to the church in Dubicze to eat waffles 😁. We sat with young people and talked late on various topics.
+
+01/10/2020
+---
+I didn't even realize that I hadn't set myself any goal for yesterday. Nevertheless, I managed somehow without it 😝. I learned to defend my thesis + practiced the presentation. As for yesterday, it was very boring and gloomy. And I had such a humor too - I don't know why... Today, however, I will set myself a goal - to finish the article on the blog and I hope that my mood will be better than yesterday 🙂.
+
+02/10/2020
+---
+Thank God! Both things I planned yesterday are done 🤗! Great 😇. Last night we could have a prayer with some friends and it was a good time. Today's plan is to learn questions to defend my thesis + additionally as a physical activity I want to walk in the forest 👍. 
+
+03/10/2020
+---
+Yesterday's day was funny. After work I went to visit my cousin and spent 2-3 hours there talking to my cousins, aunt and uncle 🙃. Coming home (I took my cousin with me) something happened to my car and I will have to take it to the mechanic 😭😭. But the evening was still pleasant because my cousin and her husband came by, we sat in the evening, ate pizza and talked 👍.
+
+04/10/2020
+---
+Another great day 👍! We celebrated the wedding anniversary of my uncle and aunt - I ate far too much cake 😅😅. The last days are very uncontrollable when it comes to eating 🙄. And today is Sunday and I have no idea what will happen - I know I want to run 4 km today 🏃.  

@@ -6,7 +6,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 1. Help 3 strangers 🧚‍♂️ [1/3]
 2. Build an active community (1.5k unique blog visits in a month) 🧑‍🤝‍🧑
 3. ~~Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙~~
-4. Visit 2 different countries ✈️
+4. ~~Visit 2 different countries ✈️~~
 5. Master Technical University graduation 👨‍🎓
 
 ## Sports goals 💪🥈
@@ -24,24 +24,23 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [09/27/2020]
+# [10/04/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Studies - 15 questions for diploma exam
-- [ ] Studies - get ready to present presentation
+- [ ] Studies - diploma questions
 - [ ] Blog - write post
-- [ ] 📗 Read [Domain Driven Design krok po kroku Część II: Zaawansowane modelowanie DDD – techniki strategiczne: konteksty i architektu- ra zdarzeniowa](https://bottega.com.pl/pdf/materialy/ddd/ddd2.pdf)
-- [ ] 📗 Read [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
-- [ ] 📗 Read [Event Driven Patterns](https://medium.com/faun/four-event-driven-patterns-4b1cad5ac5e3)
-- [ ] 📗 Read [PresentationDomainDataLayering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
-- [ ] 📗 Read [101 sposobów jak oszczędzać i zarabiać, czyli skąd wytrzasnąć dodatkowe pieniądze](https://jakoszczedzacpieniadze.pl/101-sposobow-na-oszczedzanie-i-zarabianie)
-- [ ] 🎧 Listen [Decision Fatigue: Here’s How To Outsmart This Productivity Killer (TPS318)](https://www.asianefficiency.com/podcast/318-decision-fatigue/)
-- [ ] 🎧 Listen [Internet Archive Book Scanning with Davide Semenzin](https://softwareengineeringdaily.com/2020/09/15/internet-archive-book-scanning-with-davide-semenzin/)
-- [ ] 🎧 Listen [#31 Patologie Mikroserwisów - Czy rozmiar ma znaczenie?](https://patoarchitekci.io/31/)
-- [ ] 🎧 Listen [#25 Service Discovery](https://patoarchitekci.io/25/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 12 - Basic Contracts in Spring Data](https://youtu.be/rpFpED4BGlI)
-- [ ] 📽️ Watch [A Deep Dive into Spring Application Events](https://youtu.be/4oBqCtdRIYo)
+- [ ] 📗 Read [Zalety podejścia “infrastruktura jako kod” w testowaniu funkcjonalnym](https://sii.pl/blog/zalety-podejscia-infrastruktura-jako-kod-w-testowaniu-funkcjonalnym/)
+- [ ] 📗 Read [„Hello ” + name + „.”, czyli konkatenacja Stringów](https://jgardo.dev/2020/09/27/hello-name-czyli-konkatenacja-stringow/)
+- [ ] 📗 Read [CQRS](https://martinfowler.com/bliki/CQRS.html)
+- [ ] 📗 Read [Domain Driven Design krok po kroku - Część III: Szczegóły implementacji aplikacji wykorzystującej DDD na platformie Java – Spring Framework i Hibernate](https://bottega.com.pl/pdf/materialy/ddd/ddd3.pdf)
+- [ ] 📗 Read [107 porad jak oszczędzać, czyli skąd możesz wziąć dodatkowe 200 zł / m-c](https://jakoszczedzacpieniadze.pl/107-porad-oszczedzanie-pieniedzy)
+- [ ] 🎧 Listen [Episode 428: Matt Lacey on Mobile App Usability](https://www.se-radio.net/2020/09/episode-428-matt-lacey-on-mobile-app-usability/)
+- [ ] 🎧 Listen [SPI 441: Your Relationship with Selling and How to Finally Get Your First Customers with Ramit Sethi](https://www.smartpassiveincome.com/podcasts/relationship-selling-get-first-customers-ramit-sethi/)
+- [ ] 🎧 Listen [#74 Jakie zmiany wprowadzili przedsiębiorcy, aby zapobiec stratom finansowym? – Mirek Burnejko](https://generali-investments.pl/contents/display-article/klient-indywidualny/74-jakie-zmiany-wprowadzili-przedsiebiorcy-aby-zapobiec-stratom-finansowym-mirek-burnejko)
+- [ ] 🎧 Listen [Ditch Digital Clutter And Stay Organized: 3 Simple Rules That Work (TPS319)](https://www.asianefficiency.com/podcast/319-ditch-digital-clutter/)
+- [ ] 📽️ Watch [Spring Framework - Lesson 13 - Basic Contracts in Spring Security](https://youtu.be/4ilFKz34IT0)
+- [ ] 📽️ Watch [Unleash the True Power of Spring Cloud: Learn How to Customize Spring Cloud](https://youtu.be/rAEBIzaiqNw)
 
 
 ### Things I'll Do in the Future 🏅
