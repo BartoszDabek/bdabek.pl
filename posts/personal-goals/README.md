@@ -24,23 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [10/04/2020]
+# [10/11/2020]
 
 ### Things I'll do This Week:
 
 - [ ] Studies - diploma questions
+- [ ] Studies - master the presentation
 - [ ] Blog - write post
-- [ ] 📗 Read [Zalety podejścia “infrastruktura jako kod” w testowaniu funkcjonalnym](https://sii.pl/blog/zalety-podejscia-infrastruktura-jako-kod-w-testowaniu-funkcjonalnym/)
-- [ ] 📗 Read [„Hello ” + name + „.”, czyli konkatenacja Stringów](https://jgardo.dev/2020/09/27/hello-name-czyli-konkatenacja-stringow/)
-- [ ] 📗 Read [CQRS](https://martinfowler.com/bliki/CQRS.html)
-- [ ] 📗 Read [Domain Driven Design krok po kroku - Część III: Szczegóły implementacji aplikacji wykorzystującej DDD na platformie Java – Spring Framework i Hibernate](https://bottega.com.pl/pdf/materialy/ddd/ddd3.pdf)
-- [ ] 📗 Read [107 porad jak oszczędzać, czyli skąd możesz wziąć dodatkowe 200 zł / m-c](https://jakoszczedzacpieniadze.pl/107-porad-oszczedzanie-pieniedzy)
-- [ ] 🎧 Listen [Episode 428: Matt Lacey on Mobile App Usability](https://www.se-radio.net/2020/09/episode-428-matt-lacey-on-mobile-app-usability/)
-- [ ] 🎧 Listen [SPI 441: Your Relationship with Selling and How to Finally Get Your First Customers with Ramit Sethi](https://www.smartpassiveincome.com/podcasts/relationship-selling-get-first-customers-ramit-sethi/)
-- [ ] 🎧 Listen [#74 Jakie zmiany wprowadzili przedsiębiorcy, aby zapobiec stratom finansowym? – Mirek Burnejko](https://generali-investments.pl/contents/display-article/klient-indywidualny/74-jakie-zmiany-wprowadzili-przedsiebiorcy-aby-zapobiec-stratom-finansowym-mirek-burnejko)
-- [ ] 🎧 Listen [Ditch Digital Clutter And Stay Organized: 3 Simple Rules That Work (TPS319)](https://www.asianefficiency.com/podcast/319-ditch-digital-clutter/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 13 - Basic Contracts in Spring Security](https://youtu.be/4ilFKz34IT0)
-- [ ] 📽️ Watch [Unleash the True Power of Spring Cloud: Learn How to Customize Spring Cloud](https://youtu.be/rAEBIzaiqNw)
+- [ ] 📗 Read [Czym jest i na czym polega amortyzacja środków trwałych?](https://programistanaswoim.pl/czym-jest-i-na-czym-polega-amortyzacja-srodkow-trwalych/)
+- [ ] 📗 Read [Stop Using JWTs as Session Tokens](https://dzone.com/articles/stop-using-jwts-as-session-tokens)
+- [ ] 📗 Read [Why JWTs Suck as Session Tokens](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
+- [ ] 📗 Read [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+- [ ] 📗 Read [Domain Driven Design krok po kroku Część IVb: Skalowalne systemy w kontekście DDD – architektura Command-query Responsibility Segregation (stos Read)](https://bottega.com.pl/pdf/materialy/ddd/ddd4b.pdf)
+- [ ] 🎧 Listen [O modelowaniu agregatów z Kubą Pilimonem | BSD #1](https://youtu.be/5RnsMu5Ki1M)
+- [ ] 🎧 Listen [Amazing English Conversations with Native Speakers | HOW to have them](https://youtu.be/47xco0B50f4)
+- [ ] 🎧 Listen [When A Productivity Expert Wants To Be Productive This is What They Do with Jeff Sanders (TPS320)](https://www.asianefficiency.com/podcast/320-jeff-sanders/)
+- [ ] 🎧 Listen [Episode 429: Rob Skillington on High Cardinality Alerting and Monitoring](https://www.se-radio.net/2020/10/episode-429-rob-skillington-on-high-cardinality-alerting-and-monitoring/)
+- [ ] 📽️ Watch [Spring Framework - Lesson 14 - Web scopes](https://youtu.be/t54gQhblGzg)
+- [ ] 📽️ Watch [Integrating Bounded Contexts - Indu Alagarsamy - DDD Europe 2020](https://youtu.be/3-_0ZcI2SYc)
 
 
 ### Things I'll Do in the Future 🏅

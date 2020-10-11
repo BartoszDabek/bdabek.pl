@@ -1097,3 +1097,31 @@ Yesterday's day was funny. After work I went to visit my cousin and spent 2-3 ho
 04/10/2020
 ---
 Another great day 👍! We celebrated the wedding anniversary of my uncle and aunt - I ate far too much cake 😅😅. The last days are very uncontrollable when it comes to eating 🙄. And today is Sunday and I have no idea what will happen - I know I want to run 4 km today 🏃.  
+
+05/10/2020
+---
+It was an unusual sports Sunday 😝. In the morning I ran 5 km and in the afternoon I cycled 30 km 💪💪. We had a harvest festival in the church and after the morning service there was cake and time together (I ate a lot of cake and that's why I had to go out on a bike 🤣🤣). Today we start the week and it's nice as if I managed to write an article on the blog - or at least a large part of it.
+
+06/10/2020
+---
+Yesterday I did not manage to write a post on my blog 🙄🙄. But I have a very good excuse - I spent the evening with a friend - we talked, walked and ate 😆. Generally it was a good evening, although I lacked a little bit of courage to say what lies in my heart. Today I'm going to do yesterday's plan - write a post on the blog 🙂.
+
+07/10/2020
+---
+I did not manage to 100% realize yesterday's plan (again I have a good excuse 😅). I wrote about 60% of the article and I didn't manage to do it all because in the afternoon/evening I was at a friend's place and helped him install the cabinets.I don't know about such things and I was just a helper 😝 (but thanks to such help I am learning something new). Today I want to finish the article on my blog in 100% 🙂👍.
+
+08/10/2020
+---
+Finally - yesterday's plan has been made and the article on the blog is now ready 👍. Yesterday, my friend and I ran over 7 km at a pretty good (for him) pace 🏃. Today I want to learn the questions for the defense exam 😏. Honestly, I don't want to but I know that I have to 🤣🤣.
+
+09/10/2020
+---
+Yesterday's day was good 👍. Thank God I have a lot of calm at work recently 😇. I just have to learn how to use it better. Today I took a day off at work and want to use it well 🙂. I will certainly learn to defend my thesis, but I also want to help my parents in the backyard, clean the house and such smaller things 💪.
+
+10/10/2020
+---
+It seems to me that I made good use of yesterday's 👍. I helped my parents, cleaned up, visited my cousin and studied 🙂. I just checked that I had a day to defend my thesis on October 19th, so I will have to spend the whole week learning 😝.
+
+11/10/2020
+---
+Yesterday I spent most of the day at home and felt terrible in my mentality. Fortunately, my cousin called me in the evening and took me out to a youth meeting, where we had a good time with God! 🙂🙂 Today is Sunday and as a standard - no plans for today 👍.
