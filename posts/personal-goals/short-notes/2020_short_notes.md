@@ -1125,3 +1125,31 @@ It seems to me that I made good use of yesterday's 👍. I helped my parents, cl
 11/10/2020
 ---
 Yesterday I spent most of the day at home and felt terrible in my mentality. Fortunately, my cousin called me in the evening and took me out to a youth meeting, where we had a good time with God! 🙂🙂 Today is Sunday and as a standard - no plans for today 👍.
+
+12/10/2020
+---
+It was a good Sunday 🤗! Thank God I could be at the both services. I had a delicious dinner with my parents, visited my cousins as well as my uncle and aunt - and we had an interesting discussion. And in the evening - at the end of the day - my friend and cousin came to me and we watched the Polish football match together 🙂. Today we start a new week and the plan is simple - prepare for the diploma exam!
+
+13/10/2020
+---
+Yesterday I had a lazy day and I didn't want to do anything 🤫😧. I ran 4 km, visited my cousin and ate a homemade tortilla and in the evening I went to the pool with a friend. However, from the category of work / study, I did not want to do anything. Today I don't make any plans but I just want to act and not waste my time 👍.
+
+14/10/2020
+---
+It was another difficult day in terms of my productivity. I learned a little bit, but in general I'm completely reluctant 😓😓. Last night I additionally went with my friends to the pool 🏊. Today I am fasting and this is what I am focusing on 🙂. 
+
+15/10/2020
+---
+I've been sitting for 5 minutes and can't even squeeze a sentence. Recently I have had some more difficult days - lack of motivation and willingness. The most important thing in all this is to serve God with all my heart and God will somehow arrange everything.
+
+16/10/2020
+---
+And new restrictions begin...😤😡. I don't like it, and I think that hardly anyone likes it but we have to live with it. Today I took a day off from work and am going to study to defend my thesis, which I have on Monday.
+
+17/10/2020
+---
+Yesterday was a good day 🙂. I learned a lot and in the evening we went with friends to the pool. I was there for over 2 hours and I used the maximum because from now on all swimming pools are closed 😡! Today I am continuing my studies and I am going to enjoy life 😋.
+
+18/10/2020
+---
+Yesterday I watched the competition in a league of legends game. Although I don't play anymore, I like to watch such things. I also repeated the set of questions for the exam. Today I will repeat all the questions once again and tomorrow I will check myself in action 😅. Yesterday evening I also visited my friend, his wife and daughter - we had a good time, we talked 🙂.
