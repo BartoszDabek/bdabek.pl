@@ -1153,3 +1153,31 @@ Yesterday was a good day 🙂. I learned a lot and in the evening we went with f
 18/10/2020
 ---
 Yesterday I watched the competition in a league of legends game. Although I don't play anymore, I like to watch such things. I also repeated the set of questions for the exam. Today I will repeat all the questions once again and tomorrow I will check myself in action 😅. Yesterday evening I also visited my friend, his wife and daughter - we had a good time, we talked 🙂.
+
+19/10/2020
+---
+Yesterday nothing interesting happened in my life. I attended both services and also repeated the material to defend my thesis. In the evening I got a skin complaint and started to have a strange itching - I feel it is caused by subconscious stress... The plan for today is to pass the exam and get a master's degree. 
+
+20/10/2020
+---
+Thank God I made it! Since yesterday, I have a Master's degree 👨🎓😆. Today I return to work after a 2-day leave. I'm just afraid that my rash, which keeps bothering me, will be a big problem 😭😭.
+
+21/10/2020
+---
+I'll be honest - I've been in a bad mood for a week because the girl I think I fell in love with is not interested in me. It hurts a bit. I try to live a normal life but I feel and I know that I will have to talk to her seriously, so that this matter can be 100% explained. It will certainly not happen today or tomorrow, but maybe in the next few days. For this moment I have to put on a mask and pretend that everything is fine.
+
+22/10/2020
+---
+Yesterday I ran with my friend :) It's good to break away mentally from what's deep inside a person. Today I am fasting.
+
+23/10/2020
+---
+Yesterday, contrary to appearances, I had a good day 🙂🙂. I didn't manage to fast all day long - I only lasted until 3 pm. But what I noticed is that it's nice not to eat most of the time and then eat what you want 😆. Today I took a day off at work. I am going to write a blog post and maybe write a list of ideas what to do next in life.
+
+24/10/2020
+---
+Yesterday I managed to finish my blog post and today it would be good to write a part of the next one because next week will be busy. Yesterday I sat with my cousins until late evening (almost midnight) and watched my nephew 😝. Today, apart from writing the blog post, I will be watching the semi-finals of the league of legends 😁.
+
+25/10/2020
+---
+Yesterday I spent the whole day at home 🙄. In the evening my cousins came to me so we spent time together talking and eating the cake I made 😅. Today is Sunday and that usually means that I don't plan in advance what I should do today - although last week I guess I didn't plan at all 🤫.

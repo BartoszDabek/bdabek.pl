@@ -7,7 +7,7 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 2. Build an active community (1.5k unique blog visits in a month) 🧑‍🤝‍🧑
 3. ~~Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙~~
 4. ~~Visit 2 different countries ✈️~~
-5. Master Technical University graduation 👨‍🎓
+5. ✅ Master Technical University graduation 👨‍🎓
 
 ## Sports goals 💪🥈
 1. ✅ 10km under 50 minutes 👟(24.06.2020 - time: 45:36)
@@ -24,23 +24,26 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [10/18/2020]
+# [10/25/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Studies - master graduation
-- [ ] Blog - write post
-- [ ] 📗 Read [Retrieving application state](https://allegro.tech/2020/10/retrieving-application-state.html)
-- [ ] 📗 Read [Native Queries with Spring Data JPA](https://thorben-janssen.com/native-queries-with-spring-data-jpa/?ck_subscriber_id=890236268)
-- [ ] 📗 Read [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
-- [ ] 📗 Read [Saga Persistence and Event-Driven Architectures](https://udidahan.com/2009/04/20/saga-persistence-and-event-driven-architectures/)
-- [ ] 📗 Read [Domain Driven Design krok po kroku Część V: Kompendium testowania aplikacji opartej o DDD – problemy, strategie, taktyki i techniki](https://bottega.com.pl/pdf/materialy/ddd/ddd5.pdf)
-- [ ] 🎧 Listen [#32 Patologie Mikroserwisów - Dane!!!](https://patoarchitekci.io/32/)
-- [ ] 🎧 Listen [Episode 105: A Chatbot with a Brain with Peter Voss](https://www.programmingthrowdown.com/2020/10/episode-105-chatbot-with-brain-with.html)
-- [ ] 🎧 Listen [056 – Budowanie dużej skalowalnej firmy. Po co, jak, porażki, wnioski, howto. Przepytany przez Krzysztof Wojewodzic, Escola Mobile](https://www.piotrbucki.pl/056)
-- [ ] 🎧 Listen [Do You Struggle With These Mental Blocks? Remove And Turn Them To Your Advantage (TPS321)](https://www.asianefficiency.com/podcast/321-mental-blocks/)
-- [ ] 📽️ Watch [Spring Framework - Lesson 16 - The Actuator](https://youtu.be/CBMjg9fpmO0)
-- [ ] 📽️ Watch [Mistakes made adopting event sourcing (and how we recovered) - Nat Pryce - DDD Europe 2020](https://youtu.be/osk0ZBdBbx4)
+- [ ] Reorganize room
+- [ ] Buy a new desk
+- [ ] 📝 Blog - write post
+- [ ] 📝 Blog - create infographic
+- [ ] 📝 Blog - prepare 10 topics for blogging challenge
+- [ ] 📗 Read [KeystoneInterface](https://martinfowler.com/bliki/)
+- [ ] 📗 Read [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [ ] 📗 Read [Hibernate & Testcontainers – A Perfect Match For Your Tests?](https://thorben-janssen.com/hibernate-testcontainers-a-perfect-match-for-your-tests/)
+- [ ] 📗 Read [Konkatenacja stringów – benchmark](https://jgardo.dev/2020/10/13/konkatenacja-stringow-benchmark/)
+- [ ] 📗 Read [20 Tips for Optimizing your Homepage for Search Engines](https://databox.com/homepage-seo-checklist)
+- [ ] 🎧 Listen [SPI 444: Instagram Reels and TikTok for Business—Yes, It Does Work](https://www.smartpassiveincome.com/podcasts/spi-444-instagram-reels-tiktok-business-does-work/)
+- [ ] 🎧 Listen [5 GTD Tips To Become A Power User And Get Things Done Consistently (TPS322)](https://www.asianefficiency.com/podcast/322-gtd-power-user/)
+- [ ] 🎧 Listen [Własna książka, niezłe zarobki i rozpoznawalność, czyli co może ci dać własny podcast, nawet jeśli nagrywasz od niedawna](https://malawielkafirma.pl/co-moze-dac-wlasny-podcast/)
+- [ ] 🎧 Listen [Episode 430: Marco Faella on Seriously Good Software](https://www.se-radio.net/2020/10/episode-430-marco-faella-on-seriously-good-software/)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 1 - Entities and the context](https://youtu.be/GVdBxlNfnio)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 2 - @Id and generating @Id values](https://youtu.be/eXyqVLSAP6Q)
 
 
 ### Things I'll Do in the Future 🏅
