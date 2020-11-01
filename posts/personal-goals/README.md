@@ -3,7 +3,7 @@ Personal Goals
 Personal goals made open source. I want thanks to [una](https://github.com/una/personal-goals) for her personal goals repo that I can take pattern from and what made me motivate to work. 
 
 # Overarching Goals for 2020 🏆🥇
-1. Help 3 strangers 🧚‍♂️ [1/3]
+1. Help 3 strangers 🧚‍♂️ [2/3]
 2. Build an active community (1.5k unique blog visits in a month) 🧑‍🤝‍🧑
 3. ~~Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙~~
 4. ~~Visit 2 different countries ✈️~~
@@ -24,26 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [10/25/2020]
+# [11/01/2020]
 
 ### Things I'll do This Week:
 
-- [ ] Reorganize room
-- [ ] Buy a new desk
 - [ ] 📝 Blog - write post
 - [ ] 📝 Blog - create infographic
 - [ ] 📝 Blog - prepare 10 topics for blogging challenge
-- [ ] 📗 Read [KeystoneInterface](https://martinfowler.com/bliki/)
-- [ ] 📗 Read [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
-- [ ] 📗 Read [Hibernate & Testcontainers – A Perfect Match For Your Tests?](https://thorben-janssen.com/hibernate-testcontainers-a-perfect-match-for-your-tests/)
-- [ ] 📗 Read [Konkatenacja stringów – benchmark](https://jgardo.dev/2020/10/13/konkatenacja-stringow-benchmark/)
-- [ ] 📗 Read [20 Tips for Optimizing your Homepage for Search Engines](https://databox.com/homepage-seo-checklist)
-- [ ] 🎧 Listen [SPI 444: Instagram Reels and TikTok for Business—Yes, It Does Work](https://www.smartpassiveincome.com/podcasts/spi-444-instagram-reels-tiktok-business-does-work/)
-- [ ] 🎧 Listen [5 GTD Tips To Become A Power User And Get Things Done Consistently (TPS322)](https://www.asianefficiency.com/podcast/322-gtd-power-user/)
-- [ ] 🎧 Listen [Własna książka, niezłe zarobki i rozpoznawalność, czyli co może ci dać własny podcast, nawet jeśli nagrywasz od niedawna](https://malawielkafirma.pl/co-moze-dac-wlasny-podcast/)
-- [ ] 🎧 Listen [Episode 430: Marco Faella on Seriously Good Software](https://www.se-radio.net/2020/10/episode-430-marco-faella-on-seriously-good-software/)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 1 - Entities and the context](https://youtu.be/GVdBxlNfnio)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 2 - @Id and generating @Id values](https://youtu.be/eXyqVLSAP6Q)
+- [ ] 📗 Read [KeystoneInterface](https://martinfowler.com/bliki/KeystoneInterface.html)
+- [ ] 📗 Read [Domain Driven Design krok po kroku Część VI: Modeling Whirlpool – iteracyjny proces modelowania](https://bottega.com.pl/pdf/materialy/ddd/ddd6.pdf)
+- [ ] 📗 Read [Agreement Dispatcher](https://martinfowler.com/eaaDev/AgreementDispatcher.html)
+- [ ] 📗 Read [Temporal Property](https://martinfowler.com/eaaDev/TemporalProperty.html)
+- [ ] 📗 Read [Accounting Entry](https://martinfowler.com/eaaDev/AccountingEntry.html)
+- [ ] 🎧 Listen [WNOP 143: Robo-doradca Finax i pasywne inwestowanie w pytaniach i odpowiedziach – Przemek Barankiewicz](https://jakoszczedzacpieniadze.pl/robo-doradca-finax-inwestowanie-pasywne-przemek-barankiewicz)
+- [ ] 🎧 Listen [SPI 445: Courses, Community, and Courage—How Sam and Joe Built a Successful Online Business with Mum](https://www.smartpassiveincome.com/podcasts/spi-445-courses-community-courage-sam-joe-built-successful-online-business-mum/)
+- [ ] 🎧 Listen [Episode 6 “Project Skara” with Joe Darcy and Erik Duveblad](https://inside.java/2020/10/28/podcast-006/)
+- [ ] 🎧 Listen [#33 Patologie Mikroserwisów - Podsumowanie](https://patoarchitekci.io/33/)
+- [ ] 📽️ Watch [How the HotSpot and Graal JVMs Execute Java Code](https://youtu.be/CCMDzPYWsAk)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 3 - @Enumerated and @Temporal types](https://youtu.be/h_tDJoeIf5Q)
 
 
 ### Things I'll Do in the Future 🏅

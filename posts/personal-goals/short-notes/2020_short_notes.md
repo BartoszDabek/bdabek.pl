@@ -1181,3 +1181,31 @@ Yesterday I managed to finish my blog post and today it would be good to write a
 25/10/2020
 ---
 Yesterday I spent the whole day at home 🙄. In the evening my cousins came to me so we spent time together talking and eating the cake I made 😅. Today is Sunday and that usually means that I don't plan in advance what I should do today - although last week I guess I didn't plan at all 🤫.
+
+26/10/2020
+---
+I really liked this Sunday 👍! Although I didn't visit friends even though I had an invitation, I was at two meetings. Besides, I took a walk in the forest (over 8 km) and felt that it was a very productive Sunday 🙃. Today, I have time off at work and my goal is simple - to finish the article on the blog! 💪  
+
+27/10/2020
+---
+I managed to do yesterday's plan in 100% - the article is finished and ready to be published 👍. Additionally, yesterday I decided that I will speak to a friend and talk frankly whether there will be anything between us or not. We did so and talked for almost 2 hours. Finally, she is supposed to think about it and give me an answer in some time - I pray that it will be according to God's will 🙂. Today I come back to work after 2 days off 😛. The plan for today is to reorganize the room a bit (at least start 😅).
+
+28/10/2020
+---
+Yesterday's plan was fulfilled - I cleaned my room, thus preparing it for a small reorganization 😄. Apart from that, in the evening, I ran into some friends and we spent a very nice time together talking about various topics 🙂. Today I want to finally prepare my room for the changes.
+
+29/10/2020
+---
+And once again I managed to carry out the assumed plan 🤗. Now I'm just waiting for a new desk to come and I will be able to 100% finish refreshing the room 😛. The plan for today is simple - take care of all the paperwork at work (today is my last 100% working day).
+
+30/10/2020
+---
+Finally, I failed to complete yesterday's plan 😅👎. Of course I have a good excuse. Yesterday a laptop from a new company came to me and I had to configure everything. Anyway... most of the stuff I've managed to figure out anyway, I only have 1 paper left to print 😛. Today I have no plans, I have to go to Bialystok and finish all work connected with work 🙃.
+
+31/10/2020
+---
+Yesterday I managed to deal with all things related to the last day of work in Bialystok. I had nice talks with my boss and the girls from HR. I spent the evening with my friends - we played some board game and talked a lot 🙂.
+
+01/11/2020
+---
+Yesterday I spent all day at home 🥱. Admittedly, in the afternoon my cousin's husband came to me and we talked for almost 4 hours so this time was not wasted. Additionally we installed linux on my old computer 😝. Today is Sunday and it is my dad's birthday 🥳.
