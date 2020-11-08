@@ -14,11 +14,11 @@
 - [ ] Reactive Programming with RxJava - Ben Christensen, Tomasz Nurkiewicz
 
 ## In Progress
-- [ ] Patterns of Enterprise Application Architecture - Martin Fowler
 - [ ] Finansowa Forteca - Marcin Iwuć
 
 ## Books read
 ### 2020
+- [x] Patterns of Enterprise Application Architecture - Martin Fowler
 - [x] Finansowy ninja - Michał Szafrański
 - [x] Effective Java 3rd Edition
 - [x] Bezpieczeństwo aplikacji webowych - Securitum

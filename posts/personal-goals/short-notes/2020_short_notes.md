@@ -1209,3 +1209,31 @@ Yesterday I managed to deal with all things related to the last day of work in B
 01/11/2020
 ---
 Yesterday I spent all day at home 🥱. Admittedly, in the afternoon my cousin's husband came to me and we talked for almost 4 hours so this time was not wasted. Additionally we installed linux on my old computer 😝. Today is Sunday and it is my dad's birthday 🥳.
+
+02/11/2020
+---
+Yesterday, thank God I could be at two services 🙂. In addition, we celebrated my dad's birthday with our family 🥳🥳! It was a good time and a nice Sunday 🤗.
+
+03/11/2020
+---
+I didn't even notice that yesterday I didn't set any target for the day 😮. Or maybe that's good? Recently I've been wondering a lot about whether I'm restricting my freedom 🤔. Today I'm supposed to receive a new desk so I'll probably assemble it and this is my goal for the day 😅.
+
+04/11/2020
+---
+Yesterday's plan was successfully completed although it was not easy 😄. The desk didn't come until 3 p.m. and I had a lot of problems with its assembly 😅😅. But the final result is that today's note is written on this desk in a standing position 👍. The plan for today is to read two articles from my todo list, finish the blog post and take a ride for at least 30 minutes by bicycle, which is in the basement (or run with a friend).
+
+05/11/2020
+---
+Yesterday's day was both intense and successful 🙃! I have been able to realize all yesterday's plans. Yesterday nothing interesting happened in my life - I spent all day at home. Today I plan to read one article from the weekly list and again ride a bicycle for 30 minutes.
+
+06/11/2020
+---
+Again, I managed to carry out the plan I assumed for yesterday's 👍. It wasn't demanding, but if I was lying, I wouldn't have made it 😆. Yesterday I also introduced myself briefly to the whole company - which was a bit stressful 😛. Tonight we have an online team integration 😄. Today the plan is the same as yesterday - read the article from the list and 30 minutes by bike.
+
+07/11/2020
+---
+Once again, I managed to complete the task 🤗 - although this time it was harder because I was not motivated to bike. Yesterday we additionally had a team integration, which started at 6pm and ended around 9:30pm. Everyone introduced themselves and talked about themselves (their hobbies) for a few minutes. There were about 10 of us and it took some time 🙄. Today the plan I set myself is to take an hour walk 🦶 and then enjoy the day 👊.
+
+08/11/2020
+---
+It will be boring if I write that once again I managed to carry out the assumed plan, but it happened 😆. It was not demanding but the plan was 😛. In the evening I went to the youth meeting in the church next door. We had a good time. We could listen to advice about couples and dating 🤫.

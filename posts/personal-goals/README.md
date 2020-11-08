@@ -24,24 +24,25 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [11/01/2020]
+# [11/08/2020]
 
 ### Things I'll do This Week:
 
-- [ ] 📝 Blog - write post
+- [ ] 📝 Blog - write post + create background photo
 - [ ] 📝 Blog - create infographic
-- [ ] 📝 Blog - prepare 10 topics for blogging challenge
-- [ ] 📗 Read [KeystoneInterface](https://martinfowler.com/bliki/KeystoneInterface.html)
-- [ ] 📗 Read [Domain Driven Design krok po kroku Część VI: Modeling Whirlpool – iteracyjny proces modelowania](https://bottega.com.pl/pdf/materialy/ddd/ddd6.pdf)
-- [ ] 📗 Read [Agreement Dispatcher](https://martinfowler.com/eaaDev/AgreementDispatcher.html)
-- [ ] 📗 Read [Temporal Property](https://martinfowler.com/eaaDev/TemporalProperty.html)
-- [ ] 📗 Read [Accounting Entry](https://martinfowler.com/eaaDev/AccountingEntry.html)
-- [ ] 🎧 Listen [WNOP 143: Robo-doradca Finax i pasywne inwestowanie w pytaniach i odpowiedziach – Przemek Barankiewicz](https://jakoszczedzacpieniadze.pl/robo-doradca-finax-inwestowanie-pasywne-przemek-barankiewicz)
-- [ ] 🎧 Listen [SPI 445: Courses, Community, and Courage—How Sam and Joe Built a Successful Online Business with Mum](https://www.smartpassiveincome.com/podcasts/spi-445-courses-community-courage-sam-joe-built-successful-online-business-mum/)
-- [ ] 🎧 Listen [Episode 6 “Project Skara” with Joe Darcy and Erik Duveblad](https://inside.java/2020/10/28/podcast-006/)
-- [ ] 🎧 Listen [#33 Patologie Mikroserwisów - Podsumowanie](https://patoarchitekci.io/33/)
-- [ ] 📽️ Watch [How the HotSpot and Graal JVMs Execute Java Code](https://youtu.be/CCMDzPYWsAk)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 3 - @Enumerated and @Temporal types](https://youtu.be/h_tDJoeIf5Q)
+- [ ] 📝 Blog - prepare 4 topics for blogging challenge
+- [ ] 📝 Blog - order topics for blogging challenge
+- [ ] 📗 Read [Domain Event](https://martinfowler.com/eaaDev/DomainEvent.html)
+- [ ] 📗 Read [Account](https://martinfowler.com/eaaDev/Account.html)
+- [ ] 📗 Read [NAJobszerniejsze wprowadzenie do Event Stormingu. Z przykładem!](https://devstyle.pl/2020/10/12/najobszerniejsze-wprowadzenie-do-event-stormingu-z-przykladem/)
+- [ ] 📗 Read [Event Collaboration](https://martinfowler.com/eaaDev/EventCollaboration.html)
+- [ ] 📗 Read [REST Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html)
+- [ ] 🎧 Listen [057 – Rekrutacja: opis stanowiska to za mało. Czyli co potrzebuje rekruter, agencja rekrutacyjna, aby znaleźć właściwego kandydata.](https://piotrbucki.pl/057)
+- [ ] 🎧 Listen [Biznes na Amazonie – jak zacząć i czy mały sprzedawca ma szansę odnieść sukces na rynku kontrolowanym przez kolosa](https://malawielkafirma.pl/sprzedaz-na-amazon/)
+- [ ] 🎧 Listen [Effectiveness Before Efficiency: How Most Productivity Advice Gets It Wrong (TPS324)](https://www.asianefficiency.com/podcasts/324-effectiveness/)
+- [ ] 🎧 Listen [SPI 446: How to Start and Sustain a Successful Business with Racheal Cook](https://www.smartpassiveincome.com/podcasts/spi-446-start-sustain-successful-business-rachael-cook/)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 4 - @AttributeOverride and Composed Primary Keys](https://youtu.be/TpihIv_ehdE)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 5 - Relationships, @OneToOne and Secondary Tables](https://youtu.be/eBwkdmJ3rR0)
 
 
 ### Things I'll Do in the Future 🏅
