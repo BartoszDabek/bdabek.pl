@@ -21,28 +21,27 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 2. ✅ HackerRank 👨‍💻(10.02-06.03)
 3. ✅ 100 pushups 🙇(1.04-25.04)
 4. ✅ 50 pull-ups 🏋️‍♂️(15.06-10.07)
-5. Blogging every day 📝
+5. Blogging every day 📝 (25.11-20.12)
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [11/08/2020]
+# [11/15/2020]
 
 ### Things I'll do This Week:
 
 - [ ] 📝 Blog - write post + create background photo
 - [ ] 📝 Blog - create infographic
-- [ ] 📝 Blog - prepare 4 topics for blogging challenge
-- [ ] 📝 Blog - order topics for blogging challenge
-- [ ] 📗 Read [Domain Event](https://martinfowler.com/eaaDev/DomainEvent.html)
-- [ ] 📗 Read [Account](https://martinfowler.com/eaaDev/Account.html)
-- [ ] 📗 Read [NAJobszerniejsze wprowadzenie do Event Stormingu. Z przykładem!](https://devstyle.pl/2020/10/12/najobszerniejsze-wprowadzenie-do-event-stormingu-z-przykladem/)
-- [ ] 📗 Read [Event Collaboration](https://martinfowler.com/eaaDev/EventCollaboration.html)
-- [ ] 📗 Read [REST Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html)
-- [ ] 🎧 Listen [057 – Rekrutacja: opis stanowiska to za mało. Czyli co potrzebuje rekruter, agencja rekrutacyjna, aby znaleźć właściwego kandydata.](https://piotrbucki.pl/057)
-- [ ] 🎧 Listen [Biznes na Amazonie – jak zacząć i czy mały sprzedawca ma szansę odnieść sukces na rynku kontrolowanym przez kolosa](https://malawielkafirma.pl/sprzedaz-na-amazon/)
-- [ ] 🎧 Listen [Effectiveness Before Efficiency: How Most Productivity Advice Gets It Wrong (TPS324)](https://www.asianefficiency.com/podcasts/324-effectiveness/)
-- [ ] 🎧 Listen [SPI 446: How to Start and Sustain a Successful Business with Racheal Cook](https://www.smartpassiveincome.com/podcasts/spi-446-start-sustain-successful-business-rachael-cook/)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 4 - @AttributeOverride and Composed Primary Keys](https://youtu.be/TpihIv_ehdE)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 5 - Relationships, @OneToOne and Secondary Tables](https://youtu.be/eBwkdmJ3rR0)
+- [ ] 📝 Blog - schedule all topics for blogging challenge
+- [ ] 📗 Read [Retroactive Event](https://martinfowler.com/eaaDev/RetroactiveEvent.html)
+- [ ] 📗 Read [Temporal Patterns](https://martinfowler.com/eaaDev/timeNarrative.html)
+- [ ] 📗 Read [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+- [ ] 📗 Read [Retry Pattern – mechanizm odporności aplikacji](https://softwareskill.pl/retry-pattern)
+- [ ] 🎧 Listen [Episode 93. Not your Grandpa’s Serialization Part DEUX!](https://www.javapubhouse.com/2020/11/episode-93-not-your-grandpas-serialization-part-deux.html)
+- [ ] 🎧 Listen [English Idioms: Chillin(g), Shooting The Breeze,...](https://youtu.be/17V4L2QEWaw)
+- [ ] 🎧 Listen [Nothing Can Stop What Is Coming | For Honor and Glory](https://youtu.be/6ZaxS5pNtPM)
+- [ ] 🎧 Listen [SPI 447: The Story of Matt D’Avella and His Rise to YouTube Fame](https://www.smartpassiveincome.com/podcasts/matt-davella-and-his-rise-to-youtube-fame/)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 6 - @OneToMany and @ManyToOne](https://youtu.be/SUE-dKVufwY)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 7 - @ManyToMany](https://youtu.be/CPteM2YUEKQ)
+- [ ] 📽️ Watch [Reconciling Performance and Security in High Load Environments](https://youtu.be/s0rG5gLDT_U)
 
 
 ### Things I'll Do in the Future 🏅

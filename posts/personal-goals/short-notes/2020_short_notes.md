@@ -1237,3 +1237,31 @@ Once again, I managed to complete the task 🤗 - although this time it was hard
 08/11/2020
 ---
 It will be boring if I write that once again I managed to carry out the assumed plan, but it happened 😆. It was not demanding but the plan was 😛. In the evening I went to the youth meeting in the church next door. We had a good time. We could listen to advice about couples and dating 🤫.
+
+09/11/2020
+---
+Yesterday, although I had a very productive day, I did not feel fulfilled. I missed some contact with my friends to go out or something. Instead I spent the whole day at home. Although I was at the service and after lunch I went for a walk, but that is not it. Today we start the new week 💪. To be honest, I have no plans for today. May God guide me 😇.
+
+10/11/2020
+---
+Yesterday's day was boring 😶, although to make it a bit more interesting I went for a run and ran 4 km 😛. Today I decided to fast all day long - I have a case I want it to be heard. Therefore, today again I have no plans 🙂. 
+
+11/11/2020
+---
+Thank God I could stand in the post, although I won't say, it wasn't easy 😛. Today is a national holiday and therefore I do not work today 🙂. The plan for today is to read the last article from the todo list, go run around and start writing another article for next week 👍.
+
+12/11/2020
+---
+Yesterday was a nice day 👍. Yesterday's plan was theoretically realized, but in practice, writing the article didn't work out as I planned - from 3 pm I was not at home until the end of the day 😝. At first, my cousin and I went to a friend's house for waffles and there were a few people there so we stayed and talked until almost 8 pm. And then we came back to me and there were friends at my brother's and his wife's house, so we also went and talked 😆. Today I will be introducing myself to a new project 💪💪!
+
+13/11/2020
+---
+Yesterday I had an introduction and discussion of the project to which I join 👍. I met the team and also introduced myself 😛. After work I was at an evening service and later I met a friend and we had a serious conversation. Actually, nothing concrete came out of this conversation, but I think we needed it. Today I would like to move on with writing an article on my blog.
+
+14/11/2020
+---
+Finally, I did not accomplish my intended plan 😅😅. Yesterday after work I turned off my computer and did not use it until the end of 🙂. Today I have the whole Saturday free so I would like to write this article and additionally I am planning to run through 🏃🏃.
+
+15/11/2020
+---
+Yesterday's plan failed again. Yes, I managed to run out, but I did not manage to write an article on the blog 😢. However, I think that this Saturday was a very good one anyway. I threw away some old things with my mom, cleaned my room and after 3 pm I was visiting friends 😅😅. Today, as usual on Sunday, I have no plans - I will enjoy life! 🤗

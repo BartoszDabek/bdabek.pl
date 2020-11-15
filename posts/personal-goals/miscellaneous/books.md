@@ -18,6 +18,7 @@
 
 ## Books read
 ### 2020
+- [x] Beyond the Twelve-Factor App (Exploring the DNA of Highly Scalable, Resilient Cloud Applications) - Kevin Hoffman
 - [x] Patterns of Enterprise Application Architecture - Martin Fowler
 - [x] Finansowy ninja - Michał Szafrański
 - [x] Effective Java 3rd Edition
