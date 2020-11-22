@@ -1265,3 +1265,31 @@ Finally, I did not accomplish my intended plan 😅😅. Yesterday after work I 
 15/11/2020
 ---
 Yesterday's plan failed again. Yes, I managed to run out, but I did not manage to write an article on the blog 😢. However, I think that this Saturday was a very good one anyway. I threw away some old things with my mom, cleaned my room and after 3 pm I was visiting friends 😅😅. Today, as usual on Sunday, I have no plans - I will enjoy life! 🤗
+
+16/11/2020
+---
+A very nice Sunday went out 🤗. I could be at two services, for the evening I went together with my female cousin and a friend, who will now live with me for a week 👍. In the evening, after the service, my brother and my cousin came to me and together we watched the Polish football match 😝. Today is the beginning of the new week and I want to change the formula of these daily posts again - I won't always write what are my plans for today, because I don't always want to implement them 😆😆.
+
+17/11/2020
+---
+Yesterday after work I had interesting conversations with my colleague, who now lives with me for a week. We talked about various topics but mainly related to faith and God 🙂.
+
+18/11/2020
+---
+Yesterday I managed to do a few things - I finished the article on the blog, set the publication of all the articles for the blog challenge and cycled in the basement. Only with the latter there is such a problem that my knee aches after it and I don't know if I will not have to give it up 🤔.
+
+19/11/2020
+---
+Time flies by very quickly 😶. I've recently noticed such a sinusoidal of moods, once I feel good and happy and another time not really 🙄. An interesting observation 😝.
+
+20/11/2020
+---
+Thank God for yesterday's 🙏. I bought myself a new phone (I thought yesterday was a black Friday 😅). It is a bit connected with my plans to start vlogging from next year, but we will see how it goes. Besides, yesterday I ran 5 km and later I did a walk on the tracks at a beautiful sunset 🤗🤗.
+
+21/11/2020
+---
+Thank God yesterday I managed to fast all day long 🙏 . I must admit that the fast was poor quality because a new phone came to me and I spent a lot of time configuring it. By the way, these new phones need permissions for everything 🤔🤔.
+
+22/11/2020
+---
+Yesterday I actually spent all day without a computer 👍. In the morning I went to Bialystok to get my master's diploma, then - when I came back - I took a 2-hour walk, ate dinner, talked to my parents and a colleague, who now lives with me and only in the evening sat down to the computer 😝. It was good Saturday 👌!

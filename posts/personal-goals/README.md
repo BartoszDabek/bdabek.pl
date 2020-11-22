@@ -24,24 +24,24 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝 (25.11-20.12)
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [11/15/2020]
+# [11/22/2020]
 
 ### Things I'll do This Week:
 
 - [ ] 📝 Blog - write post + create background photo
 - [ ] 📝 Blog - create infographic
-- [ ] 📝 Blog - schedule all topics for blogging challenge
-- [ ] 📗 Read [Retroactive Event](https://martinfowler.com/eaaDev/RetroactiveEvent.html)
-- [ ] 📗 Read [Temporal Patterns](https://martinfowler.com/eaaDev/timeNarrative.html)
-- [ ] 📗 Read [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
-- [ ] 📗 Read [Retry Pattern – mechanizm odporności aplikacji](https://softwareskill.pl/retry-pattern)
-- [ ] 🎧 Listen [Episode 93. Not your Grandpa’s Serialization Part DEUX!](https://www.javapubhouse.com/2020/11/episode-93-not-your-grandpas-serialization-part-deux.html)
-- [ ] 🎧 Listen [English Idioms: Chillin(g), Shooting The Breeze,...](https://youtu.be/17V4L2QEWaw)
-- [ ] 🎧 Listen [Nothing Can Stop What Is Coming | For Honor and Glory](https://youtu.be/6ZaxS5pNtPM)
-- [ ] 🎧 Listen [SPI 447: The Story of Matt D’Avella and His Rise to YouTube Fame](https://www.smartpassiveincome.com/podcasts/matt-davella-and-his-rise-to-youtube-fame/)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 6 - @OneToMany and @ManyToOne](https://youtu.be/SUE-dKVufwY)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 7 - @ManyToMany](https://youtu.be/CPteM2YUEKQ)
-- [ ] 📽️ Watch [Reconciling Performance and Security in High Load Environments](https://youtu.be/s0rG5gLDT_U)
+- [ ] 📝 Blog - prepare background photo for blogging challenge posts
+- [ ] 📗 Read [ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
+- [ ] 📗 Read [BranchByAbstraction](https://martinfowler.com/bliki/BranchByAbstraction.html)
+- [ ] 📗 Read [QA in Production](https://martinfowler.com/articles/qa-in-production.html)
+- [ ] 📗 Read [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
+- [ ] 📗 Read [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
+- [ ] 🎧 Listen [The Great Revelation and Awakening](https://youtu.be/kTg5jrEkQlY)
+- [ ] 🎧 Listen [SPI 448: How to Use Scarcity and Urgency to 10x Your Sales and Marketing with Jack Born](https://www.smartpassiveincome.com/podcasts/scarcity-and-urgency-jack-born/)
+- [ ] 🎧 Listen [Episode 106: Augmented Reality with Connel Gauld](https://www.programmingthrowdown.com/2020/11/episode-106-augmented-reality-with.html)
+- [ ] 🎧 Listen [Happy People Are Productive People: Turn Your Mood Around In 10 Minutes or Less (TPS326)](https://www.asianefficiency.com/podcasts/326-improve-your-mood/)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 8 - @AssociationOverride and @ElementCollection](https://youtu.be/jpUVr1qSD7Y)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 9 - Using maps for relationships](https://youtu.be/KbmWN0gQ5ag)
 
 
 ### Things I'll Do in the Future 🏅
@@ -49,3 +49,4 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 - [ ] Learn [AWS Cloud](https://www.youtube.com/user/Nephaste20/featured)
 - [ ] Scrum Master certification
 - [ ] Deep learning of [Hibernate](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
+- [ ] 📝 Blog - change domain provider
