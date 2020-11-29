@@ -24,24 +24,23 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝 (25.11-20.12)
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [11/22/2020]
+# [11/29/2020]
 
 ### Things I'll do This Week:
 
-- [ ] 📝 Blog - write post + create background photo
+- [ ] 📝 Blog - add a blog post
 - [ ] 📝 Blog - create infographic
-- [ ] 📝 Blog - prepare background photo for blogging challenge posts
-- [ ] 📗 Read [ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
-- [ ] 📗 Read [BranchByAbstraction](https://martinfowler.com/bliki/BranchByAbstraction.html)
-- [ ] 📗 Read [QA in Production](https://martinfowler.com/articles/qa-in-production.html)
-- [ ] 📗 Read [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
-- [ ] 📗 Read [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
-- [ ] 🎧 Listen [The Great Revelation and Awakening](https://youtu.be/kTg5jrEkQlY)
-- [ ] 🎧 Listen [SPI 448: How to Use Scarcity and Urgency to 10x Your Sales and Marketing with Jack Born](https://www.smartpassiveincome.com/podcasts/scarcity-and-urgency-jack-born/)
-- [ ] 🎧 Listen [Episode 106: Augmented Reality with Connel Gauld](https://www.programmingthrowdown.com/2020/11/episode-106-augmented-reality-with.html)
-- [ ] 🎧 Listen [Happy People Are Productive People: Turn Your Mood Around In 10 Minutes or Less (TPS326)](https://www.asianefficiency.com/podcasts/326-improve-your-mood/)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 8 - @AssociationOverride and @ElementCollection](https://youtu.be/jpUVr1qSD7Y)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 9 - Using maps for relationships](https://youtu.be/KbmWN0gQ5ag)
+- [ ] 📗 Read [Parallel Model](https://martinfowler.com/eaaDev/ParallelModel.html)
+- [ ] 📗 Read [Effectivity](https://martinfowler.com/eaaDev/Effectivity.html)
+- [ ] 📗 Read [Snapshot](https://martinfowler.com/eaaDev/Snapshot.html)
+- [ ] 📗 Read [SemanticConflict](https://martinfowler.com/bliki/SemanticConflict.html)
+- [ ] 📗 Read [A Protocol for Dying](http://hintjens.com/blog:115)
+- [ ] 🎧 Listen [Episode 8 “Project Loom” with Ron Pressler](https://inside.java/2020/11/24/podcast-008/)
+- [ ] 🎧 Listen [18. About the past, present and future of IT with Uncle Bob](https://bettersoftwaredesign.pl/episodes/18)
+- [ ] 🎧 Listen [POIT #097: Od developera do foundera](https://porozmawiajmyoit.pl/poit-097-od-developera-do-foundera/)
+- [ ] 🎧 Listen [SPI 449: A Blast from the Past and Life’s Interesting Journey — Back After 8 Years](https://www.smartpassiveincome.com/podcasts/blast-from-the-past-brendan-hufford/)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 10 - @MappedSuperclass and Inheritance strategies for entities](https://youtu.be/moGWhWl0gpE)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 11 - The EntityManager](https://youtu.be/coHphxJOj1E)
 
 
 ### Things I'll Do in the Future 🏅
@@ -49,4 +48,3 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 - [ ] Learn [AWS Cloud](https://www.youtube.com/user/Nephaste20/featured)
 - [ ] Scrum Master certification
 - [ ] Deep learning of [Hibernate](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
-- [ ] 📝 Blog - change domain provider

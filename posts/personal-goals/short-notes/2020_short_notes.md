@@ -1293,3 +1293,31 @@ Thank God yesterday I managed to fast all day long 🙏 . I must admit that the 
 22/11/2020
 ---
 Yesterday I actually spent all day without a computer 👍. In the morning I went to Bialystok to get my master's diploma, then - when I came back - I took a 2-hour walk, ate dinner, talked to my parents and a colleague, who now lives with me and only in the evening sat down to the computer 😝. It was good Saturday 👌!
+
+23/11/2020
+---
+Cool Sunday - quiet and peaceful 🙂. I was at both services, took a 5 km walk and spent a good time with my family 🤗🤗. 
+
+24/11/2020
+---
+Finally, my laptop came from a client and I can start programming 🤣! Yesterday I spent the whole day at home and I do not have much to say 😝. The last days are very quiet in my life 👍.
+
+25/11/2020
+---
+Yesterday, not much happened again. I said goodbye to my short-term roommate, who lived with me for a week because he has already returned to his home 😛. But today the second roommate is coming, so I don't have time for boredom 😅. Today I also start blogging challenge. Actually, I started it 2 days earlier because I prefer to have the materials in advance if something urgent happens.
+
+26/11/2020
+---
+Yesterday I had a very good day 🤗! It was mainly due to the fact that I was writing with my friend, who I like more than others 🤫. Besides, I was approached by a boss from one of the previous companies for which I was a subcontractor and we will probably negotiate a job with them.
+
+27/11/2020
+---
+Once again, I had a very good day 👍! Thank God for his blessing! I could be at the evening service and then my cousin visited me and we talked together with my brother, his wife and our parents 🙂.
+
+28/11/2020
+---
+Friday, like every last day, went by very quickly. In the evening I was at a prayer meeting in the church and then I spent the evening with friends. We sat and talked about various things 😝. Today is Saturday and just today I have a few plans that I would like to realize, so I will write them: run at least 5 km, finish the todo list for this week, move the domain to another service, write 2-3 articles to blogging challenge 💪.
+
+29/11/2020
+---
+I managed to realize the whole yesterday's plan 🤗👍. I had a very big sleeping problem today... Once I couldn't fall asleep because my nephew, who was crying downstairs, kept waking me up, and twice - I woke up several times at night. Even now it is 5:45 a.m. and my alarm clock will ring in 15 minutes. Okay, as far as today is concerned, it's Sunday and as a standard, I don't plan anything except to visit my aunt who has a birthday 🥳🥳!

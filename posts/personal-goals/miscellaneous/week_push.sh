@@ -3,7 +3,7 @@
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 
-cd $Repos/bartoszdabek.com/posts/personal-goals/
+cd $Repos/bdabek.pl/posts/personal-goals/
 git add .
 
 echo -e "${RED}Do you want to push the following changes?${NC}"
