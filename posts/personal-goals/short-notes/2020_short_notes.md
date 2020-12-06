@@ -1321,3 +1321,31 @@ Friday, like every last day, went by very quickly. In the evening I was at a pra
 29/11/2020
 ---
 I managed to realize the whole yesterday's plan 🤗👍. I had a very big sleeping problem today... Once I couldn't fall asleep because my nephew, who was crying downstairs, kept waking me up, and twice - I woke up several times at night. Even now it is 5:45 a.m. and my alarm clock will ring in 15 minutes. Okay, as far as today is concerned, it's Sunday and as a standard, I don't plan anything except to visit my aunt who has a birthday 🥳🥳!
+
+30/11/2020
+---
+It was one of the best Sundays this year 💪☺️. I was at both services, then with the whole family we were at my aunt's birthday party and in the evening I went to spend time with the youth from the neighboring church, where we also had a good time and talked until late 👍🙃.
+
+01/12/2020
+---
+Yesterday's day was very busy 😶. At least that was my feeling. Yesterday I ordered a delivery man to pick up the phone from me because I'm returning it and I want it to be exchanged for another. The one I have has some defect related to the location 😓. I also visited my cousin, who bought himself a new laptop 😝.
+
+02/12/2020
+---
+Yesterday I did not even leave home 😶. The day wasn't wasted, but I felt a little lack of movement, so in the evening I made a 30-minute session on the cross trainer in the basement. At work I finally got access to everything, so today I will be able to start configuring the environment 👍.
+
+03/12/2020
+---
+Hmm... yesterday was ok, without any revelation. Today I decided to fast 🙂. Today I would also like to go to the forest or something because I have not had much movement since Sunday.
+
+04/12/2020
+---
+Yesterday's day was not one of the easiest 😑. The very fact of fasting and lack of food during the day is tiring. Additionally, I have a new job offer, which I am seriously considering and I will probably make a final decision at the weekend.
+
+05/12/2020
+---
+Finally the weekend! And yesterday I also had a good day 😁! I have a lot to think about lately... I'm thinking about the job offer I got, and I'll also tell you that for the last few days I've been thinking very seriously whether to propose to my friend 😝. 
+
+06/12/2020
+---
+Yesterday's day was completely unproductive, but it's okay because I did everything during the week 😛. Yesterday afternoon I visited my cousin and later in the evening we went to a youth meeting and stayed there until very late (almost till 11pm). It was a well spent Saturday 🙂👍!

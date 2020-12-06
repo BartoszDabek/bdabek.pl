@@ -24,23 +24,25 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝 (25.11-20.12)
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [11/29/2020]
+# [12/06/2020]
 
 ### Things I'll do This Week:
 
 - [ ] 📝 Blog - add a blog post
 - [ ] 📝 Blog - create infographic
-- [ ] 📗 Read [Parallel Model](https://martinfowler.com/eaaDev/ParallelModel.html)
-- [ ] 📗 Read [Effectivity](https://martinfowler.com/eaaDev/Effectivity.html)
-- [ ] 📗 Read [Snapshot](https://martinfowler.com/eaaDev/Snapshot.html)
-- [ ] 📗 Read [SemanticConflict](https://martinfowler.com/bliki/SemanticConflict.html)
-- [ ] 📗 Read [A Protocol for Dying](http://hintjens.com/blog:115)
-- [ ] 🎧 Listen [Episode 8 “Project Loom” with Ron Pressler](https://inside.java/2020/11/24/podcast-008/)
-- [ ] 🎧 Listen [18. About the past, present and future of IT with Uncle Bob](https://bettersoftwaredesign.pl/episodes/18)
-- [ ] 🎧 Listen [POIT #097: Od developera do foundera](https://porozmawiajmyoit.pl/poit-097-od-developera-do-foundera/)
-- [ ] 🎧 Listen [SPI 449: A Blast from the Past and Life’s Interesting Journey — Back After 8 Years](https://www.smartpassiveincome.com/podcasts/blast-from-the-past-brendan-hufford/)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 10 - @MappedSuperclass and Inheritance strategies for entities](https://youtu.be/moGWhWl0gpE)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 11 - The EntityManager](https://youtu.be/coHphxJOj1E)
+- [ ] 📗 Read [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
+- [ ] 📗 Read [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- [ ] 📗 Read [SelfTestingCode](https://martinfowler.com/bliki/SelfTestingCode.html)
+- [ ] 📗 Read [DeploymentPipeline](https://martinfowler.com/bliki/DeploymentPipeline.html)
+- [ ] 📗 Read [DevOpsCulture](https://martinfowler.com/bliki/DevOpsCulture.html)
+- [ ] 📗 Read [FeatureToggle](https://martinfowler.com/bliki/FeatureToggle.html)
+- [ ] 📗 Read [PRINCIPLES OF CHAOS ENGINEERING](https://principlesofchaos.org/?lang=PLcontent)
+- [ ] 🎧 Listen [Your 3 Step Guide To Make Sure Next Year Is Better Than The Last (TPS328)](https://www.asianefficiency.com/podcasts/328-best-year/)
+- [ ] 🎧 Listen [Straciliśmy WSZYSTKO, zaczynamy od ZERA [Biznes DZIŚ! #6]](https://youtu.be/mS5N_Ema_Aw)
+- [ ] 🎧 Listen [English Success Jobs Money and Friends](https://youtu.be/g1sfc_UF6Tk)
+- [ ] 🎧 Listen [Recykling treści: czy przerabianie starego contentu na nowy może przyciągać do ciebie najlepszych klientów?](https://malawielkafirma.pl/recykling-tresci/)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 12 - JPQL and using queries](https://youtu.be/ZqD-lNutsys)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 13 - JPA in a layered architecture](https://youtu.be/zpjQ4p4ZkeY)
 
 
 ### Things I'll Do in the Future 🏅
