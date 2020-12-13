@@ -24,25 +24,25 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. Blogging every day 📝 (25.11-20.12)
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [12/06/2020]
+# [12/13/2020]
 
 ### Things I'll do This Week:
 
 - [ ] 📝 Blog - add a blog post
 - [ ] 📝 Blog - create infographic
-- [ ] 📗 Read [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
-- [ ] 📗 Read [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
-- [ ] 📗 Read [SelfTestingCode](https://martinfowler.com/bliki/SelfTestingCode.html)
-- [ ] 📗 Read [DeploymentPipeline](https://martinfowler.com/bliki/DeploymentPipeline.html)
-- [ ] 📗 Read [DevOpsCulture](https://martinfowler.com/bliki/DevOpsCulture.html)
-- [ ] 📗 Read [FeatureToggle](https://martinfowler.com/bliki/FeatureToggle.html)
-- [ ] 📗 Read [PRINCIPLES OF CHAOS ENGINEERING](https://principlesofchaos.org/?lang=PLcontent)
-- [ ] 🎧 Listen [Your 3 Step Guide To Make Sure Next Year Is Better Than The Last (TPS328)](https://www.asianefficiency.com/podcasts/328-best-year/)
-- [ ] 🎧 Listen [Straciliśmy WSZYSTKO, zaczynamy od ZERA [Biznes DZIŚ! #6]](https://youtu.be/mS5N_Ema_Aw)
-- [ ] 🎧 Listen [English Success Jobs Money and Friends](https://youtu.be/g1sfc_UF6Tk)
-- [ ] 🎧 Listen [Recykling treści: czy przerabianie starego contentu na nowy może przyciągać do ciebie najlepszych klientów?](https://malawielkafirma.pl/recykling-tresci/)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 12 - JPQL and using queries](https://youtu.be/ZqD-lNutsys)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 13 - JPA in a layered architecture](https://youtu.be/zpjQ4p4ZkeY)
+- [ ] 📗 Read [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
+- [ ] 📗 Read [BroadStackTest](https://martinfowler.com/bliki/BroadStackTest.html)
+- [ ] 📗 Read [SnowflakeServer](https://martinfowler.com/bliki/SnowflakeServer.html)
+- [ ] 📗 Read [ObservedRequirement](https://martinfowler.com/bliki/ObservedRequirement.html)
+- [ ] 📗 Read [TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html)
+- [ ] 📗 Read [VersionControlTools](https://martinfowler.com/bliki/VersionControlTools.html)
+- [ ] 📗 Read [FeatureBranch](https://martinfowler.com/bliki/FeatureBranch.html)
+- [ ] 🎧 Listen [POIT #026: Produktywność dla programisty](https://porozmawiajmyoit.pl/poit-026-produktywnosc-dla-programisty/)
+- [ ] 🎧 Listen [Episode 9 “Project Panama - The Foreign Memory Access API” with Maurizio Cimadamore and Jorn Vernee](https://inside.java/2020/12/11/podcast-009/)
+- [ ] 🎧 Listen [POIT #018: Jak dbać o zdrowie pracując w IT](https://porozmawiajmyoit.pl/poit-018-jak-dbac-o-zdrowie-pracujac-w-it/)
+- [ ] 🎧 Listen [POIT #023: Marketing w IT](https://porozmawiajmyoit.pl/poit-023-marketing-w-it/)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 14 - Entity lifecycle events and caching](https://youtu.be/MlS3QEDTiZc)
+- [ ] 📽️ Watch [JPA Fundamentals - Lesson 15 - JPQL vs. CriteriaQuery](https://youtu.be/FYbBadj5PRQ)
 
 
 ### Things I'll Do in the Future 🏅

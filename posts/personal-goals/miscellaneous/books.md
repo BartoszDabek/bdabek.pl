@@ -8,8 +8,14 @@
 - [ ] Software Craftsmanship: Professionalism Pragmatism Pride - Sandro Mancuso
 - [ ] The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin
 - [ ] Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman - Dave Hoover, Adewale Oshineye
+- [ ] Professional Java Development with the Spring Framework - Rod Johnsonet al.
+- [ ] Dynamic Proxies in Java Mini-Book - Dr Heinz M. Kabutz
+- [ ] Dependency Injection Principles, Practices, and Patterns - Steven van Deursen and Mark Seemann
+- [ ] Fenomen poranka - Hal Elrod
+- [ ] Nawyki warte miliony - Tracy Brian
 
 ## In Progress
+- [ ] OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808 - Jeanne Boyarsky, Scott Selikoff
 - [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
 
 ## Books read

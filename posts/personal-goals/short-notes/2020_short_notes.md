@@ -1349,3 +1349,31 @@ Finally the weekend! And yesterday I also had a good day 😁! I have a lot to t
 06/12/2020
 ---
 Yesterday's day was completely unproductive, but it's okay because I did everything during the week 😛. Yesterday afternoon I visited my cousin and later in the evening we went to a youth meeting and stayed there until very late (almost till 11pm). It was a well spent Saturday 🙂👍!
+
+07/12/2020
+---
+Yesterday's Sunday was one of the best days this year 👍🤗! I was at both services, at my aunt's birthday party and in the evening we had another meeting with the youth from the neighboring church! This time we sat almost until midnight 😲😆 - we talked on different topics and I think it was a good time 🙃.
+
+08/12/2020
+---
+It was a good Monday. I didn't have a pair to program today so I could make a calmer day 👍 and so I did 😆😆. The last days are very good for me and thank God for that! 🙂
+
+09/12/2020
+---
+Somehow yesterday I didn't feel that it was a good day... It wasn't bad, but I didn't do anything special, so I felt poorly 🤔. Yesterday I had a final conversation with another company and it will turn out whether or not I will change the client 🙄.
+
+10/12/2020
+---
+Yesterday's day was ok - it wasn't too good, but it wasn't bad either. Today I will be fasting. We will see how I will feel 😝. Although for me the most important thing in fasting is the intention with which I am going to fast 🙏. By the way, from the new year I intend to switch to Polish in these daily notes.
+
+11/12/2020
+---
+Yesterday, despite the fast, I had a great feeling and a lot of strength 😮🤗. Thank God for that 😇! Yesterday I also got a final job offer with details and I will probably accept it - now I'm just waiting for the contract draft 😏. Today I had a strange night... I woke up a lot and finally I got up over an hour before the alarm clock (which was at 5:30 in the morning). 
+
+12/12/2020
+---
+We have a cool date today 😛. As for yesterday, thank God the day was well spent. Actually, not much was going on, but it was good as well. Last few weeks I've been making my whole weekly plan during the week and the weekend is free. And I like that! It does not mean that I spend Saturday doing nothing. On the contrary - thanks to the lack of obligation I feel that I am more creative 🙃!
+
+13/12/2020
+---
+It was good Saturday 👍👍! In the afternoon I ate a delicious dinner prepared by my mother 🤗 and spent the evening at my friend's. There were other friends, we had a nice time 🙃.
