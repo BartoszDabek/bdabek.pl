@@ -1377,3 +1377,31 @@ We have a cool date today 😛. As for yesterday, thank God the day was well spe
 13/12/2020
 ---
 It was good Saturday 👍👍! In the afternoon I ate a delicious dinner prepared by my mother 🤗 and spent the evening at my friend's. There were other friends, we had a nice time 🙃.
+
+14/12/2020
+---
+And thank God for another beautiful day in life ❤️! It was a good Sunday. After the morning service I went for a walk and after coming back my back started to hurt... It's possible that I blew my back but it is not a big deal. I will have even more to thank for when they stop hurting 😆😆. Today I start the new week! I am in good spirits and may it be according to God's will!
+
+15/12/2020
+---
+I don't know if it was a good Monday or not 😆. It wasn't bad - that's for sure! I'm waiting for the contract from the new company so that I can get to know it... If they don't send it to me by Thursday, I'll call them and ask them to do it. Apart from that - now, I don't feel well in this new company. The project I am on is very strange. I have the impression that there is nothing to do here 🤔🤔.
+
+16/12/2020
+---
+I have 3 things to describe and immortalize. The first one - I talked to my cousin about the proposals (because my candidate is her friend) and she gave me a lot of encouragement + interesting ideas. Two - I have a little turbulence at work now, they want to change my project and I will have to work in strange hours... Today I will have to call and urge the other company to send me a contract. Three - because of all this I slept very poorly tonight and I feel that I have raised my emotions 😄.
+
+17/12/2020
+---
+Yesterday, as I said, I reminded the company of the contract... And indeed, the HR lady forgot to send me an email with the contract 😅. Now it's all done! Yesterday, I also told a friend and his wife about my engagement plans. Tough days are coming up to my life 😝.
+
+18/12/2020
+---
+This week is going by stubbornly in the context of writing blog posts. Fortunately, the blog challenge is already ending 👍. The whole situation regarding the engagement confuses me a lot - especially in my head 😝.
+
+19/12/2020
+---
+Yesterday I had a good day 🙂! I was fasting, but I felt very good physically and much better spiritually! Today at 12 o'clock I plan to eat a meal and thank God for helping me fast. Yesterday I could also be at prayer in the evening: first at my church and then together with my cousin and aunt in the neighboring church 💪💪.
+
+20/12/2020
+---
+Yesterday we had a good time together with the youth 👍🙃. I came home after midnight and now I'm trying to get over yesterday's 😅.

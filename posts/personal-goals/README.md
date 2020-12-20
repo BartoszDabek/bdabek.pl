@@ -21,28 +21,22 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 2. ✅ HackerRank 👨‍💻(10.02-06.03)
 3. ✅ 100 pushups 🙇(1.04-25.04)
 4. ✅ 50 pull-ups 🏋️‍♂️(15.06-10.07)
-5. Blogging every day 📝 (25.11-20.12)
+5. ✅ Blogging every day 📝 (25.11-19.12)
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [12/13/2020]
+# [12/20/2020]
 
 ### Things I'll do This Week:
 
 - [ ] 📝 Blog - add a blog post
-- [ ] 📝 Blog - create infographic
-- [ ] 📗 Read [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
-- [ ] 📗 Read [BroadStackTest](https://martinfowler.com/bliki/BroadStackTest.html)
-- [ ] 📗 Read [SnowflakeServer](https://martinfowler.com/bliki/SnowflakeServer.html)
-- [ ] 📗 Read [ObservedRequirement](https://martinfowler.com/bliki/ObservedRequirement.html)
-- [ ] 📗 Read [TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html)
-- [ ] 📗 Read [VersionControlTools](https://martinfowler.com/bliki/VersionControlTools.html)
-- [ ] 📗 Read [FeatureBranch](https://martinfowler.com/bliki/FeatureBranch.html)
-- [ ] 🎧 Listen [POIT #026: Produktywność dla programisty](https://porozmawiajmyoit.pl/poit-026-produktywnosc-dla-programisty/)
-- [ ] 🎧 Listen [Episode 9 “Project Panama - The Foreign Memory Access API” with Maurizio Cimadamore and Jorn Vernee](https://inside.java/2020/12/11/podcast-009/)
-- [ ] 🎧 Listen [POIT #018: Jak dbać o zdrowie pracując w IT](https://porozmawiajmyoit.pl/poit-018-jak-dbac-o-zdrowie-pracujac-w-it/)
-- [ ] 🎧 Listen [POIT #023: Marketing w IT](https://porozmawiajmyoit.pl/poit-023-marketing-w-it/)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 14 - Entity lifecycle events and caching](https://youtu.be/MlS3QEDTiZc)
-- [ ] 📽️ Watch [JPA Fundamentals - Lesson 15 - JPQL vs. CriteriaQuery](https://youtu.be/FYbBadj5PRQ)
+- [ ] 📗 Read [TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+- [ ] 📗 Read [DesignStaminaHypothesis](https://martinfowler.com/bliki/DesignStaminaHypothesis.html)
+- [ ] 📗 Read [Why Google Stores Billions of Lines of Code in a Single Repository](https://dl.acm.org/doi/pdf/10.1145/2854146)
+- [ ] 📗 Read [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
+- [ ] 🎧 Listen [Google Analytics 4 – poznaj nowe statystyki strony internetowej, które pomogą ci (prawie) czytać w myślach klientów](https://malawielkafirma.pl/nowe-google-analytics-4/)
+- [ ] 🎧 Listen [Your Targeted Success Guaranteed | Personal Niche Marketing](https://youtu.be/MfroBUYpbYo)
+- [ ] 🎧 Listen [059 – Od pomysłu do kilkudziesięciu milionów, szkoła IT, bootcamp, jakościowe podejście do biznesu, Marcin Tchórzewski, founder i CEO Coders Lab](https://piotrbucki.pl/059)
+- [ ] 🎧 Listen [The Best GTD Apps: Be In Control And Achieve Your Goals With These 5 Tools (TPS330)](https://www.asianefficiency.com/podcasts/330-best-gtd-apps/)
 
 
 ### Things I'll Do in the Future 🏅
