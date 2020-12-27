@@ -1405,3 +1405,23 @@ Yesterday I had a good day 🙂! I was fasting, but I felt very good physically 
 20/12/2020
 ---
 Yesterday we had a good time together with the youth 👍🙃. I came home after midnight and now I'm trying to get over yesterday's 😅.
+
+21/12/2020
+---
+It was a Sunday, which was very confusing in my feelings. The problem I have is the fear of the other half, to not spoil anything... because I love her. And that's why I don't do well to talk to her and rarely open up honestly.
+
+22/12/2020
+---
+Yesterday I was in the post for this case. Yesterday I also filed a contract cancellation with the company and in another one I signed a new one. Well... there are changes coming - whether they are in the right direction, I do not know yet 🙄.
+
+23/12/2020
+---
+Life is unpredictable 😏. Yesterday I had a good spiritual time with my roommate and thank God for that 🤗. Today I will meet my friend and we will decide what will happen next with us - I am afraid of this conversation, in fact I am afraid of rejection. 
+
+24/12/2020
+---
+There was a reason why I was scared... it looks like it's not gonna happen. This is not how I imagined it, but better bitter truth than sweet lies.
+
+27/12/2020
+---
+I had a few tougher days, but thank God it's better now. There were also holidays and generally a time when I wasn't completely in the mood to write anything. Now, to tell you the truth, I feel a little emptiness, but I believe that God has everything in his hand and he has a plan in it all. 

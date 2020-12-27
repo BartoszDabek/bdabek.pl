@@ -24,19 +24,14 @@ Personal goals made open source. I want thanks to [una](https://github.com/una/p
 5. ✅ Blogging every day 📝 (25.11-19.12)
 6. ✅ Cold showers 🚿(15.06-10.07)
 
-# [12/20/2020]
+# [12/27/2020]
 
 ### Things I'll do This Week:
 
 - [ ] 📝 Blog - add a blog post
-- [ ] 📗 Read [TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
-- [ ] 📗 Read [DesignStaminaHypothesis](https://martinfowler.com/bliki/DesignStaminaHypothesis.html)
+- [ ] Goals for 2021
+- [ ] 2020 Review
 - [ ] 📗 Read [Why Google Stores Billions of Lines of Code in a Single Repository](https://dl.acm.org/doi/pdf/10.1145/2854146)
-- [ ] 📗 Read [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
-- [ ] 🎧 Listen [Google Analytics 4 – poznaj nowe statystyki strony internetowej, które pomogą ci (prawie) czytać w myślach klientów](https://malawielkafirma.pl/nowe-google-analytics-4/)
-- [ ] 🎧 Listen [Your Targeted Success Guaranteed | Personal Niche Marketing](https://youtu.be/MfroBUYpbYo)
-- [ ] 🎧 Listen [059 – Od pomysłu do kilkudziesięciu milionów, szkoła IT, bootcamp, jakościowe podejście do biznesu, Marcin Tchórzewski, founder i CEO Coders Lab](https://piotrbucki.pl/059)
-- [ ] 🎧 Listen [The Best GTD Apps: Be In Control And Achieve Your Goals With These 5 Tools (TPS330)](https://www.asianefficiency.com/podcasts/330-best-gtd-apps/)
 
 
 ### Things I'll Do in the Future 🏅
