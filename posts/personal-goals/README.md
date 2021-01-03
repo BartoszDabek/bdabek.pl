@@ -1,41 +1,45 @@
-Personal Goals
+Cele osobiste
 ==============
-Personal goals made open source. I want thanks to [una](https://github.com/una/personal-goals) for her personal goals repo that I can take pattern from and what made me motivate to work. 
+Kiedyś napiszę tu coś mądrego...
 
-# Overarching Goals for 2020 🏆🥇
-1. Help 3 strangers 🧚‍♂️ [2/3]
-2. Build an active community (1.5k unique blog visits in a month) 🧑‍🤝‍🧑
-3. ~~Solve 5 hard Algorithms and Data Structures tasks at [HackerRank](https://www.hackerrank.com/) 💙~~
-4. ~~Visit 2 different countries ✈️~~
-5. ✅ Master Technical University graduation 👨‍🎓
+# Główne cele na 2021 🏆🥇
+1. Pomoc innym 🧚‍♂️ [0/5]
+2. Certyfikaty 📜
+   - [ ] [Java SE 8 Programmer I. Exam Number: 1Z0-808](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-808)
+   - [ ] [Java SE 8 Programmer II. Exam Number: 1Z0-809](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-809)
+   - [ ]  [Upgrade OCP Java 6, 7 & 8 to Java SE 11 Developer. Exam Number: 1Z0-817](https://education.oracle.com/upgrade-ocp-java-6-7-8-to-java-se-11-developer/pexam_1Z0-817)
+4. Wycieczka do losowego miasta w Polsce/za granicą na spontanie 🚙
 
-## Sports goals 💪🥈
-1. ✅ 10km under 50 minutes 👟(24.06.2020 - time: 45:36)
-2. 50m underwater 🏊
-3. ✅ 3:45 with held breath 🧘(24.03.2020)
-4. ✅ Run 200 km in a year 🏃(07.07.2020)
-5. ✅ Cycle 600 km in a year 🚴(26.06.2020)
+## Cele Sportowe 💪🥈
+1. 3km < 12 minut 👟
+2. 50m pod wodą 🏊
+3. Przebiec 365 km w ciagu roku 🏃
+4. Przejechac na rowerze 2000 km w ciagu roku 🚴
+5. Przebiec na raz dystans półmaratonu 🏃‍♀️
+6. 80 kg wagi 💪
 
-## 25 Days Challenges 🔥🥉
-1. ✅ Holding breath 🧘(1.01-25.01)
-2. ✅ HackerRank 👨‍💻(10.02-06.03)
-3. ✅ 100 pushups 🙇(1.04-25.04)
-4. ✅ 50 pull-ups 🏋️‍♂️(15.06-10.07)
-5. ✅ Blogging every day 📝 (25.11-19.12)
-6. ✅ Cold showers 🚿(15.06-10.07)
+## Wyzwania 25 Dniowes 🔥🥉
+1. Wstrzymywanie oddechu 🧘
+2. 10_000 kroków 🦶
+3. 100 pompek 🙇
+4. 60 podciagniec 🏋️‍♂️
+5. Zimne prysznice 🚿
+6. Intermittent Fasting (od 14 do 19) 🥪
+7. 3500 Kcal 🍌
 
-# [12/27/2020]
+# [01/03/2021]
 
-### Things I'll do This Week:
+### Rzeczy na ten tydzień:
 
-- [ ] 📝 Blog - add a blog post
-- [ ] Goals for 2021
 - [ ] 2020 Review
 - [ ] 📗 Read [Why Google Stores Billions of Lines of Code in a Single Repository](https://dl.acm.org/doi/pdf/10.1145/2854146)
+- [ ] 📗 Read [PendingHead](https://martinfowler.com/bliki/PendingHead.html)
+- [ ] 📗 Read [Designing Email Signup Forms that Turn Visitors into Leads](https://designmodo.com/design-email-signup-forms/)
+- [ ] 📗 Read [Datensparsamkeit](https://martinfowler.com/bliki/Datensparsamkeit.html)
+- [ ] 🎧 Listen [Czy sport na pewno pomaga w biznesie? Doświadczenia sportowe mogą dodać twojej firmie skrzydeł… albo ją pogrążyć](https://malawielkafirma.pl/czy-sport-pomaga-biznesie/)
+- [ ] 🎧 Listen [Episode 94. Oh, put on your hat Dr. Watson, we are sleuthing this Heap Dump](https://www.javapubhouse.com/2020/12/episode-94-oh-put-on-your-hat-dr-watson-we-are-sleuthing-this-heap-dump.html)
+- [ ] 🎧 Listen [#35 Luźno na pytania z UserVoice](https://patoarchitekci.io/35/)
+- [ ] 🎧 Listen [Episode 10 “Project Panama - The Foreign Linker API” with Maurizio Cimadamore and Jorn Vernee](https://inside.java/2020/12/21/podcast-010/)
+- [ ] 📽️ Watch [Scaling Instagram Infrastructure](https://youtu.be/hnpzNAPiC0E)
 
-
-### Things I'll Do in the Future 🏅
-- [ ] Organize an event to help people (children from the orphanage / homeless)
-- [ ] Learn [AWS Cloud](https://www.youtube.com/user/Nephaste20/featured)
-- [ ] Scrum Master certification
-- [ ] Deep learning of [Hibernate](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html)
+### Rzeczy na przyszłość 🏅

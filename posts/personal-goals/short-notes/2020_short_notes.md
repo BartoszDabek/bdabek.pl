@@ -1425,3 +1425,11 @@ There was a reason why I was scared... it looks like it's not gonna happen. This
 27/12/2020
 ---
 I had a few tougher days, but thank God it's better now. There were also holidays and generally a time when I wasn't completely in the mood to write anything. Now, to tell you the truth, I feel a little emptiness, but I believe that God has everything in his hand and he has a plan in it all. 
+
+30/12/2020
+---
+I have just read all the entries from this year and I must say that overall it was a very good year 👍👍! The only thing that didn't work out was this love affair... but I believe that God has it all in His care 🙃. Btw. it's been almost a week since that conversation with Natalia and today I feel much stronger.
+
+31/12/2020
+---
+Yesterday I had a great day. Some friends came to my cousins on New Year's Eve and we spent good evening together. And before that, my friend invited me for dinner :)
