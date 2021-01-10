@@ -3,7 +3,7 @@ Cele osobiste
 Kiedyś napiszę tu coś mądrego...
 
 # Główne cele na 2021 🏆🥇
-1. Pomoc innym 🧚‍♂️ [0/5]
+1. Pomoc innym 🧚‍♂️ [1/5]
 2. Certyfikaty 📜
    - [ ] [Java SE 8 Programmer I. Exam Number: 1Z0-808](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-808)
    - [ ] [Java SE 8 Programmer II. Exam Number: 1Z0-809](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-809)
@@ -20,26 +20,28 @@ Kiedyś napiszę tu coś mądrego...
 
 ## Wyzwania 25 Dniowes 🔥🥉
 1. Wstrzymywanie oddechu 🧘
-2. 10_000 kroków 🦶
+2. 10_000 kroków 🦶 (2.01-27.01)
 3. 100 pompek 🙇
 4. 60 podciagniec 🏋️‍♂️
 5. Zimne prysznice 🚿
 6. Intermittent Fasting (od 14 do 19) 🥪
 7. 3500 Kcal 🍌
 
-# [01/03/2021]
+# [01/10/2021]
 
 ### Rzeczy na ten tydzień:
 
-- [ ] 2020 Review
-- [ ] 📗 Read [Why Google Stores Billions of Lines of Code in a Single Repository](https://dl.acm.org/doi/pdf/10.1145/2854146)
-- [ ] 📗 Read [PendingHead](https://martinfowler.com/bliki/PendingHead.html)
-- [ ] 📗 Read [Designing Email Signup Forms that Turn Visitors into Leads](https://designmodo.com/design-email-signup-forms/)
-- [ ] 📗 Read [Datensparsamkeit](https://martinfowler.com/bliki/Datensparsamkeit.html)
-- [ ] 🎧 Listen [Czy sport na pewno pomaga w biznesie? Doświadczenia sportowe mogą dodać twojej firmie skrzydeł… albo ją pogrążyć](https://malawielkafirma.pl/czy-sport-pomaga-biznesie/)
-- [ ] 🎧 Listen [Episode 94. Oh, put on your hat Dr. Watson, we are sleuthing this Heap Dump](https://www.javapubhouse.com/2020/12/episode-94-oh-put-on-your-hat-dr-watson-we-are-sleuthing-this-heap-dump.html)
-- [ ] 🎧 Listen [#35 Luźno na pytania z UserVoice](https://patoarchitekci.io/35/)
-- [ ] 🎧 Listen [Episode 10 “Project Panama - The Foreign Linker API” with Maurizio Cimadamore and Jorn Vernee](https://inside.java/2020/12/21/podcast-010/)
-- [ ] 📽️ Watch [Scaling Instagram Infrastructure](https://youtu.be/hnpzNAPiC0E)
+- [ ] Blog post
+- [ ] OCA Exam
+- [ ] 📗 Read [JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
+- [ ] 📗 Read [ComputationalNotebook](https://martinfowler.com/bliki/ComputationalNotebook.html)
+- [ ] 📗 Read [Snowflake in practice](https://blog.softwaremill.com/snowflake-in-practice-374fa6ec6016)
+- [ ] 📗 Read [Sposoby na poprawę wydajności Hibernate 🚀](https://softwareskill.pl/wydajnosc-hibernate)
+- [ ] 🎧 Listen [Your Success Superpower | Do This Daily](https://youtu.be/MFS8MU1EfL8)
+- [ ] 🎧 Listen [Borys Musielak-inspirujący ludzie dają mi energię do działania-SMOK Ventures](https://zaprojektujswojezycie.pl/borys-musielak-inspirujacy-ludzie-daja-mi-energie-do-dzialania-smok-ventures/)
+- [ ] 🎧 Listen [13. O architekturze mikroserwisowej z Kubą Nabrdalikiem](https://bettersoftwaredesign.pl/episodes/13)
+- [ ] 🎧 Listen [Jak zbudować kanał na YOUTUBE od zera do 321 000 subskrypcji? Filip Nowobilski [Expert w Bentley'u]](https://youtu.be/1nEmsgz69vs)
+- [ ] 🎧 Listen [10 Poważnych Wad Jednoosobowej Działalności JDG [Biznes 2.0]](https://youtu.be/3OdlufH4AZ8)
+- [ ] 📽️ Watch [How to Debug Your Team](https://youtu.be/fIql6Kz4GIQ)
 
 ### Rzeczy na przyszłość 🏅

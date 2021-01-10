@@ -15,10 +15,14 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## In Progress
-- [ ] OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808 - Jeanne Boyarsky, Scott Selikoff
+- [ ] OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide: Exam 1Z0-809
 - [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
 
 ## Books read
+### 2021
+- [x] OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808 - Jeanne Boyarsky, Scott Selikoff
+
+
 ### 2020
 - [x] Finansowa Forteca - Marcin Iwuć
 - [x] Beyond the Twelve-Factor App (Exploring the DNA of Highly Scalable, Resilient Cloud Applications) - Kevin Hoffman
