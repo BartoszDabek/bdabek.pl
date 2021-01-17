@@ -27,21 +27,23 @@ Kiedyś napiszę tu coś mądrego...
 6. Intermittent Fasting (od 14 do 19) 🥪
 7. 3500 Kcal 🍌
 
-# [01/10/2021]
+# [01/17/2021]
 
 ### Rzeczy na ten tydzień:
 
-- [ ] Blog post
-- [ ] OCA Exam
-- [ ] 📗 Read [JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
-- [ ] 📗 Read [ComputationalNotebook](https://martinfowler.com/bliki/ComputationalNotebook.html)
-- [ ] 📗 Read [Snowflake in practice](https://blog.softwaremill.com/snowflake-in-practice-374fa6ec6016)
-- [ ] 📗 Read [Sposoby na poprawę wydajności Hibernate 🚀](https://softwareskill.pl/wydajnosc-hibernate)
-- [ ] 🎧 Listen [Your Success Superpower | Do This Daily](https://youtu.be/MFS8MU1EfL8)
-- [ ] 🎧 Listen [Borys Musielak-inspirujący ludzie dają mi energię do działania-SMOK Ventures](https://zaprojektujswojezycie.pl/borys-musielak-inspirujacy-ludzie-daja-mi-energie-do-dzialania-smok-ventures/)
-- [ ] 🎧 Listen [13. O architekturze mikroserwisowej z Kubą Nabrdalikiem](https://bettersoftwaredesign.pl/episodes/13)
-- [ ] 🎧 Listen [Jak zbudować kanał na YOUTUBE od zera do 321 000 subskrypcji? Filip Nowobilski [Expert w Bentley'u]](https://youtu.be/1nEmsgz69vs)
-- [ ] 🎧 Listen [10 Poważnych Wad Jednoosobowej Działalności JDG [Biznes 2.0]](https://youtu.be/3OdlufH4AZ8)
-- [ ] 📽️ Watch [How to Debug Your Team](https://youtu.be/fIql6Kz4GIQ)
+- [ ] OCA Exam Preperation + Schedule an Exam
+- [ ] 📗 Read [Programista a ryczałt 15% – kolejny sposób na obniżenie podatku już od 2021 r.!](https://podatkiprogramisty.pl/programista-a-ryczalt-15-kolejny-sposob-na-obnizenie-podatku-juz-od-2021-r/)
+- [ ] 📗 Read [15 Reasons to use Redis as an Application Cache](https://redislabs.com/wp-content/uploads/2016/03/15-Reasons-Caching-is-best-with-Redis-RedisLabs-1.pdf)
+- [ ] 📗 Read [IllustrativeProgramming](https://martinfowler.com/bliki/IllustrativeProgramming.html)
+- [ ] 📗 Read [DarkLaunching](https://martinfowler.com/bliki/DarkLaunching.html)
+- [ ] 📗 Read [SyntheticMonitoring](https://martinfowler.com/bliki/SyntheticMonitoring.html)
+- [ ] 🎧 Listen [Piotr Noceń-robię rzeczy, które lubię robić-Resource Partners](https://zaprojektujswojezycie.pl/piotr-nocen-robie-rzeczy-ktore-lubie-robic-resource-partners/)
+- [ ] 🎧 Listen [PLT #186 CECHA CHARAKTERU, KTÓRĄ NAJBARDZIEJ CENIĘ- RADEK BUDNICKI DLA DARIUSZA HAMPELA](https://lepiejteraz.pl/186/)
+- [ ] 🎧 Listen [24. O Aggregates By Example, analiza procesu wypożyczenia ze Sławkiem Sobótką](https://bettersoftwaredesign.pl/episodes/24)
+- [ ] 🎧 Listen [POIT #031: Projekty poboczne (side projects)](https://porozmawiajmyoit.pl/poit-031-projekty-poboczne-side-projects/)
+- [ ] 🎧 Listen [Author and Podcaster: Tim Ferriss](https://www.npr.org/2020/12/18/948108821/author-and-podcaster-tim-ferriss)
+- [ ] 🎧 Listen [Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals (#490)](https://tim.blog/2020/12/28/jim-loehr-2/)
+- [ ] 📽️ Watch [Richard Warburton - Continuous Profiling in Production: What, Why and How](https://youtu.be/nUwujM7fitE)
+- [ ] 📽️ Watch [Frank Greco & Zoran Sevarac - JSR381 - Visual Recognition for Java - A Java-Friendly ML API](https://youtu.be/rtA9jfeqmIs)
 
 ### Rzeczy na przyszłość 🏅
