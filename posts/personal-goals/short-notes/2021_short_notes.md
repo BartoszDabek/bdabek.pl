@@ -57,3 +57,27 @@ Jest 10:28. Dziś już przeszedłem ponad 6 km, zrobiłem zakupy i właśnie sko
 17/01/2020
 ---
 I było zaskakująco :). Na kuligu byliśmy 4 godziny (mieliśmy tam jeszcze ognisko), pogoda była super i w trakcie napadało duzo śniegu :D. Po powrocie czekało mnie odśnieżanie podwórka i tyle śniegu co napadało to nie pamiętam już od dobrych kilku lat!
+
+18/01/2020
+---
+Dostałem propozycję żeby pójść morsować i się zgodziłem 😆. O 14:30 weszliśmy do wody.. dziś (dzień później), czuję że mam oparzone końcowki palców u rąk i nóg 🙄. Oprócz tego odwiedziłem jeszcze dziadka (miał 80 urodziny) i byłem na obu nabożeństwach.
+
+19/01/2020
+---
+Dobry poniedziałek! Niby nie działo się za wiele, ale czuję, że było produktywnie 🔥🔥!
+
+21/01/2020
+---
+Oho, zapomniałem wczoraj coś napisać 😝. Dziś nadrobię. Generalnie przez ostatnie 2 dni moje poranki wyglądaja tak, że zaczynam je od spacerów. Wczoraj było to ponad 5km, dziś trochę ponad 3.
+
+22/01/2020
+---
+Wczoraj był ostatni dzień pracy dla klienta któremu świadczyłem usługi przez ostatnie 3 miesiące. Właściwie to ostatni miesiąc był bardzo lajtowy i nie było tam nic do roboty... Wczoraj zapisałem się też na egzamin certyfikujący. Zapisanie się na ten egzamin to jakaś masakra 😑. Nie mogłem tego zrobić sam i musiałem 5x dzwonić do nich na pomoc techniczną...
+
+23/01/2020
+---
+Dziś mija dokładnie miesiąc od kiedy zawiodłem się sercowo. Nie ucieknę od tego choćbym chciał, więc wolę to napisać. Na 100% mój stan jest już o wiele lepszy, tzn. czuję się dobrze i się z tym pogodziłem. Mimo to, to wszystko leży gdzieś na dnie serca i szczerze chciałbym o tym zapomnieć :)
+
+24/01/2020
+---
+Wczoraj wpadłem w duże pokuszenie. Ściągnąłem cs'a i nawet chwilę pograłem. Dzięki Bogu, że mój komputer jest typowo biznesowy i ma zintegrowaną kartę graficzną, dzięki czemu miałem ogromne spadki fps'ów. No i poskutkowało to tym, że po 30 minutach usunąłem zarówno cs'a jak i steama :P.
