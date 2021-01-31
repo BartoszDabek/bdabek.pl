@@ -81,3 +81,31 @@ Dziś mija dokładnie miesiąc od kiedy zawiodłem się sercowo. Nie ucieknę od
 24/01/2020
 ---
 Wczoraj wpadłem w duże pokuszenie. Ściągnąłem cs'a i nawet chwilę pograłem. Dzięki Bogu, że mój komputer jest typowo biznesowy i ma zintegrowaną kartę graficzną, dzięki czemu miałem ogromne spadki fps'ów. No i poskutkowało to tym, że po 30 minutach usunąłem zarówno cs'a jak i steama :P.
+
+25/01/2020
+---
+To była dobra niedziela - szczególnie duchowo :). Dziś zaczynamy już nowy tydzień. Cały tydzień mam wolny, więc zobaczymy co ponadprogramowo uda mi się zrobić... Teraz jest 8:32, ja jestem już po 4 kilometrowym spacerze, za oknem pada śnieg i ide za chwilę jeść śniadanko! Ojj... chyba to będzie dobry dzień!
+
+26/01/2020
+---
+Ależ dziś był piękny poranek!! O 5 rano obudził mnie brat i poszliśmy odśnieżać 😆. Spadło tyle śniegu, że od dobrych kilku lub kilkunastu lat nie pamiętam aby tak było 😲. Ale to mi się podoba! Lubię taką zimę 🤗
+
+27/01/2020
+---
+Wczoraj było spoko. Byłem u kuzyna, później poodśnieżałem jeszcze trochę na placu zborowym, pojechałem do przyjaciela, żeby mnie ostrzygł i mniej więcej tyle :)
+
+28/01/2020
+---
+Pierwszy cel i wyzwanie w tym roku osiągnięte! Udało mi się zdobyć certyfikat OCA + skończyć wyzwanie 10 000 kroków dziennie. Przyznam, że zwłaszcza ostatnie dni były cięższe w tym wyzwaniu. Teraz mam zamiar robić około 6000 kroków dziennie. Myślę, że to wyjdzie na zdrowie :)
+
+29/01/2020
+---
+Wczoraj chciałem pościć cały dzień, ale wytrzymałem tylko do 15 (dobre wprowadzenie do intermediate fasting). Mało też zrobiłem kroków (może 3000), bo cały dzień źle się czułem :/. Btw. mamy wspaniałą zimę, teraz jest 8 rano i znów pada śnieg! :)
+
+30/01/2020
+---
+Dobry piątek :). Odśnieżałem z bratem plac zborowy (było baaaardzo dużo śniegu) i ogólnie czułem się dobrze przez większość dnia. Dziś jadę do Warszawy razem z moją kuzynką.
+
+31/01/2020
+---
+Już ostatni dzień stycznia 😲! Wczoraj byłem w Warszawie razem z kuzynką (pojechaliśmy odebrać pewną osobę), mieliśmy dobry czas 🙃. Dziś będę chyba usługiwał w kościele Słowem Bożym + później jedziemy do wujka na urodziny 🥳🥳
