@@ -3,7 +3,7 @@ Cele osobiste
 Kiedyś napiszę tu coś mądrego...
 
 # Główne cele na 2021 🏆🥇
-1. Pomoc innym 🧚‍♂️ [1/5]
+1. Pomoc innym 🧚‍♂️ [3/5]
 2. Certyfikaty 📜
    - [x] [Java SE 8 Programmer I. Exam Number: 1Z0-808](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-808)
    - [ ] [Java SE 8 Programmer II. Exam Number: 1Z0-809](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-809)
@@ -25,21 +25,27 @@ Kiedyś napiszę tu coś mądrego...
 4. 60 podciagniec 🏋️‍♂️
 5. Zimne prysznice 🚿
 6. Intermittent Fasting (od 14 do 19) 🥪
-7. 3200-3500 Kcal 🍌
+7. 3200+ Kcal 🍌
+8. Keto 🥑
+9. Brak mięsa 🍎
 
-# [01/31/2021]
+# [02/07/2021]
 
-### Rzeczy na ten tydzień:
-
-- [ ] Przygotowac strone projektzycia do bycia gotową na dodawanie blogów
-- [ ] 'Spolszczyć' sekcje accomplishments + dodać ciekawe emotki
-- [ ] 📗 Read [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
-- [ ] 📗 Read [OCP - Chapter 1 Advanced Class Design 1](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 🎧 Listen [David Rubenstein, Co-Founder of The Carlyle Group, on Lessons Learned, Jeff Bezos, Raising Billions of Dollars, Advising Presidents, and Sprinting to the End (#495)](https://tim.blog/2021/01/27/david-rubenstein/)
-- [ ] 🎧 Listen [Które fundusze ETF płacą najwyższe dywidendy?](https://inwestomat.eu/ktore-fundusze-etf-placa-najwyzsze-dywidendy/)
-- [ ] 🎧 Listen [François Nail-leaderzy potrzebują przestrzeni do szczerej rozmowy-CEO Round Table](https://zaprojektujswojezycie.pl/francois-nail-leaderzy-potrzebuja-przestrzeni-do-szczerej-rozmowy-ceo-round-table/)
-- [ ] 🎧 Listen [Episode 107: Holiday Episode 2020](https://www.programmingthrowdown.com/2021/01/episode-107-holiday-episode-2020.html)
-- [ ] 📽️ Watch [Elder Moraes - Java & containers: what I wish I knew before I have used it](https://youtu.be/4nPZS3uYsXw)
-- [ ] 📽️ Watch [Marcus Hirt - JMC 8 and Beyond](https://youtu.be/9le3sboLLck)
+### ⭐ Rzeczy na ten tydzień:
+- [ ] 💻 Blog - napisać post o wyjątkach
+- [ ] 🥝 Food book - zrobić jeden posiłek
+- [ ] 🎁 Kupić prezent mamie na urodziny
+- [ ] 📗 Przeczytać [OCP - Chapter 2 Design Patterns and Principles](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [Netflix DGS, czyli GraphQL ze Spring Boot](https://bartlomiejchmielewski.pl/netflix-dgs/)
+- [ ] 📗 Przeczytać [Nigdy nie popełniaj tego błędu mapując ID encji w JPA / Hibernate](https://sztukakodu.pl/equals-hashcode/)
+- [ ] 📗 Przeczytać [Moje środowisko programistyczne](https://socodeit.pl/2021/02/moje-srodowisko-programistyczne/)
+- [ ] 🎧 Przesłuchać [How To Do A Digital Declutter: 5 Ways To Reclaim Your Focus (TPS337)](https://www.asianefficiency.com/podcasts/337-digital-declutter/)
+- [ ] 🎧 Przesłuchać [POIT #103: Low-code / no-code](https://porozmawiajmyoit.pl/poit-103-low-code-no-code/)
+- [ ] 🎧 Przesłuchać [Marc Randolph on Building Netflix, Battling Blockbuster, Negotiating with Amazon/Bezos, and Scraping the Barnacles Off the Hull (#496)](https://tim.blog/2021/02/01/marc-randolph/)
+- [ ] 🎧 Przesłuchać [Tomasz Szuba-jak rozwiązać problem food-waste-Venturis HoReCa](https://zaprojektujswojezycie.pl/tomasz-szuba-jak-rozwiazac-problem-food-waste-venturis-horeca/)
+- [ ] 📽️ Obejrzeć [Victor Rentea - The Definitive Guide to Working with Exceptions in Java](https://youtu.be/LRwCE7GreSM)
+- [ ] 📽️ Obejrzeć [Rafael Winterhalter - Tracing Distributed Microservices](https://youtu.be/HZq7vqZ5p8A)
+- [ ] 📽️ Obejrzeć [How to easily design a Recipe Book PDF (or pretty much anything else) with Canva](https://youtu.be/cRss0ktsVcw)
 
 ### Rzeczy na przyszłość 🏅
+- [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
