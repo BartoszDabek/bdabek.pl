@@ -137,3 +137,31 @@ I to był dobry początek weekendu!! Lekko przeminął ten piątek :) + mogłem 
 07/02/2021
 ---
 Wczoraj miałem najbardziej produktywny dzień od baaaaardzo długiego czasu. Od samego rana miałem konkretny plan, który realizowałem. Udało mi się zrobić wszystko i pod wieczór nadal miałem energię! Ba, dalej ją mam!! 🤗
+
+08/02/2021
+---
+Niedziela była mniej produktywna, ale za to mocna duchowo... a prawdę mówiąc to jest ważniejsze :). Byłem też w lesie na spacerze i jest pięknie! Było około -15 stopni i las jest piękny! 
+
+09/02/2021
+---
+Wczoraj słońce, dzisiaj deszcz - taka przenośnia.. bo ten poniedziałek do samego wieczoru był słaby. Praca, praca, praca... Na całe szczęście wieczorem się ogarnąłem, zrobiłem trening i odśnieżyłem podwórko (btw. znów napadało dużo śniegu :D).
+
+10/02/2021
+---
+Wtorek był ok! Udało mi się dociągnąć wszystkie tematy w pracy :). Dodatkowo, razem z bratem i naszym znajomym odśniżyliśmy plac zborowy. Dziś czas w końcu zacząć pisać post na bloga!!!
+
+11/02/2021
+---
+Kolejny dobry dzień 😏. Wczoraj planowałem, zacząć pisać bloga, a okazało się, że jak siadłem to napisałem całość za jednym zamachem 🙂. Dziś fajnie byłoby zacząć food booka. Btw. dziś jest tłusty czwartek i pewnie z jednego lub dwa pączki opędzluję (tym bardziej, że obecnie jestem w okresie budowania masy).
+
+12/02/2021
+---
+Wczoraj większość dnia spędziłem na pracy, ale żeby nie było, nie pracowałem jakoś mega intensywnie. Po prostu byłem mało produktywny... taki dzień, przez co pracowałem chyba do 17 (z dużymi przerwami). Wieczorem poszedłem jeszcze na nabożeństwo i właściwie tak zakończył się mój dzień.
+
+13/02/2021
+---
+Piąteczek i weekend :). Bardzo się ostatnio cieszę, gdy zaczynają się weekendy 🤗 pomimo, że lubię swoją pracę. Wczoraj był też pierwszy dzień otwarcia basenu i razem ze znajomymi oczywiście poszliśmy się zrelaksować 😝.
+
+14/02/2021
+---
+Sobota jak zawsze zleciała za szybko. Odwiedziłem mojego przyjaciela - urodziła mu się druga córeczka 🥳! Oprócz tego zrobiłem przegląd auta i robiłem food booka 😄. Ciekawa odskocznia od codziennego programowania :)
