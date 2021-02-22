@@ -30,20 +30,18 @@ Cele osobiste
 8. Keto 🥑
 9. Brak mięsa 🍎
 
-# [02/14/2021]
+# [02/21/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 🥝 Food book - dokończyć
-- [ ] 📗 Przeczytać [OCP - Chapter 3 Generics and Collections](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [Jak podnosić swoje kompetencje jako programista?](https://kodujmy.pl/jak-podnosic-swoje-kompetencje-jako-programista/)
-- [ ] 📗 Przeczytać [Kilka failstory na drodze ku szybszemu działaniu bloga](https://mmazurek.dev/kilka-failstory-na-drodze-ku-szybszemu-dzialaniu-bloga/)
-- [ ] 📗 Przeczytać [All you need to know about Java’s BigDecimal](https://peterdev.pl/2021/02/11/all-you-need-to-know-about-javas-bigdecimal/)
-- [ ] 🎧 Przesłuchać [SPI 459: The Right Formula to Win on YouTube with Derral Eves](https://www.smartpassiveincome.com/podcasts/formula-to-win-on-youtube/)
-- [ ] 🎧 Przesłuchać [Use Your Calendar Like A Pro With These 5 Calendar Hacks (TPS338)](https://www.asianefficiency.com/podcasts/338-calendar-hacks/)
-- [ ] 🎧 Przesłuchać [060 – Produktywność a narzędzia pracy grupowej, telefon, email, komunikator, wiki, crm, pliki](https://piotrbucki.pl/060)
-- [ ] 🎧 Przesłuchać [Dlaczego inwestuję, czyli moja droga do finansowej niezależności](https://inwestomat.eu/dlaczego-inwestuje/)
-- [ ] 📽️ Obejrzeć [Cay Horstmann - Looming Changes in Concurrent Programming](https://youtu.be/NFYGZKpPwSM)
-- [ ] 📽️ Obejrzeć [Using Maven in IntelliJ IDEA](https://youtu.be/D1sRK8JLCQ4)
+- [ ] 📝 Blog - napisać/zaktualizować wpis o egzaminie OCA
+- [ ] 📗 Przeczytać [OCP - Chapter 4 Functional Programming](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [JVM w krainie wiecznych łowów](https://jgardo.dev/2021/02/17/jvm-w-krainie-wiecznych-lowow/)
+- [ ] 🎧 Przesłuchać [Why Community Is Everything In 2021 (and Beyond) — Bonus Episode with Circle.so](https://www.smartpassiveincome.com/podcasts/why-community-is-everything-with-circle-so/)
+- [ ] 🎧 Przesłuchać [#11 Clubhouse - Historia, Founderzy, Praktyka, Przyszłość](https://biznesdzis.podbean.com/e/bizdzis11/)
+- [ ] 🎧 Przesłuchać [Episode 12 “jpackage” with Kevin Rushforth](https://inside.java/2021/02/11/podcast-012/)
+- [ ] 🎧 Przesłuchać [Piotr Pągowski-wieloletnia kariera w IT przyszłego magnata kosmetycznego](https://zaprojektujswojezycie.pl/piotr-pagowski-wieloletnia-kariera-w-it-przyszlego-magnata-kosmetycznego/)
+- [ ] 📽️ Obejrzeć [IntelliJ IDEA. Debugger Essentials (2021)](https://youtu.be/59RC8gVPlvk)
+- [ ] 📽️ Obejrzeć [Spring AOP – Implementacja aspektów](https://nullpointerexception.pl/spring-aop-implementacja-aspektow/)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)

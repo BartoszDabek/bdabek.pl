@@ -165,3 +165,31 @@ Piąteczek i weekend :). Bardzo się ostatnio cieszę, gdy zaczynają się weeke
 14/02/2021
 ---
 Sobota jak zawsze zleciała za szybko. Odwiedziłem mojego przyjaciela - urodziła mu się druga córeczka 🥳! Oprócz tego zrobiłem przegląd auta i robiłem food booka 😄. Ciekawa odskocznia od codziennego programowania :)
+
+15/02/2021
+---
+Wspaniała i zarazem produktywna niedziela! Byłem na obu nabożeństwach, zrobiłem sobie kilkukilometrowy spacer + wykonałem całkiem sporo zadań z listy na ten tydzień. Dodatkowo, moja kuzynka zaproponowała wyjazd na spotkanie młodzieżowe na śląsk - oczywiście nie odmówiłem 🙂
+
+16/02/2021
+---
+Dobry poniedziałek!! Po pracy poszedłem na basen z moim przyjacielem :). I ogólnie miałem dobry dzień, pomimo, że za dużo się nie wydarzyło.
+
+17/02/2021
+---
+Wtorek też był dobry. Spędziłem fajny wieczór z rodzicami + sam rozliczyłem swój roczny pit (księgowość chciała za dużo :D). Rozkminiam jak lepiej gospodarować swoim czasem, bo zauważam, że mam go sporo i prawdę mówiąc - tracę go.
+
+18/02/2021
+---
+Ciągle mi się myli czy na początku mam pisać dziś czy wczoraj i chyba będę pisać dziś (albo podawał dzień tygodnia)... bo w sumie nie piszę o planach na ten dzień, tylko podsumowuję co się działo. A więc dziś zaczęła się poważna praca - mam konkretne zadania + wieczorem byłem z moim przyjacielem na basenie. I najważniejsze, dziś były mojej mamy urodziny! 
+
+19/02/2021
+---
+Dziś wyrywali mi ząb mądrości. Lekarz zdecydował się na 'łatwiejszy'. Jak się okazało, sam powiedział, że w życiu może 2 podobne wyrywał. Zabieg trwał ponad 1.5h. Mam szczerą nadzieję, że nie będę odczuwał wielkiego bólu.
+
+20/02/2021
+---
+Cały dzień to była walka z bólem. Nie był on aż tak wielki, ale mimo wszystko przeszkadzający. Dodatkowo nie mogłem jeść gorących dań + miałem gorączkę :(
+
+22/02/2021
+---
+Opuściłem jeden dzień a to dlatego, że mogłem być na śląsku i uznałem, że nie będę używał tam komputera :). Mieliśmy bardzo dobry duchowo czas i dzięki za to Bogu! Całą naszą ekipą, którą tam pojechaliśmy mogliśmy i usłużyliśmy. A oprócz tego spotkałem się z dużą częścią rodziny!
