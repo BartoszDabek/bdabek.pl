@@ -193,3 +193,27 @@ Cały dzień to była walka z bólem. Nie był on aż tak wielki, ale mimo wszys
 22/02/2021
 ---
 Opuściłem jeden dzień a to dlatego, że mogłem być na śląsku i uznałem, że nie będę używał tam komputera :). Mieliśmy bardzo dobry duchowo czas i dzięki za to Bogu! Całą naszą ekipą, którą tam pojechaliśmy mogliśmy i usłużyliśmy. A oprócz tego spotkałem się z dużą częścią rodziny!
+
+23/02/2021
+---
+Dobry początek tygodnia 💪! W pracy na spokojnie robiłem swoją pracę, a później pojechałem razem z kuzynkami do Białegostoku i tam spędziłem cały wieczór.
+
+24/02/2021
+---
+Dziś razem z kuzynem skręcialiśmy siłownię. W lekko ponad 2h prawie złożyliśmy wszystko, ale muszę przyznać, że duże podziękowania należą się właśnie mojemu kuzynowi, który to ogarniał.
+
+25/02/2021
+---
+Kolejny fajny dzień. Dzisiaj byłem u kuzynki na SUPER smacznym burgerze (ofc, którego sama robiła). Później odwiedziliśmy mojego przyjaciela i razem z nim poszedłem na basen. Good day!
+
+26/02/2021
+---
+Kolejna 8-mka wyrwana. Tym razem poszło w lekko ponad godzinę, ale bolało bardziej. A jeszcze wieczorem zaczęło mi to krwawić... :(
+
+27/02/2021
+---
+Dobry piątek! Pomimo bólu, myślę, że wykorzystałem ten dzień całkiem dobrze. Jedyny minus (nie koniecznie tego dnia), to to, że nie chce mi się pisać nic na bloga.
+
+28/02/2021
+---
+Choć to była dobra sobota - zrobiłem wszystko co założyłem, odwiedziłem mojego przyjaciela i byłem na basenie z kuzynem to jest jedno ale.. Ale dostałem mandat za brak maseczki w miejscu publicznym 😅.

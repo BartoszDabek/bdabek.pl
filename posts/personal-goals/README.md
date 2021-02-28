@@ -30,18 +30,16 @@ Cele osobiste
 8. Keto 🥑
 9. Brak mięsa 🍎
 
-# [02/21/2021]
+# [02/28/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 📝 Blog - napisać/zaktualizować wpis o egzaminie OCA
-- [ ] 📗 Przeczytać [OCP - Chapter 4 Functional Programming](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [JVM w krainie wiecznych łowów](https://jgardo.dev/2021/02/17/jvm-w-krainie-wiecznych-lowow/)
-- [ ] 🎧 Przesłuchać [Why Community Is Everything In 2021 (and Beyond) — Bonus Episode with Circle.so](https://www.smartpassiveincome.com/podcasts/why-community-is-everything-with-circle-so/)
-- [ ] 🎧 Przesłuchać [#11 Clubhouse - Historia, Founderzy, Praktyka, Przyszłość](https://biznesdzis.podbean.com/e/bizdzis11/)
-- [ ] 🎧 Przesłuchać [Episode 12 “jpackage” with Kevin Rushforth](https://inside.java/2021/02/11/podcast-012/)
-- [ ] 🎧 Przesłuchać [Piotr Pągowski-wieloletnia kariera w IT przyszłego magnata kosmetycznego](https://zaprojektujswojezycie.pl/piotr-pagowski-wieloletnia-kariera-w-it-przyszlego-magnata-kosmetycznego/)
-- [ ] 📽️ Obejrzeć [IntelliJ IDEA. Debugger Essentials (2021)](https://youtu.be/59RC8gVPlvk)
-- [ ] 📽️ Obejrzeć [Spring AOP – Implementacja aspektów](https://nullpointerexception.pl/spring-aop-implementacja-aspektow/)
+- [ ] 📗 Przeczytać [OCP - Chapter 5 Dates, Strings, and Localization](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 🎧 Przesłuchać [Michał Szafrański-wszystko co robię, robię z lenistwa-Jak Oszczędzać Pieniądze](https://zaprojektujswojezycie.pl/michal-szafranski-wszystko-co-robie-robie-z-lenistwa-jak-oszczedzac-pieniadze/)
+- [ ] 🎧 Przesłuchać [Lessons and Warnings From Successful Risk Takers (#292)](https://tim.blog/2018/01/18/lessons-and-warnings-from-successful-risk-takers/)
+- [ ] 🎧 Przesłuchać [Waluta notowań funduszu ETF nie ma żadnego znaczenia](https://inwestomat.eu/waluta-notowan-funduszu-etf-nie-ma-zadnego-znaczenia/)
+- [ ] 🎧 Przesłuchać [POIT #104: Optymalizacja front-endu](https://porozmawiajmyoit.pl/poit-104-optymalizacja-front-endu/)
+- [ ] 📽️ Obejrzeć [281 WJUG Marcin Grzejszczak - "Tracing Issues in Your Application"](https://youtu.be/CL5vyQXRXxM)
+- [ ] 📽️ Obejrzeć [IntelliJ IDEA. Debugger Advanced (2021)](https://youtu.be/40Og3hTV--k)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
