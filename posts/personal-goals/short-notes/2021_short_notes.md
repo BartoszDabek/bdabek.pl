@@ -217,3 +217,31 @@ Dobry piątek! Pomimo bólu, myślę, że wykorzystałem ten dzień całkiem dob
 28/02/2021
 ---
 Choć to była dobra sobota - zrobiłem wszystko co założyłem, odwiedziłem mojego przyjaciela i byłem na basenie z kuzynem to jest jedno ale.. Ale dostałem mandat za brak maseczki w miejscu publicznym 😅.
+
+01/03/2021
+---
+Ojoj, nie chcę mówić, że to była wspaniała niedziela, ale na pewno wiecej niż dobra. Mam chyba dwa powody ku temu. Pierwszy (mniej ważny), napisałem wpis na blogu i drugi odezwałem się do dziewczyny z którą nam się nie udało 2 miesiące temu. Popisaliśmy i wydaje mi się wyjaśniliśmy sobie kilka spraw :)
+
+02/03/2021
+---
+Świetny początek tygodnia! Rano na śniadanie wpadła do mnie moja kuzynka, a po pracy mój dobry znajomy (byłem świadkiem na jego ślubie) zaprosił mnie na wieczór + basen. Nie odmówiłem i w dobrym towarzystwie spędziłem wieczór.
+
+03/03/2021
+---
+Dziś cały dzień w domu (zrobiłem sobie krótki spacer po pracy). Dzień bez fajerwerków - nie był zły, nie był dobry.
+
+04/03/2021
+---
+Kolejny nie za bardzo interesujący dzień. Robiłem swoją robotę, troszkę pospacerowałem (piekne słoneczko świeciło!), a wieczorem rozważałem Słowo Boże.
+
+05/03/2021
+---
+Ale pięknie się dziś dzień potoczył. Kuzynka zaproponowała mi wyjazd na grupkę do Białegostoku i tak właśnie zrobiliśmy. O 17 zapakowaliśmy się w auto i pojechaliśmy. To była mała grupka (5 osób razem z nami), ale miałem okazję poznać nowych ludzi! :)
+
+06/03/2021
+---
+Dziś dzień był też szalony - praca, później siłownia z bratem (i trochę tatą), modlitwa i basen z przyjacielem. A wieczorem miałem jeszcze 1.5h rozmowę z tą samą dziewczyną, z którą nie wyszło 3 miesiące temu.
+
+07/03/2021
+---
+No i kolejny dobry dzień!! Tym razem większość soboty spędziłem u kuzyna. Skręcaliśmy szafę przez wiekszość dnia. A wieczorem poszliśmy na basen, gdzie dołączyłi do nas jeszcze nasz ziomek i mąż naszej kuzynki :)

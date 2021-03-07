@@ -23,23 +23,27 @@ Cele osobiste
 1. Wstrzymywanie oddechu 🧘
 2. ✅ 10_000 kroków 🦶 (2.01-27.01)
 3. 100 pompek 🙇
-4. 60 podciagniec 🏋️‍♂️
+4. 60 podciagniec 🏋️‍♂️ (08.03-02.04)
 5. Zimne prysznice 🚿
 6. Intermittent Fasting (od 14 do 19) 🥪
 7. 3200+ Kcal 🍌
 8. Keto 🥑
 9. Brak mięsa 🍎
 
-# [02/28/2021]
+# [03/07/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 📗 Przeczytać [OCP - Chapter 5 Dates, Strings, and Localization](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 🎧 Przesłuchać [Michał Szafrański-wszystko co robię, robię z lenistwa-Jak Oszczędzać Pieniądze](https://zaprojektujswojezycie.pl/michal-szafranski-wszystko-co-robie-robie-z-lenistwa-jak-oszczedzac-pieniadze/)
-- [ ] 🎧 Przesłuchać [Lessons and Warnings From Successful Risk Takers (#292)](https://tim.blog/2018/01/18/lessons-and-warnings-from-successful-risk-takers/)
-- [ ] 🎧 Przesłuchać [Waluta notowań funduszu ETF nie ma żadnego znaczenia](https://inwestomat.eu/waluta-notowan-funduszu-etf-nie-ma-zadnego-znaczenia/)
-- [ ] 🎧 Przesłuchać [POIT #104: Optymalizacja front-endu](https://porozmawiajmyoit.pl/poit-104-optymalizacja-front-endu/)
-- [ ] 📽️ Obejrzeć [281 WJUG Marcin Grzejszczak - "Tracing Issues in Your Application"](https://youtu.be/CL5vyQXRXxM)
-- [ ] 📽️ Obejrzeć [IntelliJ IDEA. Debugger Advanced (2021)](https://youtu.be/40Og3hTV--k)
+- [ ] ✒️ Wpis na blogu
+- [ ] 📗 Przeczytać [OCP - Chapter 6 Exceptions and Assertions](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [Współbieżność – pytania rekrutacyjne. 41 pytań i odpowiedzi](https://sztukakodu.pl/wspolbieznosc-pytania-rekrutacyjne/)
+- [ ] 📗 Przeczytać [Rozwój klasy String w Java od wersji 8 do 15.](https://blog.lantkowiak.pl/index.php/2021/02/28/rozwoj-klasy-string-w-java-od-wersji-8-do-15/)
+- [ ] 🎧 Przesłuchać [#36 O analityce z Pawłem Potasińskim](https://patoarchitekci.io/36/)
+- [ ] 🎧 Przesłuchać [Jordan Peterson on Rules for Life, Psychedelics, The Bible, and Much More (#502)](https://tim.blog/2021/03/01/jordan-peterson/)
+- [ ] 🎧 Przesłuchać [Membership w PRAKTYCE okiem Mirka i Bogusza [Biznes DZIŚ! #12]](https://youtu.be/C_iMwzbIwKg)
+- [ ] 🎧 Przesłuchać [Episode 108: Kotlin](https://www.programmingthrowdown.com/2021/03/episode-108-kotlin.html)
+- [ ] 🎧 Przesłuchać [POIT #105: Chmura obliczeniowa w transformacji cyfrowej](https://porozmawiajmyoit.pl/poit-105-chmura-obliczeniowa-w-transformacji-cyfrowej/)
+- [ ] 📽️ Obejrzeć [Life After Java 8](https://youtu.be/CZuC3MyK1zc)
+- [ ] 📽️ Obejrzeć [[Bydgoszcz JUG - meetup #35] Jakub Nabrdalik - Mikroserwisy & Architektura - Ask Me Anything](https://youtu.be/VjqKPRHZ9hY)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
