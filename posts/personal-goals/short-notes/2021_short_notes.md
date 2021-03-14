@@ -245,3 +245,31 @@ Dziś dzień był też szalony - praca, później siłownia z bratem (i trochę 
 07/03/2021
 ---
 No i kolejny dobry dzień!! Tym razem większość soboty spędziłem u kuzyna. Skręcaliśmy szafę przez wiekszość dnia. A wieczorem poszliśmy na basen, gdzie dołączyłi do nas jeszcze nasz ziomek i mąż naszej kuzynki :)
+
+08/03/2021
+---
+Dobra niedziela. Mogłem być na obu nabożeństwach, a w międzyczasie jeszcze na basenie razem z dobrym znajomym.
+
+09/03/2021
+---
+Tydzień zaczął się dobrze :) Dziś miałem spokojny dzień bo w pracy mam jasno określone zadanie. Wieczorem odwiedziłem mojego przyjaciela, jego żonę i córki, a później poszliśmy we dwójkę na basen.
+
+10/03/2021
+---
+Całkowicie zapomniałem o tym wczoraj wspomnieć, ale kupiłem sobie miesięczny karnet na basen... no i teraz często tam chodzę :D. Dziś był spokojny dzień w pracy a wieczór spędziłem właśnie ze znajomym na basenie.
+
+11/03/2021
+---
+Dziś miałem nieco mniej energii po pracy.. nie wiem czemu, ale i tak poszedłem na basen 😆. Głównie dlatego, że mam karnet + czuję, że mogą znów nas zamknąć :(
+
+12/03/2021
+---
+Ale to był wspaniały dzień. Kuzynka zaprosiła mnie na późne popołudnie na zupę tajską :D. Później razem pojechaliśmy na nabożeństwo, spadł śnieg, polataliśmy bokiem i wieczorem wylądowaliśmy u lidera młodzieży (a później dołączyła jeszcze jego żona i nasze dwie koleżanki).
+
+13/03/2021
+---
+I nareszcie weekend! Ostatnimi czasy lubię, gdy przychodzą weekendy i można 'nic' nie robić :)
+
+14/03/2021
+---
+Fajna sobota. Na 12 zaprosiłem kuzynki i rodzinę na domowego kebaba, którego w całości robiłem sam (własna bułka, itp.). Później postanowiłem, że jedną z kuzynek odprowadzę i tak ją odprowadziłem, że wylądowałem u nich w domu i siedziałem tam 2h rozmawiając z ciocią, wujkiem i kuzynami :D. A później jeszcze poszedłem na basen z drugim kuzynem i mężem kuzynki 😅. Także dziś taki rodzinny dzień.
