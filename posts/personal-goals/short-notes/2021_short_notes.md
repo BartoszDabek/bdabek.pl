@@ -273,3 +273,31 @@ I nareszcie weekend! Ostatnimi czasy lubię, gdy przychodzą weekendy i można '
 14/03/2021
 ---
 Fajna sobota. Na 12 zaprosiłem kuzynki i rodzinę na domowego kebaba, którego w całości robiłem sam (własna bułka, itp.). Później postanowiłem, że jedną z kuzynek odprowadzę i tak ją odprowadziłem, że wylądowałem u nich w domu i siedziałem tam 2h rozmawiając z ciocią, wujkiem i kuzynami :D. A później jeszcze poszedłem na basen z drugim kuzynem i mężem kuzynki 😅. Także dziś taki rodzinny dzień.
+
+15/03/2021
+---
+Niedziela była jeszcze lepsza... chyba najlepsza w tym roku. Po naszym porannym nabożeństwie pojechaliśmy na nabo młodzieżowe do Białegostoku i mieliśmy dobry czas :). Do domu wróciliśmy trochę przed 23 :P
+
+16/03/2021
+---
+Leniwy i spokojny poniedziałek :D. Rano byłem na basenie z liderem młodzieży (i moim dobrym znajomym, choć dzieli nas kilkanaście lat różnicy) z sąsiedniego zboru. W ogóle wczoraj była piękna pogoda. Później cały dzień pracy, a po pracy odprowadziłem samochód do mechanika w Bielsku. Mam nadzieję, że tym razem znajdą przyczynę i będę mógł jeszcze trochę pośmigać autkiem :D
+
+17/03/2021
+---
+Ojej, dziś to było. Muszę odbyć bardzo poważną rozmowę z kolegą, który dzieli ze mną piętro. On wie, że jego czas u mnie już się kończy, a dodatkowo muszę z nim poruszyć jeszcze inną kwestię (o której nie mogę napisać, ale jak będę czytał to pod koniec roku to myślę, że będę wiedział o co chodziło). Oprócz tego to praca, później sałatka z krewetkami u kuzynki i wieczorem basen z przyjacielem.
+
+18/03/2021
+---
+To był dobry dzień. Miałem tą rozmowę, nie była przyjemna, ale przynajmniej wszystko jest wyjaśnione. Wieczorem rozmawiałem też z koleżanką przez 2 godziny na telefonie. Z nią też czeka mnie rozmowa, bo nie chcę narobić sobie nadziei a później być wielce rozczarowany.
+
+19/03/2021
+---
+Znów zmieniam nieco format. Tak wstałem i sobie pomyślałem, że źle mi się pisze o wczorajszym dniu w czasie teraźniejszym (że niby dziś)... A więc wczoraj był spokony dzień :). Wieczorem byłem na nabożeństwie, a później na basenie z kuzynką.
+
+20/03/2021
+---
+Piąteczek 🤗. Dziś byłem 2x na basenie bo od jutra są znów nieczynne... Dzięki Bogu w pracy wszystko było na spokojnie a wieczorem  mogłem też być na modlitwie.
+
+21/03/2021
+---
+Super sobota! Rano byłem u mojego przyjaciela, instalowaliśmy mu windowsa, ostrzygł mnie i oczywiście jeszcze posiedzieliśmy i rozmawialiśmy. Jak tylko wróciłem do domu to wpadł do mnie mąż mojej kuzynki, który zabrał mnie na obiad :). A na sam koniec dnia pojechałem jeszcze na młodzieżowe spotkanie w Dubiczach! Dobry dzień!!

@@ -28,20 +28,19 @@ Cele osobiste
 6. Intermittent Fasting (od 14 do 19) 🥪
 7. 3200+ Kcal 🍌
 8. Keto 🥑
-9. Brak mięsa 🍎
+9. Brak mięsa 🍎 (23.03-17.04)
 
-# [03/14/2021]
+# [03/21/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] ✒️ Wpis na blogu - sesja Big Picture Event Storming
-- [ ] 📗 Przeczytać [OCP - Chapter 7 Concurrency](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [Best 14 CI/CD Tools You Must Know | Updated for 2021](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
-- [ ] 🎧 Przesłuchać [POIT #106: UX w IT](https://porozmawiajmyoit.pl/poit-106-ux-w-it/)
-- [ ] 🎧 Przesłuchać [061 – Dyrektor sprzedaży – kim jest, co robi, częste błędy, b2b, b2c, Szymon Negacz, SellWise](https://piotrbucki.pl/061)
-- [ ] 🎧 Przesłuchać [Episode 14 “Records Serialization” with Julia Boes and Chris Hegarty](https://inside.java/2021/03/08/podcast-014/)
-- [ ] 🎧 Przesłuchać [Jak wypłacić pieniądze z IKE i IKZE? Wypłata, zwrot i częściowy zwrot](https://inwestomat.eu/jak-wyplacic-pieniadze-z-ike/)
-- [ ] 🎧 Przesłuchać [Cała prawda o Clubhouse: jak działa ta aplikacja, komu może się przydać i dlaczego nie każdemu musi się spodobać](https://malawielkafirma.pl/clubhouse-co-to-jest/)
-- [ ] 📽️ Obejrzeć [GOTO 2020 • Software Engineering - Development in 100 Years Time • Dave Farley](https://youtu.be/tBw0i2CW0mA)
+- [ ] ✒️ Wpis na blogu 
+- [ ] 📗 Przeczytać [OCP - Chapter 8 IO](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
+- [ ] 🎧 Przesłuchać [Sebastian Mikosz-5 kroków do objęcia stanowiska prezesa linii lotniczych-IATA](https://zaprojektujswojezycie.pl/sebastian-mikosz-5-krokow-do-objecia-stanowiska-prezesa-linii-lotniczych-iata/)
+- [ ] 🎧 Przesłuchać [SPI 464: Deep Into The Details of a New YouTube Channel (Our First Follow-Up Friday!)](https://www.smartpassiveincome.com/podcasts/deep-into-details-new-youtube/)
+- [ ] 🎧 Przesłuchać [POIT #107: Kierunki rozwoju software developmentu](https://porozmawiajmyoit.pl/poit-107-kierunki-rozwoju-software-developmentu/)
+- [ ] 🎧 Przesłuchać [Episode 95. Ludicruos speed! Practical GraalVM](https://www.javapubhouse.com/2021/03/episode-95-ludicruos-speed-practical-graalvm.html)
+- [ ] 📽️ Obejrzeć [FDD 2015 Sławomir Sobótka Jak dogadywać się z obcymi formami inteligencji](https://youtu.be/czGyPz3AKLk)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
