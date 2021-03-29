@@ -301,3 +301,31 @@ Piąteczek 🤗. Dziś byłem 2x na basenie bo od jutra są znów nieczynne... D
 21/03/2021
 ---
 Super sobota! Rano byłem u mojego przyjaciela, instalowaliśmy mu windowsa, ostrzygł mnie i oczywiście jeszcze posiedzieliśmy i rozmawialiśmy. Jak tylko wróciłem do domu to wpadł do mnie mąż mojej kuzynki, który zabrał mnie na obiad :). A na sam koniec dnia pojechałem jeszcze na młodzieżowe spotkanie w Dubiczach! Dobry dzień!!
+
+22/03/2021
+---
+I po weekendzie. Niedziela minęła całkiem fajnie. Byłem na obu nabożeństwach + odwiedziłem kuzynów (jadłem pyszną sałatkę + ciasto). Dziś ruszamy z nowym tygodniem :>
+
+23/03/2021
+---
+Ciężki poniedziałek... Przez cały dzień czułem się 'źle' w kontekście mentalnym. Głównym powodem było chyba to, że w pracy nie udało mi się zrealizować tego co sobie założyłem.
+
+24/03/2021
+---
+Dzięki Bogu za taki wtorek! Kuzynka odezwała się do mnie żeby odwiedzić pewną starszą babcie z darem proroczym i tak zrobiliśmy. A więc wieczór zleciał nam na rozmowach, pierw w tym domu, a później porozmawialiśmy sobie jeszcze 1 na 1.
+
+25/03/2021
+---
+Środa była mniej dynamiczna, ale nadal bardzo przyjemna. Po pracy pojechałem się przebiec z moim przyjacielem - zrobiliśmy 6 km. Później zapraszał mnie do siebie, ale odmówiłem i spędziłem wieczór ogarniając jakieś swoje rzeczy o dziwo nie związane z komputerem. Btw. wczoraj jak o 16 wyłączyłem komputer, tak dopiero dziś go włączyłem.
+
+26/03/2021
+---
+Dziś wpadło mi pilne zadanie z błędem produkcyjnym. Trochę lubie takie coś, a trochę nie, bo trzeba się spinać i działać precyzyjnie. Po pracy byłem na nabożeństwie, a wieczorem wpadł do mnie kuzyn i oglądaliśmy meczyk.
+
+27/03/2021
+---
+To był mega zajęty piątek. Wstałem lekko po 4, żeby przeanalizować ten błąd z wczoraj. I dzięki Bogu całkiem szybko udało się go rozwiązać! Później poszedłem się przebiec, byłem na nabożeństwie, z kuzynem pojechałem pochodzić po sklepach i jeszcze do niego wpadłem :D. A dziś w parę osób jedziemy na śląsk! :)
+
+29/03/2021
+---
+Ostatnie 2 dni byliśmy na Śląsku i to był bardzo dobry czas. Jestem wdzięczny Bogu za tą możliwość. I jeszcze skład w jakim udało się pojechać to dla mnie też był cud :)
