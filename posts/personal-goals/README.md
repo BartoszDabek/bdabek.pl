@@ -23,25 +23,24 @@ Cele osobiste
 1. Wstrzymywanie oddechu 🧘
 2. ✅ 10_000 kroków 🦶 (2.01-27.01)
 3. 100 pompek 🙇
-4. 60 podciagniec 🏋️‍♂️ (08.03-02.04)
+4. ✅ 60 podciagniec 🏋️‍♂️ (08.03-02.04)
 5. Zimne prysznice 🚿
 6. Intermittent Fasting (od 14 do 19) 🥪
 7. 3200+ Kcal 🍌
 8. Keto 🥑
 9. Brak mięsa 🍎 (23.03-17.04)
 
-# [03/28/2021]
+# [04/04/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] ✒️ Wpis na blogu 
-- [ ] 📗 Przeczytać [OCP - Chapter 8 IO](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [Czy Hibernate w 2021 to najlepszy wybór?](https://kodujmy.pl/czy-hibernate-w-2021-to-najlepszy-wybor/)
-- [ ] 📗 Przeczytać [Persistence Context – studium przypadku z rozmowy kwalifikacyjnej](https://clockworkjava.pl/2021/03/persistence-context-studium-przypadku/)
-- [ ] 🎧 Przesłuchać [Jak przygotować portfel inwestycyjny do emerytury?](https://inwestomat.eu/jak-przygotowac-portfel-inwestycyjny-do-emerytury/)
-- [ ] 🎧 Przesłuchać [Przemek Skokowski-poznaj siebie, zanim zaczniesz rozwijać karierę-Dietly.pl](https://zaprojektujswojezycie.pl/przemek-skokowski-poznaj-siebie-zanim-zaczniesz-rozwijac-kariere-dietly-pl/)
-- [ ] 🎧 Przesłuchać [Episode 15 “Java 16 is Here!” with Mikael Vidstedt](https://inside.java/2021/03/16/podcast-015/)
-- [ ] 🎧 Przesłuchać [Podcast #01: O mnie, o blogu i o rozsądnym wyborze wykonawców](https://blog.poradnik-budowlany.com/podcast-01-o-o-blogu-o-rozsadnym-wyborze-wykonawcow/)
-- [ ] 📽️ Obejrzeć [😱 Co robi Twoja aplikacja na produkcji?! - Jak zacząć monitorować aplikację w Springu](https://youtu.be/W6HKXjUBYOs)
+- [ ] 📗 Przeczytać [OCP - Chapter 9 NIO.2](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [OCP - Chapter 10 JDBC](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [Dlaczego personalne projekty programistyczne są tak ważne?](https://kodujmy.pl/dlaczego-personalne-projekty-programistyczne-sa-tak-wazne/)
+- [ ] 🎧 Przesłuchać [English 365 Challenge | HUGE Improvements](https://youtu.be/k_iReYST_3U)
+- [ ] 🎧 Przesłuchać [Vanguard LifeStrategy, czyli portfel inwestycyjny w jednym ETF-ie](https://inwestomat.eu/vanguard-lifestrategy/)
+- [ ] 🎧 Przesłuchać [#047​ - Jak wybudować dom i nie zwariować? - Sławomir Zając](https://youtu.be/fcdeuoa7cSA)
+- [ ] 🎧 Przesłuchać [POIT #108: Ataki na strony i ich zapobieganie](https://porozmawiajmyoit.pl/poit-108-ataki-na-strony-i-ich-zapobieganie/)
+- [ ] 📽️ Obejrzeć [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of by Lukas Eder](https://youtu.be/wTPGW1PNy_Y)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)

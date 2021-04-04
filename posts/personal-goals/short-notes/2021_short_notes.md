@@ -329,3 +329,27 @@ To był mega zajęty piątek. Wstałem lekko po 4, żeby przeanalizować ten bł
 29/03/2021
 ---
 Ostatnie 2 dni byliśmy na Śląsku i to był bardzo dobry czas. Jestem wdzięczny Bogu za tą możliwość. I jeszcze skład w jakim udało się pojechać to dla mnie też był cud :)
+
+30/03/2021
+---
+Spokojny poniedziałek :). Byłem bardzo zmęczony, że w ciągu dnia musiałem się jeszcze położyć na 30 minut bo nie miałem sił :D. Wieczorem wpadłem do kuzynki - miało być na 30 minut a wyszło prawie 3 godziny.
+
+31/03/2021
+---
+To był jeden z lepszych dni w moim życiu. Przez ostatni miesiąc załapałem bardzo dobry kontakt z (dziś już) przyjaciółką, z którą nic nie wyszło w grudniu. Ostatnio często rozmawiamy przez telefon i wczoraj ją zapytałem dokąd to zmierza. I nie chcę wyciągać tu prywatnych rzeczy, ale w skrócie - zmierza to w dobrą stronę :). Alleluja!
+
+01/04/2021
+---
+No kolejny piękny dzień! Dziś było około 20 stopni! Byliśmy w kilka osób na pierwszych rowerach w tym roku :). Wieczorem wpadł do mnie kuzyn z przyjacielem i oglądaliśmy mecz. Wcześniej poszliśmy jeszcze na siłownię i wycisnąłem 90kg! :)
+
+02/04/2021
+---
+Dobry czwartek. Razem ze znajomym postanowiliśmy, że odwiedzimy pewną starszą osobę ze zboru, ale niestety nie za bardzo nas przyjęła... więc tylko porozmawialiśmy 30 sekund na klatce schodowej i tyle. Wieczorem siedziałem na słuchawce i miałem fajną konwersację z przyjaciółką.
+
+03/04/2021
+---
+Dzięki Bogu to był spokojniejszy piątek. W pracy co prawda miałem bardzo słaby dzień bo nic mi się nie kleiło :/, natomiast popołudniu jak wypiłem kawę to dostałem takiego kopa, że posprzątałem pokój, wymieniłem lusterko w aucie i pełen sił udałem się na modlitwę do zboru!
+
+04/04/2021
+---
+Sobota minęła całkiem przyjemnie. Rano, razem z moim przyjacielem przebiegłem 8 km. Później dużo jadłem, a wieczorem poszedłem jeszcze na młodzieżowe.

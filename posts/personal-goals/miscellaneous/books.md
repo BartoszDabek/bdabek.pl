@@ -13,6 +13,7 @@
 - [ ] Dependency Injection Principles, Practices, and Patterns - Steven van Deursen and Mark Seemann
 - [ ] Fenomen poranka - Hal Elrod
 - [ ] Nawyki warte miliony - Tracy Brian
+- [ ] TypeScript na poważnie - Michał Miszczyszyn
 
 ## In Progress
 - [ ] OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide: Exam 1Z0-809
