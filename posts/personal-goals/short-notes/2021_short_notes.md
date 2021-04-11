@@ -353,3 +353,31 @@ Dzięki Bogu to był spokojniejszy piątek. W pracy co prawda miałem bardzo sł
 04/04/2021
 ---
 Sobota minęła całkiem przyjemnie. Rano, razem z moim przyjacielem przebiegłem 8 km. Później dużo jadłem, a wieczorem poszedłem jeszcze na młodzieżowe.
+
+05/04/2021
+---
+Pierwszy dzień świąt za nami. Spędziliśmy je w rodzinnym gronie, czas zleciał szybko i było przyjemnie! Zmartwychwstał Pan!
+
+06/04/2021
+---
+Wieczorem miałem najlepszą ever rozmowę przez tel z przyjaciółką! A oprócz tego to świętowaliśmy drugi dzień. Byłem w gościach w rodzinie a później u znajomych i to był dobry czas.
+
+07/04/2021
+---
+Wtorek był ciężki. Od rana do wieczora siedziałem w pracy i robiłem zadanie, które zadeklarowałem na środę, choć dziś przesunąłem je na czwartek. W przerwie przebiegłem jeszcze 6km dla zdrowia bo i tak cały dzień siedziałem przed komputerem.
+
+08/04/2021
+---
+Dziś też nie było lepiej. Mam zadanie, które muszę oddać jutro, a żeby je w 100% dopieścić to trzeba poświęcić czas. A poza pracą to wieczorem miałem dłuugi telefon z przyjaciółką :))
+
+09/04/2021
+---
+Dzięki Bogu dziś w pracy było już lżej i zadanie, które miałem skończyć jest już w 95% gotowe. Wieczorem byłem na nabożeństwie a później wpadłem jeszcze do mojej kuzynki na pancake'i + pogadać.
+
+10/04/2021
+---
+I zaczyna się weekend :). Dziś miałem spokojny dzień w pracy, byłem u dentysty, pomagałem przyjacielowi na działce pociąć gałęzie a na sam koniec dnia poszedłem jeszcze na modlitwę do zboru. To był dobry piątek!
+
+11/04/2021
+---
+Dzień pełen wrażeń. Zaczęło się od rowerów z kuzynem, z których musiał przyjeżdzać po mnie tato, bo przebiłem dentkę 12 km od domu. Później wyszedłem na rowery raz jeszcze z kuzynką i naszą wspólną przyjaciółką... i znów przebiłem dentkę :D. Byliśmy w lesie i śmiesznie było wracać... później zjedliśmy wege burgery i pojechaliśmy do Białegostoku do naszego wspólnego znajomego.

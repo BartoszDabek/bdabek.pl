@@ -30,17 +30,16 @@ Cele osobiste
 8. Keto 🥑
 9. Brak mięsa 🍎 (23.03-17.04)
 
-# [04/04/2021]
+# [04/11/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 📗 Przeczytać [OCP - Chapter 9 NIO.2](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
 - [ ] 📗 Przeczytać [OCP - Chapter 10 JDBC](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [Dlaczego personalne projekty programistyczne są tak ważne?](https://kodujmy.pl/dlaczego-personalne-projekty-programistyczne-sa-tak-wazne/)
-- [ ] 🎧 Przesłuchać [English 365 Challenge | HUGE Improvements](https://youtu.be/k_iReYST_3U)
-- [ ] 🎧 Przesłuchać [Vanguard LifeStrategy, czyli portfel inwestycyjny w jednym ETF-ie](https://inwestomat.eu/vanguard-lifestrategy/)
-- [ ] 🎧 Przesłuchać [#047​ - Jak wybudować dom i nie zwariować? - Sławomir Zając](https://youtu.be/fcdeuoa7cSA)
-- [ ] 🎧 Przesłuchać [POIT #108: Ataki na strony i ich zapobieganie](https://porozmawiajmyoit.pl/poit-108-ataki-na-strony-i-ich-zapobieganie/)
-- [ ] 📽️ Obejrzeć [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of by Lukas Eder](https://youtu.be/wTPGW1PNy_Y)
+- [ ] 📗 Przeczytać [Refactoring from anemic model to DDD](https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f)
+- [ ] 🎧 Przesłuchać [TWOJA STRATEGIA INWESTYCYJNA – JAK JĄ PRZETESTOWAĆ?](https://marciniwuc.com/twoja-strategia-inwestycyjna/)
+- [ ] 🎧 Przesłuchać [Dr. Adam Gazzaley, UCSF — Brain Optimization and the Future of Psychedelic Medicine (#507)](https://tim.blog/2021/03/30/adam-gazzaley-2/)
+- [ ] 🎧 Przesłuchać [Jak negocjować?](https://blog.poradnik-budowlany.com/jak-negocjowac/)
+- [ ] 🎧 Przesłuchać [062 – Od 0 do 100 osób w rok. Nowy oddział korporacji – jak go zrobić, Krzysztof Raś, Bitpanda](https://piotrbucki.pl/062)
+- [ ] 📽️ Obejrzeć [Boiling Frogs 2020 - Łukasz Szydło - DDD w systemach rozproszonych](https://youtu.be/OWAqIgpekdg)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
