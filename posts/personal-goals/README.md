@@ -28,18 +28,19 @@ Cele osobiste
 6. Intermittent Fasting (od 14 do 19) 🥪
 7. 3200+ Kcal 🍌
 8. Keto 🥑
-9. Brak mięsa 🍎 (23.03-17.04)
+9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [04/11/2021]
+# [04/18/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 📗 Przeczytać [OCP - Chapter 10 JDBC](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [Refactoring from anemic model to DDD](https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f)
-- [ ] 🎧 Przesłuchać [TWOJA STRATEGIA INWESTYCYJNA – JAK JĄ PRZETESTOWAĆ?](https://marciniwuc.com/twoja-strategia-inwestycyjna/)
-- [ ] 🎧 Przesłuchać [Dr. Adam Gazzaley, UCSF — Brain Optimization and the Future of Psychedelic Medicine (#507)](https://tim.blog/2021/03/30/adam-gazzaley-2/)
-- [ ] 🎧 Przesłuchać [Jak negocjować?](https://blog.poradnik-budowlany.com/jak-negocjowac/)
-- [ ] 🎧 Przesłuchać [062 – Od 0 do 100 osób w rok. Nowy oddział korporacji – jak go zrobić, Krzysztof Raś, Bitpanda](https://piotrbucki.pl/062)
-- [ ] 📽️ Obejrzeć [Boiling Frogs 2020 - Łukasz Szydło - DDD w systemach rozproszonych](https://youtu.be/OWAqIgpekdg)
+- [ ] 📗 Review [OCP - Chapter 2,3,4](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [Anotacje w Hibernate, które warto znać](https://softwareskill.pl/anotacje-hibernate)
+- [ ] 📗 Przeczytać [Resolving Maven Dependency Conflicts with a Bill of Materials (BOM)](https://reflectoring.io/maven-bom/)
+- [ ] 🎧 Przesłuchać [Odcinek jubileuszowy! 50 wskazówek, które ukierunkują Twoje działania i pomogą osiągnąć cele.](https://zaprojektujswojezycie.pl/odcinek-jubileuszowy-50-wskazowek-ktore-ukierunkuja-twoje-dzialania-i-pomoga-osiagnac-cele/)
+- [ ] 🎧 Przesłuchać [Zanim zaczniesz szukać działki (podcast)](https://blog.poradnik-budowlany.com/co-zanim-zaczniesz-szukac-dzialki-podcast/)
+- [ ] 🎧 Przesłuchać [SPI 471: How to Become a Better Communicator with Kolarele Sonaike](https://www.smartpassiveincome.com/podcasts/become-a-better-communicator/)
+- [ ] 🎧 Przesłuchać [POIT #109: Kim jest senior developer?](https://porozmawiajmyoit.pl/poit-109-kim-jest-senior-developer/)
+- [ ] 📽️ Obejrzeć [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://youtu.be/BwuLxPH8IDs)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)

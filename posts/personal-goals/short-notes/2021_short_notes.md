@@ -381,3 +381,31 @@ I zaczyna się weekend :). Dziś miałem spokojny dzień w pracy, byłem u denty
 11/04/2021
 ---
 Dzień pełen wrażeń. Zaczęło się od rowerów z kuzynem, z których musiał przyjeżdzać po mnie tato, bo przebiłem dentkę 12 km od domu. Później wyszedłem na rowery raz jeszcze z kuzynką i naszą wspólną przyjaciółką... i znów przebiłem dentkę :D. Byliśmy w lesie i śmiesznie było wracać... później zjedliśmy wege burgery i pojechaliśmy do Białegostoku do naszego wspólnego znajomego.
+
+12/04/2021
+---
+To była dobrze spędzona niedziela. Dzięki Bogu mogłem być na obu nabożeństwach a pomiędzy tym wszystkim u wujka na urodzinach :). Była rodzina, ciasto i ciekawe rozmowy. Wieczorem pojechałem jeszcze do kuzynki i pojechaliśmy się przejechać i pogadać.
+
+13/04/2021
+---
+Fajny poniedziałek! W pracy obawiałem się, że będzie dużo do zrobienia, a okazało się że do południa prawie wszystko miałem ogarnięte :). Dzięki Bogu! Po pracy poszedłem z przyjacielem na rowery, zrobiliśmy +/- 20 km.
+
+14/04/2021
+---
+W pracy dziś mieliśmy jakieś 6-7h spotkań :O! Mózg paruje po czymś takim... Dziś byłem też w poście. Dawno nie pościłem i taki post (szczególnie z konkretną sprawą) dobrze mi zrobił. Wieczorem byłem na modlitwie - choć nie wiedziałem, że to będzie modlitwa - w sąsiednim zborze :)
+
+15/04/2021
+---
+Świetny dzień! Po pracy pojechałem do kuzynek i... dużo jadłem :D. To jakąś pizzę (bez mięsa oczywiście), to jakieś owocki. A wieczorem super mi się pisało z przyjaciółką... :)
+
+16/04/2021
+---
+Czwartek zleciał całkiem ok. Nie było żadnych rewelacji. Dzięki Bogu w pracy wszystko działo się na spokojnie. A poza pracą to pojechałem do mojego przyjaciela się przebiec (zrobiliśmy 6 km) i wieczorem byłem jeszcze na nabożeństwie.
+
+17/04/2021
+---
+I zaczął się weekend! Dzisiejszy dzień był spokojny i nic nadzwyczajnego się nie zdarzyło. Wieczorem wpadł do mnie mąż mojej kuzynki i rozmawialiśmy do prawie 23.
+
+18/04/2021
+---
+To była dobra sobota. Od rana do późnego wieczora coś się działo. Rano zdziałałem sobie przepysznego omleta, później sprzątałem, poszedłem na rowery, byłem u mojego przyjaciela na wypasionych urodzinach (grill, a ja nie jem mięsa!!) i wszystko zakończyło się spotkaniem młodzieżowym w sąsiednim zborze :)
