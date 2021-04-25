@@ -409,3 +409,31 @@ I zaczął się weekend! Dzisiejszy dzień był spokojny i nic nadzwyczajnego si
 18/04/2021
 ---
 To była dobra sobota. Od rana do późnego wieczora coś się działo. Rano zdziałałem sobie przepysznego omleta, później sprzątałem, poszedłem na rowery, byłem u mojego przyjaciela na wypasionych urodzinach (grill, a ja nie jem mięsa!!) i wszystko zakończyło się spotkaniem młodzieżowym w sąsiednim zborze :)
+
+19/04/2021
+---
+Niedziela była ładna. Świeciło słońce, było ciepło. Miałem możliwość być na obu nabożeństwach. Oprócz tego jeździłem rowerem, odwiedziłem kuzynkę i właściwie to tyle.
+
+20/04/2021
+---
+CU-DO-WNY poniedziałek!! Rano przebiegłem 4km, później praca, ale było bardzo bardzo spokojnie. Po pracy, razem z moim przyjacielem poszedłem na rowery i zrobiliśmy około 25km. A wieczorem (a właściwie to już w nocy) miałem 3 godzinną rozmowę z moją przyjaciółką :))
+
+21/04/2021
+---
+Dziś trzeba było wrócić na ziemię. W pracy dzięki Bogu nadal spokojnie. Po pracy wpadli do mnie kuzyni i zjedliśmy razem obiad (bataty z piekarnika, ale były takie sobie). I nic specjalnego w ten dzień się nie wydarzyło.
+
+22/04/2021
+---
+Środa - było dobrze. Wyszedłem z przyjacielem na rowery + później pogadałem z jego żoną i szwagrem. Wieczorem zjadłem kolację i znów rozmawiałem, tym razem z rodzicami :)
+
+23/04/2021
+---
+Kolejny raz miałem super wieczór. Tym razem rozmawialiśmy przez prawie 4 godziny :O. Sam się zastanawiam o czym można tyle czasu gadać :D
+
+24/04/2021
+---
+Piąteczek :). Popołudniu wpadł do mnie kuzyn, gadaliśmy o górach i ewentualnych planach. Za wiele się dziś nie działo - standardowo byłem na modlitwie, pracowałem. Jedyny minus jest taki, że nie znalazłem czasu i chęci na zrobienie treningu :(
+
+25/04/2021
+---
+Pomagałem dziś tacie na podwórku, później pojechałem do Białowieży z kuzynem - ot tak pochodzić.. i wpadłem jeszcze do przyjaciela na strzyżenie. Ach,no i rano jeszcze biegałem, zrobiłem 4km.
