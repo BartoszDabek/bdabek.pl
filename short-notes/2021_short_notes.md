@@ -437,3 +437,27 @@ Piąteczek :). Popołudniu wpadł do mnie kuzyn, gadaliśmy o górach i ewentual
 25/04/2021
 ---
 Pomagałem dziś tacie na podwórku, później pojechałem do Białowieży z kuzynem - ot tak pochodzić.. i wpadłem jeszcze do przyjaciela na strzyżenie. Ach,no i rano jeszcze biegałem, zrobiłem 4km.
+
+26/04/2021
+---
+Niedziela jak niedziela - dwa nabożeństwa. Choć dziś nieco inaczej bo wspominaliśmy wieczerzę Pańską. Szczerze, to ostatnio duchowo czuję trochę pustynię... :(. Między nabożeństwami pojechałem do kuzynów a wieczorem do sąsiedniego zboru posiedzieć i porozmawiać z młodzieżą.
+
+27/04/2021
+---
+Dziś miałem dobry dzień + fajny wieczór, bo spędziłem go u kuzynki razem z młodzieżą. Pomimo, że było wesoło i śmiesznie, to nie jestem specjalnie zadowolony... nie wiem dlaczego.
+
+28/04/2021
+---
+Heh.. huśtawka nastrojów. Wczoraj dobrze, dziś gorzej a jutro...(?). Byłem dziś u dentysty + miałem ciekawy, ale nie najlepszy wieczór. Nie będę pisał co się działo, ale zobaczymy czy po tym tekście będę sobie to w stanie przypomnieć pod koniec roku, gdy będę to czytał.
+
+29/04/2021
+---
+A dziś znów jest lepiej. Miałem dobre popołudnie + wieczór. Wpadła do mnie kuzynka, poszliśmy się przejść i pogadać. Później pojechałem do przyjaciela się przebiec i skończyło się tym, że po biegu wpadłem jeszcze do niego pogadać. Wracając zajechałem do wujka i tam też zeszła mi godzina... A wieczorem rozmawiałem jeszcze przez telefon do późna :)
+
+30/04/2021
+---
+To już ostatni dzień kwietnia :o! Czas leci szybko. Wczoraj nie działo się całkowicie nic nadzwyczajnego i dobrze. Takie zwyczajne dni też są potrzebne.
+
+01/05/2021
+---
+30 kwietnia to dzień, który chcę żeby został w mojej pamięci. Rozmawiałem z przyjaciółką (teraz już dziewczyną) przez ponad 4 godziny i ustaliliśmy, że idziemy do przodu i mówimy rodzicom. Zaprosiła mnie na święta i dziś mam dać znać jaka jest decyzja, ale na 99% się zgodzę :)
