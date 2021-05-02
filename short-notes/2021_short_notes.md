@@ -461,3 +461,7 @@ To już ostatni dzień kwietnia :o! Czas leci szybko. Wczoraj nie działo się c
 01/05/2021
 ---
 30 kwietnia to dzień, który chcę żeby został w mojej pamięci. Rozmawiałem z przyjaciółką (teraz już dziewczyną) przez ponad 4 godziny i ustaliliśmy, że idziemy do przodu i mówimy rodzicom. Zaprosiła mnie na święta i dziś mam dać znać jaka jest decyzja, ale na 99% się zgodzę :)
+
+02/05/2021
+---
+Ojej to była fajna i ciężka sobota :D. Spałem maksymalnie 4h, pojechałem z mężem kuzynki do Białowieży pochodzić, później ogarniałem pokój, pomagałem współlokatorowi się wyprowadzić i jeszcze z kuzynem zrobiliśmy trening w góry, czyli poszliśmy się przejść - zrobiliśmy 11 km. Aaa no i jeszcze dałem znać mojej najlepszej koleżance, że będę u niej na święta.

@@ -20,7 +20,7 @@ Cele osobiste
 6. 80 kg wagi 💪
 
 ## Wyzwania 25 Dniowes 🔥🥉
-1. Wstrzymywanie oddechu 🧘 (25.04-20.05)
+1. Wstrzymywanie oddechu 🧘
 2. ✅ 10_000 kroków 🦶 (2.01-27.01)
 3. 100 pompek 🙇
 4. ✅ 60 podciagniec 🏋️‍♂️ (08.03-02.04)
@@ -33,17 +33,17 @@ Cele osobiste
 # [05/02/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] Zrobić porządek na repo [bdabek.pl](https://github.com/BartoszDabek/bdabek.pl) - wywalić wszystko i zostawić tylko personal goals
-- [ ] 📗 Review [OCP - Chapter 5,6](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [How Spring Boot’s Autoconfigurations Work](https://www.marcobehler.com/guides/spring-boot)
-- [ ] 📗 Przeczytać [Faster flatMaps with Stream::mapMulti in Java 16](https://nipafx.dev/java-16-stream-mapmulti/)
-- [ ] 📗 Przeczytać [Clustered Index](https://vladmihalcea.com/clustered-index/)
-- [ ] 🎧 Przesłuchać [#NIECODZIENNIK-Michał Szafrański przepytuje prowadzącego audycję Zaprojektuj Swoje Życie!](https://zaprojektujswojezycie.pl/niecodziennik-michal-szafranski-przepytuje-prowadzacego-audycje-zaprojektuj-swoje-zycie/)
-- [ ] 🎧 Przesłuchać [Be A Better Writer With Our 4-Step Process and Recommended Tools (TPS346)](https://www.asianefficiency.com/podcasts/346-better-writing/)
-- [ ] 🎧 Przesłuchać [POIT #110: Wykorzystanie danych dzięki chmurze](https://porozmawiajmyoit.pl/poit-110-wykorzystanie-danych-dzieki-chmurze/)
-- [ ] 🎧 Przesłuchać [Co potrzebujesz wiedzieć, zanim zdecydujesz się na budowę domu?](https://blog.poradnik-budowlany.com/budowac-dom-co-trzeba-wiedziec-przed-budowa-domu/)
-- [ ] 📽️ Obejrzeć [Architektura do obsługi wielu klientów, czyli MULTITENANCY Na Poziomie Pro [DNA CONF #1]](https://youtu.be/kvQs6ZDGuXM)
-- [ ] 📽️ Obejrzeć [Jinkubator #40 - JVM Internals - Jakub Kubryński](https://youtu.be/rWdgla54bcc)
+- [ ] 📗 Review [OCP - Chapter 7](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [Trunk Based Development: Introduction](https://trunkbaseddevelopment.com/)
+- [ ] 📗 Przeczytać [ES6 Destructuring in TypeScript](https://medium.com/@rileyhilliard/es6-destructuring-in-typescript-4c048a8e9e15)
+- [ ] 📗 Przeczytać [6 Ways to Unsubscribe from Observables in Angular](https://blog.bitsrc.io/6-ways-to-unsubscribe-from-observables-in-angular-ab912819a78f)
+- [ ] 🎧 Przesłuchać [Polski crowdfunding udziałowy i jego ocena w 2021 roku](https://inwestomat.eu/polski-crowdfunding-udzialowy/)
+- [ ] 🎧 Przesłuchać [10 najczęstszych błędów podczas wyboru i zakupu działki](https://blog.poradnik-budowlany.com/10-najczestszych-bledow-podczas-wyboru-i-zakupu-dzialki/)
+- [ ] 🎧 Przesłuchać [Episode 109: Digital Marketing with Kevin Urrutia](https://www.programmingthrowdown.com/2021/03/episode-109-digital-marketing-with.html)
+- [ ] 🎧 Przesłuchać [#102 Jak oglądanie telewizji wpływa na nasz status finansowy? – Radek Budnicki](https://generali-investments.pl/contents/display-article/klient-indywidualny/102-jak-ogladanie-telewizji-wplywa-na-nasz-status-finansowy-radek-budnicki)
+- [ ] 🎧 Przesłuchać [063 – DISC D3, czyli dlaczego czasem łatwiej/trudniej porozumieć się w zespole; wartości, postawy, role, komunikacja, Anna Sarnacka-Smith, Effectiveness](https://piotrbucki.pl/063)
+- [ ] 📽️ Obejrzeć [Na co cierpi Twoja architektura i jak się tych błędów wystrzegać? [DNA CONF #2]](https://youtu.be/4ubBotYed9Y)
+- [ ] 📽️ Obejrzeć [Continuous Integration vs Feature Branch Workflow](https://youtu.be/v4Ijkq6Myfc)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
