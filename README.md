@@ -30,20 +30,18 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [05/02/2021]
+# [05/09/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 📗 Review [OCP - Chapter 7](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [Trunk Based Development: Introduction](https://trunkbaseddevelopment.com/)
-- [ ] 📗 Przeczytać [ES6 Destructuring in TypeScript](https://medium.com/@rileyhilliard/es6-destructuring-in-typescript-4c048a8e9e15)
-- [ ] 📗 Przeczytać [6 Ways to Unsubscribe from Observables in Angular](https://blog.bitsrc.io/6-ways-to-unsubscribe-from-observables-in-angular-ab912819a78f)
+- [ ] 📗 Review [OCP - Chapter 8](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] 📗 Przeczytać [Branch By Abstraction and application strangulation](https://learning-notes.mistermicheels.com/processes-techniques/branch-by-abstraction-application-strangulation)
 - [ ] 🎧 Przesłuchać [Polski crowdfunding udziałowy i jego ocena w 2021 roku](https://inwestomat.eu/polski-crowdfunding-udzialowy/)
 - [ ] 🎧 Przesłuchać [10 najczęstszych błędów podczas wyboru i zakupu działki](https://blog.poradnik-budowlany.com/10-najczestszych-bledow-podczas-wyboru-i-zakupu-dzialki/)
 - [ ] 🎧 Przesłuchać [Episode 109: Digital Marketing with Kevin Urrutia](https://www.programmingthrowdown.com/2021/03/episode-109-digital-marketing-with.html)
 - [ ] 🎧 Przesłuchać [#102 Jak oglądanie telewizji wpływa na nasz status finansowy? – Radek Budnicki](https://generali-investments.pl/contents/display-article/klient-indywidualny/102-jak-ogladanie-telewizji-wplywa-na-nasz-status-finansowy-radek-budnicki)
 - [ ] 🎧 Przesłuchać [063 – DISC D3, czyli dlaczego czasem łatwiej/trudniej porozumieć się w zespole; wartości, postawy, role, komunikacja, Anna Sarnacka-Smith, Effectiveness](https://piotrbucki.pl/063)
-- [ ] 📽️ Obejrzeć [Na co cierpi Twoja architektura i jak się tych błędów wystrzegać? [DNA CONF #2]](https://youtu.be/4ubBotYed9Y)
-- [ ] 📽️ Obejrzeć [Continuous Integration vs Feature Branch Workflow](https://youtu.be/v4Ijkq6Myfc)
+- [ ] 📽️ Obejrzeć [Architektura Przyszłości - okiem Praktyków [DNA CONF #3]](https://youtu.be/wflZEPo4mDE)
+- [ ] 📽️ Obejrzeć [286. WJUG Piotr Przybył - "Java 16: Nowości warte uwagi" [PL]](https://youtu.be/paN4gz8pqpA)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
