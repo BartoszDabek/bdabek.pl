@@ -489,3 +489,31 @@ Dziś było w miarę ok. Męczył mnie kaszel i katar. Gorączkę zbijałem leka
 09/05/2021
 ---
 Jest znacznie lepiej. Został tylko kaszel i katar, ale idzie to w dobrym kierunku :). Dziś nawet wyszedłem na godzinny spacer z kuzynem.
+
+10/05/2021
+---
+Nareszcie cieplejszy dzień! Ciągle mnie trzyma kaszel, ale mimo wszystko byłem dziś na alpakach XD. Wieczorem wpadł do mnie kuzyn to też długo rozmawialiśmy na różne tematy.
+
+11/05/2021
+---
+I kolejny wspaniały dzień! Wspaniały, dlatego że bardzo ciepły :D. Poszedłem dziś na rowery z kuzynem i przyjacielem :)
+
+12/05/2021
+---
+Następny słoneczny dzień :))!! Tym razem wyszedłem na rowery tylko z moim kuzynem, ale za to zajechaliśmy do Jelonki i z powrotem. Było ciężko :D
+
+13/05/2021
+---
+Na zewnątrz znów pięknie! Problem jest taki, że w moim sercu jest trochę gorzej. Nie wiem czemu... od taki dziwny stan.
+
+14/05/2021
+---
+Dziś już było pochmurno. Ale za to miałem o wiele lepszy humor :D, a i tak razem z przyjacielem wyszliśmy na rowery :).
+
+15/05/2021
+---
+Dzięki Bogu za piątek :). W pracy i przez cały dzień był spokój. Wieczorem mąż mojej kuzynki zaproponował spacer, to jak wyszedłem o 20:30 z domu to wróciłem lekko przed 23 :D.
+
+16/05/2021
+---
+Piękna sobota :)! Cały dzień miałem co robić. Byłem na rowerze, sprzątałem, zrobiłem zakupy, obiad. Popołudniu pojechałem do wujka i tam w rodzinnym gronie spędziliśmy czas aż do wieczora. A wieczorem znów na rower :D. Fajny dzień :)
