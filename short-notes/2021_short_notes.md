@@ -517,3 +517,31 @@ Dzięki Bogu za piątek :). W pracy i przez cały dzień był spokój. Wieczorem
 16/05/2021
 ---
 Piękna sobota :)! Cały dzień miałem co robić. Byłem na rowerze, sprzątałem, zrobiłem zakupy, obiad. Popołudniu pojechałem do wujka i tam w rodzinnym gronie spędziliśmy czas aż do wieczora. A wieczorem znów na rower :D. Fajny dzień :)
+
+17/05/2021
+---
+Niedziela - piękny dzień. Byłem na obu nabożeństwach (było dobre słowo), wyszedłem na rower i ogólnie to był dobry dzień. Dzień Pański!
+
+18/05/2021
+---
+Dzięki Bogu za wspaniały poniedziałek. Wieczór spędziłem u mojej najlepszej koleżanki, pospacerowaliśmy trochę i to był dobry wieczór... :)
+
+19/05/2021
+---
+Kolejny bardzo dobry dzień! W pracy wszystko było na spokojnie, a po pracy poszedłem się przebiec. Dużo dziś zjadłem :P. Wieczorem mieliśmy spotkanie braterskie w zborze - bardzo mi się podobało, że moglismy porozmawiać na tematy zborowe.
+
+20/05/2021
+---
+Środa, ostatni dzień w pracy i urlop do poniedziałku :). Jedziemy w góry ze znajomymi. Niech to będzie dobry wyjazd!
+
+21/05/2021
+---
+Pierwszy dzień wyjazdu. Zwiedziliśmy Kraków i wieczorem zajechaliśmy do Zakopanego. Nie zdobyliśmy dziś żadnej góry, ale i tak łącznie wyszło ponad 18k kroków.
+
+22/05/2021
+---
+Dziś był pierwszy dzień w górach. Było kozacko!! Zdobyliśmy Kasprowy Wierch a wieczorem Gubałówkę. Oba wejścia z super przygodami :D!
+
+23/05/2021
+---
+I kolejny piękny dzień :). Pogoda co prawda nie była sprzyjająca bo padał deszcz, ale i tak było super. Dziś chodziliśmy jakimiś dolinami i łącznie zrobiliśmy grubo ponad 20km.
