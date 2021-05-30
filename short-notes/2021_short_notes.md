@@ -545,3 +545,31 @@ Dziś był pierwszy dzień w górach. Było kozacko!! Zdobyliśmy Kasprowy Wierc
 23/05/2021
 ---
 I kolejny piękny dzień :). Pogoda co prawda nie była sprzyjająca bo padał deszcz, ale i tak było super. Dziś chodziliśmy jakimiś dolinami i łącznie zrobiliśmy grubo ponad 20km.
+
+24/05/2021
+---
+Niedziela była słaba. Padał deszcz i nikt nie chciał nigdzie iść... dlatego postanowiłem, że pójdę sam i nakręciłem 27k kroków. Zwiedziłem wodospad siklawę i wszedłem na sarnią skałę. Później z buta poszedłem jeszcze do miejsca gdzie nocujemy... Dodam, że padał deszcz, więc wróciłem cały mokry, ale przynajmniej mam jakąś przygodę :D.
+
+25/05/2021
+---
+Dziś wracaliśmy z Zakopanego. Ciężko mi się wracało. Bolały mnie plecy i byłem zmęczony... dobrze, że nie musiałem kierować.
+
+26/05/2021
+---
+Pierwszy dzień w pracy po powrocie. Nie był specjalnie ciężki, ale to chyba dzięki temu, że odkopywałem się z maili każdego dnia, więc dziś był prawie inbox-0. Wieczorem wyszedłem sobie na spacer bo cały dzień siedziałem i nie miałem ruchu.
+
+27/05/2021
+---
+Odwiedziłem kuzynki w Białymstoku. Zabrałem ze sobą przyjaciółkę mojego serca i pojechaliśmy. Byliśmy na gokartach a wieczorem dziewczyny zrobiły pizze. Było super!
+
+28/05/2021
+---
+4 godziny snu to zdecydowanie za mało... Dziś było ciężko w pracy, ale dzięki Bogu za siły. Po pracy poszedłem jeszcze z przyjacielem na rower i później na nabożeństwo. To był ciężki, ale dobry dzień :)
+
+29/05/2021
+---
+Piąteczek i początek weekendu!! Dziś miałem sporo pracy, ale i tak znalazłem czas żeby z rana się przebiec a wieczorem pójść na modlitwę, basen z kuzynem i później spacer (i na słuchawce porozmawiać z kuzynką). Cieszę się, że to już piątek :P
+
+30/05/2021
+---
+To była dobra sobota! Miałem na dziś trochę rzeczy zaplanowanych do zrobienia i wszystkie się udały ;). Z kuzynem pomagaliśmy przy czyszczeniu schodów w kościele, a dodatkowo kuzyn jeszcze umył płot a ja skosiłem trochę trawnika. Później z drugim kuzynem byłem na basenie i wieczór skończyliśmy na pysznym cieście u pierwszego kuzyna :D.

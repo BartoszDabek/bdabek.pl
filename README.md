@@ -4,7 +4,7 @@ Cele osobiste
 > — Mark Twain
 
 # Główne cele na 2021 🏆🥇
-1. Pomoc innym 🧚‍♂️ [4/5]
+1. ✅ Pomoc innym 🧚‍♂️ [5/5]
 2. Certyfikaty 📜
    - [x] [Java SE 8 Programmer I. Exam Number: 1Z0-808](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-808)
    - [ ] [Java SE 8 Programmer II. Exam Number: 1Z0-809](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-809)
@@ -20,7 +20,7 @@ Cele osobiste
 6. 80 kg wagi 💪
 
 ## Wyzwania 25 Dniowes 🔥🥉
-1. Wstrzymywanie oddechu 🧘
+1. Wstrzymywanie oddechu 🧘 (26.05-20.06)
 2. ✅ 10_000 kroków 🦶 (2.01-27.01)
 3. 100 pompek 🙇 (14.05-08.06)
 4. ✅ 60 podciagniec 🏋️‍♂️ (08.03-02.04)
@@ -30,17 +30,18 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [05/23/2021]
+# [05/30/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 📗 Review [OCP - Chapter 10](https://www.amazon.com/OCP-Certified-Professional-Programmer-1Z0-809-dp-1119067901/dp/1119067901/ref=mt_other?_encoding=UTF8&me=&qid=)
-- [ ] 📗 Przeczytać [Implementing Feature Flags in an Angular A Brief Overview](https://morioh.com/p/a678b654c472)
-- [ ] 🎧 Przesłuchać [POIT #112: Jak przejść na kolejny poziom w programowaniu?](https://porozmawiajmyoit.pl/poit-112-jak-przejsc-na-kolejny-poziom-w-programowaniu/)
-- [ ] 🎧 Przesłuchać [Umowa o roboty budowlane](https://blog.poradnik-budowlany.com/umowa-o-roboty-budowlane-podcast/)
-- [ ] 🎧 Przesłuchać [064 – Giełda – po co i jak na nią wchodzić? Andrzej Kopka, Haitong Bank](https://piotrbucki.pl/064)
-- [ ] 🎧 Przesłuchać [Episode 110: Security with Dotan Nahum](https://www.programmingthrowdown.com/2021/04/episode-110-security-with-dotan-nahum.html)
-- [ ] 📽️ Obejrzeć [[Architektura i kontenery] Jak poprawić bezpieczeństwo, komunikację i widoczność między mikro...](https://youtu.be/qhxsXDi0DPA)
-- [ ] 📽️ Obejrzeć [[Architektura i kontenery] Co każdy programista powinien wiedzieć budując serwis dla Kubernetesa?](https://youtu.be/8k3k80WTNJ4)
+- [ ] 📗 6 testów próbnych do egzaminu OCP
+- [ ] 📗 Przeczytać [Concurrency (Java)](https://learning-notes.mistermicheels.com/java/concurrency)
+- [ ] 📗 Przeczytać [Spring Boot Native, GraalVM i JHipster](https://jgardo.dev/2021/05/25/spring-boot-native-graalvm-i-jhipster)
+- [ ] 🎧 Przesłuchać [Self-Awareness: The Ultimate Productivity Hack of Life w/ Sachit Gupta (TPS348)](https://www.asianefficiency.com/podcasts/348-sachit-gupta/)
+- [ ] 🎧 Przesłuchać [Czy przy polskich zarobkach można osiągnąć niezależność finansową?](https://inwestomat.eu/czy-przy-polskich-zarobkach-mozna-osiagnac-niezaleznosc-finansowa/)
+- [ ] 🎧 Przesłuchać [Podcast 14 Mity budowlane](https://blog.poradnik-budowlany.com/podcast-14-mity-budowlane/)
+- [ ] 🎧 Przesłuchać [POIT #114: Technical writer](https://porozmawiajmyoit.pl/poit-114-technical-writer/)
+- [ ] 📽️ Obejrzeć [SpringOne Tour: Booternetes II - May 12, 2021](https://youtu.be/wu38Fm56wew)
+- [ ] 📽️ Obejrzeć [288. WJUG "Ma! They hacked Retro Board! Scrum Masters hate them." [PL]](https://youtu.be/_2Cnaa-sh2k)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
