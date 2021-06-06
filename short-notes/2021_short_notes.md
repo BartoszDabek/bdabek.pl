@@ -573,3 +573,31 @@ Piąteczek i początek weekendu!! Dziś miałem sporo pracy, ale i tak znalazłe
 30/05/2021
 ---
 To była dobra sobota! Miałem na dziś trochę rzeczy zaplanowanych do zrobienia i wszystkie się udały ;). Z kuzynem pomagaliśmy przy czyszczeniu schodów w kościele, a dodatkowo kuzyn jeszcze umył płot a ja skosiłem trochę trawnika. Później z drugim kuzynem byłem na basenie i wieczór skończyliśmy na pysznym cieście u pierwszego kuzyna :D.
+
+31/05/2021
+---
+Dziś byłem na 18-tych urodzinach u znajomego. Było sporo znajomych i mieliśmy fajny czas. Pośmialiśmy się, pożartowaliśmy i tak się skończył dzień.
+
+01/06/2021
+---
+Całkiem pracowity poniedziałek. Po pracy byłem na działce... w ogóle chyba nie wspominałem, że kupiłem działkę. Także teraz trzeba ją doprowadzić do ładu i składu :D.
+
+02/06/2021
+---
+Dziś miałem sporo pracy. Wtorkowy trening zrobiłem dopiero o 17... później pojechałem z tatą pomóc kuzynowi przy przesadzaniu tuji z jednego miejsca na inne. Wróciłem poszedłem się przebiec (5km), kolacja i na basen.
+
+03/06/2021
+---
+Fajny dzień ;). W pracy ogarnąłem wszystko do 15 i później mogłem się cieszyć pięknym dniem! Poszedłem na rower a wieczorem na basen. I dziś udało mi się przepłynąć 50m pod wodą! :)
+
+04/06/2021
+---
+Dziś mieliśmy święto narodowe, a co za tym idzie było wolne w pracy. Postanowiłem, że zrobię dłuższą trasę rowerem i zrobiłem trochę ponad 70 km (pojechałem pod granicę z Białorusią) - dziś czuję nogi :D, ale i tak zaraz idę się przebiec. Oprócz tego dziś wieczorem przyjechała młodzież z Lubska do Dubicz. I po nabożeństwie wieczorowym postanowiłem, że też tam przyjadę i pobędę razem.
+
+05/06/2021
+---
+I piąteczek :). Dziś po pracy pojechałem do sąsiedniego zboru w Dubiczach i tam, razem z młodzieżą z Lubska (i z Dubicz ofc.) spędziliśmy czas.
+
+06/06/2021
+---
+Dziś kosiłem swoją działkę a później byłem w Dubiczach razem z młodzieżą. Szczerze? Mam zwalony humor dziś, ale jest ładna pogoda za oknem to może się poprawi.

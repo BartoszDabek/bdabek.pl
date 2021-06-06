@@ -13,7 +13,7 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 3km < 12 minut 👟
-2. 50m pod wodą 🏊
+2. ✅ 50m pod wodą 🏊 (2.06)
 3. Przebiec 365 km w ciagu roku 🏃
 4. Przejechac na rowerze 2000 km w ciagu roku 🚴
 5. Przebiec na raz dystans półmaratonu 🏃‍♀️
@@ -22,26 +22,25 @@ Cele osobiste
 ## Wyzwania 25 Dniowes 🔥🥉
 1. Wstrzymywanie oddechu 🧘 (26.05-20.06)
 2. ✅ 10_000 kroków 🦶 (2.01-27.01)
-3. 100 pompek 🙇 (14.05-08.06)
-4. ✅ 60 podciagniec 🏋️‍♂️ (08.03-02.04)
+3. 100 pompek 🙇 (14.05-8.06)
+4. ✅ 60 podciagniec 🏋️‍♂️ (8.03-2.04)
 5. Zimne prysznice 🚿
 6. Intermittent Fasting (od 14 do 19) 🥪
 7. 3200+ Kcal 🍌
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [05/30/2021]
+# [06/06/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 📗 6 testów próbnych do egzaminu OCP
+- [ ] 📗 5 testów próbnych do egzaminu OCP
 - [ ] 📗 Przeczytać [Concurrency (Java)](https://learning-notes.mistermicheels.com/java/concurrency)
-- [ ] 📗 Przeczytać [Spring Boot Native, GraalVM i JHipster](https://jgardo.dev/2021/05/25/spring-boot-native-graalvm-i-jhipster)
-- [ ] 🎧 Przesłuchać [Self-Awareness: The Ultimate Productivity Hack of Life w/ Sachit Gupta (TPS348)](https://www.asianefficiency.com/podcasts/348-sachit-gupta/)
-- [ ] 🎧 Przesłuchać [Czy przy polskich zarobkach można osiągnąć niezależność finansową?](https://inwestomat.eu/czy-przy-polskich-zarobkach-mozna-osiagnac-niezaleznosc-finansowa/)
-- [ ] 🎧 Przesłuchać [Podcast 14 Mity budowlane](https://blog.poradnik-budowlany.com/podcast-14-mity-budowlane/)
-- [ ] 🎧 Przesłuchać [POIT #114: Technical writer](https://porozmawiajmyoit.pl/poit-114-technical-writer/)
-- [ ] 📽️ Obejrzeć [SpringOne Tour: Booternetes II - May 12, 2021](https://youtu.be/wu38Fm56wew)
-- [ ] 📽️ Obejrzeć [288. WJUG "Ma! They hacked Retro Board! Scrum Masters hate them." [PL]](https://youtu.be/_2Cnaa-sh2k)
+- [ ] 🎧 Przesłuchać [Episode 111: Real-time Data Streaming with Frank McSherry](https://www.programmingthrowdown.com/2021/05/episode-111-real-time-data-streaming.html)
+- [ ] 🎧 Przesłuchać [Twoje działania w social mediach nie przynoszą efektów? Dowiedz się, jak korzystać z Instagrama i Facebooka z głową i zyskiem dla firmy](https://malawielkafirma.pl/social-media-bez-wyrzutow-sumienia/)
+- [ ] 🎧 Przesłuchać [SPI 483: Turning Life’s Challenges into a Podcast and Brand That Changes Lives with Mary Barbera](https://www.smartpassiveincome.com/podcasts/podcast-and-brand-that-changes-lives/)
+- [ ] 🎧 Przesłuchać [065 – Najszybciej rosnąca firma IT w Europie wg. Financial Times FT1000, Konrad Weiske, SpyroSoft](https://piotrbucki.pl/065)
+- [ ] 📽️ Obejrzeć [[Architektura i kontenery] Kubernetes. Now What? Data Management in a Distributed Cluster](https://youtu.be/rby1IuQZqn4)
+- [ ] 📽️ Obejrzeć [[Architektura i kontenery] Distributed Application Runtime, czyli przepis na enterprise i serwisy](https://youtu.be/WAhE4h91c_k)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
