@@ -601,3 +601,31 @@ I piąteczek :). Dziś po pracy pojechałem do sąsiedniego zboru w Dubiczach i 
 06/06/2021
 ---
 Dziś kosiłem swoją działkę a później byłem w Dubiczach razem z młodzieżą. Szczerze? Mam zwalony humor dziś, ale jest ładna pogoda za oknem to może się poprawi.
+
+07/06/2021
+---
+Miałem bardzo bardzo bardzo kiepski dzień.
+
+08/06/2021
+---
+Po deszczu wychodzi słońce :). Dziś jest już wiele lepiej i dziękuję za to Bogu!!
+
+09/06/2021
+---
+Od tygodnia mamy piękną pogodę, alleluja!! Dziś po pracy wyszedłem z przyjacielem na rowery, a wieczorem poszedłem na basen. Mam karnet do 14 czerwca, więc chodzę często.
+
+10/06/2021
+---
+Kolejny dobry dzień, choć dziś padał trochę deszcz i za bardzo nawet nie miałem okazji posiedzieć na podwórku. Z rana przebiegłem 4km, a później miałem dużo spotkań w pracy. Wieczorem, razem z kuzynem poszliśmy na basen ;)
+
+11/06/2021
+---
+Ależ to był dobry dzień, dzięki Bogu za to!!! Rano przebiegłem 4km (interwały po 1km), później standardowo praca, ale tu wszystko układało się dobrze. Skończyłem o normalnej porze a jeszcze podczas dnia załatwiłem razem z przyjacielem geodetę. A wieczorem pojechałem do Redut na spacer :P.
+
+12/06/2021
+---
+Dziś byłem w poście, ale co to był za post (w sensie Bóg dał takie siły, że aż do dziś czuję się WYŚMIENICIE, choć już zjadłem banana z rana!!). Miałem mnóstwo energii, w pracy było wszystko dobrze a wieczorem jeszcze zdzwoniłem się z przyjaciółką mojego serca ;)
+
+13/06/2021
+---
+Wstałem o 4:30 i miałem OGROM energii! Do 13 było bardzo ładnie a później pogoda się zepsuła. Mimo wszystko poszedłem jeszcze z kuzynem na basen i odwiedziłem też potencjalnie przyszłych teściów :D

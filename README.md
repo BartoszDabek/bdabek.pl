@@ -22,7 +22,7 @@ Cele osobiste
 ## Wyzwania 25 Dniowes 🔥🥉
 1. Wstrzymywanie oddechu 🧘 (26.05-20.06)
 2. ✅ 10_000 kroków 🦶 (2.01-27.01)
-3. 100 pompek 🙇 (14.05-8.06)
+3. ✅ 100 pompek 🙇 (14.05-8.06)
 4. ✅ 60 podciagniec 🏋️‍♂️ (8.03-2.04)
 5. Zimne prysznice 🚿
 6. Intermittent Fasting (od 14 do 19) 🥪
@@ -30,17 +30,20 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [06/06/2021]
+# [06/13/2021]
 
 ### ⭐ W tym tygodniu:
-- [ ] 📗 5 testów próbnych do egzaminu OCP
+- [ ] 📗 Testy próbne do egzaminu OCP + zapis na egzamin
+- [ ] 🏃 Bieganie w ciągu tygodnia 15km
+- [ ] 🚴 Rower w ciągu tygodnia 80km
 - [ ] 📗 Przeczytać [Concurrency (Java)](https://learning-notes.mistermicheels.com/java/concurrency)
-- [ ] 🎧 Przesłuchać [Episode 111: Real-time Data Streaming with Frank McSherry](https://www.programmingthrowdown.com/2021/05/episode-111-real-time-data-streaming.html)
-- [ ] 🎧 Przesłuchać [Twoje działania w social mediach nie przynoszą efektów? Dowiedz się, jak korzystać z Instagrama i Facebooka z głową i zyskiem dla firmy](https://malawielkafirma.pl/social-media-bez-wyrzutow-sumienia/)
-- [ ] 🎧 Przesłuchać [SPI 483: Turning Life’s Challenges into a Podcast and Brand That Changes Lives with Mary Barbera](https://www.smartpassiveincome.com/podcasts/podcast-and-brand-that-changes-lives/)
-- [ ] 🎧 Przesłuchać [065 – Najszybciej rosnąca firma IT w Europie wg. Financial Times FT1000, Konrad Weiske, SpyroSoft](https://piotrbucki.pl/065)
-- [ ] 📽️ Obejrzeć [[Architektura i kontenery] Kubernetes. Now What? Data Management in a Distributed Cluster](https://youtu.be/rby1IuQZqn4)
-- [ ] 📽️ Obejrzeć [[Architektura i kontenery] Distributed Application Runtime, czyli przepis na enterprise i serwisy](https://youtu.be/WAhE4h91c_k)
+- [ ] 📗 Przeczytać [Serverlesslessless…](https://jgardo.dev/2021/06/11/serverlesslessless/)
+- [ ] 🎧 Przesłuchać [POIT #113: Aplikacje w chmurze publicznej](https://porozmawiajmyoit.pl/poit-113-aplikacje-w-chmurze-publicznej/)
+- [ ] 🎧 Przesłuchać [SPI 489: The Niche That Exploded during the Pandemic and How Kevin Espiritu Is Owning It](https://www.smartpassiveincome.com/podcasts/niche-that-exploded-during-pandemic/)
+- [ ] 🎧 Przesłuchać [Jak osiągnąć 5000 zł z dywidend i odsetek miesięcznie?](https://inwestomat.eu/jak-osiagnac-5000-zl-z-dywidend-i-odsetek-miesiecznie/)
+- [ ] 🎧 Przesłuchać [Czym ogrzać dom? Podcast #16](https://blog.poradnik-budowlany.com/czym-ogrzac-dom/)
+- [ ] 🎧 Przesłuchać [Klienci nie chcą płacić za jakość? Zrób tę jedną rzecz, żeby nie słyszeć już osłabiającego pytania: dlaczego jest tak drogo?](https://malawielkafirma.pl/klient-mowi-za-drogo/)
+- [ ] 📽️ Obejrzeć [Advanced Pipelines for Hypothesis Driven Development: Smart Routers - Edson Yanaga](https://youtu.be/-7P6NLjAIV4)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
