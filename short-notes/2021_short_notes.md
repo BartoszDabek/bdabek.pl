@@ -629,3 +629,31 @@ Dziś byłem w poście, ale co to był za post (w sensie Bóg dał takie siły, 
 13/06/2021
 ---
 Wstałem o 4:30 i miałem OGROM energii! Do 13 było bardzo ładnie a później pogoda się zepsuła. Mimo wszystko poszedłem jeszcze z kuzynem na basen i odwiedziłem też potencjalnie przyszłych teściów :D
+
+14/06/2021
+---
+Oj dobra to była niedziela. Dziś byłem tylko na porannym nabożeństwie, popołudniu byłem na urodzinach znajomej w Dubiczach. A wieczorem razem z moją przyjaciółką pojechaliśmy jeszcze na małą przejażdżkę.... ;))
+
+15/06/2021
+---
+Początek tygodnia zaczął się całkiem dobrze ;). O 18 pojechaliśmy do kuzyna oglądać porażkę naszej reprezentacji, a później z kuzynką wyszedłem na rowery. Btw. dziś zrobiłem 55km rowerem, +/- 35 km przed meczem i 20 po :D
+
+16/06/2021
+---
+I kolejny dzień za mną. Dziś po pracy przebiegłem 7.5km w całkiem dobrym tempie (4,32min/km). A oprócz tego to dzień był zwyczajny jak kiedyś, czyli ogarnąłem sobie teścik do egzaminu certyfikującego, zrobiłem zakupy i zjadłem pyszną kolacyjkę. 
+
+17/06/2021
+---
+Fajna środa. Po pracy przejechałem się rowerem do Jelonki i z powrotem. Ogarnąłem ostatni egzamin próbny i dziś będę się zapisywał na faktyczny. Wieczorem jeszcze rozmawiałem z moją przyjaciółką do północy przez telefon ;p
+
+18/06/2021
+---
+Dzień prawie jak normalny, po pracy przebiegłem 7.5km, później poszedłem na nabożeństwo i... o 21 razem z Nataszką pojechaliśmy odwiedzić Dominikę + na kebaba :D. Do domu wróciłem lekko po 2 ;)
+
+19/06/2021
+---
+I zaczynamy weekend! Piękny dzień, mało spałem, ale było dobrze :D
+
+20/06/2021
+---
+Ależ sobota pełna wrażeń. O 6 rano zacząłem egzamin OCP z Javy 8 i dzięki Bogu go zdałem :)! Na 11 mieliśmy w Świnorojach ognisko zborowe - pojechałem tam rowerem i też mieliśmy fajny czas razem. Później na 16 pojechaliśmy na wieczór kawalerski Dimy do parku linowego (teraz mam palce poopuchnięte :D), a wieczorem oglądaliśmy razem mecz Polski.
