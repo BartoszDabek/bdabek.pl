@@ -657,3 +657,31 @@ I zaczynamy weekend! Piękny dzień, mało spałem, ale było dobrze :D
 20/06/2021
 ---
 Ależ sobota pełna wrażeń. O 6 rano zacząłem egzamin OCP z Javy 8 i dzięki Bogu go zdałem :)! Na 11 mieliśmy w Świnorojach ognisko zborowe - pojechałem tam rowerem i też mieliśmy fajny czas razem. Później na 16 pojechaliśmy na wieczór kawalerski Dimy do parku linowego (teraz mam palce poopuchnięte :D), a wieczorem oglądaliśmy razem mecz Polski.
+
+21/06/2021
+---
+Niedziela minęła szybko. 2 nabożeństwa + rodzinny obiad + urodziny Kaji (córka mojego przyjaciela). No i do tego wszystkiego piękna pogoda (30 stopni !!) :))
+
+22/06/2021
+---
+Tydzień zaczyna się wspaniale. O 12:30 skończyłem pracę i ze znajomymi pojechaliśmy do Augustowa. Było SUPER! Do domu wróciłem po 1 :D.
+
+23/06/2021
+---
+Grałem dziś w plażówkę... ewidentnie nie mam formy i się nie nadaję do tego :D. Lubię sobie pograć, ale nie mam formy ;p
+
+24/06/2021
+---
+Oglądaliśmy dziś mecz Polski z bratem i kuzynami... były emocje, ale skończyło się porażką :(. Wieczorem poszedłem się jeszcze przebiec razem z przyjacielem i zrobiliśmy 10km oO! Jutro przede mną (właściwie to dziś bo piszę to zawsze z rana) wielki dzień... mam zamiar się oświadczyć. Niech Bóg da w tym mądrości :)
+
+25/06/2021
+---
+To był drugi najpiękniejszy dzień w moim życiu, zaraz po chrzcie - powiedziała mi tak! To był długi i ciekawy wieczór ;)
+
+26/06/2021
+---
+Dzień wesela... dobry dzień. Spałem 3 godziny (moja narzeczona tylko 2), a później praca i wesele. Jak będę to czytał pod koniec roku to chcę sobie przekazać wiadomość - miłość do Natalii ma być conajmniej taka jak teraz... a i zrób jej jakąś niespodziankę (kup coś fajnego)
+
+27/06/2021
+---
+Poprawiny w Dubiczach. Jedliśmy, rozmawialiśmy, graliśmy w siatkówkę - było fajnie ;)

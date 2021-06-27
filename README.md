@@ -30,21 +30,19 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [06/20/2021]
+# [06/27/2021]
 
 ### ⭐ W tym tygodniu:
 - [ ] 🏃 Bieganie w ciągu tygodnia 15km
 - [ ] 🚴 Rower w ciągu tygodnia 80km
-- [ ] 📗 Przeczytać [Putting your events on a diet](https://particular.net/blog/putting-your-events-on-a-diet)
 - [ ] 📗 Przeczytać [Threads (Java)](https://learning-notes.mistermicheels.com/java/concurrency-details/threads/)
 - [ ] 📗 Przeczytać [Locking (Java)](https://learning-notes.mistermicheels.com/java/concurrency-details/locking)
-- [ ] 🎧 Przesłuchać [POIT #118: Transformacja do chmury – strategiczna decyzja czy potrzeba wywołana przez pandemię?](https://porozmawiajmyoit.pl/poit-118-transformacja-do-chmury-strategiczna-decyzja-czy-potrzeba-wywolana-przez-pandemie/)
 - [ ] 🎧 Przesłuchać [Episode 112: Trees](https://www.programmingthrowdown.com/2021/05/episode-112-trees.html)
 - [ ] 🎧 Przesłuchać [Wszystko w firmie robisz sam? Przełam opór przed zlecaniem zadań raz na zawsze i zajmij się rozwijaniem swojego biznesu](https://malawielkafirma.pl/jak-pokonac-opor-przed-delegowaniem/)
 - [ ] 🎧 Przesłuchać [Budżet państwa w 2020 roku – jego zmiany i wykonanie](https://inwestomat.eu/budzet-panstwa-w-2020-roku/)
 - [ ] 🎧 Przesłuchać [POIT #119: Język P4 i programowanie urządzeń sieciowych](https://porozmawiajmyoit.pl/poit-119-jezyk-p4-i-programowanie-urzadzen-sieciowych/)
-- [ ] 📽️ Obejrzeć [Microservices and Rules Engines – a blast from the past - Udi Dahan](https://youtu.be/Fuac__g928E)
-- [ ] 📽️ Obejrzeć [JUGademy #4 - Jednoosobowy pair programing - czyli twoja wydajność w IntelliJ IDEA](https://youtu.be/kctQtjQDvdM)
+- [ ] 📽️ Obejrzeć [Event sourcing - lekarstwo na całe zło czy tylko hype?](https://youtu.be/m39mZ7NsbUA)
+- [ ] 📽️ Obejrzeć [Ten Things You Can Do With GraalVM - Oleg Šelajev](https://youtu.be/0meXvomuu9U)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
