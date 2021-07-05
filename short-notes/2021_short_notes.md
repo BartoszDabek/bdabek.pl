@@ -685,3 +685,23 @@ Dzień wesela... dobry dzień. Spałem 3 godziny (moja narzeczona tylko 2), a p�
 27/06/2021
 ---
 Poprawiny w Dubiczach. Jedliśmy, rozmawialiśmy, graliśmy w siatkówkę - było fajnie ;)
+
+28/06/2021
+---
+Można powiedzieć, że kolejny dzień świętowania bo dziś był chrzest w Dubiczach. To był dobry czas. Nabożeństwo, później obiad, ciasto, siatkówka. A wieczorem na 2 samochody pojechaliśmy jeszcze do Maca :D
+
+29/06/2021
+---
+Poniedziałek, praca i codzienność (powiedzmy). Ale po pracy pojechałem do mojej Natalii rowerem (no na 18 to nie tak do końca po pracy) i pojeździliśmy trochę.. do domu wróciłem około 22 :P
+
+30/06/2021
+---
+Dziś moja piękna zaprosiła mnie na obiad. Byłem, zjadłem, był dobry i się najadłem ;). Później pojechaliśmy do Białego na zakupy (prawie nic nie kupiliśmy), i dalej, razem z naszą wspólną przyjaciółką i znajomym poszliśmy na gokarty a później coś zjeść. Mieliśmy fajny dzień.
+
+02/07/2021
+---
+Wczoraj był taki dzień że aż zapomniałem cokolwiek wpisać... A dziś też się dzieje. Myślimy z Natką dużo o terminie na wesele i dziś pościmy o to, aby było to według Woli Bożej.
+
+05/07/2021
+---
+Kilka dni mnie tu nie było :D. Jestem nad morzem razem z narzeczoną i przyszłymi teściami. Mamy fajny czas... ;)
