@@ -705,3 +705,15 @@ Wczoraj był taki dzień że aż zapomniałem cokolwiek wpisać... A dziś też 
 05/07/2021
 ---
 Kilka dni mnie tu nie było :D. Jestem nad morzem razem z narzeczoną i przyszłymi teściami. Mamy fajny czas... ;)
+
+07/07/2021
+---
+Jesteśmy kolejny dzień nad morzem. Jest świetna pogoda i będę mieć dużo wspommnień.
+
+08/07/2021
+---
+Dziś pogoda była lipna. Brak słońca + deszcz. Razem z narzeczoną mamy też problem z salą weselną i nie wiemy co robić.
+
+09/07/2021
+---
+Czwartek nie należał do najcieplejszych dni, ale przynajmniej było słonecznie. Mieliśmy fajny dzień :)
