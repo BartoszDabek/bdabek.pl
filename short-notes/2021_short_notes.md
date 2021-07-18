@@ -717,3 +717,31 @@ Dziś pogoda była lipna. Brak słońca + deszcz. Razem z narzeczoną mamy też 
 09/07/2021
 ---
 Czwartek nie należał do najcieplejszych dni, ale przynajmniej było słonecznie. Mieliśmy fajny dzień :)
+
+12/07/2021
+---
+Znów miałem Kilka dni przerwy od wpisów. Dziś byłem w Białymstoku na chrzcie, a później ze znajomymi szwędaliśmy się po mieście. Zaraz czas wrócić do normalności i do pracy :P
+
+13/07/2021
+---
+I kolejny raz krótka noc. Jestem przemęczony i niedospany ostatnimi czasy i tylko miłość daje mi jeszcze siły :D. Będę musiał w końcu normalnie się wyspać..
+
+14/07/2021
+---
+Budzik miałem na 6, wstałem lekko przed 8, przez pierwszą część dnia czułem się niewyspany i zmęczony... Przywiozłem też moją narzeczoną do rodziców, żeby się lepiej poznali :)
+
+15/07/2021
+---
+Dziś przejechałem 50 km rowerem i czuję nogi :P. Jutro biorę urlop i cisnę na Augustów. Jest tak goraco, że trzeba się ten jeden dzień zresetować.
+
+16/07/2021
+---
+Byliśmy nad wodą i było super. Ustaliliśmy też datę ślubu, ale czekam jeszcze na potwierdzenie czy będziemy mieli salę weselną.
+
+17/07/2021
+---
+Dziś był dzień postu o sprawy ślubu i wesela. Dostaliśmy potwierdzenie z salą weselną i będziemy płacić 185zł za osobę - drogo, ale nie jest najgorzej (zeszliśmy z 200zł). Moja ukochana wybrała też już suknię ślubną :)
+
+18/07/2021
+---
+Fajna sobota. Rano przed 8, razem z kuzynem pojechalismy rowerami do Białowieży. Później jak wróciłem, to ogarniałem się w jakichś swoich prywatnych sprawach, a po 16 mój brat zrobił grilla na którego zaprosił parę osób. A wieczorem (prawie 22) razem z kuzynką pojechaliśmy jeszcze do mojej ukochanej :D
