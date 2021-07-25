@@ -745,3 +745,31 @@ Dziś był dzień postu o sprawy ślubu i wesela. Dostaliśmy potwierdzenie z sa
 18/07/2021
 ---
 Fajna sobota. Rano przed 8, razem z kuzynem pojechalismy rowerami do Białowieży. Później jak wróciłem, to ogarniałem się w jakichś swoich prywatnych sprawach, a po 16 mój brat zrobił grilla na którego zaprosił parę osób. A wieczorem (prawie 22) razem z kuzynką pojechaliśmy jeszcze do mojej ukochanej :D
+
+19/07/2021
+---
+Ciężka niedziela. Byłem na obu nabożeństwach razem z moją narzeczoną (rano było ogłoszenie zaręczyn w zborze w Hajnówce). O 15 przyjechali rodzice Natalii i mieliśmy rozmowy co do listy gości weselnych i $.
+
+20/07/2021
+---
+Dziś razem z narzeczoną wybieraliśmy zaproszenia i dopracowywaliśmy listę gości. To jest masakrycznie ciężkie wybierać kto będzie zaproszony a kto nie :F
+
+21/07/2021
+---
+Spisaliśmy umowę z salą weselną i zamówiliśmy zaproszenia. Jeżeli chodzi o salę weselną to nie jestem w 100% zadowolony... trochę mówili jedno a później przy umowie jest drugie.
+
+22/07/2021
+---
+Z kuzynem przejechaliśmy dziś 50km rowerami :). Udało się też zamówić zaproszenia. Dziś nie widziałem mojej ukochanej i nareszcie poszedłem wcześniej spać! haha
+
+23/07/2021
+---
+W sumie to nie wiem jak opisać ten dzień. Z jednej strony był fajny a z drugiej zrezygnowałem z nabożeństwa wieczorowego po to żeby spędzić czas z narzeczoną (byliśmy u szwagierki w gościach).
+
+24/07/2021
+---
+Dziś cały dzień byłem w poście. Miałem chwilę zwątpienia jak widziałem obiad na stole, ale dzięki Bogu udało się. Jak będę to czytał pod koniec roku, to bardzo bym chciał dostrzec, fakt iż Bóg wysłuchał modlitw i wejrzał na posty :)
+
+25/07/2021
+---
+Dziś poranek był na szybko. Jakieś zakupy, posprzątałem, zrobiłem trening, wykąpałem się, coś zjadłem i już była 14... Trzeba było jechać do narzeczonej. Tam pomagałem przy obiedzie, później ogarnialiśmy zaproszenia i wieczorem pojechałem jeszcze na młodzieżowe do Dubicz. Ot, taka sobota.
