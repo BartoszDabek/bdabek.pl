@@ -773,3 +773,23 @@ Dziś cały dzień byłem w poście. Miałem chwilę zwątpienia jak widziałem 
 25/07/2021
 ---
 Dziś poranek był na szybko. Jakieś zakupy, posprzątałem, zrobiłem trening, wykąpałem się, coś zjadłem i już była 14... Trzeba było jechać do narzeczonej. Tam pomagałem przy obiedzie, później ogarnialiśmy zaproszenia i wieczorem pojechałem jeszcze na młodzieżowe do Dubicz. Ot, taka sobota.
+
+26/07/2021
+---
+Dziś ogłaszaliśmy zaręczyny w zborze w Dubiczach. Później był obiad i siatkówka dla młodzieży. Dziś też zaczęliśmy rozdawać zaproszenia.. Ogólnie to jestem zmęczony :D
+
+27/07/2021
+---
+Razem z moją piękną rozwozimy zaproszenia i załatwiamy wiele spraw. Jest ciężko bo się nie wysypiam, tak jak bym chciał, ale jest pięknie :). I mam najpiekniejszą kobietę u boku - piękną zarówno od wewnątrz i zewnątrz!
+
+28/07/2021
+---
+Sierpień coraz bliżej i czas nieubłagalnie gna do przodu. Całe moje dni to praca -> ogarnianie ślubu / wesela. Teraz akurat rozdajemy wesela i wiem, że do końca tygodnia tak będzie. Trochę to męczące... szczególnie, że nawet za bardzo nie mam jak pójść się przebiec lub wyjść na rower :(
+
+29/07/2021
+---
+Dziś był Białystok. Musieliśmy rozdać tam parę zaproszeń i dzięki Bogu jesteśmy coraz bliżej końca :)
+
+30/07/2021
+---
+To był spokojniejszy czwartek. Oczywiście rozwoziliśmy zaproszenia (Malinniki + Jelonka), ale o 20:15 byliśmy już w Redutach.

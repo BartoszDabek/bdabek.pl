@@ -30,16 +30,16 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [07/25/2021]
-- [ ] 🏃 Bieganie w ciągu tygodnia 15km
-- [ ] 🚴 Rower w ciągu tygodnia 80km
+# [08/01/2021]
+- [ ] 🏃 Bieganie w ciągu tygodnia 12km
+- [ ] 🚴 Rower w ciągu tygodnia 50km
 - [ ] 🎓 Przerobić streszczenia wszystkich podrozdziałów OCP 11 
 - [ ] 📗 Przeczytać [Hibernate Lista vs Set – czego używać?](https://nullpointerexception.pl/hibernate-lista-vs-set-czego-uzywac/) 
-- [ ] 🎧 Przesłuchać [Podsumowanie dywidend z 2021 roku. Spółki z GPW i NewConnect](https://inwestomat.eu/podsumowanie-dywidend-z-2021-roku/)
-- [ ] 🎧 Przesłuchać [Episode 17 “Pattern Matching for switch” with Gavin Bierman](https://inside.java/2021/06/13/podcast-017/)
-- [ ] 🎧 Przesłuchać [25. O modelu i modelowaniu ze Sławkiem Sobótką](https://bettersoftwaredesign.pl/episodes/25)
-- [ ] 🎧 Przesłuchać [Q&A with Tim — Current Morning and Exercise Routines, Holotropic Breathwork, Ambition vs. Self-Compassion, Daily Practices for Joy, Ontological Shock, and More (#518)](https://tim.blog/2021/06/16/qa-with-tim/)
-- [ ] 📽️ Obejrzeć [Chmurowisko: Mini Szkoła Chmury](https://portal.akademia.pl/products/tworcy-dzieciom/categories/4253302/posts/14280024)
+- [ ] 🎧 Przesłuchać [Episode 114 - Code Documentation with Omer Rosenbaum and Tim Post](https://www.programmingthrowdown.com/2021/06/episode-114-code-documentation-with.html)
+- [ ] 🎧 Przesłuchać [Adam Mokrysz-zwycięski ruch rodzinnej firmy na szachownicy międzynarodowego biznesu-Mokate](https://zaprojektujswojezycie.pl/adam-mokrysz-zwycieski-ruch-rodzinnej-firmy-na-szachownicy-miedzynarodowego-biznesu-mokate/)
+- [ ] 🎧 Przesłuchać [W co inwestuję w drugim półroczu 2021 roku? Mój portfel inwestycyjny](https://inwestomat.eu/w-co-inwestuje-w-drugim-polroczu-2021-roku/)
+- [ ] 🎧 Przesłuchać [POIT #122: Full Cycle Product Development](https://porozmawiajmyoit.pl/poit-122-full-cycle-product-development/)
+- [ ] 📽️ Obejrzeć [JUGademy#4: Heinz Kabutz - AbstractQueuedSynchronizer: The cornerstone of Java concurrency](https://youtu.be/z6yv7QWiK0s)
 
 ### ⭐ W tym tygodniu:
 
