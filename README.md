@@ -24,22 +24,22 @@ Cele osobiste
 2. ✅ 10_000 kroków 🦶 (2.01-27.01)
 3. ✅ 100 pompek 🙇 (14.05-8.06)
 4. ✅ 60 podciagniec 🏋️‍♂️ (8.03-2.04)
-5. Zimne prysznice 🚿 (12.07-6.08)
+5. ✅ Zimne prysznice 🚿 (12.07-6.08)
 6. Intermittent Fasting (okno 6 godzinne) 🥪
 7. 3200+ Kcal 🍌
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [08/01/2021]
-- [ ] 🏃 Bieganie w ciągu tygodnia 12km
-- [ ] 🚴 Rower w ciągu tygodnia 50km
+# [08/08/2021]
 - [ ] 🎓 Przerobić streszczenia wszystkich podrozdziałów OCP 11 
-- [ ] 📗 Przeczytać [Hibernate Lista vs Set – czego używać?](https://nullpointerexception.pl/hibernate-lista-vs-set-czego-uzywac/) 
-- [ ] 🎧 Przesłuchać [Episode 114 - Code Documentation with Omer Rosenbaum and Tim Post](https://www.programmingthrowdown.com/2021/06/episode-114-code-documentation-with.html)
-- [ ] 🎧 Przesłuchać [Adam Mokrysz-zwycięski ruch rodzinnej firmy na szachownicy międzynarodowego biznesu-Mokate](https://zaprojektujswojezycie.pl/adam-mokrysz-zwycieski-ruch-rodzinnej-firmy-na-szachownicy-miedzynarodowego-biznesu-mokate/)
-- [ ] 🎧 Przesłuchać [W co inwestuję w drugim półroczu 2021 roku? Mój portfel inwestycyjny](https://inwestomat.eu/w-co-inwestuje-w-drugim-polroczu-2021-roku/)
-- [ ] 🎧 Przesłuchać [POIT #122: Full Cycle Product Development](https://porozmawiajmyoit.pl/poit-122-full-cycle-product-development/)
-- [ ] 📽️ Obejrzeć [JUGademy#4: Heinz Kabutz - AbstractQueuedSynchronizer: The cornerstone of Java concurrency](https://youtu.be/z6yv7QWiK0s)
+- [ ] 🏃 Bieganie w ciągu tygodnia 15km
+- [ ] 🚴 Rower w ciągu tygodnia 70km
+- [ ] 📗 Przeczytać [Time management tips for a happy developer - part 2](https://unknownexception.eu/2021-08-01-time-management-part2/) 
+- [ ] 🎧 Przesłuchać [Kod DNA firmy – czyli jak znaleźć coś, co wyróżni cię na tle konkurencji, pozwoli wybić się na rynku i odnieść sukces w biznesie?](https://malawielkafirma.pl/jak-stworzyc-miedzynarodowa-firme)
+- [ ] 🎧 Przesłuchać [Anna Zarudzka-jak praktykować zmianę w biznesie-Boldare](https://zaprojektujswojezycie.pl/anna-zarudzka-jak-praktykowac-zmiane-w-biznesie-boldare/)
+- [ ] 🎧 Przesłuchać [Episode 115 - Route Planning with Parker Woodward](https://www.programmingthrowdown.com/2021/07/episode-115-route-planning-with-parker.html)
+- [ ] 🎧 Przesłuchać [066 – Pokolenie Z. Co o nim wiemy? Anna Dolot](https://piotrbucki.pl/066)
+- [ ] 📽️ Obejrzeć [Adrian Sasin: Szkoła Kierowników - Wybrane Praktyki Liderów](https://portal.akademia.pl/products/tworcy-dzieciom/categories/4251716/posts/14291790)
 
 ### ⭐ W tym tygodniu:
 

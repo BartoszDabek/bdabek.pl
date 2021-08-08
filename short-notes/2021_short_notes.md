@@ -793,3 +793,31 @@ Dziś był Białystok. Musieliśmy rozdać tam parę zaproszeń i dzięki Bogu j
 30/07/2021
 ---
 To był spokojniejszy czwartek. Oczywiście rozwoziliśmy zaproszenia (Malinniki + Jelonka), ale o 20:15 byliśmy już w Redutach.
+
+02/08/2021
+---
+Nie było mnie tutaj kilka dni. Pojechałem na śląsk i nie chciałem brać ze sobą laptopa. Miałem ciężki fizycznie, ale dobry weekend!
+
+03/08/2021
+---
+Dziś odwiedziliśmy Bielsk. Mieliśmy o 21 być w domach, a lekko przed 23 wyszliśmy od gości :D.
+
+04/08/2021
+---
+Nareszcie poszedłem wcześniej spać! Byłem też na rowerach z kuzynem :). Z Natalą załatwiliśmy dziś Urząd Stanu Cywilnego.
+
+05/08/2021
+---
+Pomagałem przez godzinkę w Dubiczach przy namiocie a później z narzeczoną pojechaliśmy do fotografa + rozwieźć kilka zaproszeń. Jakoś w ciszy między nami i ogólnie smutno zakończył się ten dzień...
+
+06/08/2021
+---
+Po pracy udało mi się przebiec 6km. Jakiś czas nie biegałem i całkiem ciężko było... Wieczorem poszedłem też z tatą na wieczorowe nabożeństwo :)
+
+07/08/2021
+---
+Dziś do 20 byłem w poście razem z moją narzeczoną. Trochę żałuję, że nie zostałem w poście do końca dnia bo miałem siły. Generalnie, ten dzień był dobry!
+
+08/08/2021
+---
+Fajna sobota. Od rana do wieczora ciągle coś robiłem. Z rana rower + ogarnianie swoich prac + posprzątanie w domu. Później na działkę pokosić trochę (tato mnie zmienił o 16:30), a na koniec do Dubicz na młodzieżowe i jeszcze odwiozłem moją piękną do domu.
