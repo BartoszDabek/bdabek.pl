@@ -821,3 +821,31 @@ Dziś do 20 byłem w poście razem z moją narzeczoną. Trochę żałuję, że n
 08/08/2021
 ---
 Fajna sobota. Od rana do wieczora ciągle coś robiłem. Z rana rower + ogarnianie swoich prac + posprzątanie w domu. Później na działkę pokosić trochę (tato mnie zmienił o 16:30), a na koniec do Dubicz na młodzieżowe i jeszcze odwiozłem moją piękną do domu.
+
+09/08/2021
+---
+Niedzielka. Byłem tylko na porannym nabożeństwie, a później pojechałem do Natalki. Ułożyliśmy plan ślubu i zdecydowaliśmy się na pieśni na ślubie. Ogólnie to siedziałem tam do 23, więc trochę jeszcze rozmawialiśmy na różne inne tematy :D
+
+10/08/2021
+---
+Pojechaliśmy dziś do Białegostoku mierzyć garnitury na ślub. To jest męczarnia. Przez 3.5h zmierzyłem raptem 3 garnitury i to nie wybraliśmy jeszcze końcowo. W środę mamy pojechać jeszcze raz.
+
+11/08/2021
+---
+Dziś miałem dzień wolny od sprawy ślubu/wesela. Po pracy poszedłem na rower a wieczorem na basen z ekipką i później na burgera do trio.
+
+12/08/2021
+---
+Z moją piękną kupiliśmy garnitur :)). O 13 jak wyjechałem po Nią, to w domu byłem dopiero po 23. Ale misja zrobiona, więc jest git :D
+
+13/08/2021
+---
+Biegałem, jeździłem rowerem, byłem na nabożeństwie a później u mojego fryzjera. Nie widziałem mojej narzeczonej, ale i tak to był fajny dzień ;)
+
+14/08/2021
+---
+Dobry dzień miałem. Byłem w poście, ale jednocześnie udało mi się też przebiec 4km, pójść na modtliwę a wieczorem odwiedzić jeszcze kuzynkę.
+
+15/08/2021
+---
+Z kuzynem poszliśmy na rowery i przejechaliśmy w 5.5h 110km. Ostatnie 30 kilometrów to była MASAKRA! Ale końcowo super uczucie :)

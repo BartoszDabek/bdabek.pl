@@ -30,16 +30,15 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [08/08/2021]
+# [08/15/2021]
 - [ ] 🎓 Przerobić streszczenia wszystkich podrozdziałów OCP 11 
 - [ ] 🏃 Bieganie w ciągu tygodnia 15km
-- [ ] 🚴 Rower w ciągu tygodnia 70km
-- [ ] 📗 Przeczytać [Time management tips for a happy developer - part 2](https://unknownexception.eu/2021-08-01-time-management-part2/) 
-- [ ] 🎧 Przesłuchać [Kod DNA firmy – czyli jak znaleźć coś, co wyróżni cię na tle konkurencji, pozwoli wybić się na rynku i odnieść sukces w biznesie?](https://malawielkafirma.pl/jak-stworzyc-miedzynarodowa-firme)
-- [ ] 🎧 Przesłuchać [Anna Zarudzka-jak praktykować zmianę w biznesie-Boldare](https://zaprojektujswojezycie.pl/anna-zarudzka-jak-praktykowac-zmiane-w-biznesie-boldare/)
-- [ ] 🎧 Przesłuchać [Episode 115 - Route Planning with Parker Woodward](https://www.programmingthrowdown.com/2021/07/episode-115-route-planning-with-parker.html)
-- [ ] 🎧 Przesłuchać [066 – Pokolenie Z. Co o nim wiemy? Anna Dolot](https://piotrbucki.pl/066)
-- [ ] 📽️ Obejrzeć [Adrian Sasin: Szkoła Kierowników - Wybrane Praktyki Liderów](https://portal.akademia.pl/products/tworcy-dzieciom/categories/4251716/posts/14291790)
+- [ ] 🚴 Rower w ciągu tygodnia 80km
+- [ ] 📗 Przeczytać [What are they building—and why? 6 questions for the top Java architects](https://blogs.oracle.com/javamagazine/java-architects-loom-panama-valhalla) 
+- [ ] 🎧 Przesłuchać [The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)](https://tim.blog/2021/07/08/andrew-huberman-transcript/)
+- [ ] 🎧 Przesłuchać [SPI 495: How to Run a Successful Community (and What to Put Inside)](https://www.smartpassiveincome.com/podcasts/spi-495-how-to-run-a-successful-community-and-what-to-put-inside/)
+- [ ] 🎧 Przesłuchać [POIT #124: Edge computing](https://porozmawiajmyoit.pl/poit-124-edge-computing/)
+- [ ] 📽️ Obejrzeć [AWS Basics for Beginners - Full Course](https://youtu.be/ulprqHHWlng)
 
 ### ⭐ W tym tygodniu:
 
