@@ -849,3 +849,31 @@ Dobry dzień miałem. Byłem w poście, ale jednocześnie udało mi się też pr
 15/08/2021
 ---
 Z kuzynem poszliśmy na rowery i przejechaliśmy w 5.5h 110km. Ostatnie 30 kilometrów to była MASAKRA! Ale końcowo super uczucie :)
+
+16/08/2021
+---
+Dzisiaj było błogosławieństwo Danielka. Przywiozłem Natalkę do Hajnówki i spędziła tu cały dzień. Wieczorem odwiozłem ją do kuzynki i tam nocowała.
+
+17/08/2021
+---
+Po pracy byłem na rowerze. W drodze powrotnej spotkałem Niemca, który przejechał rowerem ponad 1700km.. byłem w pozytywnym szoku :D. Wieczorem pojechałem do narzeczonej i zamawialiśmy razem różne dekoracje :)
+
+18/08/2021
+---
+Po pracy przebiegłem ponad 7km, a później razem z narzeczoną spędziliśmy wieczór u kuzynki i jej siostry.
+
+19/08/2021
+---
+Dziś pojechałem na obiad do mojej Natalki ;). Wróciłem lekko po 19 i poszedłem się jeszcze przebiec - zrobiłem prawie 8km.
+
+20/08/2021
+---
+Generalnie ten dzień mógłbym zaliczyć do udanych. Ale muszę się poprawić w tym, aby mówić dosłownie wszystko swojej drugiej połówce bo czasem coś co mi się zdaje mało ważne, dla Niej może być istotne.
+
+21/08/2021
+---
+To był ciężki piątek :(. Pościłem do 15 i to z ogromnym trudem... Taki dzień, że nic nie wychodziło...
+
+22/08/2021
+---
+Dzisiaj było już lepiej. Od 13 byłem u mojej narzeczonej i wspierałem ją jak mogłem w trudnym dla niej okresie. Jej druhna zrezygnowała z ten 'funkcji' miesiąc przed ślubem..

@@ -30,14 +30,15 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [08/15/2021]
-- [ ] 🎓 Przerobić streszczenia wszystkich podrozdziałów OCP 11 
+# [08/22/2021]
+- [ ] 🎓 Egzaminy próbne OCP 11
 - [ ] 🏃 Bieganie w ciągu tygodnia 15km
 - [ ] 🚴 Rower w ciągu tygodnia 80km
-- [ ] 📗 Przeczytać [What are they building—and why? 6 questions for the top Java architects](https://blogs.oracle.com/javamagazine/java-architects-loom-panama-valhalla) 
-- [ ] 🎧 Przesłuchać [The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)](https://tim.blog/2021/07/08/andrew-huberman-transcript/)
-- [ ] 🎧 Przesłuchać [SPI 495: How to Run a Successful Community (and What to Put Inside)](https://www.smartpassiveincome.com/podcasts/spi-495-how-to-run-a-successful-community-and-what-to-put-inside/)
-- [ ] 🎧 Przesłuchać [POIT #124: Edge computing](https://porozmawiajmyoit.pl/poit-124-edge-computing/)
+- [ ] 📗 Przeczytać [Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/) 
+- [ ] 🎧 Przesłuchać [Jak inwestować 500 złotych miesięcznie? Średnie kwoty na giełdę](https://inwestomat.eu/jak-inwestowac-500-zlotych-miesiecznie/)
+- [ ] 🎧 Przesłuchać [Episode 18 “Java's steady march towards strong encapsulation” with Alan Bateman](https://inside.java/2021/06/29/podcast-018/)
+- [ ] 🎧 Przesłuchać [POIT #125: Site reliability engineering](https://porozmawiajmyoit.pl/poit-125-site-reliability-engineering/)
+- [ ] 🎧 Przesłuchać [Cezary Stypułkowski-stoi na czele najnowocześniejszego banku na świecie-mBank](https://zaprojektujswojezycie.pl/cezary-stypulkowski-stoi-na-czele-najnowoczesniejszego-banku-na-swiecie-mbank/)
 - [ ] 📽️ Obejrzeć [AWS Basics for Beginners - Full Course](https://youtu.be/ulprqHHWlng)
 
 ### ⭐ W tym tygodniu:
