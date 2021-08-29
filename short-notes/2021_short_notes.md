@@ -877,3 +877,31 @@ To był ciężki piątek :(. Pościłem do 15 i to z ogromnym trudem... Taki dzi
 22/08/2021
 ---
 Dzisiaj było już lepiej. Od 13 byłem u mojej narzeczonej i wspierałem ją jak mogłem w trudnym dla niej okresie. Jej druhna zrezygnowała z ten 'funkcji' miesiąc przed ślubem..
+
+23/08/2021
+---
+Niedzielę spędziłem na obiedzie u teściów (i narzeczonej oczywiście). Lubię tą rodzinę, a nawet kocham :). I jestem wdzięczny Bogu za to!
+
+24/08/2021
+---
+Fajny poniedziałek. Nawet bym powiedział produktywny :D. Razem z piękną dziś patrzeliśmy materace i już chyba nawet mamy jeden, na który prawdopodobnie się zdecydujemy :))
+
+25/08/2021
+---
+Wtorek też był git. Wieczorem z Natalią przeglądaliśmy ofert last minute (na miesiąc w przód :D), a później ją odwiozłem i jeszcze w samochodzie rozmawialiśmy do północy :P.
+
+26/08/2021
+---
+Kolejny dzień bliżej ślubu. Obecnie to jest mój priorytet, ale mam też inne sprawy których nie porzucam, np. cele roczne i jazda rowerem :D.
+
+27/08/2021
+---
+Dziś żadnej aktywności nie udało mi się zrobić, ale za to byłem z rodzicami u architekta. Rozmawialiśmy tam około 2 godzin a później pojechaliśmy obejrzeć podobny dom, gdzieś za Bielskiem.
+
+28/08/2021
+---
+Piąteczek :). Dzisiaj byłem razem z narzeczoną w poście. Dzieki Bogu miałem dobry czas, a Bóg dał siły.. i to dużo sił, że nawet na rower wyszedłem i na modlitwie byłem! Chwała Bogu!
+
+29/08/2021
+---
+Cała sobota od rana do niedzieli była ZABIEGANA. Przebiegłem się 10km, robiłem egzamin próbny do oracle'a, zdzierałem z tatą tapetę w kuchni, pojechałem do mojej pieknej, byliśmy na wieczorowym nabożeństwie, pojechaliśmy odwiedzić kuzynkę i na koniec razem ze znajomymi byliśmy w Białowieży. Szalony dzień :D
