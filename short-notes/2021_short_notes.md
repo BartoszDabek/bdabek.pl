@@ -905,3 +905,31 @@ Piąteczek :). Dzisiaj byłem razem z narzeczoną w poście. Dzieki Bogu miałem
 29/08/2021
 ---
 Cała sobota od rana do niedzieli była ZABIEGANA. Przebiegłem się 10km, robiłem egzamin próbny do oracle'a, zdzierałem z tatą tapetę w kuchni, pojechałem do mojej pieknej, byliśmy na wieczorowym nabożeństwie, pojechaliśmy odwiedzić kuzynkę i na koniec razem ze znajomymi byliśmy w Białowieży. Szalony dzień :D
+
+30/08/2021
+---
+Niedzielę spędziłem w sąsiednim zborze. Od samego rana (wstałem o 8), do wieczora (wróciłem przed 23). Dzięki Bogu za dobry czas, który jeszcze możemy mieć.
+
+31/08/2021
+---
+Dzisiaj miałem gorszy dzień. Pomimo, że w pracy wszystko było okej i w życiu prywatnym też nie mogę na nic narzekać to jakoś taki smutny byłem, hmm....
+
+01/09/2021
+---
+Przebiegłem 22.5 km :). Później miałem długą i szczerą rozmowę z moją ukochaną podczas której zrozumiałem, że nie jestem już sam i każda decyzja, którą podejmuję to też jest Jej decyzja. Kocham Cię Natalia :)
+
+02/09/2021
+---
+Kolejny długi dzień. Pojechałem dziś z moją piękną do Białowieży na taką obiadokolację. A później ogarnialiśmy sprawy do wesela.
+
+03/09/2021
+---
+Dziś miałem dzień zwątpienia. Wybieraliśmy menu razem z rodzicami i niestety im więcej osób tym więcej problemów...
+
+04/09/2021
+---
+Jakoś dziwnie ten wrzesień się zaczyna... Niby wszystko jest dobrze, ale ten natłok spraw: ślub/wesele, remont, budowa domu, praca... i jest ciężko. uff...
+
+05/09/2021
+---
+Tapetowaliśmy kuchnię i korytarz. Kuchnia w 90% skończona, korytarz dopiero zaczęty. Mam dzielną narzeczoną i jestem też wdzięczny rodzinie, która pomagała :)
