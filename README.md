@@ -30,17 +30,17 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [09/05/2021]
+# [09/12/2021]
 ### ⭐ W tym tygodniu:
 - [ ] 🎓 Egzaminy próbne OCP 11
-- [ ] 🚴 Rower w ciągu tygodnia 120km
-- [ ] 🏃 Bieganie w ciągu tygodnia 5km
-- [ ] 📗 Przeczytać [Automate your code quality in few minutes](https://unknownexception.eu/automate-your-code-quality?) 
-- [ ] 🎧 Przesłuchać [POIT #126: Trendy w cyberbezpieczeństwie na rok 2021](https://porozmawiajmyoit.pl/poit-126-trendy-w-cyberbezpieczenstwie-na-rok-2021/)
-- [ ] 🎧 Przesłuchać [Test na handlowca – dowiedz się, jak zatrudnić odpowiednią osobę, nawet jeśli sam nie jesteś alfą i omegą w dziedzinie sprzedaży](https://malawielkafirma.pl/rekrutacja-handlowca/)
-- [ ] 🎧 Przesłuchać [Jak dobrze żyje się emerytom w Polsce?](https://inwestomat.eu/jak-dobrze-zyje-sie-emerytom-w-polsce/)
-- [ ] 🎧 Przesłuchać [Adam Sobczak-jak zrewolucjonizował rynek nieruchomości-Cenatorium](https://zaprojektujswojezycie.pl/adam-sobczak-jak-zrewolucjonizowal-rynek-nieruchomosci-centarium/)
-- [ ] 📽️ Obejrzeć [SpringOne 2021 - Day 1 Morning Full Keynote](https://youtu.be/JbOmpzyzSZs)
+- [ ] 🚴 Rower w ciągu tygodnia 80km
+- [ ] 🏃 Bieganie w ciągu tygodnia 15km
+- [ ] 📗 Przeczytać [Garbage Collection in Java – What is GC and How it Works in the JVM](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/) 
+- [ ] 🎧 Przesłuchać [Episode 116 - Hash Maps](https://www.programmingthrowdown.com/2021/08/episode-116-hash-maps.html)
+- [ ] 🎧 Przesłuchać [Radosław Drzewiecki-Zniweluj patologie biznesowe w swojej firmie dzięki strategii Lean!](https://zaprojektujswojezycie.pl/radoslaw-drzewiecki-zniweluj-patologie-biznesowe-w-swojej-firmie-dzieki-strategii-lean/)
+- [ ] 🎧 Przesłuchać [Stawki podatku od dywidend z zagranicznych akcji i funduszy ETF](https://inwestomat.eu/stawki-podatku-od-dywidend-z-zagranicznych-akcji-i-funduszy-etf/)
+- [ ] 🎧 Przesłuchać [POIT #128: 12 factor app z wykorzystaniem serwisów AWS](https://porozmawiajmyoit.pl/poit-128-12-factor-app-z-wykorzystaniem-serwisow-aws/)
+- [ ] 📽️ Obejrzeć [Tydzień XIII – Mikroserwisy](https://edu.devstyle.pl/products/droga-nowoczesnego-architekta/categories/3088149)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)

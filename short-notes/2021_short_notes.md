@@ -933,3 +933,31 @@ Jakoś dziwnie ten wrzesień się zaczyna... Niby wszystko jest dobrze, ale ten 
 05/09/2021
 ---
 Tapetowaliśmy kuchnię i korytarz. Kuchnia w 90% skończona, korytarz dopiero zaczęty. Mam dzielną narzeczoną i jestem też wdzięczny rodzinie, która pomagała :)
+
+06/09/2021
+---
+To była bardzo ciężka niedziela. Mamy z narzeczoną do podjęcia decyzje, które z jednej strony nie pasują jej, a z drugiej strony, co do których ja nie jestem pewny... ;(
+
+07/09/2021
+---
+Poniedziałek zaczął się słabo, ale zakończył całkiem fajnie. Byliśmy u kuzynki do prawie północy i mieliśmy fajny czas z garstką młodzieży :)
+
+08/09/2021
+---
+Wtorek był już SUPEROWY :). Brakuje mi ostatnio sportu i ruchu... Mam nadzieję, że na dniach to nadrobię.
+
+09/09/2021
+---
+Ciężki dzień wczoraj był. Od rana do południa praca, a później druga praca - tapetowanie. Dzięki Bogu jest już bliżej niż dalej.
+
+10/09/2021
+---
+Dziś razem z narzeczoną pościliśmy o nasz ślub i wesele. Ogólnie to czułem się bardzo dobrze. Po pracy byłem na rowerze, poszedłem na nabożeństwo, a później razem z narzeczoną i Adamem, który prowadzi nasze wesele mieliśmy spotkanie apropo planu wesela.
+
+11/09/2021
+---
+Piątunio był spoko. Dużo jadłem - tak przynajmniej mi się wydaje. Byłem też na rowerze i modlitwie. Poszedłem spać całkiem wcześnie bo około 22 :)
+
+12/09/2021
+---
+Piękna pogoda dziś była a my cały dzień tapetowaliśmy. Dzięki Bogu za moją narzeczoną, Daniela i moją mamę którzy nam pomagali!
