@@ -961,3 +961,31 @@ Piątunio był spoko. Dużo jadłem - tak przynajmniej mi się wydaje. Byłem te
 12/09/2021
 ---
 Piękna pogoda dziś była a my cały dzień tapetowaliśmy. Dzięki Bogu za moją narzeczoną, Daniela i moją mamę którzy nam pomagali!
+
+13/09/2021
+---
+Dziś byłem na Święcie żniw w Dubiczach. Duchowo czuję się teraz gorzej... Nie mam takiego zapału jak na początku roku, kiedy w życiu było ciężej. Modlę się, żeby Bóg przywrócił ten zapał!
+
+14/09/2021
+---
+Kolejny dzień bliżej ślubu. I skończy się (w sumie już się skończyło) robienie czego się chce :D
+
+15/09/2021
+---
+Byliśmy na sali weselnej i rozkminialiśmy rozmieszczenie stołów. Wieczorem wpadła do nas (bo byłem z Natką w Hajnówce) kuzynka z koleżanką i mieliśmy przyjemny wieczór :)
+
+16/09/2021
+---
+Wczoraj kończyliśmy tapetowanie pokoju. Cały dzień na to zszedł, a w międzyczasie musiałem jeszcze pracować - było ciężko (zresztą nie lubię remontów).
+
+17/09/2021
+---
+Mój świadek zrobił mi wieczór kawalerski. Nietypowo bo w czwartek, ale wiem dlaczego tak :). Jestem wdzięczny Bogu za te wszystkie osoby, które były i poświęciły swój czas.
+
+18/09/2021
+---
+To był dobry piątek. Byłem w poście do 20 i podczas dnia pojechałem jeszcze z narzeczoną odebrać jej suknię ślubną. Mogłem byc na dwóch modlitwach w Hajnówce i Dubiczach. Wieczorem odebrałem tatę z pracy.
+
+19/09/2021
+---
+Połowę soboty robiłem z rodzicami górkę (listwy + gumoleon + gniazdka), a wieczorem zaprosiłem kilku znajomych na domowego kebaba... siedzieliśmy prawie do 2 :O
