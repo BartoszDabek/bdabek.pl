@@ -30,8 +30,14 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [09/19/2021]
+# [10/03/2021]
 ### ⭐ W tym tygodniu:
+- [ ] 🎓 Egzamin próbny OCP 11
+- [ ] 📗 Przeczytać [Garbage Collection in Java – What is GC and How it Works in the JVM](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/) 
+- [ ] 🎧 Przesłuchać [Radosław Drzewiecki-Zniweluj patologie biznesowe w swojej firmie dzięki strategii Lean!](https://zaprojektujswojezycie.pl/radoslaw-drzewiecki-zniweluj-patologie-biznesowe-w-swojej-firmie-dzieki-strategii-lean/)
+- [ ] 🎧 Przesłuchać [Stawki podatku od dywidend z zagranicznych akcji i funduszy ETF](https://inwestomat.eu/stawki-podatku-od-dywidend-z-zagranicznych-akcji-i-funduszy-etf/)
+- [ ] 🎧 Przesłuchać [POIT #128: 12 factor app z wykorzystaniem serwisów AWS](https://porozmawiajmyoit.pl/poit-128-12-factor-app-z-wykorzystaniem-serwisow-aws/)
+- [ ] 📽️ Obejrzeć [Building responsive, scalable systems with asynchrony and flow control - Christopher Batey](https://youtu.be/ReEhicJ4kog)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)

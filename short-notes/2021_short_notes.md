@@ -989,3 +989,35 @@ To był dobry piątek. Byłem w poście do 20 i podczas dnia pojechałem jeszcze
 19/09/2021
 ---
 Połowę soboty robiłem z rodzicami górkę (listwy + gumoleon + gniazdka), a wieczorem zaprosiłem kilku znajomych na domowego kebaba... siedzieliśmy prawie do 2 :O
+
+20/09/2021
+---
+Czasem słońce, czasem deszcz... Znów wrócił temat zboru po ślubie i znów mamy konflikt z Natką...
+
+21/09/2021
+---
+Dziś był cichy poniedziałek. Wieczorem wpadliśmy z Natką do znajomych, ale coś czuję, że Ona nie mówi mi wszystkiego co przeżywa.
+
+22/09/2021
+---
+Mieliśmy z Natką spinę z mojej winy, ale porozmawialiśmy poważnie i wszystko sobie powiedzieliśmy. Kocham tą dziewczynę i teraz nie wyobrażam już sobie swojego życia bez niej.
+
+23/09/2021
+---
+Dalszy dzień ogarniania i już coraz bliżej ślubu. Stresu jeszcze nie ma, ale jest chyba bardziej nerwowo :P
+
+28/09/2021
+---
+Już od 3 dni mam żonę! Fajnie jest ;)
+
+01/10/2021
+---
+Jestem ostatnio bardzo nieregularny, ale nie ma co się dziwić - małżeństwo :). Nie wyszła nam podróż poślubna i utknęliśmy na kwarantannie. Z jednej strony smutek, a z drugiej to bardzo śmieszne XD
+
+02/10/2021
+---
+Mało produktywny jestem... Mam nadzieję, że w tydzień się ogarnę bo ani nie robię treningów ani niczego...
+
+03/10/2021
+---
+Powoli wracam do regularności - przynajmniej w kwestii codziennych wpisów :)
