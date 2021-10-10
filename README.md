@@ -30,7 +30,7 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [10/03/2021]
+# [10/10/2021]
 ### ⭐ W tym tygodniu:
 - [ ] 🎓 Egzamin próbny OCP 11
 - [ ] 📗 Przeczytać [Garbage Collection in Java – What is GC and How it Works in the JVM](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/) 

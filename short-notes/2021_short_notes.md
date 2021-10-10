@@ -1021,3 +1021,31 @@ Mało produktywny jestem... Mam nadzieję, że w tydzień się ogarnę bo ani ni
 03/10/2021
 ---
 Powoli wracam do regularności - przynajmniej w kwestii codziennych wpisów :)
+
+04/10/2021
+---
+Mam duuuże problemy ze wstawaniem rano... obok żony tak dobrze się spi, że aż wstawać się nie chce ;D
+
+05/10/2021
+---
+Kolejny dzień na kwarantannie. Zaczynam się już nudzić. Dobrze, że mam żonę to przynajmniej szukamy sobie zajęć.
+
+06/10/2021
+---
+Z każdym dniem w małżeństwie jest trochę lepiej ;]
+
+07/10/2021
+---
+Muszę popracować nad wstawaniem... Budzik na 6 a wstałem po 8 :O
+
+08/10/2021
+---
+Dziś żona wychodzi z izolacji domowej, a ja idę na test przeciwko covid, żeby skrócić sobie okres kwarantanny.
+
+09/10/2021
+---
+Ciężko w pracy.. Dosyć trudne zadanie mam i ciężko mi się na nim skupić. Drugi dzień siedziałem i prawie nic nie wydłubałem..
+
+10/10/2021
+---
+Montowałem rolety a oprócz tego jesteśmy razem z żoną oficjalnie pierwszy dzień na wolności po kwarantannie ;)
