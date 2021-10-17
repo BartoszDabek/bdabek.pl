@@ -26,18 +26,22 @@ Cele osobiste
 4. ✅ 60 podciagniec 🏋️‍♂️ (8.03-2.04)
 5. ✅ Zimne prysznice 🚿 (12.07-6.08)
 6. Intermittent Fasting (okno 6 godzinne) 🥪
-7. 3200+ Kcal 🍌
+7. 3200+ Kcal 🍌 (12.10-6.11)
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [10/10/2021]
+# [10/17/2021]
 ### ⭐ W tym tygodniu:
-- [ ] 🎓 Egzamin próbny OCP 11
-- [ ] 📗 Przeczytać [Garbage Collection in Java – What is GC and How it Works in the JVM](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/) 
-- [ ] 🎧 Przesłuchać [Radosław Drzewiecki-Zniweluj patologie biznesowe w swojej firmie dzięki strategii Lean!](https://zaprojektujswojezycie.pl/radoslaw-drzewiecki-zniweluj-patologie-biznesowe-w-swojej-firmie-dzieki-strategii-lean/)
-- [ ] 🎧 Przesłuchać [Stawki podatku od dywidend z zagranicznych akcji i funduszy ETF](https://inwestomat.eu/stawki-podatku-od-dywidend-z-zagranicznych-akcji-i-funduszy-etf/)
-- [ ] 🎧 Przesłuchać [POIT #128: 12 factor app z wykorzystaniem serwisów AWS](https://porozmawiajmyoit.pl/poit-128-12-factor-app-z-wykorzystaniem-serwisow-aws/)
-- [ ] 📽️ Obejrzeć [Building responsive, scalable systems with asynchrony and flow control - Christopher Batey](https://youtu.be/ReEhicJ4kog)
+- [ ] 🏃 Bieganie w ciągu tygodnia 5km
+- [ ] 🚴 Rower w ciągu tygodnia 30km
+- [ ] 📗 Przeczytać [Dlaczego kursy Udemy to strata czasu nawet przy 90% zniżki](https://bulldogjob.pl/news/1785-dlaczego-kursy-udemy-to-strata-czasu-nawet-przy-90-znizki) 
+- [ ] 📗 Przeczytać [Ile kosztuje niewiedza w chmurze? Analiza 5 niepotrzebnie wysokich rachunków](https://niebezpiecznik.pl/post/ile-kosztuje-niewiedza-w-chmurze-analiza-5-niepotrzebnie-wysokich-rachunkow/) 
+- [ ] 🎧 Przesłuchać [Maciej Orłoś-odszedł z TVP, aby zaznać wolności słowa!](https://zaprojektujswojezycie.pl/maciej-orlos-odszedl-z-tvp-aby-zaznac-wolnosci-slowa/)
+- [ ] 🎧 Przesłuchać [Jak zarządzać środkami na kontach maklerskich? IKE, IKZE i zwykłe maklerskie](https://inwestomat.eu/jak-zarzadzac-srodkami-na-kontach-maklerskich/)
+- [ ] 🎧 Przesłuchać [POIT #129: Nowe trendy na rynku IT](https://porozmawiajmyoit.pl/poit-129-nowe-trendy-na-rynku-it/)
+- [ ] 🎧 Przesłuchać [Jak ustalić wielkość bezpiecznej części portfela inwestycyjnego?](https://inwestomat.eu/jak-ustalic-wielkosc-bezpiecznej-czesci-portfela-inwestycyjnego/)
+- [ ] 📽️ Obejrzeć [290. WJUG Krzysztof Ślusarski "Wyciek pamięci – mam HeapDumpa i co dalej?" [PL]](https://youtu.be/PUc1KM7A7pg)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
+- [ ] 🎓 Egzamin próbny OCP 11

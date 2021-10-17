@@ -1049,3 +1049,31 @@ Ciężko w pracy.. Dosyć trudne zadanie mam i ciężko mi się na nim skupić. 
 10/10/2021
 ---
 Montowałem rolety a oprócz tego jesteśmy razem z żoną oficjalnie pierwszy dzień na wolności po kwarantannie ;)
+
+11/10/2021
+---
+Dziś mieliśmy sesję ślubną. Jak wróciliśmy do domu to czułem się okropnie... zjadłem i poszedłem spać.
+
+12/10/2021
+---
+Dłuuugo dziś spałem. Poszedłem spać o 21 a wstałem o 8. Nie wiem czy byłem tak wyczerpany czy chory. Udało mi się zrobić trening i z tego jestem zadowolony :). Odwiedziliśmy też teściów wieczorem ;]
+
+13/10/2021
+---
+Nareszcie udało się zrobić jakąś aktywność! Byłem na rowerze, zrobiłem 30km, było bardzo ciężko, ale się udało.
+
+14/10/2021
+---
+Noo nareszcie trochę jesteśmy aktywniejsi z żoną :). Dziś poszliśmy na rowery - choć było zimno - i przejechaliśmy 10 km.
+
+15/10/2021
+---
+Ale miałem produktywny dzień!! Wstałem o 4:30 i od samego rana do wieczora byłem na chodzie :D
+
+16/10/2021
+---
+Dziś z żoną pojechaliśmy do Białegostoku na małe zakupki i mieliśmy też fajny wieczór we dwoje ;]
+
+17/10/2021
+---
+Fajna sobota to była. Robiliśmy trochę zakupów, wieczorem pojechaliśmy na nabożeństwo okolicznościowe do Bielska i późnym wieczorem wpadły do nas kuzynka i jej przyjaciółka - mieliśmy miły wieczór :)
