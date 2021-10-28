@@ -1077,3 +1077,27 @@ Dziś z żoną pojechaliśmy do Białegostoku na małe zakupki i mieliśmy też 
 17/10/2021
 ---
 Fajna sobota to była. Robiliśmy trochę zakupów, wieczorem pojechaliśmy na nabożeństwo okolicznościowe do Bielska i późnym wieczorem wpadły do nas kuzynka i jej przyjaciółka - mieliśmy miły wieczór :)
+
+18/10/2021
+---
+Cała niedziela spędzona gdzieś w gościach. Na nabożeństwo pojechaliśmy do Dubicz, później byliśmy u rodziców (teściów), a wieczorem jeszcze wpadliśmy do kuzynki i cioci :P
+
+19/10/2021
+---
+Byłem na basenie i zrobiłem 50 długości. Wieczorem wpadł do nas kuzyn i rozmawialismy do 22.
+
+20/10/2021
+---
+Z żoną pojechałem do Białego na jej studia. Po powrocie czuję się tragicznie...
+
+21/10/2021
+---
+Cieżki poranek miałem, ale później było już tylko lepiej ;). Wieczorem nawet zrobiłem trening!
+
+22/10/2021
+---
+Żona wyjechała na studia do Białego i czwartek/piątek jestem sam. Z jednej strony spoko bo mogę trochę swoich rzeczy ogarnąć, ale z drugiej strony bardzo za nią tęsknie i mi jej brakuje.
+
+28/10/2021
+---
+Troszkę mnie tu nie było (znowu). Byłem z żoną w górach - odrabialiśmy podróż poślubną. Ogólnie SUPER czas! :)
