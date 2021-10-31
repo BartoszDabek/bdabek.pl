@@ -1101,3 +1101,15 @@ Cieżki poranek miałem, ale później było już tylko lepiej ;). Wieczorem naw
 28/10/2021
 ---
 Troszkę mnie tu nie było (znowu). Byłem z żoną w górach - odrabialiśmy podróż poślubną. Ogólnie SUPER czas! :)
+
+29/10/2021
+---
+Od tygodnia nie zrobiłem treningu... brakuje mi czasu :(. Teraz skręcam meble do kuchni co też jest ciekawym zajęciem :D
+
+30/10/2021
+---
+Dziś w końcu udało się zrobić trening :). Wieczorem jeszcze razem z szwagrem składaliśmy meble - BARDZO mi pomógł! ;]
+
+31/10/2021
+---
+Sobota minęła bardzo szybko :o. Byłem u mojego przyjaciela na strzyżeniu + trochę porozmawialiśmy. Później jeszcze z kuzynami byliśmy na basenie :)

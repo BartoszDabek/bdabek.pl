@@ -30,11 +30,10 @@ Cele osobiste
 8. Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [10/24/2021]
+# [10/31/2021]
 ### ⭐ W tym tygodniu:
 - [ ] 🏃 Bieganie w ciągu tygodnia 3km
 - [ ] 🚴 Rower w ciągu tygodnia 15km
-- [ ] 📗 Przeczytać [Ile kosztuje niewiedza w chmurze? Analiza 5 niepotrzebnie wysokich rachunków](https://niebezpiecznik.pl/post/ile-kosztuje-niewiedza-w-chmurze-analiza-5-niepotrzebnie-wysokich-rachunkow/) 
 - [ ] 📗 Przeczytać [Czas Mavena minął](https://pkubowicz.pl/czas-mavena-minal/) 
 - [ ] 🎧 Przesłuchać [Jak okiełznać światowe giełdy – Piotr Żółkiewicz](https://zaprojektujswojezycie.pl/jak-zalozyc-fundusz-inwestycyjny/)
 - [ ] 🎧 Przesłuchać [POIT #130: Dług technologiczny](https://porozmawiajmyoit.pl/poit-130-dlug-technologiczny/)
