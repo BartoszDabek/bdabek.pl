@@ -1113,3 +1113,31 @@ Dziś w końcu udało się zrobić trening :). Wieczorem jeszcze razem z szwagre
 31/10/2021
 ---
 Sobota minęła bardzo szybko :o. Byłem u mojego przyjaciela na strzyżeniu + trochę porozmawialiśmy. Później jeszcze z kuzynami byliśmy na basenie :)
+
+01/11/2021
+---
+Niedzielka - byliśmy zaproszeni do szwagierki na obiad. Mieliśmy fajny czas, razem ze szwagrami jeszcze polataliśmy autem po lesie :D
+
+02/11/2021
+---
+Dziś były mojego taty urodziny, więc świętowaliśmy :)
+
+03/11/2021
+---
+Pierwszy dzień do pracy po dłuższym weekendzie, było spoko. Dziś też postanowiłem, że będę robił 5k kroków dziennie, albo inaczej jako małzeństwo musimy zrobić 8k.
+
+04/11/2021
+---
+Wstałem przed 6 i rano zrobiłem trening :D. Później też poszedłem biegać z moim przyjacielem i ogólnie to był dosyć interesujący dzień.
+
+05/11/2021
+---
+Dziś żona pojechała do Białegostoku i wraca dopiero jutro :(. Byłem wieczorem na nabożeństwie a oprócz tego przygotowałem listę osób, którym musimy podziękować + spakowałem jakieś tam prezenty dla nich.
+
+06/11/2021
+---
+Piątunio :). Byłem dziś na pogrzebie i próbowałem jeszcze zmienić drzwi w lodówce, żeby otwierały się na drugą stronę, ale to nie wyszło i zmarnowałem sobie tylko 3 godziny.. Byłem trochę zły, ale jest git.
+
+07/11/2021
+---
+Dzisiaj od rana nie byłem w humorze co przeniosło się na moją żonę :/. Muszę pracować nad takimi rzeczami :S
