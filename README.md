@@ -30,19 +30,20 @@ Cele osobiste
 8. ❌ Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [11/07/2021]
+# [11/14/2021]
 ### ⭐ W tym tygodniu:
-- [ ] Odkamienić czajnik
+- [ ] Budowa domu - przegadać szczegóły projektu + wysłać uwagi
+- [ ] Budowa domu - research w obrębie okien
 - [ ] Natka - profil zaufany + zmienić miejsce meldunku
-- [ ] Ogarnąć konto do finansów
-- [ ] Przelać i zainwestować na IKE
-- [ ] Przeczytać 3 podsumowania OCP11
+- [ ] Przeczytać 3 podsumowania OCP11 (+ zadania)
 - [ ] 🏃 Bieganie w ciągu tygodnia 5km
-- [ ] 📗 Przeczytać [IntelliJ plugins that will speed you up](https://unknownexception.eu/awesome-intellij-plugins) 
-- [ ] 🎧 Przesłuchać [Beat The Energy Dropoff: Feel Energized Even At End of Day (TPS368)](https://www.asianefficiency.com/podcasts/368-energy-dropoff/)
-- [ ] 🎧 Przesłuchać [4 rodzaje FIRE, czyli wolność finansowa zwykła, szybka, powolna i niepełna](https://inwestomat.eu/4-rodzaje-fire/)
-- [ ] 🎧 Przesłuchać [Seryjny inwestor z awersją do nudy – Maciej Noga](https://zaprojektujswojezycie.pl/seryjny-inwestor-z-awersja-do-nudy-maciej-noga/)
-- [ ] 📽️ Obejrzeć [Mapowanie obiektów w aplikacji Spring (Spring Boot)](https://youtu.be/yyZtxniWWGM)
+- [ ] 📗 Przeczytać [mvn clean install - a short guide to Maven](https://www.marcobehler.com/guides/mvn-clean-install-a-short-guide-to-maven) 
+- [ ] 📗 Przeczytać [Spring And Spring Boot Versions](https://www.marcobehler.com/guides/spring-and-spring-boot-versions) 
+- [ ] 🎧 Przesłuchać [Clickbait clickbaitowi nierówny, czyli jak tworzyć nagłówki, które przyciągną twoich odbiorców i nie zaszkodzą twojej wiarygodności](https://malawielkafirma.pl/jak-tworzyc-naglowki/)
+- [ ] 🎧 Przesłuchać [Akcje (1/10) – Jak inwestować w akcje? Czy da się pokonać rynek?](https://inwestomat.eu/jak-inwestowac-w-akcje/)
+- [ ] 🎧 Przesłuchać [Nie daj się skusić zawodowej strefie komfortu! Maciej Wiśniewski](https://zaprojektujswojezycie.pl/nie-daj-sie-skusic-zawodowej-strefie-komfortu-maciej-wisniewski/)
+- [ ] 🎧 Przesłuchać [Apps We Love That Make Us More Productive Every Day (TPS373)](https://www.asianefficiency.com/podcasts/373-productivity-apps/)
+- [ ] 📽️ Obejrzeć [From availability & reliability to chaos engineering - why breaking things... - Adrian Hornsby](https://youtu.be/7LiJOXJrqLQ)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)

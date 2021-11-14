@@ -1141,3 +1141,27 @@ Piątunio :). Byłem dziś na pogrzebie i próbowałem jeszcze zmienić drzwi w 
 07/11/2021
 ---
 Dzisiaj od rana nie byłem w humorze co przeniosło się na moją żonę :/. Muszę pracować nad takimi rzeczami :S
+
+08/11/2021
+---
+Powstał konflikt w małżeństwie w kwestii mojego zamiłowania do sportu :(. Oj ciężko jest się pogodzić z tym, że już nie jest wszystko jak chcę...
+
+10/11/2021
+---
+Zapomniało mi się wczoraj cokolwiek napisać. Ogólnie to już się pogodziliśmy i porozmawialiśmy tak jak trzeba. W poniedziałek byliśmy u architekta a dziś Natka chorowała - jakaś grypa żołądkowa.
+
+11/11/2021
+---
+Dziś dzień zleciał szybciutko :). Zrobiłem trening, 10k kroków i jestem zadowolony! Wieczorem byłem z żoną u teściów :P
+
+12/11/2021
+---
+Święto narodowe a co za tym idzie dzień wolny. Szybko zleciał. Biegałem, byłem na basenie z kuzynem a wieczorem z żoną wpadlismy do cioci na wieczór.
+
+13/11/2021
+---
+Piątek!! W pracy poszło mi całkiem sprawnie, oprócz tego ogarniam wszystko to co mam w planach. Wydaje mi się, że w kwesti organizacji po ślubie też jest już lepiej :)
+
+14/11/2021
+---
+Fajnie zleciała nam sobota. Rano wzięliśmy się za porządki i już o 12 wszystko było gotowe :). Wieczorem pojechaliśmy na młodzieżowe do Dubicz a później jeszcze odwiedziliśmy kuzynów :P
