@@ -1165,3 +1165,27 @@ Piątek!! W pracy poszło mi całkiem sprawnie, oprócz tego ogarniam wszystko t
 14/11/2021
 ---
 Fajnie zleciała nam sobota. Rano wzięliśmy się za porządki i już o 12 wszystko było gotowe :). Wieczorem pojechaliśmy na młodzieżowe do Dubicz a później jeszcze odwiedziliśmy kuzynów :P
+
+15/11/2021
+---
+Niedziela - nabożeństwo a później urodziny córki szwagierki. Cały dzień tam spędziliśmy - było fajnie.
+
+16/11/2021
+---
+Poniedziałek zaczął się całkiem fajnie. W pracy skończyłem jedno zadanie i dostałem kolejne. Byłem na basenie i oprócz tego omawialiśmy projekt domu.
+
+17/11/2021
+---
+Dziś pojechałem do Białegostoku, zawiozłem żonę i załatwiłem kilka spraw - odebrałem krzesła i szafkę kuchenną.
+
+18/11/2021
+---
+Środek tygodnia - zrobiłem trening (późno bo po 19 dopiero), byłem na spacerze z żoną wieczorem do sklepu i cały dzień zleciał :D
+
+19/11/2021
+---
+Żona pojechała do Białegostoku na uczelnie i wraca jutro. Znów za nią tęsknię :((
+
+21/11/2021
+---
+Kobiety są skomplikowane. A małżeństwo choć przyjemne i fajne to jednak wymagające...
