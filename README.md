@@ -30,17 +30,16 @@ Cele osobiste
 8. ❌ Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [11/21/2021]
+# [11/28/2021]
 ### ⭐ W tym tygodniu:
-- [ ] Budowa domu - dowiedzieć się co z prądem
 - [ ] 🏃 Bieganie w ciągu tygodnia 5km
-- [ ] Przeczytać 3 podsumowania OCP11 (+ zadania)
-- [ ] 📗 Przeczytać [Spring Security: Authentication and Authorization In-Depth](https://www.marcobehler.com/guides/spring-security) 
+- [ ] Zadania OCP 11 x3
+- [ ] 📗 Przeczytać [Process Level Event Storming: let’s get this process started!](https://mrpicky.dev/process-level-event-storming-lets-get-this-process-started/) 
 - [ ] 🎧 Przesłuchać [Jak tworzyć wartościowe prezentacje? Dowiedz się, co zrobić, żeby twój content wywierał piorunujące wrażenie na publiczności](https://malawielkafirma.pl/jak-tworzyc-wartosciowe-prezentacje/)
-- [ ] 🎧 Przesłuchać [Akcje (2/10) – Jak analizować akcje spółek? Podstawy analizy fundamentalnej](https://inwestomat.eu/jak-analizowac-akcje-spolek/)
-- [ ] 🎧 Przesłuchać [Episode 19 “Java 17 is Here! Part 1”](https://inside.java/2021/09/14/podcast-019/)
-- [ ] 🎧 Przesłuchać [Episode 20 “Java 17 is Here! Part 2”](https://inside.java/2021/09/27/podcast-020/)
-- [ ] 📽️ Obejrzeć [Do not walk away from Complexity, Run - Venkat Subramaniam](https://youtu.be/lxjnFKRoYH0)
+- [ ] 🎧 Przesłuchać [Przygoda z YouTube doprowadziła ich do sukcesu biznesowego – Przygody Przedsiębiorców](https://zaprojektujswojezycie.pl/przygoda-z-youtube-doprowadzila-ich-do-sukcesu-biznesowego-przygody-przedsiebiorcow/)
+- [ ] 🎧 Przesłuchać [Akcje (3/10) – Gdzie szukać informacji o spółkach giełdowych? Najlepsze źródła](https://inwestomat.eu/gdzie-szukac-informacji-o-spolkach-gieldowych/)
+- [ ] 🎧 Przesłuchać [Nie wiesz, jaki produkt sprzedawać? Zapytaj swoją społeczność – oni powiedzą ci, czego potrzebują, i pomogą ci to stworzyć](https://malawielkafirma.pl/jak-budowac-spolecznosc)
+- [ ] 📽️ Obejrzeć [A dozen cool things we can do with popular JVM Languages - Venkat Subramaniam](https://youtu.be/MEDTyR1Ksyw)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)

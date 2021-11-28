@@ -1189,3 +1189,31 @@ Dziś pojechałem do Białegostoku, zawiozłem żonę i załatwiłem kilka spraw
 21/11/2021
 ---
 Kobiety są skomplikowane. A małżeństwo choć przyjemne i fajne to jednak wymagające...
+
+22/11/2021
+---
+Niedziela minęła szybko - byliśmy u rodziców (moich teściów) na obiedzie. 
+
+23/11/2021
+---
+Udało się dziś przebieć 5.5km z przyjacielem. Później zrobiłem jeszcze spacer z żoną do sklepu i ogólnie to cały dzień zleciał przyjemnie ;)
+
+24/11/2021
+---
+Pomagaliśmy w Dubiczach pakować prezenty dla wojska - szybko poszło (spóźniliśmy się też godzinę).
+
+25/11/2021
+---
+Środa minęła całkiem całkiem. Bez większych rewelacji dziś.
+
+26/11/2021
+---
+Żona pojechała do Białego na studia i tam nocuje. Ja dziś z przyjacielem poszedłem przebiec 5km, później byłem na nabożeństwie i z kuzynami poszliśmy jeszcze na basen - fajny dzień.
+
+27/11/2021
+---
+Wieczorem żona zrobiła domową pizzę. Zeszli się wszyscy mieszkańcy naszego domku i rodzinnie spędziliśmy czas wieczorem jedząc ją :)
+
+28/11/2021
+---
+Dziś sobota a więc sprzątanie i ogarnianie domu. Wieczorem zaprosiliśmy szwagierkę z mężem i dziećmi. Przyszedł jeszcze mój brat i bratowa z dziećmi i mieliśmy fajny wieczór.
