@@ -1217,3 +1217,27 @@ Wieczorem żona zrobiła domową pizzę. Zeszli się wszyscy mieszkańcy naszego
 28/11/2021
 ---
 Dziś sobota a więc sprzątanie i ogarnianie domu. Wieczorem zaprosiliśmy szwagierkę z mężem i dziećmi. Przyszedł jeszcze mój brat i bratowa z dziećmi i mieliśmy fajny wieczór.
+
+29/11/2021
+---
+Fajna niedzielka. Byliśmy na nabożeństwie porannym w Hajnówce i później zjedliśmy obiad razem z rodzicami + wypiliśmy kawę. Później pojechaliśmy do drugich rodziców do Redut, dalej do szwagierki w Dubiczach i na sam koniec jeszcze do znajomych w Hajnówce. Cały dzień zleciał bardzo szybko.
+
+30/11/2021
+---
+Dziś odwiedzili nas znajomi - Daniel z Edzią i Szymonek. Mieliśmy zajęty i przyjemny wieczór ;)
+
+01/12/2021
+---
+Byłem na basenie - popływałem troszkę pod wodą + odprężałem się w saunie (ps. żona akurat była w białym na studiach). Oprócz tego dzień minął zwyczajnie.
+
+02/12/2021
+---
+Dziś popołudniu wzięło mnie jakieś chorubsko... Od 17 się męczyłem i spałem właściwie do rana (czyli teraz). Dziś jest już git. Jestem lekko zmęczony, ale nie trzęsie mnie zimno i nie łamie w kościach.
+
+03/12/2021
+---
+Musiałem w urzędzie załatwić opodatkowanie działki. W pracy spokój. Byłem na wieczorowym nabożeństwie razem z tatą.
+
+05/12/2021
+---
+Zapomniało mi się napisać. Weekend zlatuje fajnie - żona zrobiła pyszną szarlotkę i mamy dobry czas! :)

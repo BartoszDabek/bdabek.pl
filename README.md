@@ -14,7 +14,7 @@ Cele osobiste
 ## Cele Sportowe 💪🥈
 1. ❌ 3km < 12 minut 👟
 2. ✅ 50m pod wodą 🏊 (2.06)
-3. Przebiec 365 km w ciagu roku 🏃 (294/365 - 80%)
+3. Przebiec 365 km w ciagu roku 🏃 (310/365 - 84%)
 4. ❌ Przejechac na rowerze 2000 km w ciagu roku 🚴 (1542/2000 - 77%)
 5. ✅ Przebiec na raz dystans półmaratonu 🏃‍♀️ (22.5km, 1:54:42, 31.08)
 6. 80 kg wagi 💪
@@ -30,16 +30,16 @@ Cele osobiste
 8. ❌ Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [11/28/2021]
+# [12/05/2021]
 ### ⭐ W tym tygodniu:
 - [ ] 🏃 Bieganie w ciągu tygodnia 5km
 - [ ] Zadania OCP 11 x3
-- [ ] 📗 Przeczytać [Process Level Event Storming: let’s get this process started!](https://mrpicky.dev/process-level-event-storming-lets-get-this-process-started/) 
-- [ ] 🎧 Przesłuchać [Jak tworzyć wartościowe prezentacje? Dowiedz się, co zrobić, żeby twój content wywierał piorunujące wrażenie na publiczności](https://malawielkafirma.pl/jak-tworzyc-wartosciowe-prezentacje/)
-- [ ] 🎧 Przesłuchać [Przygoda z YouTube doprowadziła ich do sukcesu biznesowego – Przygody Przedsiębiorców](https://zaprojektujswojezycie.pl/przygoda-z-youtube-doprowadzila-ich-do-sukcesu-biznesowego-przygody-przedsiebiorcow/)
-- [ ] 🎧 Przesłuchać [Akcje (3/10) – Gdzie szukać informacji o spółkach giełdowych? Najlepsze źródła](https://inwestomat.eu/gdzie-szukac-informacji-o-spolkach-gieldowych/)
-- [ ] 🎧 Przesłuchać [Nie wiesz, jaki produkt sprzedawać? Zapytaj swoją społeczność – oni powiedzą ci, czego potrzebują, i pomogą ci to stworzyć](https://malawielkafirma.pl/jak-budowac-spolecznosc)
-- [ ] 📽️ Obejrzeć [A dozen cool things we can do with popular JVM Languages - Venkat Subramaniam](https://youtu.be/MEDTyR1Ksyw)
+- [ ] 📗 Przeczytać [Maven Surefire Plugin, czyli uruchamianie testów jednostkowych w Maven](https://devcezz.pl/2021/12/01/maven-surefire-plugin-czyli-uruchamianie-testow-jednostkowych-w-maven/) 
+- [ ] 🎧 Przesłuchać [How I Built The Tim Ferriss Show to 700+ Million Downloads — An Immersive Explanation of All Aspects and Key Decisions (Featuring Chris Hutchins) (#538)](https://tim.blog/2021/10/14/how-i-built-the-tim-ferriss-show-podcast/https://tim.blog/2021/10/14/how-i-built-the-tim-ferriss-show-podcast/)
+- [ ] 🎧 Przesłuchać [Zawsze wiedziałem, że chcę być prezesem banku – Przemek Gdański BNP Paribas](https://zaprojektujswojezycie.pl/zawsze-wiedzialem-ze-chce-byc-prezesem-banku-przemek-gdanski-bnp-paribas/)
+- [ ] 🎧 Przesłuchać [POIT #135: Boom na rynku data center w Polsce](https://porozmawiajmyoit.pl/poit-135-boom-na-rynku-data-center-w-polsce/)
+- [ ] 🎧 Przesłuchać [How To Improve | Your English | Your Life](https://youtu.be/CWHUuNKkXkg)
+- [ ] 📽️ Obejrzeć [Co powienien wiedzieć Architekt? - Technology Radar Review #004](https://youtu.be/SOkzG5RhGyU)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
