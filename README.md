@@ -14,10 +14,10 @@ Cele osobiste
 ## Cele Sportowe 💪🥈
 1. ❌ 3km < 12 minut 👟
 2. ✅ 50m pod wodą 🏊 (2.06)
-3. Przebiec 365 km w ciagu roku 🏃 (310/365 - 84%)
+3. ❌ Przebiec 365 km w ciagu roku 🏃 (310/365 - 84%)
 4. ❌ Przejechac na rowerze 2000 km w ciagu roku 🚴 (1542/2000 - 77%)
 5. ✅ Przebiec na raz dystans półmaratonu 🏃‍♀️ (22.5km, 1:54:42, 31.08)
-6. 80 kg wagi 💪
+6. ✅ 80 kg wagi 💪
 
 ## Wyzwania 25 Dniowes 🔥🥉
 1. ✅ Wstrzymywanie oddechu 🧘 (26.05-20.06)
@@ -30,17 +30,22 @@ Cele osobiste
 8. ❌ Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [12/05/2021]
+# [12/12/2021]
 ### ⭐ W tym tygodniu:
-- [ ] 🏃 Bieganie w ciągu tygodnia 5km
-- [ ] Zadania OCP 11 x3
-- [ ] 📗 Przeczytać [Maven Surefire Plugin, czyli uruchamianie testów jednostkowych w Maven](https://devcezz.pl/2021/12/01/maven-surefire-plugin-czyli-uruchamianie-testow-jednostkowych-w-maven/) 
-- [ ] 🎧 Przesłuchać [How I Built The Tim Ferriss Show to 700+ Million Downloads — An Immersive Explanation of All Aspects and Key Decisions (Featuring Chris Hutchins) (#538)](https://tim.blog/2021/10/14/how-i-built-the-tim-ferriss-show-podcast/https://tim.blog/2021/10/14/how-i-built-the-tim-ferriss-show-podcast/)
-- [ ] 🎧 Przesłuchać [Zawsze wiedziałem, że chcę być prezesem banku – Przemek Gdański BNP Paribas](https://zaprojektujswojezycie.pl/zawsze-wiedzialem-ze-chce-byc-prezesem-banku-przemek-gdanski-bnp-paribas/)
-- [ ] 🎧 Przesłuchać [POIT #135: Boom na rynku data center w Polsce](https://porozmawiajmyoit.pl/poit-135-boom-na-rynku-data-center-w-polsce/)
-- [ ] 🎧 Przesłuchać [How To Improve | Your English | Your Life](https://youtu.be/CWHUuNKkXkg)
-- [ ] 📽️ Obejrzeć [Co powienien wiedzieć Architekt? - Technology Radar Review #004](https://youtu.be/SOkzG5RhGyU)
+- [ ] 🎓 Egzamin próbny OCP 11
+- [ ] Dizałka - wycinka drzewa
+- [ ] Natalka - prezent na urodziny + święta
+- [ ] Natalka - protokół kont bankowych
+- [ ] ZUS - subkonto
+- [ ] 📗 Przeczytać [Which skills to choose in order to be more valuable](https://blog.allegro.tech/2021/12/choose-your-skills.html) 
+- [ ] 📗 Przeczytać [Rozwój ścieżki zawodowej w kierunku specjalizacji z chmury publicznej](https://sii.pl/blog/rozwoj-sciezki-zawodowej-w-kierunku-specjalizacji-z-chmury-publicznej/) 
+- [ ] 🎧 Przesłuchać [Jak nie martwić się o swoje pieniądze? Finansowe zen](https://inwestomat.eu/jak-nie-martwic-sie-o-swoje-pieniadze/)
+- [ ] 🎧 Przesłuchać [PANI SWOJEGO CZASU uczy jak efektywnie zacząć realizować cele – Ola Budzyńska](https://zaprojektujswojezycie.pl/pani-swojego-czasu-uczy-jak-efektywnie-zaczac-realizowac-cele-ola-budzynska/)
+- [ ] 🎧 Przesłuchać [Chcesz robić content marketing? Rób go inaczej niż wszyscy, bo tylko tak masz szansę się przebić i zamienić odbiorców w klientów](https://malawielkafirma.pl/skuteczny-content-marketing/?utm_source=podcast&utm_medium=audio&utm_campaign=mwf_377)
+- [ ] 🎧 Przesłuchać [POIT #137: Kotlin](https://porozmawiajmyoit.pl/poit-137-kotlin/)
+- [ ] 📽️ Obejrzeć [Hey Enterprise EJB Developers Now Is The Time To Go Serverless (and slideless) - Adam Bien - Devflix](https://youtu.be/d2lTjQf9-ro)
+
+### ⭐ Podsumowanie:
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
-- [ ] 🎓 Egzamin próbny OCP 11

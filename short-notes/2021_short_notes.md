@@ -1241,3 +1241,27 @@ Musiałem w urzędzie załatwić opodatkowanie działki. W pracy spokój. Byłem
 05/12/2021
 ---
 Zapomniało mi się napisać. Weekend zlatuje fajnie - żona zrobiła pyszną szarlotkę i mamy dobry czas! :)
+
+06/12/2021
+---
+Super zleciała ta niedziela. Byliśmy rano na nabożeństwie w Hajnówce, później obiad z rodzicami i na wieczór wpadliśmy do cioci. A wieczorem żona sprawiła mi jeszcze dużą i miłą niespodziankę! :)
+
+07/12/2021
+---
+Byliśmy z żoną na burgerze drwalu po pracy - ja jadłem pierwszy raz w życiu a ona drugi - nasz wniosek: burger może być, ale bez rewelacji.
+
+08/12/2021
+---
+Dziś mieliśmy wieczorem gości i Natka robiła pizze - ależ ona dobrze je robi!
+
+09/12/2021
+---
+Środa minęła dobrze. W pracy dostałem dosyć ważne zadanie w tym sprincie i nawet skomplikowane - ale to dobrze bo będę mógł się troszkę nagłówkować ;)
+
+11/12/2021
+---
+Znów ominałem jeden dzień i nawet nie zauważyłem :P. Powoli nudzi mnie to codziennie pisanie - choć jest to też całkiem dyscyplinujące ;)
+
+12/12/2021
+---
+Byliśmy na nartach z kuzynami - fajnie było! To był mój pierwszy raz i na początku całkowicie mi nie szło, ale po 2 godzinach już ogarnąłem podstawy i trochę pośmigaliśmy :P
