@@ -1265,3 +1265,31 @@ Znów ominałem jeden dzień i nawet nie zauważyłem :P. Powoli nudzi mnie to c
 12/12/2021
 ---
 Byliśmy na nartach z kuzynami - fajnie było! To był mój pierwszy raz i na początku całkowicie mi nie szło, ale po 2 godzinach już ogarnąłem podstawy i trochę pośmigaliśmy :P
+
+13/12/2021
+---
+Byłem na nabożeństwie, pogrzebie i później jeszcze w Redutach. Generalnie niedziela minęła dobrze.
+
+14/12/2021
+---
+Fajny był poniedziałek do momentu jak poszliśmy z żoną na spacer do biedronki i dostaliśmy mandaty za brak maseczek :D
+
+15/12/2021
+---
+Ehh... kolejna wtopa! Łóżko, które zamówiliśmy nie mieści się na klatce schodowej i nie ma jak go wnieść... Teraz trzeba będzie kombinować, żeby je gdzieś przechować.
+
+16/12/2021
+---
+Coś ten tydzień zdecydowanie nie idzie pozytywnie. Żona dostała jakiejś kolejnej choroby i zaczyna - moim zdaniem - za bardzo to przeżywać...
+
+17/12/2021
+---
+Do godziny 14 ten dzień to była masakra. W pracy nic nam nie wychodziło, ale później jak już ruszyło to wszystko sie udawało! Udało się wnieść i złożyć łóżko z pomocą przyjaciół i taty - wciągaliśmy przez balkon :D. A wieczorem po nabożeństwie poszedłem na basen. Dzięki Bogu za ten dzień!!
+
+18/12/2021
+---
+Piąteczek zleciał szybciutko. W pracy nie miałem za dużo do roboty. Ale później na szybko robiłem obiad dla mojej żonki + jeszcze byłem u fryzjera. A wieczorem pojechaliśmy i odwiedziliśmy ludzi ;)
+
+19/12/2021
+---
+Wieczorem byliśmy na młodzieżowym w Dubiczach, które było z poczęstunkiem. Fajny czas tam mieliśmy ;)

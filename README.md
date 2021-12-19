@@ -9,7 +9,7 @@ Cele osobiste
    - [x] [Java SE 8 Programmer I. Exam Number: 1Z0-808](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-808)
    - [x] [Java SE 8 Programmer II. Exam Number: 1Z0-809](https://education.oracle.com/es/java-se-8-programmer-ii/pexam_1Z0-809)
    - [ ]  [Upgrade OCP Java 6, 7 & 8 to Java SE 11 Developer. Exam Number: 1Z0-817](https://education.oracle.com/upgrade-ocp-java-6-7-8-to-java-se-11-developer/pexam_1Z0-817)
-3. Wycieczka do losowego miasta w Polsce/za granicą na spontanie 🚙
+3. ❌ Wycieczka do losowego miasta w Polsce/za granicą na spontanie 🚙
 
 ## Cele Sportowe 💪🥈
 1. ❌ 3km < 12 minut 👟
@@ -30,22 +30,18 @@ Cele osobiste
 8. ❌ Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [12/12/2021]
+# [12/19/2021]
 ### ⭐ W tym tygodniu:
 - [ ] 🎓 Egzamin próbny OCP 11
-- [ ] Dizałka - wycinka drzewa
 - [ ] Natalka - prezent na urodziny + święta
 - [ ] Natalka - protokół kont bankowych
-- [ ] ZUS - subkonto
-- [ ] 📗 Przeczytać [Which skills to choose in order to be more valuable](https://blog.allegro.tech/2021/12/choose-your-skills.html) 
-- [ ] 📗 Przeczytać [Rozwój ścieżki zawodowej w kierunku specjalizacji z chmury publicznej](https://sii.pl/blog/rozwoj-sciezki-zawodowej-w-kierunku-specjalizacji-z-chmury-publicznej/) 
-- [ ] 🎧 Przesłuchać [Jak nie martwić się o swoje pieniądze? Finansowe zen](https://inwestomat.eu/jak-nie-martwic-sie-o-swoje-pieniadze/)
-- [ ] 🎧 Przesłuchać [PANI SWOJEGO CZASU uczy jak efektywnie zacząć realizować cele – Ola Budzyńska](https://zaprojektujswojezycie.pl/pani-swojego-czasu-uczy-jak-efektywnie-zaczac-realizowac-cele-ola-budzynska/)
-- [ ] 🎧 Przesłuchać [Chcesz robić content marketing? Rób go inaczej niż wszyscy, bo tylko tak masz szansę się przebić i zamienić odbiorców w klientów](https://malawielkafirma.pl/skuteczny-content-marketing/?utm_source=podcast&utm_medium=audio&utm_campaign=mwf_377)
-- [ ] 🎧 Przesłuchać [POIT #137: Kotlin](https://porozmawiajmyoit.pl/poit-137-kotlin/)
-- [ ] 📽️ Obejrzeć [Hey Enterprise EJB Developers Now Is The Time To Go Serverless (and slideless) - Adam Bien - Devflix](https://youtu.be/d2lTjQf9-ro)
-
-### ⭐ Podsumowanie:
+- [ ] 📗 Przeczytać [Czy samozatrudniony programista naprawdę może płacić 5% podatku? Rozpracowujemy ulgę IP Box.](https://programistanaswoim.pl/czy-samozatrudniony-programista-naprawde-moze-placic-5-podatku-rozpracowujemy-ulge-ip-box/) 
+- [ ] 📗 Przeczytać [Clean Architecture Story](https://blog.allegro.tech/2021/12/clean-architecture-story.html) 
+- [ ] 🎧 Przesłuchać [Kryminalne zagadki Jacka Dubois – życie i kariera jednego z najlepszych polskich adwokatów](https://zaprojektujswojezycie.pl/kryminalne-zagadki-jacka-dubois-zycie-i-kariera-jednego-z-najlepszych-polskich-adwokatow/)
+- [ ] 🎧 Przesłuchać [Legendary Investor John Doerr on Picking Winners — From Google in 1999 to Solving the Climate Crisis Now (#543)](https://tim.blog/2021/11/03/john-doerr/)
+- [ ] 🎧 Przesłuchać [Staying Focused: How We Use Notifications and Reminders (TPS376)](https://www.asianefficiency.com/productivity/376-notifications-and-reminders/)
+- [ ] 🎧 Przesłuchać [Akcje (4/10) – Jak znaleźć dobrą i tanią spółkę? Inwestowanie w wartość](https://inwestomat.eu/jak-znalezc-dobra-i-tania-spolke/)
+- [ ] 📽️ Obejrzeć [Thinking Architecturally - Nate Schutta](https://youtu.be/0qIS92vs33w)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)

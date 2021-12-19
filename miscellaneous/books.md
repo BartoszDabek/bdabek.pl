@@ -17,6 +17,7 @@
 
 ## In Progress
 - [ ] Twój mózg w działaniu - David Rock
+- [ ] Akt Małżeński. Piękno miłości seksualnej - Tim i Beverly LaHaye
 
 ## Books read
 ### 2021
