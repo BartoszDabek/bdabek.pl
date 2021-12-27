@@ -1293,3 +1293,27 @@ Piąteczek zleciał szybciutko. W pracy nie miałem za dużo do roboty. Ale pó�
 19/12/2021
 ---
 Wieczorem byliśmy na młodzieżowym w Dubiczach, które było z poczęstunkiem. Fajny czas tam mieliśmy ;)
+
+20/12/2021
+---
+Fajnie spędziliśmy niedzielę. Byliśmy na nabożeństwie w Hajnówce, później pojechaliśmy do rodziców do Redut i jeszcze do Białegostoku na nabożeństwo z udziałem gości :)
+
+21/12/2021
+---
+Dziś wieczorem pojechaliśmy do szwagierki. Zrobiła pyszne tortille i siedzieliśmy do 23 - osobiście byłem już baardzo zmęczony.
+
+22/12/2021
+---
+Święta coraz bliżej! Dziś standardowo praca, później trochę pochodziłem. Żona przywiozła z Redut wszystkie swoje rzeczy, które trzeba było przefiltrować - nie lubię tego :D.
+
+23/12/2021
+---
+Wieczorem żona zrobiła pizze. Ależ mam zdolną kobitkę :]
+
+24/12/2021
+---
+Dobry czwartek. Widzę, że moj brat odżył duchowo i chwała za to Bogu! Byliśmy dziś razem i jeszcze z Danielem na wieczorowym nabożeństwie. Oprócz tego to przygotowania do świąt, więc jest młyn heheh :D
+
+27/12/2021
+---
+Czas świąteczny szybko minął. Dużo siedzieliśmy z rodziną i jedliśmy. Mogliśmy też być na 3 nabożeństwach świątecznych. Dzięki Bogu za ten czas i za Jezusa, który przyszedł na świat abym ja mógł dostąpić łaski zbawiennej!

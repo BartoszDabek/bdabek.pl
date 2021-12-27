@@ -30,18 +30,20 @@ Cele osobiste
 8. ❌ Keto 🥑
 9. ✅ Brak mięsa 🍎 (23.03-17.04)
 
-# [12/19/2021]
+# [12/26/2021]
 ### ⭐ W tym tygodniu:
 - [ ] 🎓 Egzamin próbny OCP 11
-- [ ] Natalka - prezent na urodziny + święta
+- [ ] 🎓 Egzamin OCP 11 - zapisać się
+- [ ] 🎓 Egzamin OCP 11
+- [ ] Natalka - prezent na urodziny
 - [ ] Natalka - protokół kont bankowych
-- [ ] 📗 Przeczytać [Czy samozatrudniony programista naprawdę może płacić 5% podatku? Rozpracowujemy ulgę IP Box.](https://programistanaswoim.pl/czy-samozatrudniony-programista-naprawde-moze-placic-5-podatku-rozpracowujemy-ulge-ip-box/) 
-- [ ] 📗 Przeczytać [Clean Architecture Story](https://blog.allegro.tech/2021/12/clean-architecture-story.html) 
-- [ ] 🎧 Przesłuchać [Kryminalne zagadki Jacka Dubois – życie i kariera jednego z najlepszych polskich adwokatów](https://zaprojektujswojezycie.pl/kryminalne-zagadki-jacka-dubois-zycie-i-kariera-jednego-z-najlepszych-polskich-adwokatow/)
-- [ ] 🎧 Przesłuchać [Legendary Investor John Doerr on Picking Winners — From Google in 1999 to Solving the Climate Crisis Now (#543)](https://tim.blog/2021/11/03/john-doerr/)
-- [ ] 🎧 Przesłuchać [Staying Focused: How We Use Notifications and Reminders (TPS376)](https://www.asianefficiency.com/productivity/376-notifications-and-reminders/)
-- [ ] 🎧 Przesłuchać [Akcje (4/10) – Jak znaleźć dobrą i tanią spółkę? Inwestowanie w wartość](https://inwestomat.eu/jak-znalezc-dobra-i-tania-spolke/)
-- [ ] 📽️ Obejrzeć [Thinking Architecturally - Nate Schutta](https://youtu.be/0qIS92vs33w)
+- [ ] 📗 Przeczytać [Maven Failsafe Plugin, czyli uruchamianie testów integracyjnych w Maven](https://devcezz.pl/2021/12/20/maven-failsafe-plugin-czyli-uruchamianie-testow-integracyjnych-w-maven/) 
+- [ ] 📗 Przeczytać [Struts – najstarszy framework Javy. Historia, zastosowanie, pierwsze kroki](https://geek.justjoin.it/struts-najstarszy-framework-javy-historia-zastosowanie-pierwsze-kroki) 
+- [ ] 🎧 Przesłuchać [#544: How to Design a Life — Debbie Millman](https://www.stitcher.com/show/the-tim-ferriss-show/episode/544-how-to-design-a-life-debbie-millman-repost-88076886)
+- [ ] 🎧 Przesłuchać [SPI 524: The 5 Biggest Mistakes I’ve Made](https://www.smartpassiveincome.com/podcasts/spi-524-five-biggest-mistakes/)
+- [ ] 🎧 Przesłuchać [Akcje (5/10) – Jak szukać spółek z potencjałem? Inwestowanie we wzrost](https://inwestomat.eu/jak-szukac-spolek-z-potencjalem/)
+- [ ] 🎧 Przesłuchać [POIT #140: O programowaniu w firmie finansowo-technologicznej](https://porozmawiajmyoit.pl/poit-140-o-programowaniu-w-firmie-finansowo-technologicznej/)
+- [ ] 📽️ Obejrzeć [A Hitchhiker's Guide to the Functional Exception Handling in Java - Grzegorz Piwowarek](https://youtu.be/4pJPGUWyLRY)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
