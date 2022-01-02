@@ -1317,3 +1317,19 @@ Dobry czwartek. Widzę, że moj brat odżył duchowo i chwała za to Bogu! Byli�
 27/12/2021
 ---
 Czas świąteczny szybko minął. Dużo siedzieliśmy z rodziną i jedliśmy. Mogliśmy też być na 3 nabożeństwach świątecznych. Dzięki Bogu za ten czas i za Jezusa, który przyszedł na świat abym ja mógł dostąpić łaski zbawiennej!
+
+28/12/2021
+---
+Dobrze zszedł ten poniedziałek po świętach :). Popołudniu udało mi się zrobić trening i wyrobić kroki. Usiadłem też na chwilę do egzaminów probnych z OCP.
+
+29/12/2021
+---
+Odwiedziliśmy żonę mojego kuzyna, która miała urodziny. Fajny wieczór był przy pizzy i sałatce ;)
+
+30/12/2021
+---
+Cały dzień coś robiłem, ciągle w pędzie i 'zapomniałem' o swojej żonie. Wieczorem widziałem jak było jej smutno i miała zły humor :(
+
+31/12/2021
+---
+Ostatni dzień pracy i urlop. Zbliża się koniec roku i mi jakoś humor opadł.

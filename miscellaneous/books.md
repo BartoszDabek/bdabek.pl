@@ -17,10 +17,10 @@
 
 ## In Progress
 - [ ] Twój mózg w działaniu - David Rock
-- [ ] Akt Małżeński. Piękno miłości seksualnej - Tim i Beverly LaHaye
 
 ## Books read
 ### 2021
+- [x] Akt Małżeński. Piękno miłości seksualnej - Tim i Beverly LaHaye
 - [x] OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide: Exam 1Z0-809
 - [x] OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808 - Jeanne Boyarsky, Scott Selikoff
 
