@@ -19,6 +19,9 @@
 - [ ] Twój mózg w działaniu - David Rock
 
 ## Books read
+### 2022
+- [x] OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide: Exam 1Z0-815, Exam 1Z0-816, and Exam 1Z0-817
+
 ### 2021
 - [x] Akt Małżeński. Piękno miłości seksualnej - Tim i Beverly LaHaye
 - [x] OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide: Exam 1Z0-809
