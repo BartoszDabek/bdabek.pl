@@ -10,15 +10,15 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (5/365 - 1%) 🏃
-3. Przejechac na rowerze 2000 km w ciagu roku (0/2000 - 0%) 🚴
+2. Przebiec 365 km w ciagu roku (24/365) 🏃 ![Progress](https://progress-bar.dev/6/)
+3. Przejechac na rowerze 2000 km w ciagu roku (0/2000) 🚴 ![Progress](https://progress-bar.dev/0/)
 4. 100 kg na nogi 🦵
 5. 100 kg na klatę 🏋️
 6. 100_000 kroków jednego dnia 🚶
 
 ## Wyzwania 30 Dniowe 🔥🥉
 1. 10_000 kroków 🦶
-2. 100 pompek 🙇
+2. 100 pompek 🙇 (5.01-3.02)
 3. 70 podciagniec 🏋️‍♂️
 4. Zimne prysznice 🚿
 5. Masa - 3200+ kcal 🍌
@@ -27,15 +27,18 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [01/09/2022]
+# [01/16/2022]
 ### ⭐ W tym tygodniu:
-- [ ] Natalka - protokół kont bankowych
-- [ ] Karta miejska
+- [ ] PIT Roczny
+- [ ] Post na bloga - nakreślić temat, napisać szkielet i przygotować baner
+- [ ] Więcej emoji na githubie 🙃
+- [ ] 🏃 Bieganie w ciągu tygodnia 7km
+- [ ] 📗 Przeczytać [Shrinking the size of a monorepo](https://blog.allegro.tech/2022/01/shrinking-size-of-monorepo.html)
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
-- [ ] 🎧 Przesłuchać [W co inwestować w 2022? Mój portfel na 2022 rok](https://inwestomat.eu/w-co-inwestowac-w-2022/)
-- [ ] 🎧 Przesłuchać [21 sposobów na tworzenie ciekawszych treści, czyli jak przedstawiać content w takim świetle, żeby był intrygujący dla odbiorcy](https://malawielkafirma.pl/pomysly-na-lepsze-tresci/)
-- [ ] 🎧 Przesłuchać [The Lost Presentation That Launched The 4-Hour Workweek — “Secrets of Doing More with Less in a Digital World” from SXSW 2007 (#548)](https://tim.blog/2021/11/18/sxsw-presentation-2007-the-4-hour-workweek/)
-- [ ] 🎧 Przesłuchać [Akcje (6/10) – Jak wybierać spółki dywidendowe? Inwestowanie w oparciu o cashflow](https://inwestomat.eu/jak-wybierac-spolki-dywidendowe/)
-- [ ] 📽️ Obejrzeć [Building a self-driving RC car - Bert Jan Schrijver, Tim van Eijndhoven](https://youtu.be/Fo513gQAJcQ)
+- [ ] 🎧 Przesłuchać [Jak sprzedać kurs online? Najlepiej… inaczej niż wszyscy! Poznaj rady na skuteczną sprzedaż od eksperta e‑commerce](https://malawielkafirma.pl/jak-sprzedawac-kursy-online/?utm_source=podcast)
+- [ ] 🎧 Przesłuchać [Q&A with Tim — Tools for Better Sleep, Musings on Parenting, the Different Roles of Fear, the Delight of Deepening Friendships, the Purpose of College, How to Boost Your Mood, HRV Training, and More (#557)](https://tim.blog/2021/12/22/qa-with-tim-sleep-parenting-fear/)
+- [ ] 🎧 Przesłuchać [POIT #142: Skills gap czyli o rynku pracy w IT](https://porozmawiajmyoit.pl/poit-142-skills-gap-czyli-o-rynku-pracy-w-it/)
+- [ ] 🎧 Przesłuchać [What Are You Grateful For?](https://effortlessenglishshow.com/what-are-you-grateful-for)
+- [ ] 📽️ Obejrzeć [Clustered Event Sourcing and CQRS with Akka and Java - Hugh McKee](https://youtu.be/8BbRglKkD_0)
 
 ### Rzeczy na przyszłość 🏅

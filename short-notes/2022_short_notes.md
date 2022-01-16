@@ -29,3 +29,31 @@ Byliśmy dziś na kolacji u teściów - zjechała się cała rodzina. Z Natką m
 09/01/2021
 ---
 Drugi dzień świąt spędziliśmy u rodziny z mojej strony. Siedzieliśmy do prawie 23 ;)
+
+10/01/2021
+---
+Ponownie było napięcie między mną a Natalą... Ciężko mi jest duchowo od dłuższego czasu :/
+
+11/01/2021
+---
+Poniedziałek zleciał fajnie. Zrobiłem łącznie ponad 10k kroków, przebiegłem się 4 kilometry, znalazłem czas dla siebie i żony ;)
+
+12/01/2021
+---
+Byłem na basenie wieczorem. Oprócz tego żona była w złym stanie emocjonalnym po tym jak jej pociąg się spóźnił o 30 minut przy powrocie z Białego i musiałem ją pocieszać.
+
+13/01/2021
+---
+To była dobra środa. Wieczorem byłem na basenie a oprócz tego już 3-ci dzień z rzędu zrobiłem lekko ponad 10k kroków.
+
+14/01/2021
+---
+Żona pojechała na studia. Miałem dziś dużo czasu - sprzątałem, byłem na nabożeństwie, rozmawiałem z rodziną.
+
+15/01/2021
+---
+Dobry i spokojny dzień. Wieczorem byłem na modlitwie i oprócz tego wszystko idzie zgodnie z 'planem' - jeżeli życie można zwać planem :P
+
+16/01/2021
+---
+Wieczorem byłem na młodzieżowym. Oprócz tego przebiegłem 5 kilometrów i zrobiłem dziś łącznie 16k kroków :o
