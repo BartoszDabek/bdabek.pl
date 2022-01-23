@@ -10,7 +10,7 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (24/365) 🏃 ![Progress](https://progress-bar.dev/6/)
+2. Przebiec 365 km w ciagu roku (36/365) 🏃 ![Progress](https://progress-bar.dev/9/)
 3. Przejechac na rowerze 2000 km w ciagu roku (0/2000) 🚴 ![Progress](https://progress-bar.dev/0/)
 4. 100 kg na nogi 🦵
 5. 100 kg na klatę 🏋️
@@ -27,18 +27,15 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [01/16/2022]
+# [01/23/2022]
 ### ⭐ W tym tygodniu:
-- [ ] PIT Roczny
-- [ ] Post na bloga - nakreślić temat, napisać szkielet i przygotować baner
-- [ ] Więcej emoji na githubie 🙃
+- [ ] Post na bloga - napisać 2 podrozdziały
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 📗 Przeczytać [Shrinking the size of a monorepo](https://blog.allegro.tech/2022/01/shrinking-size-of-monorepo.html)
 - [ ] 📗 Przeczytać [5. Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#aop)
-- [ ] 🎧 Przesłuchać [Jak sprzedać kurs online? Najlepiej… inaczej niż wszyscy! Poznaj rady na skuteczną sprzedaż od eksperta e‑commerce](https://malawielkafirma.pl/jak-sprzedawac-kursy-online/?utm_source=podcast)
-- [ ] 🎧 Przesłuchać [Q&A with Tim — Tools for Better Sleep, Musings on Parenting, the Different Roles of Fear, the Delight of Deepening Friendships, the Purpose of College, How to Boost Your Mood, HRV Training, and More (#557)](https://tim.blog/2021/12/22/qa-with-tim-sleep-parenting-fear/)
-- [ ] 🎧 Przesłuchać [POIT #142: Skills gap czyli o rynku pracy w IT](https://porozmawiajmyoit.pl/poit-142-skills-gap-czyli-o-rynku-pracy-w-it/)
-- [ ] 🎧 Przesłuchać [What Are You Grateful For?](https://effortlessenglishshow.com/what-are-you-grateful-for)
-- [ ] 📽️ Obejrzeć [Clustered Event Sourcing and CQRS with Akka and Java - Hugh McKee](https://youtu.be/8BbRglKkD_0)
+- [ ] 🎧 Przesłuchać [123 - Project Planning](https://www.programmingthrowdown.com/2021/12/123-project-planning.html)
+- [ ] 🎧 Przesłuchać [POIT #143: Pasja informatyki](https://porozmawiajmyoit.pl/poit-143-pasja-informatyki/)
+- [ ] 🎧 Przesłuchać [27. O wszystkim i o niczym z Kubą Pilimonem](https://bettersoftwaredesign.pl/episodes/27)
+- [ ] 🎧 Przesłuchać [How To Say No: Set Boundaries and Create Win-Win Situations (TPS384)](https://www.asianefficiency.com/podcasts/384-setting-boundaries/)
+- [ ] 📽️ Obejrzeć [Modules or Microservices? - Sander Mak](https://youtu.be/siHAu5sIIko)
 
 ### Rzeczy na przyszłość 🏅

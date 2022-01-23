@@ -57,3 +57,31 @@ Dobry i spokojny dzień. Wieczorem byłem na modlitwie i oprócz tego wszystko i
 16/01/2021
 ---
 Wieczorem byłem na młodzieżowym. Oprócz tego przebiegłem 5 kilometrów i zrobiłem dziś łącznie 16k kroków :o
+
+17/01/2021
+---
+Pierwsza niedziela, którą od ślubu razem z żoną spędziliśmy sami 🏠. Było bardzo dobrze - mieliśmy czas dla siebie, poszliśmy na spacer, ja byłem na obu nabożeństwach (Natka się uczyła podczas wieczorowego) i wieczorem wpadł jeszcze do nas Damian 🙂
+
+18/01/2021
+---
+Fajny poniedziałek 😋. Z samego rana poszedłem zanieść paczkę do InPostu, później praca, po pracy przebiegłem się 4km 🏃 i na koniec zrobiłem jeszcze żonie prezentację na studia 🥰!
+
+19/01/2021
+---
+Dziś zrobiłem ponad 14k kroków 💪. Pomagałem jeszcze mojej kochaniutkiej żonie przy projekcie 🤫😁.
+
+20/01/2021
+---
+Zamówiliśmy dziś burgery na obiad 🍔. Przebiegłem też dziś 4 kilometry i wieczorem byłem na basenie 🏊
+
+21/01/2021
+---
+Żona pojechała na studia i cały dzień miałem dla siebie. Trochę ogarniałem i sprzątałem bloga. Wieczorem byłem na nabożeństwie 🙂
+
+22/01/2021
+---
+Piątek był ciężki. Dużo z żoną mamy niespójności w kwestii budowy domu 🙄
+
+23/01/2021
+---
+Wstałem o 5:30. Przez cały dzień zrobiłem 17k kroków 💪! Wieczorem byliśmy u przyjaciela, jego żony i dzieci 👍. Dobra sobota!
