@@ -16,10 +16,11 @@
 - [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
 
 ## In Progress
-- [ ] Twój mózg w działaniu - David Rock
+- [ ] Atomic Habits - James Clear
 
 ## Books read
 ### 2022
+- [x] Twój mózg w działaniu - David Rock
 - [x] OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide: Exam 1Z0-815, Exam 1Z0-816, and Exam 1Z0-817
 
 ### 2021

@@ -85,3 +85,31 @@ Piątek był ciężki. Dużo z żoną mamy niespójności w kwestii budowy domu 
 23/01/2021
 ---
 Wstałem o 5:30. Przez cały dzień zrobiłem 17k kroków 💪! Wieczorem byliśmy u przyjaciela, jego żony i dzieci 👍. Dobra sobota!
+
+24/01/2021
+---
+Ciężki poranek niedzielny, ale od popołudnia już było coraz lepiej 😉. Byliśmy na urodzinach u Emmy 🥳. Ja mogłem być też na obu nabożeństwach i wieczorowe - moim zdaniem - było dobre duchowo 🙃.
+
+25/01/2021
+---
+Dziś poszło 96 kg na klatę 🏋️💪! Wieczorem byłem na basenie z kuzynem - ogólnie bardzo dobry poniedziałek! 🤗
+
+26/01/2021
+---
+Kolejny dobry dzień tygodnia 😉. Przebiegłem się 4km wieczorkiem a oprócz tego zapłaciliśmy dziś już za projekt domu - DUŻO!
+
+27/01/2021
+---
+Pod wieczór coś mnie chwyciło i miałem ciężką noc 🥺
+
+28/01/2021
+---
+Cały dzień czułem się tak w kratkę - raz gorzej, raz lepiej 🤔. Rano była też szybka poprawka produkcyjna bo wjeżdżało dużo zgłoszeń z produkcji 🔥🔥.
+
+29/01/2021
+---
+Dziś samopoczucie było już znacznie lepsze - dzięki Bogu 🙏! Byłem na wieczornej modlitwie i tak muszę niestety przyznać, że bardzo jesteśmy ubodzy duchowo - mówię w szczególności o sobie 😐
+
+30/01/2021
+---
+Tak strasznie mnie męczył kaszel w nocy, że o 5 już wstałem i zacząłem dzień.. i to była BARDZO DOBRA decyzja! 😎😎 Fajnie zleciała ta sobota + wieczorem z Nati byliśmy w Dubiczach na młodzieżowym 🙃
