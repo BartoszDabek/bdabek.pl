@@ -113,3 +113,31 @@ Dziś samopoczucie było już znacznie lepsze - dzięki Bogu 🙏! Byłem na wie
 30/01/2021
 ---
 Tak strasznie mnie męczył kaszel w nocy, że o 5 już wstałem i zacząłem dzień.. i to była BARDZO DOBRA decyzja! 😎😎 Fajnie zleciała ta sobota + wieczorem z Nati byliśmy w Dubiczach na młodzieżowym 🙃
+
+31/01/2021
+---
+Niedzielę spędziliśmy u moich teściów 🙂. Lubię tam być, ale osobiście czuję, że spędzanie całego dnia od czasu po nabożeństwie do godziny 18 to za dużo. O 16 można by było już jechać gdzieś dalej i tak będę się starał to wdrożyć. ps. Natalka, jeżeli to czytasz to nie gniewaj się - to takie moje myślenie 😆
+
+01/02/2021
+---
+W pracy szef mnie poprosił żebym zrobił wprowadzenie do projektu na interview - pierwszy raz coś takiego robiłem i przyznam, że ciekawe doświadczenie 😉. Później Adam szkolił mnie z miksera w zborze a wieczorem wpadli do nas Kamil z Izą i dziećmi i jedliśmy pizze + rozmawialiśmy 🍕👍.
+
+02/02/2021
+---
+Pierwszy dzień nowego miesiąca. Odwiedził mnie mój przyjaciel - strzyżenie + 4 kilometry 😁. Wieczorem pojechalismy do Zuzi i Piotrka na gofry 🧇
+
+03/02/2021
+---
+Dziś zaprosiliśmy Marka z Darią i córkami 🙂. Żona zrobiła duuuużo pielmieni - na tyle, że jutro na obiad jeszcze będzie, ale to dobrze bo są dobre 😘
+
+04/02/2021
+---
+Pierwszy challenge w tym roku ukończony (100 pompek dziennie) 💪! Czwartek był w porządku, wieczorem byliśmy na nabożeństwie a później moja żona bardzo miło mnie zaskoczyła jeszcze 😊.
+
+05/02/2021
+---
+Dziś był lajcik w pracy i dzięki temu udało mi się wcześniej wyjść i razem z tatą spalić wszystkie gałęzie na działce 🔥. Już prawie zwątpiliśmy i mieliśmy wracać, ale ostatnia próba się udała i poszło! 👍
+
+06/02/2021
+---
+Dobra sobota 👍! Ogarnęliśmy mieszkanie, a wieczorem wpadł Damian z Magdą na sushi! Było smaaaaacznie! 🥰
