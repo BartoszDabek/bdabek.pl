@@ -141,3 +141,31 @@ Dziś był lajcik w pracy i dzięki temu udało mi się wcześniej wyjść i raz
 06/02/2021
 ---
 Dobra sobota 👍! Ogarnęliśmy mieszkanie, a wieczorem wpadł Damian z Magdą na sushi! Było smaaaaacznie! 🥰
+
+07/02/2021
+---
+Niedzielkę spędziliśmy w domu 🏠. Jakoś ciężko mi duchowo ostatnio, ale mam nadzieję, że Pan Bóg mnie wzmocni 🙏.
+
+08/02/2021
+---
+Poniedziałek był dobry do wieczora. Wieczorem z żoną obejrzeliśmy jakiś smutny film i bam - humory nam się zepsuły 🙄
+
+09/02/2021
+---
+Dziś cały dzień z żoną jakoś porozumieć się nie umieliśmy... nie lubię takich dni 😑. Na 17 pojechaliśmy do Redut zrobić sushi i tam spędziliśmy wieczór.
+
+10/02/2021
+---
+Dziś już było znacznie lepiej 🙃. Wieczorem pojechaliśmy jeszcze i odwiedziliśmy Kondratiuków.
+
+11/02/2021
+---
+Dziś mieliśmy rozmowę z wykonawcą naszego domu i sama robocizna stanu surowego to około 200 tyś 😲.
+
+12/02/2021
+---
+Do popołudnia dzień układał się dobrze,a później znów... 🤔 Czasami się zastanawiam czy umiemy żyć razem 😶😶
+
+13/02/2021
+---
+Kolejny ciężki dzień 😒. Przynajmniej dobrze się skończył 👍
