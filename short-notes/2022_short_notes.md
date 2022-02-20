@@ -169,3 +169,31 @@ Do popołudnia dzień układał się dobrze,a później znów... 🤔 Czasami si
 13/02/2021
 ---
 Kolejny ciężki dzień 😒. Przynajmniej dobrze się skończył 👍
+
+14/02/2021
+---
+Z jednej strony chcę coś napisać, a z drugiej nic mądrego mi nie przychodzi, więc zostawię tylko kilka emoji 🙄😶😑
+
+15/02/2021
+---
+Z żoną pojechaliśmy do Białegostoku na wieczór 🙂. Byliśmy w home&you a później na kolacji. I na sam koniec odwiedziliśmy jeszcze naszą przyjaciółkę, która dziś została inżynierem 👏👏
+
+16/02/2021
+---
+Odwiedziliśmy dziś naszego znajomego z rodzinką. Niedawno się wybudowali 🏠 i pojechaliśmy zobaczyć jak to wygląda. Myślałem, że obejrzymy, chwila czasu i nie będzie o czym rozmawiać, a my siedzieliśmy do 21:30 i moglibyśmy jeszcze siedzieć 😅.
+
+17/02/2021
+---
+Dziś wieczorem wpadliśmy do Zuzi i Piotrka 🙂. Oprócz tego Natka dostała plan zajęć na semestr letni i znów się zaczęła panika...😶
+
+18/02/2021
+---
+Dziś miałem rozmowę techniczną i poszło mi całkiem nieźle 😋. Staram się znaleźć coś na drugi etat, żeby wspomóc finansowo swoją budowę ✋
+
+19/02/2021
+---
+Kolejna rozmowa techniczna (w innej firmie) i od razu decyzja, że mnie chcą 😏. Mam weekend, żeby się zastanowić czy chcę zmian w tym czasie, choć jestem na 90% tak 👊
+
+20/02/2021
+---
+Dużo sprzątania dziś było 👀. Żonie dwa razy nie wyszło ciasto 🤯 i wiadomo, że emocje już się podniosły.

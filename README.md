@@ -10,7 +10,7 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (80/365) 🏃 ![Progress](https://progress-bar.dev/22/)
+2. Przebiec 365 km w ciagu roku (92/365) 🏃 ![Progress](https://progress-bar.dev/25/)
 3. Przejechac na rowerze 2000 km w ciagu roku (0/2000) 🚴 ![Progress](https://progress-bar.dev/0/)
 4. 100 kg na nogi 🦵
 5. 100 kg na klatę 🏋️
@@ -27,19 +27,16 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [02/13/2022]
+# [02/20/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 💲 Wyciągnąć pieniądze z XTB i zamknąć konto
-- [ ] ✍🏽 Blog - temat + obrazek
-- [ ] ✍🏽 Blog - poprawić szablon ogólny
-- [ ] ✍🏽 Github - sekcja książek - dodać emoji
+- [ ] ✍🏽 Blog - Struktura (podtematy)
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 📗 Przeczytać [What Is an AWS Snowball Device?](https://docs.aws.amazon.com/snowball/latest/ug/whatissnowball.html)
-- [ ] 📗 Przeczytać [What is Amazon VPC?](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
-- [ ] 🎧 Przesłuchać [Delegowanie nie jest twoją mocną stroną? Skup się na szybkim rozwoju firmy, wtedy łatwiej rozdzielisz zadania](https://malawielkafirma.pl/delegowanie-zadan/)
-- [ ] 🎧 Przesłuchać [30. O rozwoju i utrzymaniu produktu z Wojtkiem Wiktorowiczem](https://bettersoftwaredesign.pl/episodes/30)
-- [ ] 🎧 Przesłuchać [Jak bogaci są Polacy na tle innych narodów? Zamożność na świecie](https://inwestomat.eu/jak-bogaci-sa-polacy-na-tle-innych-narodow/)
-- [ ] 🎧 Przesłuchać [The 3 P’s of Productivity w/ Brittany Dixon (TPS389)](https://www.asianefficiency.com/podcasts/389-brittany-dixon/)
-- [ ] 📽️ Obejrzeć [AWS Certified Solutions Architect - Associate 2020 - Snowball + VPC](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=3926s)
+- [ ] 📗 Przeczytać [System Logger](https://blog.frankel.ch/system-logger/)
+- [ ] 📗 Przeczytać [Inteligentny dom dla programisty, czyli DIY Smart Home](https://blog.consdata.tech/2022/02/15/smarthome.html)
+- [ ] 🎧 Przesłuchać [31. O refaktoryzacji organizacji z Wojtkiem Ptakiem](https://bettersoftwaredesign.pl/episodes/31)
+- [ ] 🎧 Przesłuchać [POIT #148: Service design w IT](https://porozmawiajmyoit.pl/poit-148-service-design-w-it/)
+- [ ] 🎧 Przesłuchać [Action S.A. odrodziło się niczym feniks z popiołów. Co teraz planuje Piotr Bieliński?](https://zaprojektujswojezycie.pl/action-s-a-odrodzilo-sie-niczym-feniks-z-popiolow-co-teraz-planuje-piotr-bielinski-%ef%bf%bc/)
+- [ ] 🎧 Przesłuchać [ESPN Co-Founder Bill Rasmussen — Fear{less} with Tim Ferriss (#569)](https://tim.blog/2022/02/04/bill-rasmussen-fearless/)
+- [ ] 📽️ Obejrzeć [NACL Security Groups NAT](https://youtu.be/Ia-UEYYR44s?t=5414)
 
 ### Rzeczy na przyszłość 🏅

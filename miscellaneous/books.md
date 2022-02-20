@@ -1,4 +1,4 @@
-## Books to read
+## 📚 Books to read 
 - [ ] Java Concurrency in Practice
 - [ ] Java Performance: The Definitive Guide: Getting the Most Out of Your Code
 - [ ] Head First Object-Oriented Analysis and Design
@@ -15,21 +15,21 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 - [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
 
-## In Progress
+## 🚧 In Progress
 - [ ] Atomic Habits - James Clear
 
-## Books read
-### 2022
+## ⭐ Books read 
+### ✅ 2022
 - [x] Twój mózg w działaniu - David Rock
 - [x] OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide: Exam 1Z0-815, Exam 1Z0-816, and Exam 1Z0-817
 
-### 2021
+### ✅ 2021
 - [x] Akt Małżeński. Piękno miłości seksualnej - Tim i Beverly LaHaye
 - [x] OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide: Exam 1Z0-809
 - [x] OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808 - Jeanne Boyarsky, Scott Selikoff
 
 
-### 2020
+### ✅ 2020
 - [x] Finansowa Forteca - Marcin Iwuć
 - [x] Beyond the Twelve-Factor App (Exploring the DNA of Highly Scalable, Resilient Cloud Applications) - Kevin Hoffman
 - [x] Patterns of Enterprise Application Architecture - Martin Fowler
@@ -39,7 +39,7 @@
 - [x] Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin
 
 
-### 2019
+### ✅ 2019
 - [x] Test-Driven Development by Example - Kent Beck
 - [x] Clean code
 - [x] Effective Java 3rd Edition
