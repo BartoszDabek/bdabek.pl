@@ -16,10 +16,11 @@
 - [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
 
 ## 🚧 In Progress
-- [ ] Atomic Habits - James Clear
+- [ ] Człowiek w poszukiwaniu sensu - Viktor E. Frankl
 
 ## ⭐ Books read 
 ### ✅ 2022
+- [x] Atomic Habits - James Clear
 - [x] Twój mózg w działaniu - David Rock
 - [x] OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide: Exam 1Z0-815, Exam 1Z0-816, and Exam 1Z0-817
 

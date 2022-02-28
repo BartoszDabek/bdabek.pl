@@ -197,3 +197,27 @@ Kolejna rozmowa techniczna (w innej firmie) i od razu decyzja, że mnie chcą �
 20/02/2021
 ---
 Dużo sprzątania dziś było 👀. Żonie dwa razy nie wyszło ciasto 🤯 i wiadomo, że emocje już się podniosły.
+
+21/02/2021
+---
+Dziś były urodziny Euniki i Laury. Całe popołudnie spędziliśmy u nich na obiedzie itp. 👍.
+
+22/02/2021
+---
+Oj życie jest ciężkie i chciałbym być już w niebie 🙄. Choć duchowo teraz też u mnie słabo 😳
+
+23/02/2021
+---
+Wieczorem wpadło do nas trochę osób. Całe rodzeństwo Natalki + Damian 🙃
+
+24/02/2021
+---
+Dziś wieczorem z żoną odwiedziliśmy kuzyna i jego dziewczynę i siedzieliśmy do późna :)
+
+25/02/2021
+---
+Zaczęła się wojna u naszego sąsiada 😥. Na naszym terenie panuje duży niepokój. Wieczorem byliśmy na nabożeństwie a jutro wyjeżdzamy na śląsk na weekend.
+
+28/02/2021
+---
+Przez weekend byliśmy na śląsku 🙂. Mieliśmy fajny czas - duchowo i fizycznie. Dzięki Bogu podróż i wszystko udały się bezpiecznie 👍
