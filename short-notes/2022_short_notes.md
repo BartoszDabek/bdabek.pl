@@ -221,3 +221,27 @@ Zaczęła się wojna u naszego sąsiada 😥. Na naszym terenie panuje duży nie
 28/02/2021
 ---
 Przez weekend byliśmy na śląsku 🙂. Mieliśmy fajny czas - duchowo i fizycznie. Dzięki Bogu podróż i wszystko udały się bezpiecznie 👍
+
+01/03/2021
+---
+Odwiedziliśmy dziś rodzinę Natalki z Ukrainy 🙃. Przyjechali do Polski 2 dni temu i wracają do siebie.
+
+02/03/2021
+---
+Dzisiaj znów byliśmy u tej rodziny. Daliśmy im parę złotych żeby mieli na sprawy bieżące i niech im Bóg błogosławi. ps. mają super dzieciaki ☺️
+
+03/03/2021
+---
+Dzień zleciał baardzo szybko 😁. Wieczorem wpadliśmy do Damiana, zrobiliśmy zakupki a później prawie 3 godziny rozmawialiśmy z rodzicami 😝
+
+04/03/2021
+---
+Taki normalny czwartek. Wieczorem byłem na nabożeństwie a oprócz tego to się zastanawiam nad podpisaniem umowy z nową firmą 🤫
+
+05/03/2021
+---
+Piątek i weekend 🤗. Podpisałem umowę i od 21 marca będę ciągnął 2 etaty. Czy to wszystko ma sens w obliczu wojny? Nie wiem.
+
+06/03/2021
+---
+Ale to był produktywny dzień 😎. Do 15 zrobiliśmy z żoną wszystko co zaplanowaliśmy - sprzątanie, gotowanie, bieganie. A później pojechaliśmy na 17 do Białegostoku na nabożeństwo i mieliśmy dobry czas :)
