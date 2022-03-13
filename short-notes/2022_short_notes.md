@@ -245,3 +245,31 @@ Piątek i weekend 🤗. Podpisałem umowę i od 21 marca będę ciągnął 2 eta
 06/03/2021
 ---
 Ale to był produktywny dzień 😎. Do 15 zrobiliśmy z żoną wszystko co zaplanowaliśmy - sprzątanie, gotowanie, bieganie. A później pojechaliśmy na 17 do Białegostoku na nabożeństwo i mieliśmy dobry czas :)
+
+07/03/2021
+---
+Byliśmy na urodzinach u Mikołaja 🥳. Było dużo osób i gwarnie, ale fajnie ;]
+
+08/03/2021
+---
+Lubię poniedziałki 💪👍. W pracy wszystko na spokojnie, później pojchałem przebiec się z przyjacielem. Wieczorem z żoną odwiedziliśmy kuzyna i ciocię i na sam koniec jeszcze poszliśmy porozmawiać z rodzicami 😇
+
+09/03/2021
+---
+Dzień kobiet 💮. Zabrałem moją piękną na kolację do Very na pizze 🍽🙃
+
+10/03/2021
+---
+Odwiedziliśmy mojej teściowej siostrę i męża z dziećmi. Przyjechali z Ukrainy 👀
+
+11/03/2021
+---
+Dzień mężczyzny 😝. Wieczorem poszedłem na nabożeństwo a później z żoną zjedliśmy pyszniutkie tortille i crumble na kolację 🤗
+
+12/03/2021
+---
+Dziś byłem na baseniku z kuzynem 🏊 a później żona zrobiła pyszniutką kolację! Oprócz tego było spokojnie i pięknie 😉
+
+13/03/2021
+---
+Sobota była dobra 👍. Przejechałem prawie 22km rowerem i BARDZO mnie to wymęczyło... no ale pierwszy rower w tym roku i było dosyć zimno :P

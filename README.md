@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (105/365) 🏃 ![Progress](https://progress-bar.dev/28/)
-3. Przejechac na rowerze 2000 km w ciagu roku (0/2000) 🚴 ![Progress](https://progress-bar.dev/0/)
+2. Przebiec 365 km w ciagu roku (115/365) 🏃 ![Progress](https://progress-bar.dev/31/)
+3. Przejechac na rowerze 2000 km w ciagu roku (21/2000) 🚴 ![Progress](https://progress-bar.dev/1/)
 4. 100 kg na nogi 🦵
 5. 100 kg na klatę 🏋️
 6. 100_000 kroków jednego dnia 🚶
@@ -19,23 +19,27 @@ Cele osobiste
 ## Wyzwania 30 Dniowe 🔥🥉
 1. 10_000 kroków 🦶
 2. ✅ 100 pompek 🙇 (5.01-3.02)
-3. 70 podciagniec 🏋️‍♂️ (7.02-11.03)
+3. ✅ 70 podciagniec 🏋️‍♂️ (7.02-11.03)
 4. Zimne prysznice 🚿
 5. Masa - 3200+ kcal 🍌
 6. Codzienne bieganie 🏃‍♀️
 7. Codzienny rower 🚲
-8. 0 Cukru 🎂
+8. 0 Cukru 🎂 (14.03-12.04)
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [03/06/2022]
+# [03/13/2022]
 ### ⭐ W tym tygodniu:
+- [ ] Porządek w szafie
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 📗 Przeczytać [Lombok — the wrong way](https://blog.softwaremill.com/lombok-the-wrong-way-fd1da147ee60)
-- [ ] 🎧 Przesłuchać [Akcje (8/10) – Jak prowadzić portfel akcyjny? Jak kupować i kiedy sprzedawać spółki](https://inwestomat.eu/jak-prowadzic-portfel-akcyjny/)
-- [ ] 🎧 Przesłuchać [127: AI for Code with Eran Yahav](https://www.programmingthrowdown.com/2022/02/127-ai-for-code-with-eran-yahav.html)
-- [ ] 🎧 Przesłuchać [Budujesz społeczność wokół swojego biznesu? Edukuj, wspieraj i nie oceniaj, a ludzie ci zaufają i zyskasz nowych klientów](https://malawielkafirma.pl/budowanie-spolecznosci-w-biznesie/)
-- [ ] 🎧 Przesłuchać [Jak osiągnąć szczyt biznesowego sukcesu? Pracować z pasją! Piotr Czmoch – 8a.pl](https://zaprojektujswojezycie.pl/jak-osiagnac-szczyt-biznesowego-sukcesu-pracowac-z-pasja-piotr-czmoch-8a-pl/)
-- [ ] 🎧 Przesłuchać [SPI 552: My Personal Money Story](https://www.smartpassiveincome.com/podcasts/spi-552-my-personal-money-story/)
-- [ ] 📽️ Obejrzeć [IAM](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=8864s)
+- [ ] 🚴 Rower w ciągu tygodnia 25km
+- [ ] 📗 Przeczytać [JVM Anatomy Quark #1: Lock Coarsening and Loops](https://shipilev.net/jvm/anatomy-quarks/1-lock-coarsening-for-loops/)
+- [ ] 📗 Przeczytać [Sass Basics](https://sass-lang.com/guide)
+- [ ] 📗 Przeczytać [Java 18 – co nowego?](https://bartlomiejchmielewski.pl/java-18/)
+- [ ] 🎧 Przesłuchać [Thiago Hatada | Developing Difficult Skills](https://effortlessenglishshow.com/thiago-hatada-developing-difficult-skills)
+- [ ] 🎧 Przesłuchać [POIT #151: B2B kontra etat w IT](https://porozmawiajmyoit.pl/poit-151-b2b-kontra-etat-w-it/)
+- [ ] 🎧 Przesłuchać [Jak agencja digitalowa może wesprzeć Twój biznes – Robert Stolaczyk – Promotraffic](https://zaprojektujswojezycie.pl/jak-agencja-digitalowa-moze-wesprzec-twoj-biznes-robert-stolaczyk-promotraffic/)
+- [ ] 🎧 Przesłuchać [Zakup nieruchomości na kredyt czy wynajem i inwestowanie?](https://inwestomat.eu/zakup-nieruchomosci-na-kredyt-czy-wynajem-i-inwestowanie/)
+- [ ] 📽️ Obejrzeć [Cognito + CLI & SDK](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=10354s)
+- [ ] 📽️ Obejrzeć [Inbox App](https://www.youtube.com/watch?v=Tdo16MXXt1M&list=PLqq-6Pq4lTTak0b5DnJ-x85MWMPaTdl4A&index=5)
 
 ### Rzeczy na przyszłość 🏅

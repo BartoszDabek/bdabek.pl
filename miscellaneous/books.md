@@ -13,13 +13,13 @@
 - [ ] Dependency Injection Principles, Practices, and Patterns - Steven van Deursen and Mark Seemann
 - [ ] Fenomen poranka - Hal Elrod
 - [ ] Nawyki warte miliony - Tracy Brian
-- [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
 
 ## 🚧 In Progress
-- [ ] Człowiek w poszukiwaniu sensu - Viktor E. Frankl
+- [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
 
 ## ⭐ Books read 
 ### ✅ 2022
+- [x] Człowiek w poszukiwaniu sensu - Viktor E. Frankl
 - [x] Atomic Habits - James Clear
 - [x] Twój mózg w działaniu - David Rock
 - [x] OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide: Exam 1Z0-815, Exam 1Z0-816, and Exam 1Z0-817
