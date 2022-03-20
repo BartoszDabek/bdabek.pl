@@ -273,3 +273,31 @@ Dziś byłem na baseniku z kuzynem 🏊 a później żona zrobiła pyszniutką k
 13/03/2021
 ---
 Sobota była dobra 👍. Przejechałem prawie 22km rowerem i BARDZO mnie to wymęczyło... no ale pierwszy rower w tym roku i było dosyć zimno :P
+
+14/03/2021
+---
+Chyba najgorsza niedziela jaką mógłbym sobie wyobrazić.
+
+15/03/2021
+---
+Po każdym deszczu wychodzi słońce 😉. W pracy miałem spokój. W południe wyszedłem też na rower i zrobiłem 16 km (zapomniałem włączyć apki do pomiarów :F)
+
+16/03/2021
+---
+Wtorek był na sportowo. Z rana przebiegłem się 3 km, później podczas spotkań w pracy chodziłem i jeździłem rowerem (16km). A dodam, że było piekne słoneczko i prawdziwie wiosenna pogoda 😎
+
+17/03/2021
+---
+A taki w kratkę dzień 🤨. Na działce z tatą wbijaliśmy paliki na ogrodzenie i w sumie bardzo ładna pogoda była ;)
+
+18/03/2021
+---
+Czwartek zleciał szybko. Wieczorem byłem na nabożeństwie a tak to nie robiłem za dużo 😋
+
+19/03/2021
+---
+Wszystko było pięknie ładnie do momentu modlitwy na którą poszedłem z żoną... I wniosek jest taki, żeby kolejnymi razami już jej nie zabierać 😡😡
+
+20/03/2021
+---
+I kolejny beznadziejny dzień... dobrze, że chociaż jakąś robotę na działce udało się zrobić i że pogoda była FAJNA
