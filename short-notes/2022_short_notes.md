@@ -301,3 +301,31 @@ Wszystko było pięknie ładnie do momentu modlitwy na którą poszedłem z żon
 20/03/2021
 ---
 I kolejny beznadziejny dzień... dobrze, że chociaż jakąś robotę na działce udało się zrobić i że pogoda była FAJNA
+
+21/03/2021
+---
+Pogodziliśmy się z żoną, ale i tak ciężka psychicznie niedziela... Prawdę mówiąc buferuję to wszystko w sobie i jeszcze trochę i chyba już nie wytrzymam 😑
+
+22/03/2021
+---
+Poniedziałek i od dziś zacząłem drugi etat. No ciężko, szczególnie jak jest pięknie i słonecznie za oknem a ty pracujesz 🙄
+
+23/03/2021
+---
+BARDZO DOBRY DZIEŃ - NARESZCIE!! 🤗🤗 Z żoną o 16 poszliśmy na rowery, przejechaliśmy 15km a później pojechaliśmy na burgera ☺️🍔
+
+24/03/2021
+---
+Kolejny super dzień. Było ciepło (prawie 17 stopni). Po pracy z kuzynem wyszedłem na rowery i zrobiliśmy 30 km 🚲🚲
+
+25/03/2021
+---
+I znów fajny dzień, Dziś było chłodniej na podwórku, ale nadal słonecznie i przyjemnie. Wieczorem byłem na nabożeństwie i nagłaśniałem 👍👍
+
+26/03/2021
+---
+Dziś były babci urodziny i po pracy (a Natala po szkole) pojechaliśmy do Jelonki ją odwiedzić 😉
+
+27/03/2021
+---
+Z kuzynem cały dzień byliśmy na konferencji kościelnej w Warszawie 👊. Generalnie fajny kawałek wiedzy i motywacji 👍
