@@ -329,3 +329,31 @@ Dziś były babci urodziny i po pracy (a Natala po szkole) pojechaliśmy do Jelo
 27/03/2021
 ---
 Z kuzynem cały dzień byliśmy na konferencji kościelnej w Warszawie 👊. Generalnie fajny kawałek wiedzy i motywacji 👍
+
+28/03/2021
+---
+Rano byliśmy na nabożeństwie w Hajnówce. Później obiad w Redutach i na wieczór do Zuzi i Piotrka 👉
+
+29/03/2021
+---
+Dziś miałem wyrywanie zęba 🦷. Było zszokowany! Po 2 minutach było już po wszystkim :)
+
+30/03/2021
+---
+Dobrze minął ten wtorek. Ząb prawie mnie nie bolał, żona robiłą pyszne jedzonko a wieczorem jeszcze razem obejrzeliśmy mecz Polski i zdjeliśmy laysy 😋
+
+31/03/2021
+---
+W pracy głowie się z jednym zadaniem - kod całkowicie legacy i wczoraj właściwie cały dzień siedziało to w mojej głowie, żeby to rozwiązać 😶
+
+01/04/2021
+---
+I koniec pierwsze kwartału 😲. Czas zleciał bardzo szybko i dużo się też zmieniło w moim życiu. Dziś kończę współpracę w NT19 i zaczynam nowy rozdział w kwesti zawodowej 🖐
+
+02/04/2021
+---
+Dziś wieczorem byliśmy u kuzyna 🙃. Zaprosił nas i kilka innych znajomych. Jedliśmy i rozmawialiśmy do późna. A jak wyszliśmy to okazało się, że wróciła zima - na dworze co najmniej 10cm śniegu ❄️❄️
+
+03/04/2021
+---
+To jest niesamowicie głupie jak przez zazdrość można wywołać wielką kłótnię 👀
