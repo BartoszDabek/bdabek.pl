@@ -357,3 +357,27 @@ Dziś wieczorem byliśmy u kuzyna 🙃. Zaprosił nas i kilka innych znajomych. 
 03/04/2021
 ---
 To jest niesamowicie głupie jak przez zazdrość można wywołać wielką kłótnię 👀
+
+05/04/2021
+---
+Oo zapomniałem wczoraj cokolwiek napisać 😏. Poniedziałek w każdym bądź razie był fajny :) nawet udało mi się przebiec 4 km 🏃
+
+06/04/2021
+---
+Dużo jest pracy 🙄, ale wiedziałem na co się piszę w takim modelu i zawsze jest coś za coś. Pocieszające jest to, że za oknem jest przynamniej brzydka pogoda 😁
+
+07/04/2021
+---
+Wczoraj miałem wyrywaną drugą górną ósemkę i znów poszło strasznie szybko. Teraz tylko dojść do siebie i koniec tego! :)
+
+08/04/2021
+---
+Dużo mam pracy i przyznaję, że lekko nie jest. No ale życie :P
+
+09/04/2021
+---
+Piątek nareszcie :D. Mocno zapracowany był ten tydzień 😝. Dziś na obiad wzięła nas kuzynka i postawiła pizze. Więc zjedliśmy sobie smacznie w restauracji 😁
+
+10/04/2021
+---
+Fajnie minęła ta sobota :). Troszkę posprzątałem w domu, troszkę porobiłem z tatą na działce. Z Nati wyszliśmy na spacerek - było przyjemnie 🙃
