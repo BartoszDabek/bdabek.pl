@@ -381,3 +381,27 @@ Piątek nareszcie :D. Mocno zapracowany był ten tydzień 😝. Dziś na obiad w
 10/04/2021
 ---
 Fajnie minęła ta sobota :). Troszkę posprzątałem w domu, troszkę porobiłem z tatą na działce. Z Nati wyszliśmy na spacerek - było przyjemnie 🙃
+
+11/04/2021
+---
+Ale dobrze minęła ta niedziela 😊! Rano byliśmy na nabożeństwie a później Iza z Kamilem wpadli na obiad. A na deser pojechaliśmy do Gancarzy i też było super :). Fajnie!!!
+
+12/04/2021
+---
+Wieczorem mieliśmy gości - wpadli do nas Kardasze, ale szczerze to miałem takie trochę mieszane uczucia czy było warto zapraszać. Niby fajnie fajnie, ale jakoś nasze relacje bardzo osłabły 😥
+
+13/04/2021
+---
+Dziś przyszły laptopty. Wieczorem pojechaliśmy i daliśmy je Ukraińcom ;)
+
+15/04/2021
+---
+Wczoraj zapomniałem cokolwiek napisać. W środę byliśmy cały dzień na wyjeździe z bratem i rodzicami - pojechaliśmy na śląsk na pogrzeb babci. Babcia dożyła sędziwego wieku (90 lat), a my mieliśmy okazję żeby całą rodziną się spotkać i porozmawiać 🙂
+
+16/04/2021
+---
+Oddaliśmy trzeci laptop rodzinie z Ukrainy (Natali cioci) 🙃. Fajnie widzieć uśmiech na twarzach i móc choć trochę pomóc :)!
+
+17/04/2021
+---
+Sobota to było sprzątanie + trochę pracy + spędznie czasu z rodziną. W ciągu dnia udało mi się jeszcze przebiec 4 km ☺️
