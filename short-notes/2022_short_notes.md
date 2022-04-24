@@ -405,3 +405,31 @@ Oddaliśmy trzeci laptop rodzinie z Ukrainy (Natali cioci) 🙃. Fajnie widzieć
 17/04/2021
 ---
 Sobota to było sprzątanie + trochę pracy + spędznie czasu z rodziną. W ciągu dnia udało mi się jeszcze przebiec 4 km ☺️
+
+18/04/2021
+---
+Pierwszy dzień świąt za nami. Usługiwałem na wieczorowym i stwierdzam, że mam kochaną żonę 🥰🥰
+
+19/04/2021
+---
+I już po świętach :). Dobrze minęły - choć przyznam, że to droga sprawa :D
+
+20/04/2021
+---
+Dobry dzień, choć pogoda jest taka nie zachęcająca 😏😏
+
+21/04/2021
+---
+Środa minęła za szybko. Pracowałem do około 21, oczywiście z kilkoma przerwami + treningiem 🤫
+
+22/04/2021
+---
+Kolejny dzień, gdzie miałem dużo pracy 🙄. Nawet mnie to lekko denerwuje, ale... przez jakiś czas trzeba się przemęczyć
+
+23/04/2021
+---
+Piąteczek NARESZCIE ☺️. Mam dobry humor :)! Byłem dziś wieczorem na modlitwie i ogólnie cały dzień spoko zleciał ;]
+
+24/04/2021
+---
+Sobota też bardzo fajnie minęła. Z rano pojechaliśmy kuzynem rowerami i zrobiliśmy 42km, później pomagałem żonie + na podwórku tacie. Ogólnie to byłem bardzo zmęczony :D
