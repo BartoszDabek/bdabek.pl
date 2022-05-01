@@ -15,10 +15,11 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] The Pragmatic Programmer - Andrew Hunt i David Thomas
+- [ ] Kochaj wystarczająco dobrze - A. Jucewicz i G. Sroczyński
 
 ## ⭐ Books read 
 ### ✅ 2022
+- [x] The Pragmatic Programmer - Andrew Hunt i David Thomas
 - [x] Człowiek w poszukiwaniu sensu - Viktor E. Frankl
 - [x] Atomic Habits - James Clear
 - [x] Twój mózg w działaniu - David Rock

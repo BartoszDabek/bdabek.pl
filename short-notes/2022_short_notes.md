@@ -433,3 +433,31 @@ Piąteczek NARESZCIE ☺️. Mam dobry humor :)! Byłem dziś wieczorem na modli
 24/04/2021
 ---
 Sobota też bardzo fajnie minęła. Z rano pojechaliśmy kuzynem rowerami i zrobiliśmy 42km, później pomagałem żonie + na podwórku tacie. Ogólnie to byłem bardzo zmęczony :D
+
+25/04/2021
+---
+Drugie święta 👋. Pierwszy dzień spędziliśmy u moich teściów - jestem już chyba przejedzony tymi wszystkimi łakociami 🍰🍗
+
+26/04/2021
+---
+Drugi dzień swiąt za nami i po wszystkim 🙃. Dziś pracowałem do 15 a później dojechałem do żony w Redutach.
+
+27/04/2021
+---
+Dziś w pracy było spokojnie ☺️. Przy końcu pracy poszedłem nawet z żoną na spacer 😘😘
+
+28/04/2021
+---
+Fajnie zleciała ta środa. Robiliśmy kibelek na działce z tatą i właściwie całe popołudnie działaliśmy 👍
+
+29/04/2021
+---
+Zacząłem kolejny challenge - 30 dni codziennego biegania 🔥🔥
+
+30/04/2021
+---
+Dobra dziś była pogoda. Rano zrobiłem 5km a później praca. Wieczorem jeszcze odwieźliśmy Piotrka do Redut i tak o dzień zleciał ☝️
+
+01/05/2021
+---
+To była chyba najlepsza sobota EVER!❤️❤️ Razem z żoną pojechaliśmy na rowery (20km), rano biegałem, później pomagałem przekopać ogródek. Jedliśmy pyszny obiad. Pogoda była super! Dzień 10/10 💪👍

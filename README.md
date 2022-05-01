@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (146/365) 🏃 ![Progress](https://progress-bar.dev/40/)
-3. Przejechac na rowerze 2000 km w ciagu roku (142/2000) 🚴 ![Progress](https://progress-bar.dev/7/)
+2. Przebiec 365 km w ciagu roku (164/365) 🏃 ![Progress](https://progress-bar.dev/45/)
+3. Przejechac na rowerze 2000 km w ciagu roku (161/2000) 🚴 ![Progress](https://progress-bar.dev/8/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -22,21 +22,19 @@ Cele osobiste
 3. ✅ 70 podciagniec 🏋️‍♂️ (7.02-11.03)
 4. Zimne prysznice 🚿
 5. Masa - 3200+ kcal 🍌
-6. Codzienne bieganie 🏃‍♀️
+6. Codzienne bieganie 🏃‍♀️ (28.04-27.05)
 7. Codzienny rower 🚲
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [04/24/2022]
+# [05/01/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 🚴 Rower w ciągu tygodnia 12km
-- [ ] 🏃 Bieganie w ciągu tygodnia 6km
+- [ ] 🚴 Rower w ciągu tygodnia 30km
+- [ ] 🏃 Bieganie w ciągu tygodnia 21km
 - [ ] 📗 Przeczytać [How Spring Boot’s Autoconfigurations Work](https://www.marcobehler.com/guides/spring-boot)
-- [ ] 📗 Przeczytać [JVM Anatomy Quark #3: GC Design and Pauses](https://shipilev.net/jvm/anatomy-quarks/3-gc-design-and-pauses/)
-- [ ] 🎧 Przesłuchać [129: Web 3.0 - Breaking Free from the Client-Server Model with Michelle Lee](https://www.programmingthrowdown.com/2022/03/129-web-30-breaking-free-from-client.html)
-- [ ] 🎧 Przesłuchać [Własny biznes to praca od rana do wieczora. Czy można osiągnąć 300 tysięcy przychodu rocznie, pracując godzinę dziennie?](https://malawielkafirma.pl/jak-prowadzic-wlasny-biznes-gdy-masz-malo-czasu/)
-- [ ] 🎧 Przesłuchać [SPI 559: How to Get More Free Time and Enjoy Your Work More with Jenny Blake](https://www.smartpassiveincome.com/podcasts/spi-559-get-more-free-time-and-enjoy-your-work-more/)
-- [ ] 🎧 Przesłuchać [Najlepsza decyzja w moim życiu? Założenie startupu! – Anna Streżyńska, MC2 Innovations](https://zaprojektujswojezycie.pl/najlepsza-decyzja-w-moim-zyciu-zalozenie-startupu-anna-strezynska-mc2-innovations/)
-- [ ] 📽️ Obejrzeć [Inbox App](https://www.youtube.com/watch?v=Tdo16MXXt1M&list=PLqq-6Pq4lTTak0b5DnJ-x85MWMPaTdl4A&index=5)
+- [ ] 🎧 Przesłuchać [POIT #153: Co warto wiedzieć o inwestowaniu?](https://porozmawiajmyoit.pl/poit-153-co-warto-wiedziec-o-inwestowaniu/)
+- [ ] 🎧 Przesłuchać [Episode 23 “Java 18 is Here!”](https://inside.java/2022/03/22/podcast-023/)
+- [ ] 🎧 Przesłuchać [Stepapp sprzątnie z rynku konkurencję. Rozmowa z Thomasem Wernerem, CEO Stepapp.](https://zaprojektujswojezycie.pl/stepapp-sprzatnie-z-rynku-konkurencje-rozmowa-z-thomasem-wernerem-ceo-stepapp-%ef%bf%bc/)
+- [ ] 🎧 Przesłuchać [SPI 561: How Marketing Has Changed, and What’s Working TODAY with Neil Patel](https://www.smartpassiveincome.com/podcasts/spi-561-how-marketing-has-changed-with-neil-patel/)
 
 ### Rzeczy na przyszłość 🏅
