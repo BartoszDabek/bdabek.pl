@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (164/365) 🏃 ![Progress](https://progress-bar.dev/45/)
-3. Przejechac na rowerze 2000 km w ciagu roku (161/2000) 🚴 ![Progress](https://progress-bar.dev/8/)
+2. Przebiec 365 km w ciagu roku (185/365) 🏃 ![Progress](https://progress-bar.dev/50/)
+3. Przejechac na rowerze 2000 km w ciagu roku (247/2000) 🚴 ![Progress](https://progress-bar.dev/12/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -27,14 +27,14 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [05/01/2022]
+# [05/08/2022]
 ### ⭐ W tym tygodniu:
 - [ ] 🚴 Rower w ciągu tygodnia 30km
 - [ ] 🏃 Bieganie w ciągu tygodnia 21km
-- [ ] 📗 Przeczytać [How Spring Boot’s Autoconfigurations Work](https://www.marcobehler.com/guides/spring-boot)
-- [ ] 🎧 Przesłuchać [POIT #153: Co warto wiedzieć o inwestowaniu?](https://porozmawiajmyoit.pl/poit-153-co-warto-wiedziec-o-inwestowaniu/)
-- [ ] 🎧 Przesłuchać [Episode 23 “Java 18 is Here!”](https://inside.java/2022/03/22/podcast-023/)
-- [ ] 🎧 Przesłuchać [Stepapp sprzątnie z rynku konkurencję. Rozmowa z Thomasem Wernerem, CEO Stepapp.](https://zaprojektujswojezycie.pl/stepapp-sprzatnie-z-rynku-konkurencje-rozmowa-z-thomasem-wernerem-ceo-stepapp-%ef%bf%bc/)
-- [ ] 🎧 Przesłuchać [SPI 561: How Marketing Has Changed, and What’s Working TODAY with Neil Patel](https://www.smartpassiveincome.com/podcasts/spi-561-how-marketing-has-changed-with-neil-patel/)
+- [ ] 📗 Przeczytać [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
+- [ ] 🎧 Przesłuchać [English CONVERSATION PARTNERS | How To Find](https://effortlessenglishshow.com/english-conversation-partners-how-to-find)
+- [ ] 🎧 Przesłuchać [Kobieta, która niczego się nie boi – Ewa Ewart.](https://zaprojektujswojezycie.pl/kobieta-ktora-niczego-sie-nie-boi-ewa-ewart/)
+- [ ] 🎧 Przesłuchać [Ryzyko walutowe w inwestowaniu w ETF. Zabezpieczać czy nie?](https://inwestomat.eu/ryzyko-walutowe-w-inwestowaniu-w-etf-zabezpieczac-czy-nie/)
+- [ ] 🎧 Przesłuchać [Jesteś ekspertem. Co może cię zaskoczyć, gdy założysz firmę w swojej branży?](https://malawielkafirma.pl/ekspert-w-roli-przedsiebiorcy/)
 
 ### Rzeczy na przyszłość 🏅

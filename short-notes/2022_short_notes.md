@@ -461,3 +461,31 @@ Dobra dziś była pogoda. Rano zrobiłem 5km a później praca. Wieczorem jeszcz
 01/05/2021
 ---
 To była chyba najlepsza sobota EVER!❤️❤️ Razem z żoną pojechaliśmy na rowery (20km), rano biegałem, później pomagałem przekopać ogródek. Jedliśmy pyszny obiad. Pogoda była super! Dzień 10/10 💪👍
+
+02/05/2021
+---
+To był super weekend - zarówno sobota jak i niedziela 🥰. Dziś mieliśmy gości z Ukrainy (rodzina Natalki) i spędziliśmy miło popołudnie :)
+
+03/05/2021
+---
+Fajny dzień :) Kolejny raz 😊😊. Byliśmy z Natalką po pracy na rowerach a później pojechaliśmy do Piotrka i Zuzi ;]
+
+04/05/2021
+---
+Intensywny i przepiękny dzień. Wstałem dosyć późno bo dopiero około 7:30. Zacząłem od biegania (zrobiłem 4km), później z kuzynem pojechaliśmy na rowery (28km 😉). I crem'de'la'crem - żona zrobiła mi niespodziankę i też zabrała mnie na rowerki (38km!!) + piknik 🥰. Super dzionek + jeszcze się opaliłem 🤣
+
+05/05/2021
+---
+Urodzinki 🙂. Dziś musiałem też pracować i jedna rzecz w pracy mnie zmartwiła. Troszkę to wpłynęło na mój nastrój ale i tak jest git 👍. Żona kupiła mi trimer na urodziny 😅 (fajny prezent, choć bardziej to Ona go chciała niż ja 🤣)
+
+06/05/2021
+---
+Czwartek fajny i przyjemny 😉. Wieczorem byłem na nabożeństwie - było dobre słowo. Jutro (a właściwie to dzisiaj) mamy wesele Sylwii i Kamila 🥳🥳
+
+07/05/2021
+---
+Piąteczek i wesele 👏👏👏! Było fajnie, choć jedzenie słabe 😏, ale... najważniejsze, że młodzi się pobrali i teraz mogą iść już razem dalej 🤗
+
+08/05/2021
+---
+Mamy niedzielę popołudnie (dopiero co wróciliśmy ze zboru). Wczorajszy dzień był super, nawet takie 10/10, a teraz jest takie 1/10 💩
