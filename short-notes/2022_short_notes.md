@@ -489,3 +489,31 @@ Piąteczek i wesele 👏👏👏! Było fajnie, choć jedzenie słabe 😏, ale.
 08/05/2021
 ---
 Mamy niedzielę popołudnie (dopiero co wróciliśmy ze zboru). Wczorajszy dzień był super, nawet takie 10/10, a teraz jest takie 1/10 💩
+
+09/05/2021
+---
+Słaba była ta niedziela ;( głównie przeze mnie. Niemniej jednak trzeba myśleć pozytywnie 👍
+
+10/05/2021
+---
+Poniedziałek był dobry ;). Zrobilismy dziś z kuzynami prawie 40km na rowerach 🔥🚲
+
+11/05/2021
+---
+Super wtorek. Jak zawsze (od kilkunastu dni) z rana biegałem, później dosyć intensywna praca. Po pracy skosiłek trawnik i poszedłem na rowerki z żoną 😍
+
+12/05/2021
+---
+I znów dobry dzień ☺️! Biegałem, pracowałem, byłem na rowerze i później spędziłem wieczór z żoną (wróciła dopiero około 18) 👊
+
+13/05/2021
+---
+Czwartek i znów fajny dzień 🙂. Standardowo z rana bieganie a później praca a wieczorem byłem na nabożeństwie ;]
+
+14/05/2021
+---
+Piąąąątuniooo 😊👍👍. Zaczynamy weekend bez większych planów. Dziś z żoną pojeździliśmy wieczorkiem rowerami - łącznie zrobiliśmy 20 km 👊👏
+
+15/05/2021
+---
+Kosiłem dziś działkę, później pojechałem na szkolenie z miksera do zboru i na koniec dnia z Natalką pojechaliśmy na młodzieżowe do Dubicz - dosyć intensywny dzień 🤪🤪

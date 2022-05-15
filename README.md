@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (185/365) 🏃 ![Progress](https://progress-bar.dev/50/)
-3. Przejechac na rowerze 2000 km w ciagu roku (247/2000) 🚴 ![Progress](https://progress-bar.dev/12/)
+2. Przebiec 365 km w ciagu roku (212/365) 🏃 ![Progress](https://progress-bar.dev/58/)
+3. Przejechac na rowerze 2000 km w ciagu roku (338/2000) 🚴 ![Progress](https://progress-bar.dev/16/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -27,14 +27,14 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [05/08/2022]
+# [05/15/2022]
 ### ⭐ W tym tygodniu:
 - [ ] 🚴 Rower w ciągu tygodnia 30km
 - [ ] 🏃 Bieganie w ciągu tygodnia 21km
 - [ ] 📗 Przeczytać [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
-- [ ] 🎧 Przesłuchać [English CONVERSATION PARTNERS | How To Find](https://effortlessenglishshow.com/english-conversation-partners-how-to-find)
-- [ ] 🎧 Przesłuchać [Kobieta, która niczego się nie boi – Ewa Ewart.](https://zaprojektujswojezycie.pl/kobieta-ktora-niczego-sie-nie-boi-ewa-ewart/)
-- [ ] 🎧 Przesłuchać [Ryzyko walutowe w inwestowaniu w ETF. Zabezpieczać czy nie?](https://inwestomat.eu/ryzyko-walutowe-w-inwestowaniu-w-etf-zabezpieczac-czy-nie/)
-- [ ] 🎧 Przesłuchać [Jesteś ekspertem. Co może cię zaskoczyć, gdy założysz firmę w swojej branży?](https://malawielkafirma.pl/ekspert-w-roli-przedsiebiorcy/)
+- [ ] 🎧 Przesłuchać [Przełamuje bariery w biznesie, sporcie i działalności charytatywnej – Daniel Lewczuk.](https://zaprojektujswojezycie.pl/przelamuje-bariery-w-biznesie-sporcie-i-dzialalnosci-charytatywnej-daniel-lewczuk/)
+- [ ] 🎧 Przesłuchać [POIT #155: Jak z głową zmienić pracę i branżę na IT](https://porozmawiajmyoit.pl/poit-155-jak-z-glowa-zmienic-prace-i-branze-na-it/)
+- [ ] 🎧 Przesłuchać [Do zarabiania na YouTubie nie potrzeba ogromnych zasięgów. Zobacz, jak można monetyzować mały kanał](https://malawielkafirma.pl/jak-zarabiac-na-youtube/)
+- [ ] 🎧 Przesłuchać [33. O temporal modelingu i Event Sourcingu z Oskarem Dudyczem](https://bettersoftwaredesign.pl/episodes/33)
 
 ### Rzeczy na przyszłość 🏅
