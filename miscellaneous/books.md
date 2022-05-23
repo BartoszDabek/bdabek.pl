@@ -6,7 +6,6 @@
 - [ ] Test Driven: TDD and Acceptance TDD for Java Developers 
 - [ ] Refactoring to patterns - Joshua Kernievsky
 - [ ] Software Craftsmanship: Professionalism Pragmatism Pride - Sandro Mancuso
-- [ ] The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin
 - [ ] Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman - Dave Hoover, Adewale Oshineye
 - [ ] Professional Java Development with the Spring Framework - Rod Johnsonet al.
 - [ ] Dynamic Proxies in Java Mini-Book - Dr Heinz M. Kabutz
@@ -15,10 +14,11 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Kochaj wystarczająco dobrze - A. Jucewicz i G. Sroczyński
+- [ ] The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin
 
 ## ⭐ Books read 
 ### ✅ 2022
+- [x] Kochaj wystarczająco dobrze - A. Jucewicz i G. Sroczyński
 - [x] The Pragmatic Programmer - Andrew Hunt i David Thomas
 - [x] Człowiek w poszukiwaniu sensu - Viktor E. Frankl
 - [x] Atomic Habits - James Clear

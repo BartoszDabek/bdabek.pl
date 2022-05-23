@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (212/365) 🏃 ![Progress](https://progress-bar.dev/58/)
-3. Przejechac na rowerze 2000 km w ciagu roku (338/2000) 🚴 ![Progress](https://progress-bar.dev/16/)
+2. Przebiec 365 km w ciagu roku (246/365) 🏃 ![Progress](https://progress-bar.dev/67/)
+3. Przejechac na rowerze 2000 km w ciagu roku (459/2000) 🚴 ![Progress](https://progress-bar.dev/22/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -27,14 +27,16 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [05/15/2022]
+# [05/22/2022]
 ### ⭐ W tym tygodniu:
 - [ ] 🚴 Rower w ciągu tygodnia 30km
-- [ ] 🏃 Bieganie w ciągu tygodnia 21km
-- [ ] 📗 Przeczytać [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
-- [ ] 🎧 Przesłuchać [Przełamuje bariery w biznesie, sporcie i działalności charytatywnej – Daniel Lewczuk.](https://zaprojektujswojezycie.pl/przelamuje-bariery-w-biznesie-sporcie-i-dzialalnosci-charytatywnej-daniel-lewczuk/)
-- [ ] 🎧 Przesłuchać [POIT #155: Jak z głową zmienić pracę i branżę na IT](https://porozmawiajmyoit.pl/poit-155-jak-z-glowa-zmienic-prace-i-branze-na-it/)
-- [ ] 🎧 Przesłuchać [Do zarabiania na YouTubie nie potrzeba ogromnych zasięgów. Zobacz, jak można monetyzować mały kanał](https://malawielkafirma.pl/jak-zarabiac-na-youtube/)
-- [ ] 🎧 Przesłuchać [33. O temporal modelingu i Event Sourcingu z Oskarem Dudyczem](https://bettersoftwaredesign.pl/episodes/33)
+- [ ] 🏃 Bieganie w ciągu tygodnia 15km
+- [ ] 📗 Przeczytać [How To Do Logging In Java](https://www.marcobehler.com/guides/java-logging)
+- [ ] 🎧 Przesłuchać [Episode 99. SHHH! It’s a secret! (Storing API Keys / Passwords / tokens!)](https://www.javapubhouse.com/2022/01/episode-99-shhh-its-a-secret-storing-api-keys-passwords-tokens.html)
+- [ ] 🎧 Przesłuchać [SPI 569: The BIG Passive Income Opportunity in Payment Processing with David and Patricia Carlin](https://www.smartpassiveincome.com/podcasts/spi-569-the-big-passive-income-opportunity-in-payment-processing/)
+- [ ] 🎧 Przesłuchać [Najlepsze fundusze ETF na rynki rozwinięte – ranking](https://inwestomat.eu/najlepsze-fundusze-etf-na-rynki-rozwiniete/)
+- [ ] 🎧 Przesłuchać [Jak zdobyć zaufanie klienta, nawet jeśli nie wierzy twojej branży? Jak odzyskać zaufanie, gdy je stracisz?](https://malawielkafirma.pl/jak-zdobyc-lub-odzyskac-zaufanie/)
+- [ ] 🎧 Przesłuchać [Ula Pedantula i jej uporządkowany biznes.](https://zaprojektujswojezycie.pl/ula-pedantula-i-jej-uporzadkowany-biznes/)
+- [ ] 🎥 Watch [Implement the Monolith • Codebase Modularization, Microservices • Jacek Milewski](https://youtu.be/VHf3rEwagw8)
 
 ### Rzeczy na przyszłość 🏅

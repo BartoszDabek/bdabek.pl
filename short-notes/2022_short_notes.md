@@ -517,3 +517,31 @@ Piąąąątuniooo 😊👍👍. Zaczynamy weekend bez większych planów. Dziś 
 15/05/2021
 ---
 Kosiłem dziś działkę, później pojechałem na szkolenie z miksera do zboru i na koniec dnia z Natalką pojechaliśmy na młodzieżowe do Dubicz - dosyć intensywny dzień 🤪🤪
+
+16/05/2021
+---
+Niedziela z jednej strony fajnie spędzona a z drugiej źle skończona 🙄. Byliśmy w Dubiczach na nabożeństwie, później w Redutach na grillu 🙄 i na koniec jeszcze pojechaliśmy pograć w siatkówkę - znów do Dubicz 🏐
+
+17/05/2021
+---
+Słabo zaczął się ten tydzień w naszej relacji małżeńskiej. Jak se tak myślę to strasznie dużo się kłócimy - w kontekście zboru i wiary... Całe szczęście na wieczór już byliśmy pogodzeni :)
+
+18/05/2021
+---
+Dziś było znacznie lepiej 🤗. Zapomniałem jeszcze dodać, że w poniedziałek byłem na rowerach z kuzynami i mieliśmy mały wypadek 🙄. Damian wjechał we mnie i upadliśmy - on skończył o wiele gorzej niż ja 🤫. A dziś zaprowadziłem rower do naprawy a później go odebrałem 👍. Na 18 poszliśmy też z ekipką na burgery do Jimmiego 🍔
+
+19/05/2021
+---
+Kolejny fajny dzień. Już coraz to bliżej końca wyzwania z codziennym bieganiem 👍. Dziś zaczęła się budowa naszego domu 🏠, dziś wykopali ziemię pod fundament :)
+
+20/05/2021
+---
+Zrobiliśmy dziś na obiad rodzinnego grilla 🍖 - dzień był fajny, słoneczny i ciepły 🙂. Wieczorem byłem na nabożeństwie i nagłaśniałem bo Adam jest w szpitalu.
+
+21/05/2021
+---
+I kolejny fajny dzionek 😋. Baaardzo ciepło dziś było :) Przejechałem rowerem 42km, kosiłem trawę na podwórku, posprzątałem co nieco w domu i spędziłem miły wieczór z żoną 🥰
+
+23/05/2021
+---
+W niedzielę w ogóle nie włączyłem komputera co jest rzadkością 😄. Dziś zaczynam już nowy tydzień, chciałbym pójść dziś na basen 🤔
