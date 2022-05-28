@@ -545,3 +545,23 @@ I kolejny fajny dzionek 😋. Baaardzo ciepło dziś było :) Przejechałem rowe
 23/05/2021
 ---
 W niedzielę w ogóle nie włączyłem komputera co jest rzadkością 😄. Dziś zaczynam już nowy tydzień, chciałbym pójść dziś na basen 🤔
+
+24/05/2021
+---
+O całkiem fajny poniedziałek 😁. Na basen nie udało się pójść, ale poszedłem na rower z Gabrysiem + żonę wyciągnąłem na bieganie (może uda się coś więcej z tego zdziałać 😆)
+
+25/05/2021
+---
+Walnąłem dziś 40km rowerem 🚲. Bardzo ładna była pogoda i fajny dzień 👊👊
+
+26/05/2021
+---
+Dziś na wieczór wpadli do nas Piotrek z Zuzią i dziećmi. Dawno już nikogo nie gościliśmy, więc miło było posiedzieć i porozmawiać razem 😉
+
+27/05/2021
+---
+Zmieniam formę tych notatek - ZNOWU 😏. Będę pisał o dzisiejszym dniu i co chcę :). Właśnie skończyłem wyzwanie z bieganiem 🏃 i siadam do pracy. Dziś chciałbym poogarniać protokoły do firm itp. Ogólnie dużo pracy dziś ;]
+
+28/05/2021
+---
+Ehh ciężko jest 😑. Ten dzień zaczął się od godzinnego spaceru a później było już tylko gorzej. Z żoną mamy taki konflikt w sprawach duchowych, że.... 🙄. Boże dopomóż 🙏
