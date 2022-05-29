@@ -565,3 +565,7 @@ Zmieniam formę tych notatek - ZNOWU 😏. Będę pisał o dzisiejszym dniu i co
 28/05/2021
 ---
 Ehh ciężko jest 😑. Ten dzień zaczął się od godzinnego spaceru a później było już tylko gorzej. Z żoną mamy taki konflikt w sprawach duchowych, że.... 🙄. Boże dopomóż 🙏
+
+29/05/2021
+---
+Pogodziliśmy się później z żoną i jest lepiej 👍. Ale duchowo niestety nie daję rady 😣😣. Dziś jedziemy do Dubicz i pewnie do 18 tam będziemy. Wieczorem może pójdę na basen 🤔
