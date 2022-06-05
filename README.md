@@ -4,14 +4,14 @@ Cele osobiste
 > — Mark Twain
 
 # Główne cele 2022 🏆🥇
-1. Pomoc innym 🧚‍♂️ [2/5]
+1. Pomoc innym 🧚‍♂️ [3/5]
 2. [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 📜
 3. Reaktywacja bloga - 12 postów [1/12] 📝
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (262/365) 🏃 ![Progress](https://progress-bar.dev/71/)
-3. Przejechac na rowerze 2000 km w ciagu roku (521/2000) 🚴 ![Progress](https://progress-bar.dev/26/)
+2. Przebiec 365 km w ciagu roku (269/365) 🏃 ![Progress](https://progress-bar.dev/73/)
+3. Przejechac na rowerze 2000 km w ciagu roku (612/2000) 🚴 ![Progress](https://progress-bar.dev/30/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -23,28 +23,29 @@ Cele osobiste
 4. Zimne prysznice 🚿
 5. Masa - 3200+ kcal 🍌
 6. ✅ Codzienne bieganie 🏃‍♀️ (28.04-27.05)
-7. Codzienny rower 🚲
+7. Codzienny rower 🚲 (31.05-29.06)
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [05/29/2022]
+# [06/05/2022]
 ### ⭐ W tym tygodniu:
 - [ ] ❤️ Zrobić coś miłego żonie - kwiatek/gdzieś zabrać
-- [ ] 💡 10 Rzeczy do Bucket Listy - na kartce
-- [ ] 📱 Ogarnąć apkę do śledzenia portfela inwestycyjnego
-- [ ] 🚪 Zmierzyć szerokość drzwi do domu i zadecydować
-- [ ] 💲 Wysłać oferty do drzwi i okien w domu
-- [ ] 📷 Ogarnąć zdjęcia na telefonie - zrobić backup na Google Drive/Photos.
-- [ ] 🧑‍🔧 Hydraulik - zrobić listę fachowców + wycena
+- [ ] 🪟 Białystok - obejrzeć okna
+- [ ] 🪟 Bielsk Podlaski - okna Oknoplast
+- [ ] 🏠 Blachodachówka - research
+- [ ] 🖌️ Tynkarz - zrobić reserach
+- [ ] 🧑‍🔧 Hydraulik - Baczyński i Wasiluk - poprosić o wycenę
 - [ ] ⚡ Elektryk - zrobić listę fachowców + wycena
-- [ ] 🚴 Rower w ciągu tygodnia 50km
+- [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak
+- [ ] 🚴 Rower w ciągu tygodnia 100km
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 📗 Przeczytać [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
-- [ ] 📗 Przeczytać [3 FUNKCJE LOMBOKA, O KTÓRYCH NIE MIAŁEŚ POJĘCIA](https://sztukakodu.pl/3-funkcje-lomboka-o-ktorych-nie-miales-pojecia/)
-- [ ] 🎧 Przesłuchać [Miliardy złotych obrotu i ambitne plany na przyszłość – Morele.net](https://zaprojektujswojezycie.pl/miliardy-zlotych-obrotu-i-ambitne-plany-na-przyszlosc-morele-net/)
-- [ ] 🎧 Przesłuchać [Jak sprzedawać bez obniżania cen? Naucz się podnosić wartość swojej oferty, aby przyciągać klientów premium](https://malawielkafirma.pl/jak-sprzedawac-bez-obnizania-cen/)
-- [ ] 🎧 Przesłuchać [133: Solving for the Marketplace Problem with Andrew Yates](https://www.programmingthrowdown.com/2022/05/133-solving-for-marketplace-problem.html)
-- [ ] 🎧 Przesłuchać [[#118] Sesja Q&A maj 2022 - 50 pytań, 50 odpowiedzi](https://podcasts.apple.com/pl/podcast/118-sesja-q-a-maj-2022-50-pyta%C5%84-50-odpowiedzi/id1506475429?i=1000560475921)
-- [ ] 🎥 Watch [Event-Driven Architectures Done Right, Apache Kafka • Tim Berglund • Devoxx Poland 2021](https://youtu.be/A_mstzRGfIE)
+- [ ] 📗 Przeczytać [Project Loom: Understand the new Java concurrency model](https://www.infoworld.com/article/3652596/project-loom-understand-the-new-java-concurrency-model.html)
+- [ ] 📗 Przeczytać [Masking sensitive data in Log4j 2](https://objectpartners.com/2017/09/26/masking-sensitive-data-in-log4j-2/)
+- [ ] 🎧 Przesłuchać [SPI 577: The Secret to a Wealthy & Simple Life with James Schramko](https://www.smartpassiveincome.com/podcasts/spi-577-secrets-to-a-wealthy-simple-life/)
+- [ ] 🎧 Przesłuchać [Antyweb – kto stoi za najpopularniejszym blogiem technologicznym w Polsce?](https://zaprojektujswojezycie.pl/antyweb-kto-stoi-za-najpopularniejszym-blogiem-technologicznym-w-polsce/)
+- [ ] 🎧 Przesłuchać [Dlaczego nie korzystam z usług robodoradców?](https://inwestomat.eu/dlaczego-nie-korzystam-z-uslug-robodoradcow/)
+- [ ] 🎧 Przesłuchać [Dywersyfikacja przychodów. Zarabiaj na różne sposoby, żeby uchronić się przed kryzysem](https://malawielkafirma.pl/dywersyfikacja-przychodow-chroni-przed-kryzysem/)
+- [ ] 🎧 Przesłuchać [How To Adapt GTD To YOUR Needs (TPS405)](https://www.asianefficiency.com/podcasts/405-adapting-gtd/#)
+- [ ] 🎥 Watch [Decoupling Springboot Microservices Using Workflow Automation • Niall Deehan • Devoxx Poland 2021](https://youtu.be/YEvMs0YOUNw)
 
 ### Rzeczy na przyszłość 🏅

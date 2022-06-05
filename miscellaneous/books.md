@@ -14,10 +14,11 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin
+- [ ] Prawy Umysł - Jonathan Haidt
 
 ## ⭐ Books read 
 ### ✅ 2022
+- [x] The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin
 - [x] Kochaj wystarczająco dobrze - A. Jucewicz i G. Sroczyński
 - [x] The Pragmatic Programmer - Andrew Hunt i David Thomas
 - [x] Człowiek w poszukiwaniu sensu - Viktor E. Frankl

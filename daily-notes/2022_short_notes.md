@@ -569,3 +569,31 @@ Ehh ciężko jest 😑. Ten dzień zaczął się od godzinnego spaceru a późni
 29/05/2021
 ---
 Pogodziliśmy się później z żoną i jest lepiej 👍. Ale duchowo niestety nie daję rady 😣😣. Dziś jedziemy do Dubicz i pewnie do 18 tam będziemy. Wieczorem może pójdę na basen 🤔
+
+30/05/2021
+---
+Wczorajszy basen nie wyszedł bo jakoś przed 20 wróciliśmy do domu 🏠. W domu byli też goście, więc zeszliśmy i godzina nam zeszła i zaczęliśmy jeszcze oglądać titanica ⛵:)
+
+31/05/2021
+---
+I ostatni dzień maja 😳. Dziś za oknem widzę piękną pogodę 🤗🤗. Wstałem o 6:20 z żoną i śpieszymy się, żeby nasz poranek był sprawniejszy :D. Chciałbym dziś rowerem przejechać z 20-30km ;]
+
+01/06/2021
+---
+I rozpoczynamy kolejny miesiąc - PIĘKNY MIESIĄĆ! 🥰 Teraz byłem rano w biedronce + kupiłem truskawki w warzywniaku i wracając udało mi się pomóc jakiejś Pani rower na wiadukt 😇. Mała rzecz, a cieszy 🤛
+
+02/06/2021
+---
+Ciężko się dziś wstawało :D. Wczoraj udało mi się pojeździć na rowerze - zrobiłem prawie 25km 🚴. A na dziś nie mam żadnych konkretnych planów. Idę zaraz po truskawki 🍓🍓, później będę robił obiad (żona dziś wraca o 17 dopiero) i na 18 do zboru na wieczorowe nabo.
+
+03/06/2021
+---
+Wczoraj udało się wykonać wszystko co napisałem. Dziś chciałbym po pracy pojeździć rowerem + jest świetna pogoda, więc może jeszcze się poopalać 🤪. Dobrze byłoby jeszcze mieszkanie poogarniać :)
+
+04/06/2021
+---
+O fajnie fajnie z żoną wczoraj byliśmy na rowerkach, teraz jak to piszę to też już jestem po porannym rowerku 🚲🚲. Fajna pogoda i aż chce się żyć! 🙂
+
+05/06/2021
+---
+Ale wczoraj było cieplutko, a dziś ma być jeszcze cieplej ☀️☀️! Dziś świętujemy Zielone Świątki i po nabożeństwie mamy wspólny zborowy obiad 👍.
