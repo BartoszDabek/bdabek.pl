@@ -597,3 +597,31 @@ O fajnie fajnie z żoną wczoraj byliśmy na rowerkach, teraz jak to piszę to t
 05/06/2021
 ---
 Ale wczoraj było cieplutko, a dziś ma być jeszcze cieplej ☀️☀️! Dziś świętujemy Zielone Świątki i po nabożeństwie mamy wspólny zborowy obiad 👍.
+
+06/06/2021
+---
+Piękna niedziela była 🥰👍. Mieliśmy zborowy obiad - po obiedzie wszyscy się zaraz zmyli (szkoda, że tak szybko, no ale ...). Z żoną wieczorkiem wyszliśmy jeszcze na rower po Hajnówce i zrobiliśmy łącznie 19km 🤪. Dziś z kuzynami planujemy wycieczkę rowerową do Białowieży 👊🙂🙂
+
+07/06/2021
+---
+Dwie rzeczy z dzisiaj. Pierwsza to, że z żoną mocno się opaliliśmy 🌞🌞, a druga to wyjazd rowerowy z kuzynami do Białowieży 🚴. Na miejscu zjedliśmy pizze 🍕, odwiedziliśmy wujka Mietka i pojeździliśmy po Białowieży - łącznie zrobiliśmy troszkę ponad 60km. Ogólnie super 👍🙂
+
+08/06/2021
+---
+Kolejny fajny i słoneczny dzień 🙂. Martwi nas trochę, że budowlańcom strasznie słabo idzie budowa - jakby spali zamiast pracować 😴😑
+
+09/06/2021
+---
+Nic specjalnego wczoraj nie było - o ile dobrze sięgam pamięcią 🧐. Dziś za to będzie wspaniała pogoda (prawie 30 stopni) 🤯🤯. Aż się chcę poopalać i nic nie robić 🤫
+
+10/06/2021
+---
+Wczoraj jakoś cały dzień nie miałem za bardzo nastroju - duchowo jest mi strasznie ciężko :(. Dziś po pracy, razem z tatą planujemy skosić działkę ;]
+
+11/06/2021
+---
+Wczorajszy plan się lekko zmiksował 😏 - tato uczył się do egzaminu i pogoda była niepewna. Ale koniec końców około 18 pojechałem sam i w 3h skosiłem 🏡. Dziś z żoną jedziemy do Białegostoku 🚗, a teraz o 6 rano idę na rower :D
+
+12/06/2021
+---
+Bardzo fajną mieliśmy sobotę 🤩. Rano śniadanko w altance, później Białystok, dwa salony z oknami > McDonald > odwiedziliśmy babcię > pojechaliśmy do galerii > chodziliśmy po rynku > zjedliśmy pyszną pizzę > jeździliśmy i patrzyliśmy na nowe domki na obrzeżach Białegostoku 😊👍! Super dzionek!
