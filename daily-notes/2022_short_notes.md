@@ -1,3 +1,4 @@
+
 01/01/2021
 ---
 Nowy rok spędziliśmy dużo w trasie. Natalka źle się czuła przez większość nocy :(. Do domu wróciliśmy lekko po 2 i w sumie nie było źle.
@@ -625,3 +626,31 @@ Wczorajszy plan się lekko zmiksował 😏 - tato uczył się do egzaminu i pogo
 12/06/2021
 ---
 Bardzo fajną mieliśmy sobotę 🤩. Rano śniadanko w altance, później Białystok, dwa salony z oknami > McDonald > odwiedziliśmy babcię > pojechaliśmy do galerii > chodziliśmy po rynku > zjedliśmy pyszną pizzę > jeździliśmy i patrzyliśmy na nowe domki na obrzeżach Białegostoku 😊👍! Super dzionek!
+
+13/06/2021
+---
+Niedziela zleciała nam bardzo szybko. Rano byliśmy na nabożeństwie, później zjedliśmy obiad na podwóreczku 🤍 i pojechaliśmy do Redut posiedzieć z rodziną + zjeść coś słodkiego 😁.
+
+14/06/2021
+---
+Poniedziałek był taki sobie - padało i nie było za fajnie za oknem 🧐. Byłem u mojego przyjaciela na strzyżeniu + poszliśmy później jeszcze na basen 🏊
+
+15/06/2021
+---
+Dziś po pracy z tatą robiliśmy bednarkę na działce - było czasami ciężko 🤫, ale się udało.
+
+16/06/2021
+---
+Wczoraj udało się naszej ekipie budowlanej zalać szalunki 👏. Dziś mamy święto w Polsce i jest wolne od pracy. Idę zaraz się przebiegnę kilka kilometrów 😝, a później zobaczę co będzie dalej. Wieczorem planowaliśmy pojechać do szwagierki ;)
+
+17/06/2021
+---
+Wczoraj wszystko było zgodnie z planem 👍. Dziś dużo pracy, później praca na działce i jeszcze rowerek wieczorem planuję 👊. Szykuje się intensywny dzień! 💪
+
+18/06/2021
+---
+Znów się udało zamknąć wszystko, ale do domu wróciłem o 21 (co prawda przejechałem 30km 🚴). Dziś sobota - na spokojnie chcę pojeździć rowerem, z żoną zrobić zakupy, posprzątać w domu i ogólnie to chillować się :)
+
+20/06/2021
+---
+Jest poniedziałek, 5 rano. Wczoraj nawet nie włączyłem komputera pomimo, że nie byłem bardzo zabiegany. Jestem wdzięczny Bogu, bo wysłuchuje, przebacza i podnosi 😊! Mieliśmy piękną niedzielę, zrobiliśmy grilla dla rodziców a wieczorem pojechaliśmy na nabożeństwo, a później w gości do braterstwa Wasiluków ;]
