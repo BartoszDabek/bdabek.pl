@@ -654,3 +654,27 @@ Znów się udało zamknąć wszystko, ale do domu wróciłem o 21 (co prawda prz
 20/06/2021
 ---
 Jest poniedziałek, 5 rano. Wczoraj nawet nie włączyłem komputera pomimo, że nie byłem bardzo zabiegany. Jestem wdzięczny Bogu, bo wysłuchuje, przebacza i podnosi 😊! Mieliśmy piękną niedzielę, zrobiliśmy grilla dla rodziców a wieczorem pojechaliśmy na nabożeństwo, a później w gości do braterstwa Wasiluków ;]
+
+21/06/2021
+---
+Trudny, ale piękny dzień wczoraj był. Dzisiaj ledwo wstałem 🥱 (budzik i tak o godzinę w przód przesunąłem). Jestem trochę w plecy z pracą... 😬😬
+
+22/06/2021
+---
+Byliśmy w poście i dzięki Bogu wysłuchał On naszych modlitw 🙏 i postu. Bóg jest dobry 🙂! Dziś ma być ładniejsza pogoda - zapewne po pracy pójdę na rowerek 😝
+
+23/06/2021
+---
+Całkiem ciężka była to środa. Na budowie mamy problem z wykonawcą ...🏠. Wieczorem udało się pójść na rower, ale musiałem jechać małym rowerkiem bo rodzice wzięli swoje 🤣. Dziś umówiłem się do dentysty i idę zobaczyć co tam się dzieje w zębach 🦷
+
+24/06/2021
+---
+Wizyta u dentysty nie była przyjemna - pełna higienizacja 😧. Ogólnie mam problem z dziąsłami i zapisałem się do specjalisty w Białymstoku, żeby rozpocząć leczenie. Dziś rodzice i Kuba z Kasią wyjeżdzają na wakacje, a więc mamy wolną chatę 🏠. Pogoda też szykuje się bardzo ładna!!
+
+25/06/2021
+---
+Właśnie wróciłem z 7km biegu 🏃 - a obok mnie, na rowerze jechała moja żona 😊. Muszę przyznać, że dała mi dużo motywacji bo wykręciłem bardzo dobry czas (4.30min/km). A co dziś? Wieczorem do Dubicz na młodzieżowe a oprócz tego to opalanie i zobaczymy co jeszcze dzień przyniesie 😁
+
+26/06/2021
+---
+Piękna sobota była i szykuje się piękna niedziela ☀️☀️🙃. Dziś oprócz nabożeństw(a), rowerków i opalania nie planuję nic :D. No chyba, że w altance coś popracuję jeszcze.. Zobaczymy ☺️
