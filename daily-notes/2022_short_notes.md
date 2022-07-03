@@ -1,4 +1,3 @@
-
 01/01/2021
 ---
 Nowy rok spędziliśmy dużo w trasie. Natalka źle się czuła przez większość nocy :(. Do domu wróciliśmy lekko po 2 i w sumie nie było źle.
@@ -678,3 +677,31 @@ Właśnie wróciłem z 7km biegu 🏃 - a obok mnie, na rowerze jechała moja ż
 26/06/2021
 ---
 Piękna sobota była i szykuje się piękna niedziela ☀️☀️🙃. Dziś oprócz nabożeństw(a), rowerków i opalania nie planuję nic :D. No chyba, że w altance coś popracuję jeszcze.. Zobaczymy ☺️
+
+27/06/2021
+---
+Dzięki Bogu wczoraj mogliśmy być na dwóch nabożeństwach 🙏☝️. Cały dzień świeciło słooońce i taki też zapowiada się cały ten tydzień. Dziś wieczorem idziemy w odwiedziny do Maxima i Nataszy 🙂.
+
+28/06/2021
+---
+Mieszane uczucia mam co do wczorajszego dnia.., Niesiemy z żoną pewien ciężar duchowy i strasznie ciężko czerpać radość z życia 🥵🥵 pomimo, że jest gorąco i pięknie na zewnątrz! Dziś nie wiem co oprócz pracy i jazdy rowerem będę robić 👀
+
+29/06/2021
+---
+Wtorek był już spoko 👍. Rowerem przejechałem 30km i w końcu dziś ostatni dzień challengu 💪🚲. Zapomniałem jeszcze dodać, że jeżeli chodzi o budowę to ekipa w końcu zaczęła coś robić i powoli idzie do przodu 🙂.
+
+30/06/2021
+---
+Udało się zakończyć kolejny challenge 🚲🚲🥳. W czerwcu przejechałem około 750km 😲! Dziś jedziemy z żoną do Białego. Musimy ogarnąć sprawy z mieszkaniem (nowy lokator) + pójdziemy jeszcze coś zjeść 🥰
+
+01/07/2021
+---
+Fajny wczoraj wieczór mieliśmy 👍👍. Porozmawialiśmy ze znajomymi, dobrze zjedliśmy i załatwiliśmy co trzeba 🙂. A dziś już 1 lipiec 😮😮
+
+02/07/2021
+---
+Zrobiliśmy wczoraj grilla ♨️🥩🥓. Wpadli Damian i Łukasz z żoną i synkiem. Fajnie było + pogoda dopisała. A jedzonko z grilla to będziemy jeszcze dojadać przez 2 dni chyba 😁. Dziś nie mam specjalnych planów - auto bym umył 😅😅, trochę popracował i ogólnie cieszył się życiem z żoną :)
+
+03/07/2021
+---
+Ciekawa sobota była 🙂🙂. Trochę poogarnialiśmy w domu, przebiegłem się z rana, wyszliśmy na rowery i deszcz już przy samym w domu na powrocie nas złapał 😂. A wieczorem wpadła Domi i siedzieliśmy do północy 🤛🤛
