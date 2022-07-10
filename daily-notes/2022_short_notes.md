@@ -705,3 +705,31 @@ Zrobiliśmy wczoraj grilla ♨️🥩🥓. Wpadli Damian i Łukasz z żoną i sy
 03/07/2021
 ---
 Ciekawa sobota była 🙂🙂. Trochę poogarnialiśmy w domu, przebiegłem się z rana, wyszliśmy na rowery i deszcz już przy samym w domu na powrocie nas złapał 😂. A wieczorem wpadła Domi i siedzieliśmy do północy 🤛🤛
+
+04/07/2021
+---
+Wczoraj był chrzest w Dubiczach i tam spędziliśmy całą niedzielę. Po nabożeństwie był obiad i później siatkówka + rozmowy ze znajomymi :). Dziś będzie ostatni dzień takiej pięknej gorącej pogody - planuję wyjść na rower 🤗, a zobaczymy co z tego wyjdzie 🙃
+
+05/07/2021
+---
+Bardzo przyjemna pogoda była w poniedziałek 🤗🤗. Skosiłem trawnik, Natalka powyrywała zielę z kostki i wieczorem pojechaliśmy na godzinę do Maxima i Nataszy na grilla 🙂
+
+06/07/2021
+---
+Wczoraj kompletnie nie miałem humoru... 😬. Szykowała się zmiana pogody i bolała mnie głowa 🤯. Teraz dalej mnie trochę boli, ale mam nadzieję, że będzie lepiej 🤔
+
+07/07/2021
+---
+Kosiłem działkę bo była na to dobra pogoda 🌿🌳 - nie za gorąco, nie za zimno 👍. Z wakacji wrócili rodzice i brat z bratową 🙂
+
+08/07/2021
+---
+W czwartek z Natalką pościliśmy 💪. Było trochę ciężko, ale zawsze jest, ale dzięki Bogu 🙏, Pan dopomógł 👊
+
+09/07/2021
+---
+Fajny piąteczek ☺️. Wieczorem byliśmy na próbie i w niedzielę będziemy śpiewać (+ Natalka będzie grać). Dziś planujemy pojechać rowerami do Białowieży 🤗🤗🤗
+
+10/07/2021
+---
+Ale to była SUPER sobota 👍☺️. Z Natalką pojechaliśmy do Białowieży, tam zjedliśmy sobie obiad i później wróciliśmy. Wieczorem wpadł Damian, a później Gabryś z Karoliną. I tak dzień zleciał :). A dziś poranne nabożeństwo a później na 15:30 jedziemy na wesele za Białystok 😋

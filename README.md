@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (299/365) 🏃 ![Progress](https://progress-bar.dev/82/)
-3. Przejechac na rowerze 2000 km w ciagu roku (1310/2000) 🚴 ![Progress](https://progress-bar.dev/65/)
+2. Przebiec 365 km w ciagu roku (306/365) 🏃 ![Progress](https://progress-bar.dev/84/)
+3. Przejechac na rowerze 2000 km w ciagu roku (1383/2000) 🚴 ![Progress](https://progress-bar.dev/69/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -27,20 +27,20 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [07/03/2022]
+# [07/10/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 📁 Zrobić porządek w zakładkach Google Chrome
-- [ ] 📝 Blog - zredagować 3 najbardziej ruchliwe wpisy na blogu
+- [ ] 📝 Blog - zredagować wpis o certyfikacji Oracle na blogu
+- [ ] 🏊 Pójść 1x na basen
+- [ ] 👨🏽‍🍳 Zrobić listę miejsc gdzie chcemy zjeść
 - [ ] 🚴 Rower w ciągu tygodnia 50km
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 🏊 Pójść 1x na basen
-- [ ] 📗 Przeczytać [Spring Cloud Contract](https://blog.j-labs.pl/spring-cloud-contract)
-- [ ] 📗 Przeczytać [Diagnozowanie wycieków pamięci w Javie](https://bulldogjob.pl/readme/diagnozowanie-wyciekow-pamieci-w-javie)
-- [ ] 🎧 Przesłuchać [In Case You Missed It: May 2022 Recap of “The Tim Ferriss Show” (#603)](https://tim.blog/2022/06/25/may-2022-recap-of-the-tim-ferriss-show/)
-- [ ] 🎧 Przesłuchać [W co inwestować w czasie inflacji? Mój portfel na drugą połowę 2022 roku](https://inwestomat.eu/w-co-inwestowac-w-czasie-inflacji/)
-- [ ] 🎧 Przesłuchać [The 996 Work Culture, Super-Quick Meetings & A Surprising Report (TPS410)](https://www.asianefficiency.com/podcasts/410-work-culture/)
-- [ ] 🎧 Przesłuchać [137: The Origins of the Internet with John Day](https://www.programmingthrowdown.com/2022/06/137-origins-of-internet-with-john-day.html)
-- [ ] 🎥 Watch [Four Distributed Systems Architectural Patterns by Tim Berglund](https://youtu.be/BO761Fj6HH8)
+- [ ] 📗 Przeczytać [GC, hands off my data!](https://blog.allegro.tech/2022/06/gc-hands-off-my-data.html)
+- [ ] 📗 Przeczytać [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
+- [ ] 🎧 Przesłuchać [Jaka przyszłość czeka branżę eventową? Andrzej Targosz, Eventory](https://zaprojektujswojezycie.pl/jaka-przyszlosc-czeka-branze-eventowa-andrzej-targosz-eventory/)
+- [ ] 🎧 Przesłuchać [7 Tips to Be More Disciplined](https://open.spotify.com/episode/41R9xnv3Op6o1OT1AXrG0r)
+- [ ] 🎧 Przesłuchać [Dlaczego w Polsce nie rozmawia się o zarobkach? Finansowe tabu](https://inwestomat.eu/dlaczego-w-polsce-nie-rozmawia-sie-o-zarobkach/)
+- [ ] 🎧 Przesłuchać [Twój dzień to ciągła gonitwa, po której wieczorem padasz ze zmęczenia? Naucz się prowadzić biznes holistycznie](https://malawielkafirma.pl/holistyczny-biznes/)
+- [ ] 🎥 Watch [Event Sourcing - what could possibly go wrong? • Andrzej Ludwikowski • Devoxx Poland 2021](https://youtu.be/_V3C-e0gKoI)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research
