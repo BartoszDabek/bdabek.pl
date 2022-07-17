@@ -733,3 +733,31 @@ Fajny piąteczek ☺️. Wieczorem byliśmy na próbie i w niedzielę będziemy 
 10/07/2021
 ---
 Ale to była SUPER sobota 👍☺️. Z Natalką pojechaliśmy do Białowieży, tam zjedliśmy sobie obiad i później wróciliśmy. Wieczorem wpadł Damian, a później Gabryś z Karoliną. I tak dzień zleciał :). A dziś poranne nabożeństwo a później na 15:30 jedziemy na wesele za Białystok 😋
+
+11/07/2021
+---
+Wesele było na bardzo wysokim poziomie 	👍🥳. Było dobre jedzenie, lody, ciekawe miejsce - super 🤗. Do domu wróciliśmy lekko po północy i fajnie bo do 6 można było pospać i nawet się wyspać 😁
+
+12/07/2021
+---
+Pojechaliśmy po pracy na poprawiny 👰 - fajnie, bo zjedliśmy, posiedzieliśmy i porozmawialiśmy 😋
+
+13/07/2021
+---
+Brzydki wtorek 😤. Cały dzień padał deszcz. O 18 chcieliśmy z kuzynem pójść na basen, zajeżdzam tam i co? Awaria prądu, basen zamknięty... 😣
+
+14/07/2021
+---
+Dziś przez większość dnia też było pochmurnie i nie za fajnie 😶, ale późnym popołudniem wyszło słoneczko i zaczęło się wypogadzać 🙂. Wieczorem poszedłem na rower - pierw 12km sam, a później 10km z Nati 🥰
+
+15/07/2021
+---
+Wczoraj z żoną mieliśmy dzień postu 🙏. Trudny to był dzień, ale dzięki Bogu udało się go przeżyć, a wieczorem byliśmy jeszcze na nabożeństwie 😉. Generalnie mam duzo pracy w pracach i nie ma lekko 😏
+
+16/07/2021
+---
+Aj ciężki piątek 😓... Wróciło to doświadczenie duchowe jakie przechodzimy... Boże daj siły na tą sobotę 🙏
+
+17/07/2021
+---
+Tak jak przewidywałem - sobota też była ciężka 🙄. Z tatą wypompowywaliśmy wodę na działce, co by ułatwić pracę naszemu majstrowi, który nie bardzo śpieszy się z pracą...

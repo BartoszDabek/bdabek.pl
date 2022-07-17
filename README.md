@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (306/365) 🏃 ![Progress](https://progress-bar.dev/84/)
-3. Przejechac na rowerze 2000 km w ciagu roku (1383/2000) 🚴 ![Progress](https://progress-bar.dev/69/)
+2. Przebiec 365 km w ciagu roku (311/365) 🏃 ![Progress](https://progress-bar.dev/85/)
+3. Przejechac na rowerze 2000 km w ciagu roku (1450/2000) 🚴 ![Progress](https://progress-bar.dev/72/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -27,20 +27,21 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅
 
-# [07/10/2022]
+# [07/17/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 📝 Blog - zredagować wpis o certyfikacji Oracle na blogu
 - [ ] 🏊 Pójść 1x na basen
-- [ ] 👨🏽‍🍳 Zrobić listę miejsc gdzie chcemy zjeść
-- [ ] 🚴 Rower w ciągu tygodnia 50km
+- [ ] 👨‍🍳 Zrobić [PLACEK PO WĘGIERSKU i najlepszy Gulasz Wołowy](https://youtu.be/3VzPFiF8mxY)
+- [ ] 📝 Blog - zredagować wpis o skrótach w IntelliJ
+- [ ] 🦵 Trening nóg
+- [ ] 🚴 Rower w ciągu tygodnia 80km
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 📗 Przeczytać [GC, hands off my data!](https://blog.allegro.tech/2022/06/gc-hands-off-my-data.html)
 - [ ] 📗 Przeczytać [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
-- [ ] 🎧 Przesłuchać [Jaka przyszłość czeka branżę eventową? Andrzej Targosz, Eventory](https://zaprojektujswojezycie.pl/jaka-przyszlosc-czeka-branze-eventowa-andrzej-targosz-eventory/)
-- [ ] 🎧 Przesłuchać [7 Tips to Be More Disciplined](https://open.spotify.com/episode/41R9xnv3Op6o1OT1AXrG0r)
-- [ ] 🎧 Przesłuchać [Dlaczego w Polsce nie rozmawia się o zarobkach? Finansowe tabu](https://inwestomat.eu/dlaczego-w-polsce-nie-rozmawia-sie-o-zarobkach/)
-- [ ] 🎧 Przesłuchać [Twój dzień to ciągła gonitwa, po której wieczorem padasz ze zmęczenia? Naucz się prowadzić biznes holistycznie](https://malawielkafirma.pl/holistyczny-biznes/)
-- [ ] 🎥 Watch [Event Sourcing - what could possibly go wrong? • Andrzej Ludwikowski • Devoxx Poland 2021](https://youtu.be/_V3C-e0gKoI)
+- [ ] 📗 Przeczytać [5 darmowych programów must-have dla każdego programisty](https://bulldogjob.pl/readme/5-darmowych-programow-must-have-dla-kazdego-programisty)
+- [ ] 🎧 Przesłuchać [Principles of Perfect Leadership | NEVER Lose](https://effortlessenglishshow.com/principles-of-perfect-leadership-never-lose)
+- [ ] 🎧 Przesłuchać [How to Live Your Dream Life](https://effortlessenglishshow.com/how-to-live-your-dream-life)
+- [ ] 🎧 Przesłuchać [Innowacje w biznesie – jak je wdrażać i nimi zarządzać? Kasia Wszoła – Grupa Veolia](https://zaprojektujswojezycie.pl/innowacje-w-biznesie-jak-je-wdrazac-i-nimi-zarzadzac-kasia-wszola-grupa-veolia/)
+- [ ] 🎧 Przesłuchać [Leading With Heart w/ Executive Coach Edward Sullivan (TPS411)](https://www.asianefficiency.com/podcasts/411-edward-sullivan/)
+- [ ] 🎥 Watch [Responsible Microservices – Nathaniel Schutta](https://youtu.be/eU-YE614ksU)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research
