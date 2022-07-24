@@ -761,3 +761,31 @@ Aj ciężki piątek 😓... Wróciło to doświadczenie duchowe jakie przechodzi
 17/07/2021
 ---
 Tak jak przewidywałem - sobota też była ciężka 🙄. Z tatą wypompowywaliśmy wodę na działce, co by ułatwić pracę naszemu majstrowi, który nie bardzo śpieszy się z pracą...
+
+18/07/2021
+---
+Myślałem, że będzie ciężej w niedzielę, a Bóg dał pokrzepienia i było dobrze 👍☺️. Chwała Bogu! Byliśmy rano na nabożeństwie w Hajnówce, a później pojechaliśmy na obiad i całe popołudnie do Redut. Fajnie było 👊
+
+19/07/2021
+---
+Wczoraj byliśmy w Białym. Ogólnie mam recesje dziąseł przy (chyba) 6 zębach :/. Później byliśmy w galerii i Natalka kupiła sobie jakieś klapki i pojechaliśmy coś zjeść z naszym znajomym. Aa i jeszcze ważna rzecz - rano zarezerwowałem nam wycieczkę do Grecji :D
+
+20/07/2021
+---
+Wtorek. Po pracy kosiłem trawę na podwórku 🌱. Później zrobiłem 23km rowerem 🚴, pojechaliśmy na działkę zobaczyć postępy i na końcu odwiedziliśmy Piotrka i Zuzię 🙂
+
+21/07/2021
+---
+Jest 4:28 rano 🤯. Z tatą jedziemy zaraz odciągać piach z ławy fundamentowej 🏠🚧. Wczoraj zrobiłem 33km rowerkiem + opalałem się z żoną ☀️.. Dziś dzień postu i zapewne dużo pracy będę mieć ;)
+
+22/07/2021
+---
+Tym razem jest 4:33 😂. Dziś wstaję wcześniej bo z żoną jedziemy do lekarza do Białegostoku, więc muszę coś poogarniać do pracy przed wyjazdem :P. Wczoraj dzień był dobry 🙂. Udało się zrobić robótkę + pościć :)
+
+23/07/2021
+---
+4:43 😅. Tym raazem wstałem z powodu budzika żony. Jedziemy zaraz na Augustów korzystać z pogody 😁🏖️
+
+24/07/2021
+---
+Dziś odespałem sobie ostatnie dni - wstaliśmy lekko przed 8 🤛. Wczoraj cały dzień byliśmy na wodą i było super. Chociaż jak wjeżdzaliśmy o 8 do Augustowa to słońce schowało się za chmurami i aż przez chwilę myślałem, że może nie warto było jechać te 150km, ale nie :P
