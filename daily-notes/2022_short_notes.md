@@ -789,3 +789,31 @@ Tym razem jest 4:33 😂. Dziś wstaję wcześniej bo z żoną jedziemy do lekar
 24/07/2021
 ---
 Dziś odespałem sobie ostatnie dni - wstaliśmy lekko przed 8 🤛. Wczoraj cały dzień byliśmy na wodą i było super. Chociaż jak wjeżdzaliśmy o 8 do Augustowa to słońce schowało się za chmurami i aż przez chwilę myślałem, że może nie warto było jechać te 150km, ale nie :P
+
+25/07/2021
+---
+Pogoda w Niedzielę była średnia, ale to w niczym nam nie przeszkodziło. Razem z Kubą i Kasią zrobiliśmy grila ♨️. Wpadło trochę znajomych.. choć powiem niestety szczerze, że z większością się nie dogaduję 👀. Dziś poniedziałek, a więc nowe wyzwania i przygody 👊
+
+26/07/2021
+---
+Fajny poniedziałek był 🙂. Cały dzień było ciepło, ale popołudniu wyszło jeszcze słonko i zrobiło się o wiele przyjemniej 🤗. Na 19 byliśmy na godzinnej modlitiwe w zborze, a później poszedłem na rower i zrobiłem jeszcze 20km (najszybciej w moim całym życiu 🥳)
+
+27/07/2021
+---
+Bardzo ładna pogoda dziś była 🤗. Skorzystałem z niej w dzień i wyszedłem na rower i zrobiłem 27km 🤛. Oprócz tego wpadł do mnie Adam P. pogadać o służbie w zborze, a wieczorem poszliśmy jeszcze na modlitwę 😇
+
+28/07/2021
+---
+Kolejny dobry dzień za mną 👍. Długo pracowałem, bo do 18:30, ale w międzyczasie biegałem + pomagałem tacie robić wkład do komina 😜. Wieczorem z Nati byliśmy na modlitwie, a na sam koniec kupiliśmy trzy pizze i pojechaliśmy na urodziny do szwagra Piotrka 🥳
+
+29/07/2021
+---
+Ostatni dzień postu w tym miesiącu... było strasznie ciężko duchowo 😕. Po 20 zajechałem jeszcze na działkę, pomagałem tacie przy przekopie rur.
+
+30/07/2021
+---
+Czas płynie niesamowicie szybko :O. Wczoraj zrobiłem rowerem łącznie 50km - pierw do Jelonki i z powrotem, a później jeszcze na działkę. Dziś będę kosił na działce 👨🏻‍🌾🌿
+
+31/07/2021
+---
+Sobota była całkiem ok.. Kosiłem działkę, później mieliśmy rodzinnego grilla 🥩 i jeszcze wieczorem pracowałem 💻
