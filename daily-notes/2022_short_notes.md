@@ -845,3 +845,31 @@ Dzień odpoczynku dla mnie dziś był ;). Jeździliśmy rowerami, kąpaliśmy si
 07/08/2022
 ---
 Wesele było ok 👍 - chociaż wiedząc ile płacili za osobę to niestety dla nich MOCNO przepłacone 😟. Jakieś zapalenie w miejscu intymnym mnie złapało i nie jest przyjemnie 🤫. I jeszcze jedna istotna rzecz, dla Nati baaardzo opóźnia się okres 😏
+
+08/08/2022
+---
+Dzięki Bogu wróciliśmy cali i zdrowi z wesela. Podróż powrotna byłą ciężka - duży ruch, kilka wypadków po drodze i to się złożyło na to, że długo wracaliśmy 🚗.
+
+09/08/2022
+---
+Poniedziałek był lajtowy 👍. Pogoda była fajna - nie było za ciepło, nie było za zimno. Nie udało mi się przebiec / przejechać na rowerze, ale za to na działce trochę z Nati popracowaliśmy 😝
+
+10/08/2022
+---
+Czas leci bardzo szybko 👀. Wczoraj wieczorem odwiedzili nas teściowie i Nati zrobiła gofry 😋. Przed odwiedzinami poszedłem biegać i zrobiłem 7km ;)
+
+11/08/2022
+---
+Fajnie minęła ta środa 😊. Jeździłem rowerem po pracy, której było sporo. Na budowie sprawy poszły fajnie do przodu - już zasypali ławę 👏👊
+
+12/08/2022
+---
+Czwartek - razem z żona mieliśmy post i dzięki Bogu udało nam się go razem przejść 🙏. Dziś wieczorem jedziemy do Redut na pożegnalnego grilla. Oprócz tego chciałbym dziś wyjść na rower 😋
+
+13/08/2022
+---
+To był strasznie ciężki piątek pod każdym względem, ale głównie namieszała tu budowa 😔. Były problemy z kanalizacją, później nie wiadomo co z zalewaniem chudziaka, ale w końcu zalali około 20. Chociaż byłem wieczorem i tak najładniej zalane to to nie jest 😣
+
+14/08/2022
+---
+Ciężka psychicznie sobota 😕. Problem Nati wpływa na mnie i brakuje mi optymizmu i radości czasami 😑. Mieliśmy chrzest, taki mniej oficjalny, a później czas razem. Było mało osób i trochę szkoda, że tak to wyszło 🙄.

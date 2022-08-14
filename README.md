@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (332/365) 🏃 ![Progress](https://progress-bar.dev/91/)
-3. Przejechac na rowerze 2000 km w ciagu roku (1674/2000) 🚴 ![Progress](https://progress-bar.dev/83/)
+2. Przebiec 365 km w ciagu roku (339/365) 🏃 ![Progress](https://progress-bar.dev/93/)
+3. Przejechac na rowerze 2000 km w ciagu roku (1759/2000) 🚴 ![Progress](https://progress-bar.dev/87/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -24,23 +24,25 @@ Cele osobiste
 5. Masa - 3200+ kcal 🍌 (9.08-7.09)
 6. ✅ Codzienne bieganie 🏃‍♀️ (28.04-27.05)
 7. ✅ Codzienny rower 🚲 (31.05-29.06)
-8. 0 Cukru 🎂 (9.08-7.09)
+8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [08/07/2022]
+# [08/14/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 👨‍🍳 Zrobić [PLACEK PO WĘGIERSKU i najlepszy Gulasz Wołowy](https://youtu.be/3VzPFiF8mxY)
-- [ ] 📝 Blog - zredagować wpis o skrótach w IntelliJ
 - [ ] 🦵 Trening nóg
+- [ ] 🌴 Korfu - opłacić wycieczkę
+- [ ] 🎥 Filmik dla Nati - zrobić pierwszą minutę
+- [ ] 🦷 Odwołać wizytę u periodontologa
+- [ ] 📝 Blog - zredagować wpis o transakcjach
 - [ ] 🚴 Rower w ciągu tygodnia 80km
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 📗 Przeczytać [API Gateway](https://java-design-patterns.com/patterns/api-gateway/)
-- [ ] 📗 Przeczytać [Discussing Backend For Front-end](https://blog.frankel.ch/backend-for-frontend/)
-- [ ] 🎧 Przesłuchać [Team & Personal Productivity w/ CEO Aye Moah (TPS414)](https://www.asianefficiency.com/podcasts/414-aye-moah/)
-- [ ] 🎧 Przesłuchać [Kiedy kupić ETF na indeks polskich obligacji TBSP?](https://inwestomat.eu/kiedy-kupic-etf-na-indeks-polskich-obligacji-tbsp/)
-- [ ] 🎧 Przesłuchać [Zaprojektuj długie życie w dobrym zdrowiu – Joanna Bensz – Longevity Center](https://zaprojektujswojezycie.pl/zaprojektuj-dlugie-zycie-w-dobrym-zdrowiu-joanna-bensz-longevity-center/)
-- [ ] 🎧 Przesłuchać [ZAKAZ SPRZEDAŻY AUT SPALINOWYCH OD 2035. EUROPA PRZECHODZI NA ELEKTRYKI | Eprosument S.A.](https://youtu.be/GSdon85URCk)
-- [ ] 🎥 Watch [Light and Dark Side of the Event-Driven Design • Oskar Dudycz • Devoxx Poland 2021](https://youtu.be/0pYmuk0-N_4)
+- [ ] 📗 Przeczytać [The best way to map MonetaryAmount with JPA and Hibernate](https://vladmihalcea.com/monetaryamount-jpa-hibernate/)
+- [ ] 📗 Przeczytać [Abstract Document](https://java-design-patterns.com/patterns/abstract-document/)
+- [ ] 🎧 Przesłuchać [Wojciech Borowski, Group CEO McCANN Poland, pasterz kotów](https://zaprojektujswojezycie.pl/wojciech-borowski-group-ceo-mccann-poland-pasterz-kotow/)
+- [ ] 🎧 Przesłuchać [No Compromise | Don't Give An Inch!](https://effortlessenglishshow.com/no-compromise-dont-give-an-inch)
+- [ ] 🎧 Przesłuchać [Strategia kupowania w dołkach, czyli po korektach i obsunięciach indeksu](https://inwestomat.eu/strategia-kupowania-w-dolkach/)
+- [ ] 🎧 Przesłuchać [POIT #165: Jak hostować aplikacje w GCP](https://porozmawiajmyoit.pl/poit-165-jak-hostowac-aplikacje-w-gcp/)
+- [ ] 🎥 Watch [Devnexus 2022 - How Amber is Driving Java’s Evolution - Billy Korando](https://youtu.be/D-yrVN25dTA)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research
