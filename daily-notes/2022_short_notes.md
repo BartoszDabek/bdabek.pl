@@ -873,3 +873,31 @@ To był strasznie ciężki piątek pod każdym względem, ale głównie namiesza
 14/08/2022
 ---
 Ciężka psychicznie sobota 😕. Problem Nati wpływa na mnie i brakuje mi optymizmu i radości czasami 😑. Mieliśmy chrzest, taki mniej oficjalny, a później czas razem. Było mało osób i trochę szkoda, że tak to wyszło 🙄.
+
+15/08/2022
+---
+Niedziela minęła bardzo dobrze, przyjemnie i dzięki za to Bogu Najwyższemu 🙏. Byliśmy na obu nabożeństwach. Razem z całym domem gościliśmy też Mariusza z rodziną, który wczoraj przyjął chrzest i Adama P. z rodziną 😉
+
+16/08/2022
+---
+Dziś mieliśmy święto narodowe, dzięki czemu w pracy był dzień wolny 🥳. Potrzebowałem takiego dnia i to bardzo 👈. Pogoda była ładna i robiłem wiele rzeczy :P - biegałem, podlewałem działkę, obierałem jabła na dźemy, byliśmy na rowerach i lodach z Nati i jeszcze kilka innych 👍😁
+
+17/08/2022
+---
+I bardzo fajny wtorek był 🤗. W pracy porobiłem co trzeba, później zrobiłem rowerem 42km. Dalej pojechaliśmy z żoną na działkę ogarnąć troszkę i wieczorem zjedliśmy sobie kolacyjkę i posiedzieliśmy i rozmawialiśmy ;)
+
+18/08/2022
+---
+Fizycznie ciężko dziś było 🥵. Po pracy pojechałem z żoną na działkę i przewoziliśmy nadmiar piachu w jedno miejsce. Duużo tego było. Pracowaliśmy około 2.5 godziny, a i tak nie skończyliśmy wszystkiego 😶
+
+19/08/2022
+---
+Czwartek, dzień postu. Ciężko fizycznie było, ale dzięki Bogu daliśmy radę ☺️. Oprócz tego bardzo ładna pogoda była i dużooo pracy 🥸
+
+20/08/2022
+---
+Jest piątek jest i weekend ❤️. Żona mi zrobiła dziś przepyszny obiad - sałatkę paryską w wersji domowej z frytkami 🤗🤗. Po pracy pojechałem na działkę i tam popracowałem około 2 godziny 👷, a później jeszcze na godzinkę na rower 🚲
+
+21/08/2022
+---
+To była bardzo fajna i intensywna sobota 😊! Od rana pracowałem na działce, a później świętowaliśmy urodziny mojego brata zajadając się pysznym tortem. Dalej byliśmy na zborowym ognisku - było od 13 do około 18. Później chciałem pójść na rower, ale Bóg miał inne plany. Mama zabrała klucze od chlewka do pracy i w sumie z Nati poszliśmy na modlitwę 😇

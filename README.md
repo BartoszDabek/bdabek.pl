@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (339/365) 🏃 ![Progress](https://progress-bar.dev/93/)
-3. Przejechac na rowerze 2000 km w ciagu roku (1759/2000) 🚴 ![Progress](https://progress-bar.dev/87/)
+2. Przebiec 365 km w ciagu roku (346/365) 🏃 ![Progress](https://progress-bar.dev/95/)
+3. Przejechac na rowerze 2000 km w ciagu roku (1830/2000) 🚴 ![Progress](https://progress-bar.dev/91/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -27,22 +27,24 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [08/14/2022]
+# [08/21/2022]
 ### ⭐ W tym tygodniu:
+- [ ] 💲 Kupić roler
+- [ ] ✂️ Załatać wąż ogrodowy na działce
 - [ ] 🦵 Trening nóg
-- [ ] 🌴 Korfu - opłacić wycieczkę
-- [ ] 🎥 Filmik dla Nati - zrobić pierwszą minutę
 - [ ] 🦷 Odwołać wizytę u periodontologa
-- [ ] 📝 Blog - zredagować wpis o transakcjach
+- [ ] 🎥 Filmik dla Nati - zrobić pierwsze dwie minuty
 - [ ] 🚴 Rower w ciągu tygodnia 80km
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 📗 Przeczytać [The best way to map MonetaryAmount with JPA and Hibernate](https://vladmihalcea.com/monetaryamount-jpa-hibernate/)
-- [ ] 📗 Przeczytać [Abstract Document](https://java-design-patterns.com/patterns/abstract-document/)
-- [ ] 🎧 Przesłuchać [Wojciech Borowski, Group CEO McCANN Poland, pasterz kotów](https://zaprojektujswojezycie.pl/wojciech-borowski-group-ceo-mccann-poland-pasterz-kotow/)
-- [ ] 🎧 Przesłuchać [No Compromise | Don't Give An Inch!](https://effortlessenglishshow.com/no-compromise-dont-give-an-inch)
-- [ ] 🎧 Przesłuchać [Strategia kupowania w dołkach, czyli po korektach i obsunięciach indeksu](https://inwestomat.eu/strategia-kupowania-w-dolkach/)
-- [ ] 🎧 Przesłuchać [POIT #165: Jak hostować aplikacje w GCP](https://porozmawiajmyoit.pl/poit-165-jak-hostowac-aplikacje-w-gcp/)
-- [ ] 🎥 Watch [Devnexus 2022 - How Amber is Driving Java’s Evolution - Billy Korando](https://youtu.be/D-yrVN25dTA)
+- [ ] 📗 Przeczytać [Mockito.mock() vs @Mock vs @MockBean](https://clockworkjava.pl/2022/08/mockito-mock-vs-mock-vs-mockbean/)
+- [ ] 📗 Przeczytać [When should I use a unique constraint instead of a unique index?](https://dba.stackexchange.com/questions/144/when-should-i-use-a-unique-constraint-instead-of-a-unique-index)
+- [ ] 📗 Przeczytać [Abstract Factory](https://java-design-patterns.com/patterns/abstract-factory/)
+- [ ] 🎧 Przesłuchać [Jak analizować obligacje korporacyjne z GPW Catalyst?](https://inwestomat.eu/jak-analizowac-obligacje-korporacyjne-z-gpw-catalyst/)
+- [ ] 🎧 Przesłuchać [Windows Productivity Apps & Must-Use Settings w/ Kimberly Charron (TPS417)](https://www.asianefficiency.com/podcasts/417-kimberly-charron/)
+- [ ] 🎧 Przesłuchać [KRÓL LINKEDIN'a walczący z NAJWIĘKSZYMI przeciwnościami | Szymon Karwasz](https://www.youtube.com/watch?v=SDkNk62rdy8)
+- [ ] 🎧 Przesłuchać [Czy warto założyć startup po czterdziestce? Paweł Nowakowski, Freezco](https://zaprojektujswojezycie.pl/czy-warto-zalozyc-startup-po-czterdziestce-pawel-nowakowski-freezco/)
+- [ ] 🎧 Przesłuchać [#38 Patoarchitekci Short #1](https://patoarchitekci.io/38/)
+- [ ] 🎥 Watch [Meta-modern Software Architecture • Neal Ford • Devoxx Poland 2021](https://youtu.be/DlL27U2aWTI)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research
