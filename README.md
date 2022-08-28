@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (346/365) 🏃 ![Progress](https://progress-bar.dev/95/)
-3. Przejechac na rowerze 2000 km w ciagu roku (1830/2000) 🚴 ![Progress](https://progress-bar.dev/91/)
+2. Przebiec 365 km w ciagu roku (356/365) 🏃 ![Progress](https://progress-bar.dev/97/)
+3. Przejechac na rowerze 2000 km w ciagu roku (1887/2000) 🚴 ![Progress](https://progress-bar.dev/94/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -27,24 +27,22 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [08/21/2022]
+# [08/28/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 💲 Kupić roler
-- [ ] ✂️ Załatać wąż ogrodowy na działce
+- [ ] 🛒 Home&You - sprawdzić i zrealizować bon
+- [ ] 💳 Zarejestrować kartę Pekao
 - [ ] 🦵 Trening nóg
-- [ ] 🦷 Odwołać wizytę u periodontologa
-- [ ] 🎥 Filmik dla Nati - zrobić pierwsze dwie minuty
-- [ ] 🚴 Rower w ciągu tygodnia 80km
+- [ ] 🎥 Filmik dla Nati - 4 minuty filmiku
 - [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 📗 Przeczytać [Mockito.mock() vs @Mock vs @MockBean](https://clockworkjava.pl/2022/08/mockito-mock-vs-mock-vs-mockbean/)
-- [ ] 📗 Przeczytać [When should I use a unique constraint instead of a unique index?](https://dba.stackexchange.com/questions/144/when-should-i-use-a-unique-constraint-instead-of-a-unique-index)
-- [ ] 📗 Przeczytać [Abstract Factory](https://java-design-patterns.com/patterns/abstract-factory/)
-- [ ] 🎧 Przesłuchać [Jak analizować obligacje korporacyjne z GPW Catalyst?](https://inwestomat.eu/jak-analizowac-obligacje-korporacyjne-z-gpw-catalyst/)
-- [ ] 🎧 Przesłuchać [Windows Productivity Apps & Must-Use Settings w/ Kimberly Charron (TPS417)](https://www.asianefficiency.com/podcasts/417-kimberly-charron/)
-- [ ] 🎧 Przesłuchać [KRÓL LINKEDIN'a walczący z NAJWIĘKSZYMI przeciwnościami | Szymon Karwasz](https://www.youtube.com/watch?v=SDkNk62rdy8)
-- [ ] 🎧 Przesłuchać [Czy warto założyć startup po czterdziestce? Paweł Nowakowski, Freezco](https://zaprojektujswojezycie.pl/czy-warto-zalozyc-startup-po-czterdziestce-pawel-nowakowski-freezco/)
-- [ ] 🎧 Przesłuchać [#38 Patoarchitekci Short #1](https://patoarchitekci.io/38/)
-- [ ] 🎥 Watch [Meta-modern Software Architecture • Neal Ford • Devoxx Poland 2021](https://youtu.be/DlL27U2aWTI)
+- [ ] 🚴 Rower w ciągu tygodnia 80km
+- [ ] 📗 Przeczytać [Zadania rekrutacyjne w IT – hot or not? Czy branża potrzebuje zadań rekrutacyjnych?](https://geek.justjoin.it/zadania-rekrutacyjne-w-it-hot-or-not-czy-branza-potrzebuje-zadan-rekrutacyjnych)
+- [ ] 📗 Przeczytać [Testing Feature Flags](https://reflectoring.io/testing-feature-flags/)
+- [ ] 🎧 Przesłuchać [Jak stworzyć rozsądny portfel obligacji korporacyjnych?](https://inwestomat.eu/jak-stworzyc-rozsadny-portfel-obligacji-korporacyjnych/)
+- [ ] 🎧 Przesłuchać [DR. PETER ATTIA: EXERCISE, NUTRITION, HORMONES FOR VITALITY & LONGEVITY](https://hubermanlab.com/dr-peter-attia-exercise-nutrition-hormones-for-vitality-and-longevity/)
+- [ ] 🎧 Przesłuchać [POIT #166: Kultura organizacyjna w firmach IT](https://porozmawiajmyoit.pl/poit-166-kultura-organizacyjna-w-firmach-it/)
+- [ ] 🎧 Przesłuchać [Michał Sołowow - Najbogatszy Polak o historii budowania sukcesu](https://www.podkasty.info/katalog/podkast/7495-Biznes_Misja_/Micha%C5%82_So%C5%82owow_Najbogatszy_Polak_o_historii_budowania_sukcesu)
+- [ ] 🎥 Watch [Designing Systems - What I wish I knew • Jakub Nabrdalik • Devoxx Poland 2021](https://youtu.be/4Iqjhi3kusY)
+- [ ] 🎥 Watch [3 Błędy przy tworzeniu Rest Api – Vlog22](https://nullpointerexception.pl/3-bledy-przy-tworzeniu-rest-api-vlog22/)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research

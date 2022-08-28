@@ -901,3 +901,27 @@ Jest piątek jest i weekend ❤️. Żona mi zrobiła dziś przepyszny obiad - s
 21/08/2022
 ---
 To była bardzo fajna i intensywna sobota 😊! Od rana pracowałem na działce, a później świętowaliśmy urodziny mojego brata zajadając się pysznym tortem. Dalej byliśmy na zborowym ognisku - było od 13 do około 18. Później chciałem pójść na rower, ale Bóg miał inne plany. Mama zabrała klucze od chlewka do pracy i w sumie z Nati poszliśmy na modlitwę 😇
+
+22/08/2022
+---
+Niedziela minęła ok 👍. Po nabożeństwie pojechaliśmy z Nati rowerami do zajadu u kolarza. Jedzenie było dobre, ale moim zdaniem za drogie 💩. A na wieczór (popołudnie) pojechaliśmy do Dubicz i tam poodbijaliśmy troszkę w siatkę 😎
+
+23/08/2022
+---
+Poniedziałek zleciał roboczo 👊. Dużo pracy w pracach. Oprócz tego udało się jeszcze wyskoczyć na rowerek 💪🚴‍♀️
+
+24/08/2022
+---
+Dzień za dniem ulata i lato mija 😏. Dziś o 20:30 z żoną się zorientowaliśmy, że jest już całkowicie ciemno o tej godzinie 😑. Dzisiaj miałem duużo pracy, ale dzięki mojej żonie udało nam się być na godzinnej modlitwie w zborze 🙃
+
+25/08/2022
+---
+Jakiś poddenerwowany dziś byłem bez większych powodów 😡. Dużo pracy i trochę mnie to już przytłacza 😵, ale wierzę, że będzie lepiej ✊✊
+
+26/08/2022
+---
+Czwartek - dzień postu dla naszego małżeństwa. Ubolewam nieco nad tym, że mam tak dużo pracy 😔. Budowa idzie do przodu - to jest pozytywne 😝. Dziś jedziemy na Augustów, to też coś pozytywnego :D
+
+28/08/2022
+---
+Wczoraj nie wpisywałem żadnej notatki. W piątek po pracy pojechaliśmy nad wodę i byliśmy tam całą sobotę 🙂. Było fajnie, z małymi epizodami na niefajność, ale ogólnie pogoda i woda były super 👌
