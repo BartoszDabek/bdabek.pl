@@ -925,3 +925,31 @@ Czwartek - dzień postu dla naszego małżeństwa. Ubolewam nieco nad tym, że m
 28/08/2022
 ---
 Wczoraj nie wpisywałem żadnej notatki. W piątek po pracy pojechaliśmy nad wodę i byliśmy tam całą sobotę 🙂. Było fajnie, z małymi epizodami na niefajność, ale ogólnie pogoda i woda były super 👌
+
+29/08/2022
+---
+Mogliśmy być na dwóch nabożeństwach i oprócz tego jedliśmy rodzinny obiad. Wieczorem przyjechał szwagier z żoną (Ci, którzy wzięli 3 tygodnie temu ślub). I jeszcze pracowałem w dzień - nadrabiałem zaległości.
+
+30/08/2022
+---
+Czas leci jak szalony 😯. Wczoraj był pierwszy dzień takiego ochłodzenia. Było przyjemnie, ale skończyły się już upały po 30 stopni 😌. W pracy też wszystko dobrze ;)
+
+31/08/2022
+---
+Oprócz pracy, wieczorem było nam dane być i uczestniczyć na nabożeństwie pogrzebowym siostry Anny ze zboru. Na ile ją znałem to była to bardzo dobra osoba 😢. A teraz już jest w lepszym miejscu 😌
+
+01/09/2022
+---
+Już wrzesień 😲😲. Wczoraj praca do 15, później na 16 pojechałem kosić działkę i skończyłem o 20 🤤. Jestem już nieco zmęczony wczesnym wstawaniem i zakresem obowiązków jaki mam 😵.
+
+02/09/2022
+---
+Czwartek, dzień postu 🙏. Ciężko było, ale się udało i dzięki za to Bogu 😇. Duużo dziś miałem pracy - tak jak ostatnimi czasy coraz to częściej. Strasznie się cieszę, że już za tydzień w sobotę wylatujemy na Corfu 🥳
+
+03/09/2022
+---
+I zaczął się weekend 🤗. W pracy było dziś spokojnie i dobrze 👍. Wieczorem wpadła do nas Domi, siedzieliśmy i rozmawialiśmy do 22 🙂
+
+04/09/2022
+---
+Sobota - dzień przygody 😁. Z Natalką pojechaliśmy pociągiem do Białegostoku. Odwiedziliśmy Łukasza i Dianę w ich nowym mieszkanku 👍. Później trochę hulajnogą, a trochę pieszo dotarliśmy do galerii. Później rowerami wrócilismy do Gabrysia i Karoliny, żeby też ich odwiedzić w ich nowym mieszkaniu 😆. Fajny dzień! 

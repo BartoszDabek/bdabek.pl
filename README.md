@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (356/365) 🏃 ![Progress](https://progress-bar.dev/97/)
-3. Przejechac na rowerze 2000 km w ciagu roku (1887/2000) 🚴 ![Progress](https://progress-bar.dev/94/)
+2. Przebiec 365 km w ciagu roku (363/365) 🏃 ![Progress](https://progress-bar.dev/99/)
+3. Przejechac na rowerze 2000 km w ciagu roku (1933/2000) 🚴 ![Progress](https://progress-bar.dev/96/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -27,22 +27,19 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [08/28/2022]
+# [09/04/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 🛒 Home&You - sprawdzić i zrealizować bon
-- [ ] 💳 Zarejestrować kartę Pekao
-- [ ] 🦵 Trening nóg
 - [ ] 🎥 Filmik dla Nati - 4 minuty filmiku
-- [ ] 🏃 Bieganie w ciągu tygodnia 7km
-- [ ] 🚴 Rower w ciągu tygodnia 80km
-- [ ] 📗 Przeczytać [Zadania rekrutacyjne w IT – hot or not? Czy branża potrzebuje zadań rekrutacyjnych?](https://geek.justjoin.it/zadania-rekrutacyjne-w-it-hot-or-not-czy-branza-potrzebuje-zadan-rekrutacyjnych)
-- [ ] 📗 Przeczytać [Testing Feature Flags](https://reflectoring.io/testing-feature-flags/)
-- [ ] 🎧 Przesłuchać [Jak stworzyć rozsądny portfel obligacji korporacyjnych?](https://inwestomat.eu/jak-stworzyc-rozsadny-portfel-obligacji-korporacyjnych/)
-- [ ] 🎧 Przesłuchać [DR. PETER ATTIA: EXERCISE, NUTRITION, HORMONES FOR VITALITY & LONGEVITY](https://hubermanlab.com/dr-peter-attia-exercise-nutrition-hormones-for-vitality-and-longevity/)
-- [ ] 🎧 Przesłuchać [POIT #166: Kultura organizacyjna w firmach IT](https://porozmawiajmyoit.pl/poit-166-kultura-organizacyjna-w-firmach-it/)
-- [ ] 🎧 Przesłuchać [Michał Sołowow - Najbogatszy Polak o historii budowania sukcesu](https://www.podkasty.info/katalog/podkast/7495-Biznes_Misja_/Micha%C5%82_So%C5%82owow_Najbogatszy_Polak_o_historii_budowania_sukcesu)
-- [ ] 🎥 Watch [Designing Systems - What I wish I knew • Jakub Nabrdalik • Devoxx Poland 2021](https://youtu.be/4Iqjhi3kusY)
-- [ ] 🎥 Watch [3 Błędy przy tworzeniu Rest Api – Vlog22](https://nullpointerexception.pl/3-bledy-przy-tworzeniu-rest-api-vlog22/)
+- [ ] 🦵 Trening nóg
+- [ ] 🏃 Bieganie w ciągu tygodnia 2km
+- [ ] 🚴 Rower w ciągu tygodnia 50km
+- [ ] 📗 Przeczytać [How to Speed up Large Collections Processing in Java](https://www.infoq.com/articles/java-collections-streams/)
+- [ ] 📗 Przeczytać [Active Object](https://java-design-patterns.com/patterns/active-object/)
+- [ ] 🎧 Przesłuchać [Insights from Dr. Andrew Huberman, Greg McKeown, Jocko Willink, Brené Brown, and Naval Ravikant (#616)](https://tim.blog/2022/08/24/insights-from-dr-andrew-huberman-greg-mckeown-jocko-willink-brene-brown-and-naval-ravikant/)
+- [ ] 🎧 Przesłuchać [IKZE, PPK, GIEŁDA czy Nieruchomości? Zadbaj o emeryture. Paweł Mizerski UNIQA TFI](https://www.biznesmisja.pl/ikze-ppk-gielda-czy-nieruchomosci-zadbaj-o-emeryture-pawel-mizerski-uniqa-tfi/)
+- [ ] 🎧 Przesłuchać [PRODUKTYWNOŚĆ MENTZENA - Jak wygląda dzień Sławomira Mentzena?](https://podcasts.apple.com/us/podcast/produktywno%C5%9B%C4%87-mentzena-jak-wygl%C4%85da-dzie%C5%84-s%C5%82awomira/id1393824546?i=1000577424251)
+- [ ] 🎧 Przesłuchać [Sprzedaję opowieść i styl życia – Winicjusz Bartków, Stoprocent](https://zaprojektujswojezycie.pl/sprzedaje-opowiesc-i-styl-zycia-winicjusz-bartkow-stoprocent/)
+- [ ] 🎥 Watch [Architecture Foundations: Styles & Patterns • Neal Ford • Devoxx Poland 2021](https://youtu.be/PRFhF1jNubc)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research
