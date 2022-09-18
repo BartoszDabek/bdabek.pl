@@ -953,3 +953,35 @@ I zaczął się weekend 🤗. W pracy było dziś spokojnie i dobrze 👍. Wiecz
 04/09/2022
 ---
 Sobota - dzień przygody 😁. Z Natalką pojechaliśmy pociągiem do Białegostoku. Odwiedziliśmy Łukasza i Dianę w ich nowym mieszkanku 👍. Później trochę hulajnogą, a trochę pieszo dotarliśmy do galerii. Później rowerami wrócilismy do Gabrysia i Karoliny, żeby też ich odwiedzić w ich nowym mieszkaniu 😆. Fajny dzień! 
+
+05/09/2022
+---
+Dziś to zdecydowanie najadłem się szarlotki 😄. Rano wziąłem kawałek od mamy. Po nabożeństwie pojechaliśmy do Redut i tam też była szarlotka. Później pojechaliśmy w gości do Rybaków w Tofiłowcach i... też nas czekała szarlotka 😁
+
+06/09/2022
+---
+Poniedziałek i zaczęła się praca. Dzień zleciał ok 👍. Popołudniu pojechałem jeszcze z Natką na budowę, do fryzjerki i później jeszcze na modlitwę do zboru 😊
+
+07/09/2022
+---
+Wtorek minął szybko 😆. Zrobiłem dziś 31 km rowerem i jestem już coraz bliżej celu na ten rok 💪! Wieczorem wpadli do nas Piotrek i Zuzia z dziećmi. Siedzieliśmy do około 22:30 i rozmawialiśmy na różne tematy 🤛.
+
+08/09/2022
+---
+Dziś znów nic nadzwyczajnego (no może coś było z czopkiem 💩, ale nie będę o tym pisał publicznie 😅). Praca, praca.. później pojechaliśmy z Natką na działkę zobaczyć co tam się dzieje + posprzątać co nieco. Wieczorem poszliśmy na modlitwę a później z rodzicami siedzieliśmy i rozmawialiśmy do 22 😝
+
+09/09/2022
+---
+Czwartek - dzień postu. Nie było aż tak ciężko, ale lekko też nie 😁. Właśnie do mnie dochodzi, że jutro o tej godzinie (6 rano) już będziemy na lotnisku 🤗🤗. Karol budowlaniec chce pieniędzy za etap, którego jeszcze nie skończył, więc dziś czeka mnie jeszcze nie łatwa rozmowa zapewne.
+
+15/09/2022
+---
+Jesteśmy w Grecji, już piąty dzień naszego pobytu. Pogoda dopisuje, jedzenie w hotelu bardzo słabe. Widoki przepiękne!
+
+17/09/2022
+---
+Dziś mamy ostatni dzień naszego pobytu. Do 11 musieliśmy się zawinąć z pokoju i oddać klucze i teraz siedzimy na recepcji. Pogoda na dworze jest taka w kratkę.. czasem pada deszcz. Ogólnie nie ma dziś słońca, ale może to i dobrze bo się nie spocimy :D
+
+18/09/2022
+---
+Noc mieliśmy urwaną. Wracaliśmy z Grecji i trochę spaliśmy, trochę czuwaliśmy... Wieczorem udało nam się skorzystać jeszcze z nabożeństwa :)

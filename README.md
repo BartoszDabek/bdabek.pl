@@ -11,35 +11,35 @@ Cele osobiste
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
 2. Przebiec 365 km w ciagu roku (363/365) 🏃 ![Progress](https://progress-bar.dev/99/)
-3. Przejechac na rowerze 2000 km w ciagu roku (1933/2000) 🚴 ![Progress](https://progress-bar.dev/96/)
+3. Przejechac na rowerze 2000 km w ciagu roku (1964/2000) 🚴 ![Progress](https://progress-bar.dev/98/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
 
 ## Wyzwania 30 Dniowe 🔥🥉
-1. 10_000 kroków 🦶 (9.08-7.09)
+1. ✅ 10_000 kroków 🦶 (9.08-7.09)
 2. ✅ 100 pompek 🙇 (5.01-3.02)
 3. ✅ 70 podciagniec 🏋️‍♂️ (7.02-11.03)
 4. ✅ Zimne prysznice 🚿 (27.06-26.07)
-5. Masa - 3200+ kcal 🍌 (9.08-7.09)
+5. ✅ Masa - 3200+ kcal 🍌 (9.08-7.09)
 6. ✅ Codzienne bieganie 🏃‍♀️ (28.04-27.05)
 7. ✅ Codzienny rower 🚲 (31.05-29.06)
-8. 0 Cukru 🎂
-9. Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
+8. 0 Cukru 🎂 (1.10-30.10)
+9. ✅ Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [09/04/2022]
+# [09/18/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 🎥 Filmik dla Nati - 4 minuty filmiku
-- [ ] 🦵 Trening nóg
 - [ ] 🏃 Bieganie w ciągu tygodnia 2km
-- [ ] 🚴 Rower w ciągu tygodnia 50km
-- [ ] 📗 Przeczytać [How to Speed up Large Collections Processing in Java](https://www.infoq.com/articles/java-collections-streams/)
-- [ ] 📗 Przeczytać [Active Object](https://java-design-patterns.com/patterns/active-object/)
-- [ ] 🎧 Przesłuchać [Insights from Dr. Andrew Huberman, Greg McKeown, Jocko Willink, Brené Brown, and Naval Ravikant (#616)](https://tim.blog/2022/08/24/insights-from-dr-andrew-huberman-greg-mckeown-jocko-willink-brene-brown-and-naval-ravikant/)
-- [ ] 🎧 Przesłuchać [IKZE, PPK, GIEŁDA czy Nieruchomości? Zadbaj o emeryture. Paweł Mizerski UNIQA TFI](https://www.biznesmisja.pl/ikze-ppk-gielda-czy-nieruchomosci-zadbaj-o-emeryture-pawel-mizerski-uniqa-tfi/)
-- [ ] 🎧 Przesłuchać [PRODUKTYWNOŚĆ MENTZENA - Jak wygląda dzień Sławomira Mentzena?](https://podcasts.apple.com/us/podcast/produktywno%C5%9B%C4%87-mentzena-jak-wygl%C4%85da-dzie%C5%84-s%C5%82awomira/id1393824546?i=1000577424251)
-- [ ] 🎧 Przesłuchać [Sprzedaję opowieść i styl życia – Winicjusz Bartków, Stoprocent](https://zaprojektujswojezycie.pl/sprzedaje-opowiesc-i-styl-zycia-winicjusz-bartkow-stoprocent/)
-- [ ] 🎥 Watch [Architecture Foundations: Styles & Patterns • Neal Ford • Devoxx Poland 2021](https://youtu.be/PRFhF1jNubc)
+- [ ] 🚴 Rower w ciągu tygodnia 40km
+- [ ] 🎥 Filmik dla Nati - dokończyć
+- [ ] 🦵 Trening nóg
+- [ ] 📗 Przeczytać [Configuring CORS with Spring Boot and Spring Security](https://reflectoring.io/spring-cors/)
+- [ ] 📗 Przeczytać [Acyclic Visitor](https://java-design-patterns.com/patterns/acyclic-visitor/)
+- [ ] 🎧 Przesłuchać [NIERUCHOMOŚCI – KUPIĆ, CZEKAĆ a może BUDOWAĆ DOM w 2022-2023? DAWID MYK](https://www.biznesmisja.pl/nieruchomosci-kupic-czekac-a-moze-budowac-dom-w-2022-2023-dawid-myk/)
+- [ ] 🎧 Przesłuchać [FOCUS TOOLKIT: TOOLS TO IMPROVE YOUR FOCUS & CONCENTRATION](https://hubermanlab.com/focus-toolkit-tools-to-improve-your-focus-and-concentration/)
+- [ ] 🎧 Przesłuchać [Nie ma rzeczy niemożliwych – Miłka Raulin](https://zaprojektujswojezycie.pl/nie-ma-rzeczy-niemozliwych-milka-raulin/)
+- [ ] 🎧 Przesłuchać [#40 Platformy i platform team](https://patoarchitekci.io/40/)
+- [ ] 🎥 Watch [188. Wrocław JUG - Remote Code Execution using Log4Shell - Adam Arczyński](https://youtu.be/6PLhse26mEA)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research
