@@ -10,8 +10,8 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. Przebiec 365 km w ciagu roku (363/365) 🏃 ![Progress](https://progress-bar.dev/99/)
-3. Przejechac na rowerze 2000 km w ciagu roku (1964/2000) 🚴 ![Progress](https://progress-bar.dev/98/)
+2. ✅ Przebiec 365 km w ciagu roku (365/365) 🏃 ![Progress](https://progress-bar.dev/100/)
+3. ✅ Przejechac na rowerze 2000 km w ciagu roku (2007/2000) 🚴 ![Progress](https://progress-bar.dev/100/)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
 6. 100_000 kroków jednego dnia 🚶
@@ -24,25 +24,24 @@ Cele osobiste
 5. ✅ Masa - 3200+ kcal 🍌 (9.08-7.09)
 6. ✅ Codzienne bieganie 🏃‍♀️ (28.04-27.05)
 7. ✅ Codzienny rower 🚲 (31.05-29.06)
-8. 0 Cukru 🎂 (1.10-30.10)
+8. 0 Cukru 🎂 (3.10-1.11)
 9. ✅ Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [09/18/2022]
+# [09/25/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 🏃 Bieganie w ciągu tygodnia 2km
-- [ ] 🚴 Rower w ciągu tygodnia 40km
-- [ ] 🎥 Filmik dla Nati - dokończyć
+- [ ] 🎓 Utworzyć plan nauki do certyfikatu AWS (i jeżeli jest potrzeba to kupić potrzebne książki lub kursy)
+- [ ] 📱 Przerejestrować telefon na siebie
 - [ ] 🦵 Trening nóg
-- [ ] 📗 Przeczytać [Configuring CORS with Spring Boot and Spring Security](https://reflectoring.io/spring-cors/)
-- [ ] 📗 Przeczytać [Acyclic Visitor](https://java-design-patterns.com/patterns/acyclic-visitor/)
-- [ ] 🎧 Przesłuchać [NIERUCHOMOŚCI – KUPIĆ, CZEKAĆ a może BUDOWAĆ DOM w 2022-2023? DAWID MYK](https://www.biznesmisja.pl/nieruchomosci-kupic-czekac-a-moze-budowac-dom-w-2022-2023-dawid-myk/)
-- [ ] 🎧 Przesłuchać [FOCUS TOOLKIT: TOOLS TO IMPROVE YOUR FOCUS & CONCENTRATION](https://hubermanlab.com/focus-toolkit-tools-to-improve-your-focus-and-concentration/)
-- [ ] 🎧 Przesłuchać [Nie ma rzeczy niemożliwych – Miłka Raulin](https://zaprojektujswojezycie.pl/nie-ma-rzeczy-niemozliwych-milka-raulin/)
-- [ ] 🎧 Przesłuchać [#40 Platformy i platform team](https://patoarchitekci.io/40/)
-- [ ] 🎥 Watch [188. Wrocław JUG - Remote Code Execution using Log4Shell - Adam Arczyński](https://youtu.be/6PLhse26mEA)
+- [ ] 🏃 Bieganie w ciągu tygodnia 2km
+- [ ] 📗 Przeczytać [Null Keys and Values in Maps](https://www.javaspecialists.eu/archive/Issue303-Null-Keys-and-Values-in-Maps.html)
+- [ ] 📗 Przeczytać [Adapter](https://java-design-patterns.com/patterns/adapter/)
+- [ ] 🎧 Przesłuchać [CHCESZ DUŻO ZARABIAĆ w 2022? ZOSTAŃ PROGRAMISTĄ. Zarobki w IT. Michał Sztanga](https://www.biznesmisja.pl/chcesz-duzo-zarabiac-w-2022-zostan-programista-zarobki-w-it-michal-sztanga/)
+- [ ] 🎧 Przesłuchać [37. O Context Mappingu z Bartkiem Słotą](https://bettersoftwaredesign.pl/episodes/37)
+- [ ] 🎧 Przesłuchać [Małe kroki prowadzą do dużych zmian – Michał Leszek, Krüger&Matz](https://zaprojektujswojezycie.pl/male-kroki-prowadza-do-duzych-zmian-michal-leszek-krugermatz/)
+- [ ] 🎧 Przesłuchać [9 Browser Tips to Save Time (Plus an Epic Lightning Round!) (TPS421)](https://www.asianefficiency.com/podcasts/421-browser-tips/#)
+- [ ] 🎥 Watch [Jakub Pilimon - Czego uczy nas system Legacy](https://youtu.be/ypggb3QBWts)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research
 - [ ] 🖌️ Tynkarz - zrobić reserach
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak
-- [ ] 🏊 Pójść na basen

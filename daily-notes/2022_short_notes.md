@@ -985,3 +985,31 @@ Dziś mamy ostatni dzień naszego pobytu. Do 11 musieliśmy się zawinąć z pok
 18/09/2022
 ---
 Noc mieliśmy urwaną. Wracaliśmy z Grecji i trochę spaliśmy, trochę czuwaliśmy... Wieczorem udało nam się skorzystać jeszcze z nabożeństwa :)
+
+19/09/2022
+---
+I zaczynamy nowy tydzień 💪. W Polsce w porównaniu z Grecją jest zimno i pochmurnie.. ale to też ma swój klimat i urok 🙂
+
+20/09/2022
+---
+Poniedziałek minął całkiem fajnie 👍. Po pracy pojechaliśmy z Natką na działkę wylewać wodę z fundamentów 😭, a później poszliśmy na basen z kuzynami (Damian, Dominika, Sylwia i Kamil). Po basenie zaprosiliśmy ich do nas i spędziliśmy sobie wieczór razem.
+
+21/09/2022
+---
+I kolejny fajny dzionek pomimo jesiennej aury na zewnątrz 🤫. Strasznie dużo dziś pracowałem, ale taki czas akurat jest, że trzeba 😏
+
+22/09/2022
+---
+Wczoraj mieliśmy mieć gości, ale 2 godziny przed przyjazdem zadzwonili i nam odmówili 💩💩. Troszkę byliśmy smutni z tego powodu, szczególnie, że Natka się przygotowała 😓. Całe szczęście mieszkamy z rodziną i w zamian zaprosiliśmy ich 🙃.
+
+23/09/2022
+---
+Praca praca 😌. A po pracy do Natalki siostry na urodziny 🥳
+
+24/09/2022
+---
+Piąąątek 🤩. Ostatnimi czasy jak o wiele więcej pracuje, to naprawdę doceniam weekendy 😅. Dziś były zato urodziny mojej bratowej i też jedliśmy tort :P
+
+25/09/2022
+---
+Sobota minęła fajnie i przyjemnie. Ukończyłem 2 roczne wyzwania sportowe - bieganie i jazdę rowerem 🏃🚴🤗. Pracowałem troszkę na działce, skończyłem filmik dla Natalki. Mieliśmy na obiedzie gości - bracia Nati, żona jednego z nich i jej kuzyn, który z nimi przyjechał. Wieczorem byliśmy na młodzieżowym (ciężki to będzie rok z młodzieżą) i później zajechaliśmy jeszcze do Kondratiuków. Sporo się działo 😝
