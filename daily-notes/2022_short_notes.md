@@ -1013,3 +1013,31 @@ Piąąątek 🤩. Ostatnimi czasy jak o wiele więcej pracuje, to naprawdę doce
 25/09/2022
 ---
 Sobota minęła fajnie i przyjemnie. Ukończyłem 2 roczne wyzwania sportowe - bieganie i jazdę rowerem 🏃🚴🤗. Pracowałem troszkę na działce, skończyłem filmik dla Natalki. Mieliśmy na obiedzie gości - bracia Nati, żona jednego z nich i jej kuzyn, który z nimi przyjechał. Wieczorem byliśmy na młodzieżowym (ciężki to będzie rok z młodzieżą) i później zajechaliśmy jeszcze do Kondratiuków. Sporo się działo 😝
+
+26/09/2022
+---
+Dobra niedziela. Na porannym nabożeństwie byliśmy w Dubiczach. Tam było święto żniw a później poczęstunek i integracja z ludźmi. Później na wieczorowe pojechaliśmy do Hajnówki. Cały dzień było słonecznie i ładnie 😋
+
+27/09/2022
+---
+Początek tygodnia 💪. Praca, a później pojechaliśmy do Marka i Darii w odwiedziny 🖐. I tak minął dzień.
+
+28/09/2022
+---
+Dzisiaj cały dzień praca 💩. Planowałem pójść wieczorem na basen, ale za późno się zebrałem i zamiast tego poszedłem się przebiec. Ciężki dzień 😏
+
+29/09/2022
+---
+Cyrki wychodzą z tym naszym budowlańcem 🙄. Jednego etapu jeszcze nie skończył, a już chce pieniądze 💲. A dodam jeszcze, że na budowie też się zjawia coraz rzadziej..
+
+30/09/2022
+---
+I się stało. Wczoraj nasz budowlaniec powiedział pod argumentem, że nam nie ufa, bo mu nie płacimy i go oskarżamy, że budować dalej nie będzie 😡. Oprócz tego bylismy w Białymstoku i załatwialiśmy trochę spraw + później pojechaliśmy w odwiedziny do Dawida i Wioli 👍
+
+01/10/2022
+---
+Przedstawiliśmy aneks do umowy naszemu wykonawcy i ma kilka dni (w sumie to czas do poniedziałku) na podjęcie decyzji, bo wczoraj przyjechał na budowę i jeszcze robił (po rozmowach z tatą). Oprócz tego u mnie dużo pracy..
+
+02/10/2022
+---
+Ciężka sobota była - z żoną się troszkę pokłóciliśmy 😒, ale później w ciągu dnia doszliśmy do zgody 😘. Oprócz tego trochę pracy + praca na działce 🏡. Na koniec dnia jeszcze na młodzieżowe w Hajnówce.
