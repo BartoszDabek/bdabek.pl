@@ -1041,3 +1041,31 @@ Przedstawiliśmy aneks do umowy naszemu wykonawcy i ma kilka dni (w sumie to cza
 02/10/2022
 ---
 Ciężka sobota była - z żoną się troszkę pokłóciliśmy 😒, ale później w ciągu dnia doszliśmy do zgody 😘. Oprócz tego trochę pracy + praca na działce 🏡. Na koniec dnia jeszcze na młodzieżowe w Hajnówce.
+
+03/10/2022
+---
+Bardzo fajna była niedziela 😇. Pomimo lekko ponurej aury na zewnątrz, mieliśmy dobry czas w zborze i później w domu. W zborze był obiad i poczęstunek, trochę porozmawialiśmy z ludźmi i się 'socjalizowaliśmy' 🤣.
+
+04/10/2022
+---
+Poniedziałek bardzo fajny. Podpisaliśmy umowę z naszym budowlańcem 🥸. Wieczorem byliśmy też na modlitwie i tak cały dzień zleciał jakoś 😇
+
+05/10/2022
+---
+Kolejny szybki i fajny dzień. Mieliśmy wieczorem gości - Karolina z Grześkiem. Fajnie było! Porozmawialiśmy i później graliśmy w ciekawą planszówkę 👍🙂
+
+06/10/2022
+---
+Bardzo fajna środa. Od rana do 17 praca 👨‍💻👨‍💻. Później poszliśmy ze znajomymi i żonami na basen + coś zjeść. Było fajnie ;]
+
+07/10/2022
+---
+Masakra z tą pracą 😓, wszędzie coś trzeba na już 😵‍💫. Wieczorem po nabożeństwie mieliśmy gości z Białegostoku (Domi z ekipą) - mieliśmy fajny czas u nas w domu 🫡
+
+08/10/2022
+---
+I nareszcie piątek i weekend 🤗! Dziś znów wieczorem mieliśmy gości - Kuba z Magdą i dziećmi, ale nie byli bardzo długo bo dzieci marudziły 🤫
+
+09/10/2022
+---
+Spokojna i fajna sobota 🥰🥰. Z żoną się rano wyleżeliśmy i dzień był na chilloucie. Wieczorem byliśmy na młodzieżowym (Natka na modlitwie) i dzionek jakoś zleciał.
