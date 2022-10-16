@@ -6,15 +6,15 @@ Cele osobiste
 # Główne cele 2022 🏆🥇
 1. Pomoc innym 🧚‍♂️ [3/5]
 2. [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 📜
-3. Reaktywacja bloga - 12 postów [1/12] 📝
+3. ❌ Reaktywacja bloga - 12 postów [1/12] 📝
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. ✅ Przebiec 365 km w ciagu roku (370/365) 🏃 ![Progress](https://progress-bar.dev/101/) (24.09)
+2. ✅ Przebiec 365 km w ciagu roku (376/365) 🏃 ![Progress](https://progress-bar.dev/103/) (24.09)
 3. ✅ Przejechac na rowerze 2000 km w ciagu roku (2007/2000) 🚴 ![Progress](https://progress-bar.dev/100/) (24.09)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
-6. 100_000 kroków jednego dnia 🚶
+6. ❌ 100_000 kroków jednego dnia 🚶
 
 ## Wyzwania 30 Dniowe 🔥🥉
 1. ✅ 10_000 kroków 🦶 (9.08-7.09)
@@ -27,17 +27,18 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. ✅ Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [10/09/2022]
+# [10/16/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 🏠 Dach - Kojły
-- [ ] 🎓 Utworzyć plan nauki do certyfikatu AWS (i jeżeli jest potrzeba to kupić potrzebne książki lub kursy)
+- [ ] 🦷 Periodonotologia - umówić się na wizytę
 - [ ] 🦵 Trening nóg
-- [ ] 🏃 Bieganie w ciągu tygodnia 3km
-- [ ] 📗 Przeczytać [Java 19 Delivers Features for Projects Loom, Panama and Amber](https://www.infoq.com/news/2022/09/java19-released/)
-- [ ] 📗 Przeczytać [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
-- [ ] 📗 Przeczytać [Ambassador](https://java-design-patterns.com/patterns/ambassador/)
-- [ ] 🎧 Przesłuchać [Małe kroki prowadzą do dużych zmian – Michał Leszek, Krüger&Matz](https://zaprojektujswojezycie.pl/male-kroki-prowadza-do-duzych-zmian-michal-leszek-krugermatz/)
-- [ ] 🎧 Przesłuchać [9 Browser Tips to Save Time (Plus an Epic Lightning Round!) (TPS421)](https://www.asianefficiency.com/podcasts/421-browser-tips/#)
+- [ ] 🏃 Bieganie w ciągu tygodnia 4km
+- [ ] 📗 Przeczytać [Getting Things Done. Do strony 250](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E)
+- [ ] 📗 Przeczytać [Paving the on-ramp](https://openjdk.org/projects/amber/design-notes/on-ramp)
+- [ ] 📗 Przeczytać [Arrange/Act/Assert](https://java-design-patterns.com/patterns/arrange-act-assert/)
+- [ ] 🎧 Przesłuchać [Kupowanie zagranicznych funduszy ETF krok po kroku](https://inwestomat.eu/kupowanie-zagranicznych-funduszy-etf-krok-po-kroku/)
+- [ ] 🎧 Przesłuchać [OSZUKAĆ INFLACJĘ. KRYZYS W BUDOWLANCE? WARTO DZISIAJ KUPIĆ MIESZKANIE. Adam Grzymski](https://www.biznesmisja.pl/oszukac-inflacje-kryzys-w-budowlance-warto-dzisiaj-kupic-mieszkanie-adam-grzymski/)
+- [ ] 🎧 Przesłuchać [POIT #168: VMware](https://porozmawiajmyoit.pl/poit-168-vmware/)
+- [ ] 🎥 Watch [Kurs AWS. Sekcje 1-7](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 - [ ] 🎥 Watch [AWS dla developerów - czyli jak budować aplikacje w chmurze!](https://www.udemy.com/course/serverless-dla-developerow-jak-budowac-aplikacje-w-chmurze/)
 
 ### Rzeczy na przyszłość 🏅

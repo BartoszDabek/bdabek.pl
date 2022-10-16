@@ -1069,3 +1069,31 @@ I nareszcie piątek i weekend 🤗! Dziś znów wieczorem mieliśmy gości - Kub
 09/10/2022
 ---
 Spokojna i fajna sobota 🥰🥰. Z żoną się rano wyleżeliśmy i dzień był na chilloucie. Wieczorem byliśmy na młodzieżowym (Natka na modlitwie) i dzionek jakoś zleciał.
+
+10/10/2022
+---
+Niedziela, dzień Pański 🙏. Byliśmy rano na nabożeństwie, później obiad u mamy i później wpadli do mnie Gabryś i Damian 🫲. Rozmawialiśmy, troszkę pochodziliśmy i na 18 poszedłem na drugie nabożeństwo, które było modlitwą 😝
+
+11/10/2022
+---
+Pierwszy dzień tygodnia był ok. Miałem dużooo pracy, bo pracowałem od samego rana do późnego wieczora (z przerwą na trening / obiad / kawkę z rodziną) 😳
+
+12/10/2022
+---
+Dziś popołudniu byłem w Białymstoku u ortodonty 🦷. Robili mi tylko zdjęcia zębów a jutro mam mieć konsultację telefoniczną 🤔. A tak, to cały czas praca i praca 💩
+
+13/10/2022
+---
+Kolejny dzień z ogromną ilością pracy 😕😕. Już coraz to częściej mam bardzo dość pracy 🤫, chociaż ją lubię 🙂.
+
+14/10/2022
+---
+Dziś dostaliśmy projekt albumu ślubnego i zdjęcia na pendrive do przejrzenia 🥳🥳. Moja Natka już ma co robić 😅. Wieczorem byliśmy na nabożeństwie, a później gościliśmy na kolacji Daniela ☺️
+
+15/10/2022
+---
+I jest nareszcie piąteczek ❤️❤️. To był ciężki tydzień w pracy 😔. Na budowie zalewali dziś słupy i musiałem tam później pojechać i troszkę poogarniać. Nati poszła do Domi a ja po ogarnięciu przebiegłem się z powrotem do domu 🤗. Wieczorem oglądaliśmy i wybieraliśmy zdjęcia do albumu, co też nam trochę czasu zajęło 😶
+
+16/10/2022
+---
+Ciężka sobota 😒. Z Natką mieliśmy na pieńku i tak ciężko duchowo było... koniec końców się pogodziliśmy bo w końcu jesteśmy małżeństwem, ale dopiero wieczorem 🤨. Troszkę dziś popracowałem. Damian do nas wpadł o 15 i se pogadaliśmy 👍. Wieczorem młodzieżowe i tak minał dzień ;]
