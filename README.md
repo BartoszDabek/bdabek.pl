@@ -10,7 +10,7 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. ✅ Przebiec 365 km w ciagu roku (376/365) 🏃 ![Progress](https://progress-bar.dev/103/) (24.09)
+2. ✅ Przebiec 365 km w ciagu roku (380/365) 🏃 ![Progress](https://progress-bar.dev/104/) (24.09)
 3. ✅ Przejechac na rowerze 2000 km w ciagu roku (2007/2000) 🚴 ![Progress](https://progress-bar.dev/100/) (24.09)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
@@ -27,19 +27,18 @@ Cele osobiste
 8. 0 Cukru 🎂
 9. ✅ Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [10/16/2022]
+# [10/23/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 🦷 Periodonotologia - umówić się na wizytę
 - [ ] 🦵 Trening nóg
 - [ ] 🏃 Bieganie w ciągu tygodnia 4km
-- [ ] 📗 Przeczytać [Getting Things Done. Do strony 250](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E)
-- [ ] 📗 Przeczytać [Paving the on-ramp](https://openjdk.org/projects/amber/design-notes/on-ramp)
-- [ ] 📗 Przeczytać [Arrange/Act/Assert](https://java-design-patterns.com/patterns/arrange-act-assert/)
-- [ ] 🎧 Przesłuchać [Kupowanie zagranicznych funduszy ETF krok po kroku](https://inwestomat.eu/kupowanie-zagranicznych-funduszy-etf-krok-po-kroku/)
-- [ ] 🎧 Przesłuchać [OSZUKAĆ INFLACJĘ. KRYZYS W BUDOWLANCE? WARTO DZISIAJ KUPIĆ MIESZKANIE. Adam Grzymski](https://www.biznesmisja.pl/oszukac-inflacje-kryzys-w-budowlance-warto-dzisiaj-kupic-mieszkanie-adam-grzymski/)
-- [ ] 🎧 Przesłuchać [POIT #168: VMware](https://porozmawiajmyoit.pl/poit-168-vmware/)
-- [ ] 🎥 Watch [Kurs AWS. Sekcje 1-7](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-- [ ] 🎥 Watch [AWS dla developerów - czyli jak budować aplikacje w chmurze!](https://www.udemy.com/course/serverless-dla-developerow-jak-budowac-aplikacje-w-chmurze/)
+- [ ] 📗 Przeczytać [Introducing Spring Boot Migrator](https://www.infoq.com/news/2022/09/spring-boot-migrator/)
+- [ ] 📗 Przeczytać [JEP 431: Sequenced Collections](https://openjdk.org/jeps/431)
+- [ ] 📗 Przeczytać [Async Method Invocation](https://java-design-patterns.com/patterns/async-method-invocation/)
+- [ ] 📗 Przeczytać [Getting Things Done. Do strony 290](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E)
+- [ ] 🎧 Przesłuchać [39. O driverach architektonicznych z Kubą Pilimonem](https://bettersoftwaredesign.pl/episodes/39)
+- [ ] 🎧 Przesłuchać [Społeczność zbudowana wokół technologii – Infoshare – Grzegorz Borowski](https://zaprojektujswojezycie.pl/spolecznosc-zbudowana-wokol-technologii-infoshare-grzegorz-borowski/)
+- [ ] 🎧 Przesłuchać [HOW To Find Your LIFE PURPOSE | Part](https://effortlessenglishshow.com/how-to-find-your-life-purpose-part-2)
+- [ ] 🎥 Watch [Kurs AWS. Sekcje 8-11](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🏠 Blachodachówka - research

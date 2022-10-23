@@ -1097,3 +1097,31 @@ I jest nareszcie piąteczek ❤️❤️. To był ciężki tydzień w pracy 😔
 16/10/2022
 ---
 Ciężka sobota 😒. Z Natką mieliśmy na pieńku i tak ciężko duchowo było... koniec końców się pogodziliśmy bo w końcu jesteśmy małżeństwem, ale dopiero wieczorem 🤨. Troszkę dziś popracowałem. Damian do nas wpadł o 15 i se pogadaliśmy 👍. Wieczorem młodzieżowe i tak minał dzień ;]
+
+17/10/2022
+---
+Po nabożeństwie pojechaliśmy na obiad do Redut i tam siedzieliśmy do 17 z kawałkiem 🙃. Później odwiedziliśmy Inę i Saszę w Dubiczach. Potem poszedłem z Damianem na basen i jeszcze wieczorem wpadliśmy do Domi 🤫. Taki dzień od rana do wieczora był :P
+
+18/10/2022
+---
+Bardzo fajny poniedziałek 🤗! W pracy było spokojnie i wszystko się udawało ☺️. Po pracy przebiegłem 4km, pojechałem na budowę podlać słupy 😎 i wieczorem wpadli do nas jeszcze Kamil z Izą i dziećmi. Fajny dzień 😋
+
+19/10/2022
+---
+Kolejny całkiem fajny dzień 👍. Popołudniu poszliśmy z Nati na spacer do lasu - była fajna pogoda 😉. Wieczorem się machnąłem i powiedziałem, że modlitwa jest na 19, więc tak pojechaliśmy... ale okazało się, że jednak była na 18 🤭🤭
+
+20/10/2022
+---
+Natalka lekko przychorowałazę, że jej ciężko 🤕. Ja wiem, że za mało się ruszam, dziś np. tylko 1000 kroków 🫣.. ale za to przynajmniej robię kurs AWS 🤛
+
+21/10/2022
+---
+Dziś było ciekawe wieczorowe nabożeństwo. Przyjechali goście z Białorusi, których Pan przyprowadził, aby nam usłużyli. Dzięki za to Bogu! :)
+
+22/10/2022
+---
+I piąteczek 🤩. Kolejny tydzień, który szybko minął 🤜. Dziś oprócz pracy byliśmy na działce zobaczyć jak idą postępy i stwierdzamy, że idą - już szalują strop 👍💪. Nati, dzięki Bogu czuje się już dobrze i dziś na obiad przygotowała pyszne pulpeciki w sosie własnym 🤗🤗. Wieczorem byliśmy na modlitwie, a później pojechałem jeszcze do Marka na strzyżenie. Jak wróciłem to zeszliśmy do Kuby i Kasi i tam siedzieliśmy i rozmawialiśmy rodzinnie. I tak minął dzień 😊.
+
+23/10/2022
+---
+Fajna sobota 😉. Dokończyłem naukę AWS na ten tydzień, zrobiłem zakupki żonie 😘, wylewałem wodę na działce. Później przyjechał Gabryś nowym autem - pojechaliśmy się przejechać i później na młodzieżowe 🫡
