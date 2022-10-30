@@ -1125,3 +1125,31 @@ I piąteczek 🤩. Kolejny tydzień, który szybko minął 🤜. Dziś oprócz p
 23/10/2022
 ---
 Fajna sobota 😉. Dokończyłem naukę AWS na ten tydzień, zrobiłem zakupki żonie 😘, wylewałem wodę na działce. Później przyjechał Gabryś nowym autem - pojechaliśmy się przejechać i później na młodzieżowe 🫡
+
+24/10/2022
+---
+Aj ciężka to była niedziela. Z Nati się trochę posprzeczaliśmy i humor na cały dzień już został zabrany 😑
+
+25/10/2022
+---
+Po deszczu wyjdzie słońce ☀️☀️ i już pogodzeni. Znacznie lepszy to był dzień. Trochę się dziś AWSa uczyłem, przebiegłem 5 km 💪, zrobiłem trening i w końcu wybraliśmy wszystkie zdjęcia do albumu ślubnego 🙂
+
+26/10/2022
+---
+Dzisiaj też fajnie zleciał czas. Żona pojechała o 11 do Białego na studia i wróciła przed 18. W tym czasie oprócz pracy, byłem jeszcze na budowie i wylewałem wodę 🤜. Akurat jak skończyłem to Natalka zadzwoniła, żebym już po nią wyjechał 👍
+
+27/10/2022
+---
+WoW, ale ten czas leci.. zaraz koniec roku 🙄! Dziś mieliśmy gości wieczorem, wpadli do nas Piotrek z Zuzią i dziećmi. Fajnie było, porozmawialiśmy trochę i dobrze zjedliśmy 😉
+
+28/10/2022
+---
+Dziś z żoną mieliśmy post 🙏. Przyznam, że poza może dwoma słabszymi momentami to czułem się bardzo dobrze - dzięki za to Bogu. Oprócz tego praca, trochę kursu AWS i wieczorem nabożeństwo 😇
+
+29/10/2022
+---
+Fajny piąteczek był - jedyny minus to, że nie starczyło mi sił i chęci pójść na modlitwę wieczorną 🫣. Oprócz tego praca + biegałem + przygotowałem się na rozważania sobotnie.
+
+30/10/2022
+---
+To była dobra sobota 👍. Wszystko z listy miałem już wypełnione, więc nie musiałem się z niczym spinać. Troche popracowałem, coś tam pomogłem żonie + pojechałem z nią na zakupy. Wieczorem mieliśmy spotkanie młodzieżowe u nas w domu 🙂. Było nas razem 6 osób, a później zamówiliśmy pizzę i trochę posiedzieliśmy razem ;)

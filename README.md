@@ -10,7 +10,7 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. 50m pod wodą 🏊
-2. ✅ Przebiec 365 km w ciagu roku (380/365) 🏃 ![Progress](https://progress-bar.dev/104/) (24.09)
+2. ✅ Przebiec 365 km w ciagu roku (389/365) 🏃 ![Progress](https://progress-bar.dev/106/) (24.09)
 3. ✅ Przejechac na rowerze 2000 km w ciagu roku (2007/2000) 🚴 ![Progress](https://progress-bar.dev/100/) (24.09)
 4. 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
@@ -24,24 +24,28 @@ Cele osobiste
 5. ✅ Masa - 3200+ kcal 🍌 (9.08-7.09)
 6. ✅ Codzienne bieganie 🏃‍♀️ (28.04-27.05)
 7. ✅ Codzienny rower 🚲 (31.05-29.06)
-8. 0 Cukru 🎂
+8. 0 Cukru 🎂 (14.11-13.12)
 9. ✅ Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [10/23/2022]
+# [10/30/2022]
 ### ⭐ W tym tygodniu:
+- [ ] 🏠 Dach - Kojły umowa
+- [ ] 🏠 Dach - zamknąć sprawę z Karolem
+- [ ] 🏠 Karol - potwierdzenie klasy betonu na wylanie chudziaka
+- [ ] 🏠 Blachodachówka - wybrać co chcemy
+- [ ] 📷 Powysyłać ludziom zdjęcia z wesela
 - [ ] 🦵 Trening nóg
 - [ ] 🏃 Bieganie w ciągu tygodnia 4km
-- [ ] 📗 Przeczytać [Introducing Spring Boot Migrator](https://www.infoq.com/news/2022/09/spring-boot-migrator/)
-- [ ] 📗 Przeczytać [JEP 431: Sequenced Collections](https://openjdk.org/jeps/431)
-- [ ] 📗 Przeczytać [Async Method Invocation](https://java-design-patterns.com/patterns/async-method-invocation/)
-- [ ] 📗 Przeczytać [Getting Things Done. Do strony 290](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E)
-- [ ] 🎧 Przesłuchać [39. O driverach architektonicznych z Kubą Pilimonem](https://bettersoftwaredesign.pl/episodes/39)
-- [ ] 🎧 Przesłuchać [Społeczność zbudowana wokół technologii – Infoshare – Grzegorz Borowski](https://zaprojektujswojezycie.pl/spolecznosc-zbudowana-wokol-technologii-infoshare-grzegorz-borowski/)
-- [ ] 🎧 Przesłuchać [HOW To Find Your LIFE PURPOSE | Part](https://effortlessenglishshow.com/how-to-find-your-life-purpose-part-2)
-- [ ] 🎥 Watch [Kurs AWS. Sekcje 8-11](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- [ ] 📗 Przeczytać [Builder](https://java-design-patterns.com/patterns/builder/)
+- [ ] 📗 Przeczytać [Spring Web Contexts](https://www.baeldung.com/spring-web-contexts)
+- [ ] 📗 Przeczytać [Getting Things Done. Do strony 340](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E)
+- [ ] 🎧 Przesłuchać [38. O budowaniu fundamentów z Michałem Giergielewiczem](https://bettersoftwaredesign.pl/episodes/38)
+- [ ] 🎧 Przesłuchać [Biznes się kręci, a ty zastanawiasz się, jak długo wytrzymasz w tym kołowrotku? Możesz skierować firmę na inne tory](https://malawielkafirma.pl/marka-osobista-kontra-rozwijanie-firmy/)
+- [ ] 🎧 Przesłuchać [#41 Patoarchitekci Short #3](https://patoarchitekci.io/41/)
+- [ ] 🎧 Przesłuchać [Życie nie jest tak proste, jak płacenie BLIKIEM – Monika Król, Wiceprezeska BLIKA](https://zaprojektujswojezycie.pl/zycie-nie-jest-tak-proste-jak-placenie-blikiem-monika-krol-wiceprezeska-blika/)
+- [ ] 🎥 Watch [Kurs AWS. Sekcje 12-17](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 
 ### Rzeczy na przyszłość 🏅
-- [ ] 🏠 Blachodachówka - research
 - [ ] 🖌️ Tynkarz - zrobić reserach
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak
 - [ ] 🧑‍🎓 Wpisy po angielsku
