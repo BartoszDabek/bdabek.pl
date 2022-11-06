@@ -1153,3 +1153,31 @@ Fajny piąteczek był - jedyny minus to, że nie starczyło mi sił i chęci pó
 30/10/2022
 ---
 To była dobra sobota 👍. Wszystko z listy miałem już wypełnione, więc nie musiałem się z niczym spinać. Troche popracowałem, coś tam pomogłem żonie + pojechałem z nią na zakupy. Wieczorem mieliśmy spotkanie młodzieżowe u nas w domu 🙂. Było nas razem 6 osób, a później zamówiliśmy pizzę i trochę posiedzieliśmy razem ;)
+
+31/10/2022
+---
+Całkiem spoczko niedziela 😉. Wieczorem wpadliśmy do Kardaszy. Była pizza, jakieś ciasto, kilka innych osób jeszcze i graliśmy w grę 😄. Niestety teraz czuję się trochę jakby mnie brało na wymioty jakieś 💩
+
+01/11/2022
+---
+Fajny nawet poniedziałek 😉. Coś tam udało mi się pobiegać po pracy i ogólnie było git. Wieczorem poszliśmy na modlitwę, a później do rodziców - razem zjeść kolację 😋
+
+02/11/2022
+---
+Urodziny taty 🥳🥳. Uczyłem się do południa z AWS'a, coś tam pomogłem troszeczkę żonie w kuchni, biegałem, a później świętowaliśmy urodziny. Było dużo ludzi 😁😁
+
+03/11/2022
+---
+Dziś czułem się jakby był poniedziałek 😅. Ogólnie strasznie dużooo pracy mam 😬
+
+04/11/2022
+---
+Dzień postu - ciężki był 👀, ale się udał 👏. Dalej sporo pracy - właściwie od rana do wieczora. Wieczorem jeszcze na nabożeństwo 🙏
+
+05/11/2022
+---
+Piąteczek piątunio 🥳🥳. Było całkiem lajtowo dziś - nie miałem dużej spiny, ale tak jest zazwyczaj bo wiem, że w sobotę mogę ponadrabiać ewentualne zaległości 🤫
+
+06/11/2022
+---
+Sobota taka z jednej strony dobra, z drugiej nie. Znów z Nati mieliśmy na pieńku - chociaż powiedziałbym, że bardziej z jej strony 🧐. Ale jakoś podczas dnia doszliśmy do zgody 🤝. Wieczorem młodzieżowe i później wpadliśmy jeszcze w gości do Dominiki 👣
