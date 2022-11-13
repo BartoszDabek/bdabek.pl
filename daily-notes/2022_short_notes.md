@@ -1181,3 +1181,27 @@ Piąteczek piątunio 🥳🥳. Było całkiem lajtowo dziś - nie miałem dużej
 06/11/2022
 ---
 Sobota taka z jednej strony dobra, z drugiej nie. Znów z Nati mieliśmy na pieńku - chociaż powiedziałbym, że bardziej z jej strony 🧐. Ale jakoś podczas dnia doszliśmy do zgody 🤝. Wieczorem młodzieżowe i później wpadliśmy jeszcze w gości do Dominiki 👣
+
+07/11/2022
+---
+Dziś prawie cały dzień spędziliśmy w Dubiczach, u wujka i cioci Natalki, którzy przyjechali z Ukrainy. Była cała rodzina, bo świętowaliśmy urodziny wujka 🥳
+
+08/11/2022
+---
+Poniedziałek minął dobrze 😉. W pracy mamy teraz taki challenge chodzeniowy, z którego się cieszę bo mnie motywuje żeby się więcej ruszać 😅
+
+09/11/2022
+---
+Dziś w naszym domu wylali pierwszy strop 🏠🥳! Jakiś sukces jest 😁. Wieczorem pojechaliśmy w odwiedziny do Kamila i Izy - siedzieliśmy tam całkiem długo, bo prawie do 23 😯
+
+10/11/2022
+---
+Kolejny pracowity dzionek 🙃. Poszliśmy też dziś na modlitwę - było ciężko, ale dobrze 👍👍. Dziś wyjeżdzamy na dolny śląsk 👈🤛
+
+11/11/2022
+---
+Dziś ciężki dzień. Do 15 praca, a później pojechaliśmy na śląsk 🚗. Fajnie jest! :)
+
+13/11/2022
+---
+Pan Bóg ochrzcił mnie Duchem Świętym - dziwne i piękne przeżycie i uczucie! Jesteśm na wypoczynku u Radka i Estery, ale dziś już będziemy się zbierać z powrotem na podlasie ;)
