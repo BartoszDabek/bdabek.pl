@@ -14,10 +14,10 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Getting Things Done - David Allen
 
 ## ⭐ Books read 
 ### ✅ 2022
+- [x] Getting Things Done - David Allen
 - [x] Prawy Umysł - Jonathan Haidt (Przeczytałem kilka rozdziałów - całkowicie nie w moim stylu)
 - [x] The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin
 - [x] Kochaj wystarczająco dobrze - A. Jucewicz i G. Sroczyński

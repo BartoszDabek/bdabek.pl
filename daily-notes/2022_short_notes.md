@@ -1205,3 +1205,31 @@ Dziś ciężki dzień. Do 15 praca, a później pojechaliśmy na śląsk 🚗. F
 13/11/2022
 ---
 Pan Bóg ochrzcił mnie Duchem Świętym - dziwne i piękne przeżycie i uczucie! Jesteśm na wypoczynku u Radka i Estery, ale dziś już będziemy się zbierać z powrotem na podlasie ;)
+
+14/11/2022
+---
+Dzień powrotu był ciężki - szczególnie na końcówce, kiedy baardzo chciało się już spać 🤭. Wyjechaliśmy po godzinie 18 od Radka. W domu byliśmy przed 3 w nocy/rano 🥱😵. Ogólnie dobrze wspominam cały wyjazd 💪👍
+
+15/11/2022
+---
+Dziś był bardzo ciężki dzień 🤯. Od godziny 16/17 kręciło mi się w głowie ze zmęczenia i musiałem walczyć z sobą 🫣. O 21 padłem jak placek 😶
+
+16/11/2022
+---
+Spokojny dzień 🫠.  Nati była dziś na uczelni, więc prawie cały dzień byłem sam. Pospacerowałem sobie dziś troszkę, bo łacznie 11k kroków 🙂
+
+17/11/2022
+---
+Dziś leniwy dzień - zrobiłem ledwo 2k kroków 😫. Na 18 zaprosiliśmy Rybaków z Tofiłowiec i mieliśmy fajny czas do prawie 23 🫡. 
+
+18/11/2022
+---
+Dzięki Bogu za kolejny dzień 🙏. Mogłem być na wieczorowym nabożeństwie i najeść się nieco duchowego pokarmu 💪. Za dnia praca + udało mi się zrobić trening nóg 😊
+
+19/11/2022
+---
+Dobry piątek 👍. Raz, że to jest początek weekendu, a dwa, że był spokojny 👏. W sobotę mamy młodzieżowe okręgowe, gdzie zjeżdza się młodzież i jest to większe przedsięwźcięcie niż zawsze - daj Boże, aby to był dobry czas 🙏
+
+20/11/2022
+---
+Mieliśmy gości i później od południa byliśmy na konferencji / młodziezowym między zborowym. To był bardzo dobry czas i chwała Bogu za to! 😇
