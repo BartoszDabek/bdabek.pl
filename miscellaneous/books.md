@@ -14,6 +14,7 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
+- [ ] Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistó - Robert C. Martin
 
 ## ⭐ Books read 
 ### ✅ 2022

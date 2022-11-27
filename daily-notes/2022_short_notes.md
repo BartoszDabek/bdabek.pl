@@ -1233,3 +1233,31 @@ Dobry piątek 👍. Raz, że to jest początek weekendu, a dwa, że był spokojn
 20/11/2022
 ---
 Mieliśmy gości i później od południa byliśmy na konferencji / młodziezowym między zborowym. To był bardzo dobry czas i chwała Bogu za to! 😇
+
+21/11/2022
+---
+I niedziela minęła 🙃. Z jednej strony się cieszę, bo była dobra. Mieliśmy obiad rodzinny w domu, a później pojechaliśmy na kawę do Dominiki. Z drugiej strony nadchodzi kolejny tydzień 💩
+
+22/11/2022
+---
+Fajny poniedziałek 😋. Praca + dyżur na środowiskach i sporo było tematów do ogarniania, ale oprócz tego to fajny dzionek. Wieczorem poszliśmy na modlitwę, a później Jonatan zaprosił nas na górę do siebie ☺️
+
+23/11/2022
+---
+Pojechałem do Białego na 15 🚗. Chciałem odbyć konsultację u periodontologa, ale twierdzę, że była badziewna 😓. Później z żoną do galeri, a później na mecz + wieczór do Łukasza i Diany 🙂
+
+24/11/2022
+---
+Ojej dużo dziś pracy było 😏.. Ciągle coś się działo i tak do samego wieczora. Podczas dnia zrobiem może maksymalnie 500 kroków 😭😭
+
+25/11/2022
+---
+Dziś z Natalką pościliśmy. Dla mnie to był w miarę łatwy post - nie chciało mi się jeść, czułem się dobrze 😇. Praca do 16, później zrobiłem sobie godzinny spacer i wieczorem na nabożeństwo. I tak minął dzień.
+
+26/11/2022
+---
+Dobry piąteczek 😉. Z żoną poszliśmy na kolację na burgera do jimmiego - było ok, takie 7️⃣/🔟. Później jeszcze z Damianem na basen i wieczorem modlitwa u Kuby i Kasi. I tak cały dzień zleciał 😄
+
+27/11/2022
+---
+Sobota minęła całkiem fajnie. Z rana zrobiłem sobie 5-6 kilometrowy spacer 🚶. Później śniadanko, sprzątanie, pranie, praca, mecz ⚽. Wieczorem na młodzieżowe i cały dzien minął 😏
