@@ -28,20 +28,24 @@ Cele osobiste
 8. 0 Cukru 🎂 (14.11-13.12)
 9. ✅ Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [11/27/2022]
+# [12/04/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 🏠 Okna - dowiedzieć się ile czasu się czeka
-- [ ] 🏠 Wybrać ekipę do elektryki, tynków i hydrauliki 
-- [ ] ⛷️ Zadzwonić do instruktora nauki
-- [ ] 📝 Blog - naprawić problemy z indeksowaniem
+- [ ] 📝 Blog - [podwójny kod śledzenia w GA](https://www.monsterinsights.com/docs/how-to-find-duplicate-google-analytics-tracking-codes-in-wordpress/)
+- [ ] 🏠 Wybrać elektryka
+- [ ] 🏠 Wybrać hydraulika
+- [ ] 🏠 Wybrać ekipę do tynków
+- [ ] 🏠 Przeliczyć kotwy
+- [ ] 💵 Allegro - wykorzystać kod rabatowy
+- [ ] 💵 Scalo - wykorzystać punkty
 - [ ] 🦵 Trening nóg
-- [ ] 📗 Przeczytać [Pre-Allocated Methods for HashMap and HashSet - Sip of Java](https://inside.java/2022/10/24/sip069/)
-- [ ] 📗 Przeczytać [Bytecode](https://java-design-patterns.com/patterns/bytecode/)
-- [ ] 🎧 Przesłuchać [Fitness Toolkit: Protocol & Tools to Optimize Physical Health](https://hubermanlab.com/fitness-toolkit-protocol-and-tools-to-optimize-physical-health/)
-- [ ] 🎧 Przesłuchać [POIT #172: Transformacja infrastruktury IT w banku](https://porozmawiajmyoit.pl/poit-172-transformacja-infrastruktury-it-w-banku/)
-- [ ] 🎧 Przesłuchać [Nie ma współczesnej medycyny bez genetyki – Anna Wójcicka – Warsaw Genomics](https://zaprojektujswojezycie.pl/nie-ma-wspolczesnej-medycyny-bez-genetyki-anna-wojcicka-warsaw-genomics/)
-- [ ] 🎧 Przesłuchać [DON'T Study English | Play English](https://effortlessenglishshow.com/dont-study-english-play-english)
-- [ ] 🎥 Watch [Kurs AWS. Sekcje 25-28](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- [ ] 📗 Przeczytać [Introducing Spring Modulith](https://spring.io/blog/2022/10/21/introducing-spring-modulith)
+- [ ] 📗 Przeczytać [Kafka Transactions with Spring Boot](https://piotrminkowski.com/2022/10/29/kafka-transactions-with-spring-boot/)
+- [ ] 📗 Przeczytać [Caching](https://java-design-patterns.com/patterns/caching/)
+- [ ] 🎧 Przesłuchać [Dr. Eddie Chang: The Science of Learning & Speaking Languages](https://hubermanlab.com/dr-eddie-chang-the-science-of-learning-and-speaking-languages/)
+- [ ] 🎧 Przesłuchać [Recenzja Firstrade – brokera do amerykańskich ETF, akcji i obligacji](https://inwestomat.eu/recenzja-firstrade/)
+- [ ] 🎧 Przesłuchać [Sprzedaż w czasach kryzysu, czyli jak ciąć koszty, ustalać ceny i co zrobić, żeby zatrzymać przy sobie klientów](https://malawielkafirma.pl/sprzedaz-w-czasach-kryzysu/)
+- [ ] 🎧 Przesłuchać [The Corporate Cult | Preface | Rich Zubaty](https://effortlessenglishshow.com/the-corporate-cult-preface-rich-zubaty)
+- [ ] 🎥 Watch [Kurs AWS. Sekcje 28-30](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak

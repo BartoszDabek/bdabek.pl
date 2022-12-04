@@ -1261,3 +1261,31 @@ Dobry piąteczek 😉. Z żoną poszliśmy na kolację na burgera do jimmiego - 
 27/11/2022
 ---
 Sobota minęła całkiem fajnie. Z rana zrobiłem sobie 5-6 kilometrowy spacer 🚶. Później śniadanko, sprzątanie, pranie, praca, mecz ⚽. Wieczorem na młodzieżowe i cały dzien minął 😏
+
+28/11/2022
+---
+Całkiem dobra niedziela 🤛. Nabożeństwo rano i wieczorem 🙏, a pomiędzy byliśmy na obiedzie w Redutach 😉
+
+29/11/2022
+---
+Ojej dużo dziś było roboty 😤🤯🤯. Ciężki poniedziałek, ale może kolejne dni będą lżejsze 😏...
+
+30/11/2022
+---
+Dziś zdecydowałem, że rezygnuję z banku - finansowo to lepsza decyzja, a rozwojowo to cięzko powiedzieć 💩. Od kilku dni praktykuję codzienne chodzenie z rana do sklepu - i to jest bardzo fajna praktyka 🦶😋
+
+01/12/2022
+---
+Niesamowite.. już grudzień 😯!! Jeszcze troszkę i zaraz koniec roku 🤨. Dziś wieczorem, wpadliśmy do Damiana i dopingowaliśmy polskiej drużynie ⚽ - słaby to był mecz, ale jakoś nam się udało prześlizgnąć dalej :)
+
+02/12/2022
+---
+Coś nie mogę się zabrać za naukę AWS'a 😓. Mam dużo pracy, ale to nie to... po prostu mi się nie chce 😅😅
+
+03/12/2022
+---
+Dni szybko mijają i nie wrócą już! I dlatego trzeba czasem się zastanowić nad swoim życiem i myśleć, w którą stronę się idzie!
+
+04/12/2022
+---
+Ojej sobota też minęła strasznie szybko 🙄. Do południa uczyłem się AWS'a, później pojechaliśmy w gości do Maxima i Nataszy. O 18 młodzieżowe, 20 do domu i później do rodziców na kolację 💩
