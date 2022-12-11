@@ -1289,3 +1289,31 @@ Dni szybko mijają i nie wrócą już! I dlatego trzeba czasem się zastanowić 
 04/12/2022
 ---
 Ojej sobota też minęła strasznie szybko 🙄. Do południa uczyłem się AWS'a, później pojechaliśmy w gości do Maxima i Nataszy. O 18 młodzieżowe, 20 do domu i później do rodziców na kolację 💩
+
+05/12/2022
+---
+Całkiem inna niedziela niż zazwyczaj mamy 😉. Na poranne nabożeństwo pojechaliśmy do Bielska, później obiad zjedliśmy sami w domu i właściwie całe popołudnie i wieczór spędziliśmy we dwójkę 🥰
+
+06/12/2022
+---
+Zapracowany poniedziałek 🤯. Można powiedzieć, że pracowałem do 19 (z kilkoma przerwami oczywiście), później jeszcze trochę nauki AWSa. I tak minął mój dzień 👈
+
+07/12/2022
+---
+Znów dużo pracy 😳. Wieczorem zaczęła mnie boleć głowa i dalej lekko pobolewa 😢
+
+08/12/2022
+---
+Wczoraj był bardziej spokojny dzień w pracy - dzięki za to Bogu 😇! Z rana jak ostatnio prawie zawsze byłem w sklepie, później praca, w międzyczasie trening. Południem dzwoniłem też do elektryków, żeby dogadać szczegóły. Wieczorem na dół do rodziców i tam wspólna kolacja 👍.
+
+09/12/2022
+---
+Dziś popołudniu wpadła do nas Estera z dziećmi 🙂. Natuś zrobiła pizze 🍕🍕 - było PYSZNIE! Wieczorem poszedłem z Esterą na nabożeństwo, a Natalka została z dziećmi 👊
+
+10/12/2022
+---
+A całkiem dobry piątek 🙂. Pracowałem, zrobiłem trening, spacerowałem z rana 💪. I nawet z listy todo na ten tydzień sporo zrobiłem 😊
+
+11/12/2022
+---
+Nawet fajna sobota była 😋. Właściwie to w domu siedzieliśmy, ale... potrzebuję czasem takich dni, gdzie się trochę izolujemy 💩. Troszkę pracowałem za dnia, a wieczorem wpadł do nas Damian z Domi, przyszedł tato i Kasia z dziećmi i oglądaliśmy meczyk 😁

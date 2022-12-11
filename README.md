@@ -28,27 +28,23 @@ Cele osobiste
 8. 0 Cukru 🎂 (14.11-13.12)
 9. ✅ Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [12/04/2022]
+# [12/11/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 📝 Blog - [podwójny kod śledzenia w GA](https://www.monsterinsights.com/docs/how-to-find-duplicate-google-analytics-tracking-codes-in-wordpress/)
-- [ ] 🏠 Wybrać elektryka
 - [ ] 🏠 Wybrać hydraulika
 - [ ] 🏠 Wybrać ekipę do tynków
-- [ ] 🏠 Przeliczyć kotwy
-- [ ] 💵 Allegro - wykorzystać kod rabatowy
-- [ ] 💵 Scalo - wykorzystać punkty
+- [ ] 🏠 Dach - zamknąć sprawę z Karolem
+- [ ] 🏠 Karol - potwierdzenie klasy betonu na wylanie chudziaka
+- [ ] 🎥 AWS - 3 egzaminy próbne
 - [ ] 🦵 Trening nóg
-- [ ] 📗 Przeczytać [Introducing Spring Modulith](https://spring.io/blog/2022/10/21/introducing-spring-modulith)
-- [ ] 📗 Przeczytać [Kafka Transactions with Spring Boot](https://piotrminkowski.com/2022/10/29/kafka-transactions-with-spring-boot/)
-- [ ] 📗 Przeczytać [Caching](https://java-design-patterns.com/patterns/caching/)
-- [ ] 🎧 Przesłuchać [Dr. Eddie Chang: The Science of Learning & Speaking Languages](https://hubermanlab.com/dr-eddie-chang-the-science-of-learning-and-speaking-languages/)
-- [ ] 🎧 Przesłuchać [Recenzja Firstrade – brokera do amerykańskich ETF, akcji i obligacji](https://inwestomat.eu/recenzja-firstrade/)
-- [ ] 🎧 Przesłuchać [Sprzedaż w czasach kryzysu, czyli jak ciąć koszty, ustalać ceny i co zrobić, żeby zatrzymać przy sobie klientów](https://malawielkafirma.pl/sprzedaz-w-czasach-kryzysu/)
-- [ ] 🎧 Przesłuchać [The Corporate Cult | Preface | Rich Zubaty](https://effortlessenglishshow.com/the-corporate-cult-preface-rich-zubaty)
-- [ ] 🎥 Watch [Kurs AWS. Sekcje 28-30](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- [ ] 📗 Przeczytać [What is the serialVersionUID?](https://www.baeldung.com/java-serial-version-uid)
+- [ ] 📗 Przeczytać [What is a serialVersionUID and why should I use it?](https://stackoverflow.com/questions/285793/what-is-a-serialversionuid-and-why-should-i-use-it)
+- [ ] 📗 Przeczytać [Callback](https://java-design-patterns.com/patterns/callback/#explanation)
+- [ ] 🎧 Przesłuchać [Z klasztoru do świata startupów – Maja Schaefer, ZOWIE](https://zaprojektujswojezycie.pl/z-klasztoru-do-swiata-startupow-maja-schaefer-zowie/)
+- [ ] 🎧 Przesłuchać [POIT #174: Wyzwania HR na najbliższe lata dla branży IT](https://porozmawiajmyoit.pl/poit-174-wyzwania-hr-na-najblizsze-lata-dla-branzy-it/)
+- [ ] 🎧 Przesłuchać [Dr. Layne Norton: The Science of Eating for Health, Fat Loss & Lean Muscle](https://hubermanlab.com/dr-layne-norton-the-science-of-eating-for-health-fat-loss-and-lean-muscle/)
+- [ ] 🎧 Przesłuchać [Najlepsze fundusze ETF na światowe obligacje](https://inwestomat.eu/najlepsze-fundusze-etf-na-swiatowe-obligacje/)
+- [ ] 🎥 Watch [Kurs AWS. Sekcja 33](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak
 - [ ] 🧑‍🎓 Wpisy po angielsku
-- [ ] 🏠 Dach - zamknąć sprawę z Karolem
-- [ ] 🏠 Karol - potwierdzenie klasy betonu na wylanie chudziaka
