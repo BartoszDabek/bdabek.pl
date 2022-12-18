@@ -1317,3 +1317,31 @@ A całkiem dobry piątek 🙂. Pracowałem, zrobiłem trening, spacerowałem z r
 11/12/2022
 ---
 Nawet fajna sobota była 😋. Właściwie to w domu siedzieliśmy, ale... potrzebuję czasem takich dni, gdzie się trochę izolujemy 💩. Troszkę pracowałem za dnia, a wieczorem wpadł do nas Damian z Domi, przyszedł tato i Kasia z dziećmi i oglądaliśmy meczyk 😁
+
+12/12/2022
+---
+Fajna niedziela to była ❄️❄️. Spadło dużoooo sniegu - odśnieżaliśmy i podwórko i plac zborowy 💪. Po południu wpadli do nas Karolina z Gabrysiem, a wieczorem poszliśmy na wieczorowe 😉
+
+13/12/2022
+---
+Dobry poniedziałek 🤗. W pracy było spokojnie :). Dziś kurier przywiózł prezent urodzinowo-świąteczny Natalce - generator pary. Była zadowolona ☺️
+
+14/12/2022
+---
+Dzisiaj trochę trudny dzień 😶. Wieczorem pojechaliśmy do Damiana i tam obejrzeliśmy meczyk ⚽
+
+15/12/2022
+---
+Ten dzień był całkiem dobry do wieczora 🥵. Później Nati zaczęła 😵😵
+
+16/12/2022
+---
+Uhh ciężki to był dzień psychicznie.. 😐. Dziś przyszedł mój fotel, który kupiłem, więc taka radość przynajmniej 😅. Jest inny niż poprzedni i pewnie kilka dni mi zejdzie zanim się przyzwyczaję. Oprócz tego pomagałem jeszcze tacie wrzucić węgiel + byłem na wieczorowym nabożeństwie.
+
+17/12/2022
+---
+Piąąteczeeeek 🫡. Dziś całkiem inaczej niż wczoraj - tym razem był to o wiele lepszy dzień. Natuś jest chora 🤧, ale nie aż tak bardzo 👍
+
+18/12/2022
+---
+Dziś byłem na nartach 🎿 - było zimno, ale fajnie. Do domu wróciłem o 18 - żona czekała na mnie z obiadem ❤️❤️. Byłem bardzo zmęczony!
