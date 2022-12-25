@@ -1345,3 +1345,31 @@ Piąąteczeeeek 🫡. Dziś całkiem inaczej niż wczoraj - tym razem był to o 
 18/12/2022
 ---
 Dziś byłem na nartach 🎿 - było zimno, ale fajnie. Do domu wróciłem o 18 - żona czekała na mnie z obiadem ❤️❤️. Byłem bardzo zmęczony!
+
+19/12/2022
+---
+Jak dla mnie niedziela całkiem spoczko 🤗. Rano nabożeństwo - byłem bez Nati, bo ona chora 🤧. Później obiad z rodzicami i na 16 finał mistrzostw świata. Wpadli Gabryś z Karoliną i było fajnie 😎
+
+20/12/2022
+---
+Z jednej strony dobry poniedziałek, a z drugiej strasznie leniwy 😴. Odwiedziłem dziś Natana w szpitalu, uzupełniłem gaz w butli, wysłałem pompę wodną na gwarancję 🫡. Natomiast w pracy, czuję się jakbym nic dziś nie robił 😨
+
+21/12/2022
+---
+Nati pojechała do Białego więc od 9 do 15 zostałem sam 🫣. Ciężko mi się skupić ostatnio na pracy 🙄🙄. I chciałbym bardziej do tego całego AWSa przysiąść 😮‍💨
+
+22/12/2022
+---
+Aj niby dobry a jednak słaby dzień bo znów z Nati się posprzeczaliśmy. Z tej kłótni to przynajmniej na basen poszedłem 🤫
+
+23/12/2022
+---
+Z samego rana się pogodziliśmy 😊. Dzięki Bogu za to 🙏- bardzo nie lubię stanu, kiedy jesteśmy w kłótni. Byłem dziś u Marka na strzyżeniu, a wieczorem z Natką poszliśmy na wieczorowe nabożeństwo 🫵
+
+24/12/2022
+---
+Pracowity piątek, ale fajnie bo już święta ☺️. Wieczorem zagraliśmy sobie z Nati i Kubą w grę, którą kupiliśmy jakiś czas temu - bardzo fajna 😁
+
+25/12/2022
+---
+Dziś cały dzień robienia czegoś pod święta 🎄🎄. Ogólnie dobry dzień, chociaż nie wiem czy chcę, żeby właśnie tak wyglądały święta 😏

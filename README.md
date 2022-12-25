@@ -11,7 +11,7 @@ Cele osobiste
 
 ## Cele Sportowe 💪🥈
 1. ❌ 50m pod wodą 🏊
-2. ✅ Przebiec 365 km w ciagu roku (408/365) 🏃 ![Progress](https://progress-bar.dev/112/) (24.09)
+2. ✅ Przebiec 365 km w ciagu roku (412/365) 🏃 ![Progress](https://progress-bar.dev/113/) (24.09)
 3. ✅ Przejechac na rowerze 2000 km w ciagu roku (2007/2000) 🚴 ![Progress](https://progress-bar.dev/100/) (24.09)
 4. ❌ 100 kg na nogi 🦵
 5. ✅ 100 kg na klatę 🏋️ (16.04)
@@ -28,22 +28,18 @@ Cele osobiste
 8. ✅ 0 Cukru 🎂 (14.11-13.12)
 9. ✅ Poranny ptaszek - wstawać o 5 rano 🌅 (9.08-7.09)
 
-# [12/18/2022]
+# [12/25/2022]
 ### ⭐ W tym tygodniu:
-- [ ] 🏠 Wybrać hydraulika
-- [ ] 🏠 Wybrać ekipę do tynków
-- [ ] 🎥 AWS - 3 egzaminy próbne
-- [ ] 📗 Przeczytać [Staying JDK: Current in Production](https://www.infoq.com/presentations/java-upgrade-path/)
-- [ ] 📗 Przeczytać [What is CORS?](https://simplelocalize.io/blog/posts/what-is-cors/)
-- [ ] 📗 Przeczytać [Chain of responsibility](https://java-design-patterns.com/patterns/chain-of-responsibility/)
-- [ ] 🎧 Przesłuchać [Episode 101. Allright, let’s talk about Kafka](https://www.javapubhouse.com/2022/11/episode-101-allright-lets-talk-about-kafka.html)
-- [ ] 🎧 Przesłuchać [LIVE EVENT Q&A: Dr. Andrew Huberman Question & Answer in Los Angeles, CA](https://youtu.be/TO0WUTq5zYI)
-- [ ] 🎧 Przesłuchać [POIT #175: Chmura – ucieczka przed rosnącymi kosztami energii?](https://porozmawiajmyoit.pl/poit-175-chmura-ucieczka-przed-rosnacymi-kosztami-energii/)
-- [ ] 🎧 Przesłuchać [Filipa Piechowiaka i Michała Szulca połączyły…podatki, a zaraz potem miłość do nieruchomości.](https://zaprojektujswojezycie.pl/filipa-piechowiaka-i-michala-szulca-polaczyly-podatki-a-zaraz-potem-milosc-do-nieruchomosci/)
-- [ ] 🎥 Watch [Java Collections Puzzlers by Maurice Naftalin And José Paumard](https://youtu.be/w6hhjg_gt_M)
+- [ ] ✍️ Napisać podsumowanie roczne
+- [ ] 📗 Przeczytać [Deep Dive into Saga Transactions with Kafka Streams and Spring Boot](https://piotrminkowski.com/2022/02/07/deep-dive-into-saga-transactions-with-kafka-streams-and-spring-boot/)
+- [ ] 🎧 Przesłuchać [Negocjacje – nauka, a może sztuka? Jacek Słoma, Scotwork Polska](https://zaprojektujswojezycie.pl/negocjacje-nauka-a-moze-sztuka-jacek-sloma-scotwork-polska/)
+- [ ] 🎥 Watch [AWS re:Invent 2022 - Keynote with Dr. Werner Vogels](https://youtu.be/RfvL_423a-I?list=PL2yQDdvlhXf8xcKr0-BHEyg_8VB4tWdu1)
 
 ### Rzeczy na przyszłość 🏅
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak
 - [ ] 🧑‍🎓 Wpisy po angielsku
 - [ ] 🏠 Dach - zamknąć sprawę z Karolem
 - [ ] 🏠 Karol - potwierdzenie klasy betonu na wylanie chudziaka
+- [ ] 🏠 Wybrać hydraulika
+- [ ] 🏠 Wybrać ekipę do tynków
+- [ ] 🎥 AWS - 3 egzaminy próbne
