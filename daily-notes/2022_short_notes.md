@@ -1373,3 +1373,27 @@ Pracowity piątek, ale fajnie bo już święta ☺️. Wieczorem zagraliśmy sob
 25/12/2022
 ---
 Dziś cały dzień robienia czegoś pod święta 🎄🎄. Ogólnie dobry dzień, chociaż nie wiem czy chcę, żeby właśnie tak wyglądały święta 😏
+
+26/12/2022
+---
+Pierwszy dzień świąt minął (jak zawsze) szybko. Usługiwałem na wieczorowym nabożeństwie :)
+
+27/12/2022
+---
+Drugi dzień minął równie szybko 🤫. Moja Nati znów zaczęła gorzej się czuć - ciężko 😒
+
+28/12/2022
+---
+W pracy był dziś kompletny spokój - tak mógłoby być częściej 😁. Nati przychorowała i ja też 🙄. Wieczorem czułem się źle i to była ciężka noc 🤒
+
+29/12/2022
+---
+Dziś przez cały dzień (do 18) źle się czułem 😓. Co prawda wziąłem 2x fervex i było lepiej 😏
+
+30/12/2022
+---
+Poszedłem się przebiec 3km, a później coraz to bardziej bolałało mnie kolano 😓. Wieczorem bardzo mnie bolało 😬
+
+31/12/2022
+---
+Piąteczek i ostatni dzień pracy w banku 🙃. Noga dalej mnie boli 🥺. Dziś natomiast ostatni dzień roku 🥳🥳
