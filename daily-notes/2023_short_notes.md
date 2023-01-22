@@ -53,3 +53,31 @@ Friday was tough 🥵. Once again I had a ton of work todo, but luckily it's Fri
 15/01/2023
 ---
 Saturday was sunny 🥰. I ran 8km overall today - 5.5km to our construction site and 2.5km back (I didn't have strength for more). For dinner my wife made pizza 🍕😊, and in the evening we went to a youth meeting. After the meeting we still went to Piotrek and Zuzia to play a board game 😅.
+
+16/01/2023
+---
+Sunday was really nice 👍. After the morning service we had guests for dinner - Damian and Dominika. We had a very good dinner and then played a board game. Then I went to the evening service and Natala stayed with the girls.
+
+17/01/2023
+---
+The beginning of the week 🥳💪. I did a few things on the list today and a workout 👊. In the evening my wife and I planned the electrics in our new house 🏠.
+
+18/01/2023
+---
+Tuesday was ok, but I didn't do a leg workout 😤😤. I had a little stroll in the morning and spent the rest of the day at home. In the evening, my wife and I went to evening prayer at church 🙏.
+
+19/01/2023
+---
+Today I did a total of 500 steps 😑. I had plans to go to our house building place, but it rained most of the day.. 😒
+
+20/01/2023
+---
+We caroled with neighboring churches today at the hospital 🔥. After that we went to Samuel ☺️.
+
+21/01/2023
+---
+I did a lot of work today 🤫. I did my workout and (of course) my daily stretching 🧘. My dad is back from the hospital 🥳🤗!
+
+22/01/2023
+---
+We spent this saturday at home 🏠. I helped my dad a little, went for a 5km run and spent time with my wife 😊.

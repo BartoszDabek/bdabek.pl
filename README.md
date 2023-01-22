@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (20/365) 🏃 ![Progress](https://progress-bar.dev/5/)
+2. Run 365 km (25/365) 🏃 ![Progress](https://progress-bar.dev/6/)
 3. Cycle 2000 km (0/2000) 🚴 ![Progress](https://progress-bar.dev/0/)
 4. Master the Handstand 🤸
 5. 100 kg bench press  🏋️
@@ -26,23 +26,22 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. Stretching 🧘 (15.01-14.02)
 
-# [01/15/2023]
+# [01/22/2023]
 ### ⭐ This week:
-- [ ] 🏠 Wybrać hydraulika
+- [ ] 🏠 Choose a plumber
 - [ ] 💵 IKE
-- [ ] 🎥 AWS - 1 exam
-- [ ] 🏦 Open promotion bank account
-- [ ] 📗 Read [When to Use jOOQ and When to Use Native SQL](https://blog.jooq.org/when-to-use-jooq-and-when-to-use-native-sql/)
-- [ ] 📗 Read [Spring Boot – Annotation Reference – 01/b](https://foojay.io/today/spring-boot-annotation-reference-01-b/)
-- [ ] 📗 Read [Circuit Breaker](https://java-design-patterns.com/patterns/circuit-breaker/)
-- [ ] 🎧 Listen [Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad… The Biggest Object in Metascience (#637)](https://tim.blog/2022/11/24/stephen-wolfram/)
-- [ ] 🎧 Listen [Szymon Janiak: „Fundusz VC nie zrobi biznesu za Ciebie”](https://zaprojektujswojezycie.pl/szymon-janiak-fundusz-vc-nie-zrobi-biznesu-za-ciebie/)
-- [ ] 🎧 Listen [POIT #177: Drukarki i ich nowoczesne rozwiązania technologiczne](https://porozmawiajmyoit.pl/poit-177-drukarki-i-ich-nowoczesne-rozwiazania-technologiczne/)
-- [ ] 🎧 Listen [#52 Patoarchitekci Short #11](https://patoarchitekci.io/52/)
-- [ ] 🎥 Watch [Java Networking Enhancements since JDK 11](https://youtu.be/GPmeFv8t66E)
+- [ ] 📗 Read [Spring Boot – Annotation Reference – 01/a](https://foojay.io/today/spring-boot-annotation-reference-01-a/)
+- [ ] 📗 Read [Java InfoQ Trends Report - December 2022](https://www.infoq.com/articles/java-jvm-trends-2022/)
+- [ ] 📗 Read [Client Session Pattern](https://java-design-patterns.com/patterns/client-session/)
+- [ ] 🎧 Listen [POIT #178: Rola urządzeń UTM w bezpieczeństwie cyfrowym](https://porozmawiajmyoit.pl/poit-178-rola-urzadzen-utm-w-bezpieczenstwie-cyfrowym/)
+- [ ] 🎧 Listen [Opłata depozytowa w BM mBanku i najnowsza „promocja”. Wyprowadzać się czy zostać?](https://inwestomat.eu/oplata-depozytowa-w-bm-mbanku-i-najnowsza-promocja/)
+- [ ] 🎧 Listen [45. O testowalności oprogramowania z Kamilem Grzybkiem](https://bettersoftwaredesign.pl/episodes/45)
+- [ ] 🎧 Listen [Innowacje powinny przekładać się na realną wartość dla klienta – Grzegorz Pawlicki, Europa Ubezpieczenia](https://zaprojektujswojezycie.pl/innowacje-powinny-przekladac-sie-na-realna-wartosc-dla-klienta-grzegorz-pawlicki-europa-ubezpieczenia/)
+- [ ] 🎥 Watch [Programmer's Guide to JDK Flight Recorder](https://youtu.be/K1ApBZGiT-Y)
 
 ### 🏅 In the future 
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak
 - [ ] 🏠 Dach - zamknąć sprawę z Karolem
 - [ ] 🏠 Karol - potwierdzenie klasy betonu na wylanie chudziaka
 - [ ] 🏠 Wybrać ekipę do tynków
+- [ ] 🎥 AWS - 1 exam
