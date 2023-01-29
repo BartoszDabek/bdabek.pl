@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (25/365) 🏃 ![Progress](https://progress-bar.dev/6/)
+2. Run 365 km (37/365) 🏃 ![Progress](https://progress-bar.dev/10/)
 3. Cycle 2000 km (0/2000) 🚴 ![Progress](https://progress-bar.dev/0/)
 4. Master the Handstand 🤸
 5. 100 kg bench press  🏋️
@@ -26,18 +26,19 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. Stretching 🧘 (15.01-14.02)
 
-# [01/22/2023]
+# [01/29/2023]
 ### ⭐ This week:
+- [ ] 🏦 Close bank account
 - [ ] 🏠 Choose a plumber
-- [ ] 💵 IKE
-- [ ] 📗 Read [Spring Boot – Annotation Reference – 01/a](https://foojay.io/today/spring-boot-annotation-reference-01-a/)
-- [ ] 📗 Read [Java InfoQ Trends Report - December 2022](https://www.infoq.com/articles/java-jvm-trends-2022/)
-- [ ] 📗 Read [Client Session Pattern](https://java-design-patterns.com/patterns/client-session/)
-- [ ] 🎧 Listen [POIT #178: Rola urządzeń UTM w bezpieczeństwie cyfrowym](https://porozmawiajmyoit.pl/poit-178-rola-urzadzen-utm-w-bezpieczenstwie-cyfrowym/)
-- [ ] 🎧 Listen [Opłata depozytowa w BM mBanku i najnowsza „promocja”. Wyprowadzać się czy zostać?](https://inwestomat.eu/oplata-depozytowa-w-bm-mbanku-i-najnowsza-promocja/)
-- [ ] 🎧 Listen [45. O testowalności oprogramowania z Kamilem Grzybkiem](https://bettersoftwaredesign.pl/episodes/45)
-- [ ] 🎧 Listen [Innowacje powinny przekładać się na realną wartość dla klienta – Grzegorz Pawlicki, Europa Ubezpieczenia](https://zaprojektujswojezycie.pl/innowacje-powinny-przekladac-sie-na-realna-wartosc-dla-klienta-grzegorz-pawlicki-europa-ubezpieczenia/)
-- [ ] 🎥 Watch [Programmer's Guide to JDK Flight Recorder](https://youtu.be/K1ApBZGiT-Y)
+- [ ] 🍳 Omelette
+- [ ] 📗 Read [Everything You Need To Know About Microservices Design Patterns](https://www.edureka.co/blog/microservices-design-patterns)
+- [ ] 📗 Read [The quest for REST](https://blog.frankel.ch/quest-for-rest/)
+- [ ] 📗 Read [Collecting Parameter](https://java-design-patterns.com/patterns/collecting-parameter/)
+- [ ] 🎧 Listen [Dr. Lex Fridman: Navigating Conflict, Finding Purpose & Maintaining Drive](https://hubermanlab.com/dr-lex-fridman-navigating-conflict-finding-purpose-and-maintaining-drive/)
+- [ ] 🎧 Listen [Krzysztof Wojewodzic – człowiek od e-learningu](https://zaprojektujswojezycie.pl/krzysztof-wojewodzic-czlowiek-od-e-learningu/)
+- [ ] 🎧 Listen [#53 Patoarchitekci Short #12](https://patoarchitekci.io/53/)
+- [ ] 🎧 Listen [Jak radzić sobie w sytuacji, kiedy klient odrzuca twoją ofertę? Są sposoby na to, żeby się nie zdołować i działać dalej](https://malawielkafirma.pl/jak-sobie-radzic-z-odrzuceniem-przez-klienta/)
+- [ ] 🎥 Watch [The Lost Art of Software Design • Simon Brown • Devoxx Poland 2022](https://youtu.be/nu5MOhsYFaU)
 
 ### 🏅 In the future 
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak

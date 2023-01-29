@@ -81,3 +81,31 @@ I did a lot of work today 🤫. I did my workout and (of course) my daily stretc
 22/01/2023
 ---
 We spent this saturday at home 🏠. I helped my dad a little, went for a 5km run and spent time with my wife 😊.
+
+23/01/2023
+---
+Sunday was fine, but our mood was pretty BAD 🤫🥴. We were at Emma's birthday party and also at 2 services in Hajnówka.
+
+24/01/2023
+---
+Good Monday 👍👍. I did a few things on the list for this week 🙃. I did a workout, and in the evening with my wife and brother we played a board game 🤛.
+
+25/01/2023
+---
+Once again I had a good day 👊. Nati went for studies in Bialystok and I stayed home alone 👀. The only downside of the day is that I only took about 1k steps 😟.
+
+26/01/2023
+---
+I ran 5km today 🏃. It was tough 🥵, but I made it! I did almost everything I could from the list. At our construction site, the builders have been putting up walls inside since the beginning of this week 👷.
+
+27/01/2023
+---
+Today with my wife we tried to run, but after 400m we finished ☹️. It wasn't a good run and idea 🤫.
+
+28/01/2023
+---
+It's Friday <3! This day  was quite busy, but thanks God it' over now! I ran 7km today with a friend 🙂.
+
+29/01/2023
+---
+Saturday was ok 👍. In the morning I helped my parents clean the church. Then I did some work and spent time with my wife 🥰. In the evening I went to a youth meeting at our church. Finally afterwards we played a board game with Karolina, Gabrys and Kuba 😁.
