@@ -109,3 +109,31 @@ It's Friday <3! This day  was quite busy, but thanks God it' over now! I ran 7km
 29/01/2023
 ---
 Saturday was ok 👍. In the morning I helped my parents clean the church. Then I did some work and spent time with my wife 🥰. In the evening I went to a youth meeting at our church. Finally afterwards we played a board game with Karolina, Gabrys and Kuba 😁.
+
+30/01/2023
+---
+Good Sunday 🤛. I went to church twice - in the morning and in the evening 🙏 and I don't regret this time 🤗. I also went to the swimming pool with my cousin and friend. In the evening we had guests - 6 people came and we played a board game.
+
+31/01/2023
+---
+I spent most of the day at home and worked 🖐. I did a workout and in the evening I went shopping and did 5k+ steps 👍.
+
+01/02/2023
+---
+January passed quickly 👀. I ran 5km today. My wife and I went to evening prayer at the church 🙏.
+
+02/02/2023
+---
+Tough day 🤯. From the morning until the very evening I had something to do. In addition to my daily job, I worked with my dad on construction site, and also helped something in the yard 💪🤝. 
+
+03/02/2023
+---
+Today I almost forgot about stretching 😦. Fortunately, I somehow remembered and did stretching at 11 PM 😂. Overall it was a good day. In the evening after the service we went to Damian, Sylwia and Kamil to play a board game.
+
+04/02/2023
+---
+It was a really good day 😊. I worked until 4PM and then we went to Grzegorz birthdays party 🥳.
+
+05/02/2023
+---
+Saturday was fine 👍. I worked a bit, ran 5km, did a few things at the construction site and was at evening prayer 👊.
