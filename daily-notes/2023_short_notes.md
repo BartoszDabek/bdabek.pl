@@ -137,3 +137,31 @@ It was a really good day 😊. I worked until 4PM and then we went to Grzegorz b
 05/02/2023
 ---
 Saturday was fine 👍. I worked a bit, ran 5km, did a few things at the construction site and was at evening prayer 👊.
+
+06/02/2023
+---
+Ohh boy it wasn't a good Sunday 🥵. I had a bit of an argument with Natalia and it's always bad 😓.
+
+07/02/2023
+---
+Today my Natalie became an engineer 🥳👏. In the morning we were together in Bialystok and in the evening we ordered pizza and celebrated together with our family 🍕.
+
+08/02/2023
+---
+I ran 5km today and in the evening my wife and I went to Kardasze to play a board game.
+
+09/02/2023
+---
+Gracjan and Laura visited us today (whole house). We had a nice evening 👍.
+
+10/02/2023
+---
+Mentally tough day 😞. God help me be better 🙏.
+
+11/02/2023
+---
+Friday was quite ok 👍. In the evening We had guests - Piotrek, Zuzia and their kids 👪.
+
+12/02/2023
+---
+Ohh Saturday 🤗. I always regret that it passes so quickly 😭. I worked a bit today, helped my wife with a few things and was at youth meeting in the church 💩.
