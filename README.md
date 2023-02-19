@@ -24,23 +24,21 @@ Personal Goals
 6. Cycling 🚲
 7. 5 AM 🌅
 8. Breath holding 😮‍💨
-9. Stretching 🧘 (15.01-14.02)
+9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [02/12/2023]
+# [02/19/2023]
 ### ⭐ This week:
 - [ ] 🏛️ PIT - stocks + work
-- [ ] 🎁 Birthday gift for mom
-- [ ] 🎥 AWS - 1 exam
 - [ ] 📗 Read [Async-profiler - manual by use cases](https://krzysztofslusarski.github.io/2022/12/12/async-manual.html)
-- [ ] 📗 Read [Narzędzia wiersza poleceń, które ułatwią Ci życie](https://bulldogjob.pl/readme/narzedzia-wiersza-polecen-ktore-ulatwia-ci-zycie)
-- [ ] 📗 Read [Command](https://java-design-patterns.com/patterns/command/)
-- [ ] 🎧 Listen [148: Package Management with Max Howell](https://www.programmingthrowdown.com/2022/12/148-package-management-with-max-howell.html)
-- [ ] 🎧 Listen [46. O testowaniu mutacyjnym z Marcinem Zajączkowskim](https://bettersoftwaredesign.pl/episodes/46)
-- [ ] 🎧 Listen [Sesja Q&A Inwestomat (12.2022) - Część 2: FIRE, emerytura, gospodarka i polityka](https://youtu.be/FiCqTK4o6gI)
-- [ ] 🎧 Listen [LIVE EVENT Q&A: Dr. Andrew Huberman Question & Answer in New York, NY](https://youtu.be/uwWOc_RqTBA)
+- [ ] 📗 Read [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
+- [ ] 🎧 Listen [The BEST Education | Find Your Purpose and Homeschool](https://effortlessenglishshow.com/the-best-education-find-your-purpose-and-homeschool)
+- [ ] 🎧 Listen [Chcesz być specjalistą, który ma wysokie stawki i może wybierać sobie klientów? Rób to, czego nie robią inni, a szybciej się wybijesz](https://malawielkafirma.pl/jak-zostac-dobrze-zarabiajacym-ekspertem/)
+- [ ] 🎧 Listen [POIT #182: IP Box – większa korzyść czy ryzyko?](https://porozmawiajmyoit.pl/poit-182-ip-box-wieksza-korzysc-czy-ryzyko/)
+- [ ] 🎧 Listen [47. O nauce DDD i bi-temporalnych eventach domenowych z Andrzejem Krzywdą](https://bettersoftwaredesign.pl/episodes/47)
 - [ ] 🎥 Watch [IntelliJ Super Productivity in 45 Minutes](https://youtu.be/pX2jyeWs1qw)
 
 ### 🏅 In the future 
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak
 - [ ] 🏠 Dach - zamknąć sprawę z Karolem
 - [ ] 🏠 Wybrać ekipę do tynków
+- [ ] 🎥 AWS - 1 exam

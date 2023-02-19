@@ -165,3 +165,27 @@ Friday was quite ok 👍. In the evening We had guests - Piotrek, Zuzia and thei
 12/02/2023
 ---
 Ohh Saturday 🤗. I always regret that it passes so quickly 😭. I worked a bit today, helped my wife with a few things and was at youth meeting in the church 💩.
+
+13/02/2023
+---
+Sunday was VERY good 🤗. It was very sunny today ☀️, and thanks to that our moods were positive ❤️.
+
+15/02/2023
+---
+I missed one day, but I have a real reason for it - I had a business trip to Warsaw. We had a mongodb workshops. The plan was to stay there for two days, but the hotel was so lousy, so I decided to go home early 🙂.
+
+16/02/2023
+---
+I slept very long today 🥱 - until 8 am. I was really exhausted after yesterday 🥵. Today I worked, worked and worked 😅.
+
+17/02/2023
+---
+It had been a long day and I felt really tired 🤯. I ate 2 donuts because we had donut day in Poland. In the evening, after the service, we helped sing for Lukasz.
+
+18/02/2023
+---
+Friday ☺️. I worked a lot today :-(. Fortunately, I found some time for workout 💪.
+
+19/02/2023
+---
+Saturday was ok 👍. We're singing in church tomorrow and we had rehearsal today 😉.
