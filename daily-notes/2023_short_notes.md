@@ -189,3 +189,31 @@ Friday ☺️. I worked a lot today :-(. Fortunately, I found some time for work
 19/02/2023
 ---
 Saturday was ok 👍. We're singing in church tomorrow and we had rehearsal today 😉.
+
+20/02/2023
+---
+We celebrated my mom birthday today 🥳. It was a nice family reunion 🙂.
+
+21/02/2023
+---
+Monday was quite ok :). At work, I think I did all I could! I also managed to do a workout between work 💪.
+
+22/02/2023
+---
+Tonight our whole house gathered on the middle floor. Kasia and Kuba invited Samuel's family - we had a good time.
+
+23/02/2023
+---
+I ran almost 6km today 🏃. In the evening we had guests - Damian, Sylwia and Kamil - and we played board game.
+
+24/02/2023
+---
+I walked over 10k steps today 😁. In the evening we were at the church for a service.
+
+25/02/2023
+---
+It's Friday 🤗. And weekend has begun 👍. After work, I went for a run with my friend and we did 7.5 km 💪. In the evening I was praying in the church :).
+
+26/02/2023
+---
+Saturday was ok 👍. I walked a bit in the morning and then worked. In the evening I went to a youth meeting and it was nice. 
