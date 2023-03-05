@@ -217,3 +217,30 @@ It's Friday 🤗. And weekend has begun 👍. After work, I went for a run with 
 26/02/2023
 ---
 Saturday was ok 👍. I walked a bit in the morning and then worked. In the evening I went to a youth meeting and it was nice. 
+27/02/2023
+---
+Ehh Sunday Sunday 🙄 - it was mentally tough day.
+
+28/02/2023
+---
+It's already the last day of February 😬! Time flies by 🤔. Today I worked very long and I have a very nagging pain in my left shoulder. I didn't even do the bench press today because of the pain.
+
+01/03/2023
+---
+I completed my second 30 day challenge this year - eat 3300+ kcal 🍌🍌. It was quite fun, but hard at sometimes 😆.
+
+02/03/2023
+---
+Wednesday went pretty well 👍. I started a new 30 day challenge - running everyday 🏃.
+
+03/03/2023
+---
+It was another pretty good day 😉. In the evening we were at the church for a service.
+
+04/03/2023
+---
+And it's Friday again 👈. In the evening we went to Piotrek and Zuzia.
+
+05/03/2023
+---
+Saturday passed very quickly 😏. I spent most of Saturday at work 😶 - that's not good :<

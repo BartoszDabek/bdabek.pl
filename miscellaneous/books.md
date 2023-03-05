@@ -14,9 +14,12 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistó - Robert C. Martin
+- [ ] Effective Java 3rd Edition
 
 ## ⭐ Books read 
+### ✅ 2023
+- [x] Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistó - Robert C. Martin
+
 ### ✅ 2022
 - [x] Getting Things Done - David Allen
 - [x] Prawy Umysł - Jonathan Haidt (Przeczytałem kilka rozdziałów - całkowicie nie w moim stylu)
