@@ -244,3 +244,31 @@ And it's Friday again 👈. In the evening we went to Piotrek and Zuzia.
 05/03/2023
 ---
 Saturday passed very quickly 😏. I spent most of Saturday at work 😶 - that's not good :<
+
+06/03/2023
+---
+Sunday was normal - we attended both services. After the morning service we had dinner guests - Lukas, Diana and Marcel 🙂
+
+07/03/2023
+---
+We had guests in the evening - Kamil and Iza 🙂.
+
+08/03/2023
+---
+Tuesday was calm 👊. Nothing extraordinary happened 👀.
+
+09/03/2023
+---
+Today is woman's day today. I bought my wife a rose and took her to Bielsk for dinner 🙂.
+
+10/03/2023
+---
+I struggled with the decision today whether to go running or not 😣 - luckily I did 🫡.
+
+11/03/2023
+---
+And another Friday 🤗. Today my wife made me a delicious breakfast ☺️ and pizza for dinner!
+
+12/03/2023
+---
+It was a day full of actions! In the morning we cleaned the church and then we went to Bialystok for a Christian conference 🙂. My left arm hurt terribly during the conference and after returning home 😥.
