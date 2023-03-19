@@ -272,3 +272,31 @@ And another Friday 🤗. Today my wife made me a delicious breakfast ☺️ and 
 12/03/2023
 ---
 It was a day full of actions! In the morning we cleaned the church and then we went to Bialystok for a Christian conference 🙂. My left arm hurt terribly during the conference and after returning home 😥.
+
+13/03/2023
+---
+We had a lot of guests today on coffee ☕ - Vlad with Rozi (and kids), Gabrys with Karolina, Kuba with Kasia and finally Daniel.
+
+14/03/2023
+---
+Ahh Monday 🫣. Bogdan and Damian visited us during  work and it was hard to work today 🤫.
+
+15/03/2023
+---
+Tuesday and once again we had guests. This time Marek with Daria and their children 🙂. Me and Marek went for a run before we met 💪.
+
+16/03/2023
+---
+I'm proud of myself - I finally called people to talk about our construction and arrange dates.
+
+17/03/2023
+---
+Thursday - normal day. In the evening we went to the service and after that we had a singing rehearsal 👊.
+
+18/03/2023
+---
+And again it's Friday 🥳. I want to serve God but it's hard!
+
+19/03/2023
+---
+We had quite nice youth meeting in the evening 👍.
