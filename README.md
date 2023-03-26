@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (131/365) 🏃 ![Progress](https://progress-bar.dev/36/)
-3. Cycle 2000 km (0/2000) 🚴 ![Progress](https://progress-bar.dev/0/)
+2. Run 365 km (159/365) 🏃 ![Progress](https://progress-bar.dev/43/)
+3. Cycle 2000 km (29/2000) 🚴 ![Progress](https://progress-bar.dev/1/)
 4. Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 kroków steps 🚶
@@ -26,17 +26,17 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [03/19/2023]
+# [03/26/2023]
 ### ⭐ This week:
 - [ ] 🏠 Dogadać szczegóły z Majkim
-- [ ] 📗 Read [Tworzenie klas-potworków z wykorzystaniem Lomboka](https://devcezz.pl/2023/03/10/tworzenie-klas-potworkow-z-wykorzystaniem-lomboka/)
-- [ ] 📗 Read [Java's Collections Framework Gets a Makeover with New Sequenced Collection Types](https://www.infoq.com/news/2023/03/collections-framework-makeover/)
-- [ ] 📗 Read [Converter](https://java-design-patterns.com/patterns/converter/)
-- [ ] 🎧 Listen [James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writing and Launching a Mega-Bestseller, Finding Leverage, and More (#648)](https://tim.blog/2023/01/06/james-clear-atomic-habits/)
-- [ ] 🎧 Listen [How You Can Live Longer and Be In Shape In Only 30 Minutes A Day (TPS438)](https://www.asianefficiency.com/podcasts/438-bert-massey-fitness/#)
-- [ ] 🎧 Listen [Where to FIND HAPPINESS THIS YEAR](https://effortlessenglishshow.com/where-to-find-happiness-this-year)
-- [ ] 🎧 Listen [50. O implementacji logiki biznesowej z Decider Pattern z Oskarem Dudyczem](https://bettersoftwaredesign.pl/episodes/50)
-- [ ] 🎥 Watch [Building a Real-Time Analytics Database • Tim Berglund • Devoxx Poland 2022](https://youtu.be/7o3rEEmPYek)
+- [ ] 📗 Read [How neuroscience can help you as a software engineer - motivation](https://blog.allegro.tech/2023/03/neuroscience-for-software-engineers-motivation.html)
+- [ ] 📗 Read [Java 20 już dostępna. Sprawdź, co nowego](https://bulldogjob.pl/readme/java-20-juz-dostepna-sprawdz-co-nowego)
+- [ ] 📗 Read [CQRS](https://java-design-patterns.com/patterns/cqrs/)
+- [ ] 🎧 Listen [English Lesson | Pride Leads To A Fall](https://effortlessenglishshow.com/english-lesson-pride-leads-to-a-fall)
+- [ ] 🎧 Listen [#57 Patoarchitekci Short #15](https://patoarchitekci.io/57/)
+- [ ] 🎧 Listen [Alina Sztoch: Gombrowicz chodziłby w Kubotach](https://zaprojektujswojezycie.pl/alina-sztoch-gombrowicz-chodzilby-w-kubotach/)
+- [ ] 🎧 Listen [Jak stworzyć globalny portfel dywidendowy z funduszy ETF? Ranking ETF-ów dywidendowych](https://inwestomat.eu/jak-stworzyc-globalny-portfel-dywidendowy-z-funduszy-etf/)
+- [ ] 🎥 Watch [Linux Terminal — Boost Your Efficiency! • Daniel Pokusa • Devoxx Poland 2022](https://youtu.be/ttWrQSqnBAo)
 
 ### 🏅 In the future 
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak

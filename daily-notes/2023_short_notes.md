@@ -300,3 +300,31 @@ And again it's Friday 🥳. I want to serve God but it's hard!
 19/03/2023
 ---
 We had quite nice youth meeting in the evening 👍.
+
+20/03/2023
+---
+We spent Sunday in Reduty ☺️. It was nice :).
+
+21/03/2023
+---
+The weather was very nice today. In the evening we attended a funeral service, and later Damian and Kamil with Sylwia came to visit us.
+
+22/03/2023
+---
+We were at a funeral today. In addition, we drove chimneys for bricklaying to the construction site. Our house is almost completely bricked up 🙂.
+
+23/03/2023
+---
+I consider the cycling season to be open 😍. My wife and I cycled 12 km today 🥳!
+
+24/03/2023
+---
+Today we cycled once again 🚴. In addition I have a running challenge and today was hard, but I managed to run 4km 💪.
+
+25/03/2023
+---
+Ahh Friday 🫠. We watched football match today's evening altogether with Damian ⚽.
+
+26/03/2023
+---
+A busy Saturday! In the morning we transported the heat pump, then we transported the chimneys to the construction site, then a meeting with the electrician, cleaning the house, a singing rehearsal, a youth meeting and at the end we still went to play a board game at Gancarze 🙂 .
