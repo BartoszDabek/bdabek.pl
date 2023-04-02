@@ -328,3 +328,31 @@ Ahh Friday 🫠. We watched football match today's evening altogether with Damia
 26/03/2023
 ---
 A busy Saturday! In the morning we transported the heat pump, then we transported the chimneys to the construction site, then a meeting with the electrician, cleaning the house, a singing rehearsal, a youth meeting and at the end we still went to play a board game at Gancarze 🙂 .
+
+27/03/2023
+---
+We sang in church today. After morning service we ate dinner at home and afterwards went for a coffee meeting in church with few other marriages 👍.
+
+28/03/2023
+---
+Monday was very busy 😓. I was running and working out, but work was overwhelming me.
+
+29/03/2023
+---
+Today was very similar to yesterday. I worked a lot 😎.
+
+30/03/2023
+---
+We ate waffles tonight 🧇❤️.
+
+31/03/2023
+---
+Ordinary day 🤨. In the evening I went to the service.
+
+01/04/2023
+---
+Time flies fast, it's already April! Work and work most of the day today...
+
+02/04/2023
+---
+I really like Saturdays ❤️. I was working on a construction site today - I was carrying some pallets and pouring water.

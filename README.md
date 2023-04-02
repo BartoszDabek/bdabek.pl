@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (159/365) 🏃 ![Progress](https://progress-bar.dev/43/)
+2. Run 365 km (189/365) 🏃 ![Progress](https://progress-bar.dev/51/)
 3. Cycle 2000 km (29/2000) 🚴 ![Progress](https://progress-bar.dev/1/)
 4. Master the Handstand 🤸
 5. 100 kg bench press  🏋️
@@ -26,19 +26,19 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [03/26/2023]
+# [04/02/2023]
 ### ⭐ This week:
-- [ ] 🏠 Dogadać szczegóły z Majkim
-- [ ] 📗 Read [How neuroscience can help you as a software engineer - motivation](https://blog.allegro.tech/2023/03/neuroscience-for-software-engineers-motivation.html)
-- [ ] 📗 Read [Java 20 już dostępna. Sprawdź, co nowego](https://bulldogjob.pl/readme/java-20-juz-dostepna-sprawdz-co-nowego)
-- [ ] 📗 Read [CQRS](https://java-design-patterns.com/patterns/cqrs/)
-- [ ] 🎧 Listen [English Lesson | Pride Leads To A Fall](https://effortlessenglishshow.com/english-lesson-pride-leads-to-a-fall)
-- [ ] 🎧 Listen [#57 Patoarchitekci Short #15](https://patoarchitekci.io/57/)
-- [ ] 🎧 Listen [Alina Sztoch: Gombrowicz chodziłby w Kubotach](https://zaprojektujswojezycie.pl/alina-sztoch-gombrowicz-chodzilby-w-kubotach/)
-- [ ] 🎧 Listen [Jak stworzyć globalny portfel dywidendowy z funduszy ETF? Ranking ETF-ów dywidendowych](https://inwestomat.eu/jak-stworzyc-globalny-portfel-dywidendowy-z-funduszy-etf/)
-- [ ] 🎥 Watch [Linux Terminal — Boost Your Efficiency! • Daniel Pokusa • Devoxx Poland 2022](https://youtu.be/ttWrQSqnBAo)
+- [ ] 🎥 AWS learning (20 minutes daily)
+- [ ] 📗 Read [Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
+- [ ] 📗 Read [Think twice before using an object mapping library to get your DTOs](https://thorben-janssen.com/object-mapper-dto/)
+- [ ] 📗 Read [Currying](https://java-design-patterns.com/patterns/currying/)
+- [ ] 🎧 Listen [5 AI Tools To Save Time And Be 100X More Efficient (TPS441)](https://www.asianefficiency.com/podcasts/441-ai-tools/)
+- [ ] 🎧 Listen [Męskie zdrowie – jak o nie dbać?](https://zaprojektujswojezycie.pl/meskie-zdrowie-jak-o-nie-dbac/)
+- [ ] 🎧 Listen [Webinary przestały sprzedawać? Są rzeczy, które możesz poprawić, żeby webinary znów przyprowadzały ci klientów](https://malawielkafirma.pl/jak-sprzedawac-lepiej-dzieki-webinarom/)
+- [ ] 🎧 Listen [#60 O GitOps na luźno](https://patoarchitekci.io/60/)
+- [ ] 🎧 Listen [Inteligentny Inwestor – Jak inwestować w 2023 roku?](https://zaprojektujswojezycie.pl/inteligentny-inwestor-jak-inwestowac-w-2023-roku/)
+- [ ] 🎥 Watch [How much AI is in AI Engineering • Anna Filipiak • Devoxx Poland 2022](https://youtu.be/PN0pzi7Gn18)
 
 ### 🏅 In the future 
 - [ ] 🥶 Klimatyzacja - dowiedzieć się co i jak
 - [ ] 🏠 Dach - zamknąć sprawę z Karolem
-- [ ] 🎥 AWS - 1 exam
