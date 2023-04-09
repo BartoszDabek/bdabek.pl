@@ -356,3 +356,31 @@ Time flies fast, it's already April! Work and work most of the day today...
 02/04/2023
 ---
 I really like Saturdays ❤️. I was working on a construction site today - I was carrying some pallets and pouring water.
+
+03/04/2023
+---
+Ahh Sunday 😉. In the morning we were at the church and after that we ate delicious lunch 😊. Then we stayed on the floor below and later my in-laws came.
+
+04/04/2023
+---
+Today we were in Bielsk. We had to arrange one change with the architect and by the way we went to make a valuation of windows for the house 🪟.
+
+05/04/2023
+---
+It was normal Tuesday 👍. In the morning I felt like a bit sick, but during the day I felt better and it's ok now 😊.
+
+06/04/2023
+---
+We measured windows today and we have to make final decisions in days - where, which window should go. There was some unnecessary clash with parents about this 🤨.
+
+07/04/2023
+---
+Tonight we had a service of remembrance of the death of the Lord Jesus.
+
+08/04/2023
+---
+Today we finally chose and signed a contract for windows, roller blinds, garage door and external door to the house 🏠.
+
+09/04/2023
+---
+The day before the holiday. I didn't do anything extraordinary today 😏.
