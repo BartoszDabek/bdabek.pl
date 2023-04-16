@@ -384,3 +384,31 @@ Today we finally chose and signed a contract for windows, roller blinds, garage 
 09/04/2023
 ---
 The day before the holiday. I didn't do anything extraordinary today 😏.
+
+10/04/2023
+---
+The first day of the resurrection of the Lord Jesus is behind us. We were able to attend both services and spend time together with the family in between ☺️.
+
+11/04/2023
+---
+Easter holidays are over 😏. Today we had a lot of movement because we went with Gabrys and Michałek to Białowieża, and then we took a walk on our estate 😁.
+
+12/04/2023
+---
+The first day of work after Easter and immediately a success - we managed to upgrade the spring version 🤗🤗.
+
+13/04/2023
+---
+I was running in the morning as usual. Later I worked, went cycling with my wife, did some shopping, then work again and the whole day flew by 🫣.
+
+14/04/2023
+---
+I had to go pick up my brother-in-law in Białystok today at 11 pm 🥵
+
+15/04/2023
+---
+In the evening we had guests and later my wife was angry with me because apparently I was rude 😏
+
+16/04/2023
+---
+Saturday was like 2/10 😏. I worked a bit, I was on a construction plot, I ran and in the evening I was at a youth meeting 👍.
