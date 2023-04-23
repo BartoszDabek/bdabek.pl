@@ -412,3 +412,31 @@ In the evening we had guests and later my wife was angry with me because apparen
 16/04/2023
 ---
 Saturday was like 2/10 😏. I worked a bit, I was on a construction plot, I ran and in the evening I was at a youth meeting 👍.
+
+17/04/2023
+---
+The first day of the second Easter. We were in Reduty all day with the whole family from my wife's side 👍.
+
+18/04/2023
+---
+The second day of Easter is behind us 👍. Today we only had lunch in Reduty, because I had to be at work until 3 pm.
+
+19/04/2023
+---
+Today we went out with Natalia and Damian on bikes 🚲 and rode a total of 26 km 👍.
+
+20/04/2023
+---
+The end of the running challenge 🏆🏃! It was hard at times but I made it 😇.
+
+21/04/2023
+---
+It was sunny today ☀️👊. My wife and I rode bikes to the forest and had an unexpected close encounter with a bison 🦬.
+
+22/04/2023
+---
+Another nice and sunny day 😊. Today once again, we went cycling with my wife 💪, but this time without any surprises like day before 😁.
+
+23/04/2023
+---
+Beautiful Saturday 😇! It was sunny and quite warm so my wife and I went for a bike ride 😁.
