@@ -440,3 +440,31 @@ Another nice and sunny day 😊. Today once again, we went cycling with my wife 
 23/04/2023
 ---
 Beautiful Saturday 😇! It was sunny and quite warm so my wife and I went for a bike ride 😁.
+
+24/04/2023
+---
+Good Sunday 🤗. We were at the Piotrowscy (and Kardasze) barbecue 🍖🍖
+
+25/04/2023
+---
+It was intense at work today 🤯. Around 6 pm I went on a bike and did 28 km 🚴.
+
+26/04/2023
+---
+Today was just a normal day. I cycled 14km and worked for late hours 🙄.
+
+27/04/2023
+---
+It was raining in the morning, so from morning to 6 pm I was sitting at home and I was angry 😡. Later I managed to go out with Marek and run 8.5 km 😉 and I ran out of all the bad emotions.
+
+28/04/2023
+---
+I think it was normal day 👍. In the evening we went to the service 🙏.
+
+29/04/2023
+---
+Friday 🤗. My wife and I cleaned up a bit at the construction site so I could mow the grass and not come across any wires 😁.
+
+30/04/2023
+---
+Another month flied by 👋! Today I cycled 30km :)
