@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (273/365) 🏃 ![Progress](https://progress-bar.dev/74/)
-3. Cycle 2000 km (217/2000) 🚴 ![Progress](https://progress-bar.dev/10/)
+2. Run 365 km (279/365) 🏃 ![Progress](https://progress-bar.dev/76/)
+3. Cycle 2000 km (270/2000) 🚴 ![Progress](https://progress-bar.dev/13/)
 4. Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 kroków steps 🚶
@@ -23,24 +23,24 @@ Personal Goals
 5. ✅ Running 🏃 (20.03-19.04)
 6. Cycling 🚲
 7. 5 AM 🌅
-8. Breath holding 😮‍💨 (1.05-30.05)
+8. Breath holding 😮‍💨 (2.05-31.05)
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [04/30/2023]
+# [05/07/2023]
 ### ⭐ This week:
 - [ ] 🥶 Air conditioning in house
-- [ ] 🤸 3 min daily handstand
+- [ ] 🏠 House facade
 - [ ] 🏃 Run 6 km
 - [ ] 🚴 Cycle 50 km
 - [ ] 🎥 AWS learning (10 minutes daily)
-- [ ] 📗 Read [SQL Maxis: Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
-- [ ] 📗 Read [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
-- [ ] 📗 Read [Data Mapper](https://java-design-patterns.com/patterns/data-mapper/)
-- [ ] 🎧 Listen [55. O Machine-Learningu i rozwiązaniach Data-Driven dla bankowości z Piotrem Gawrysiakiem](https://bettersoftwaredesign.pl/episodes/55)
-- [ ] 🎧 Listen [IKE i IKZE pasują też do wczesnej emerytury. FIRE a konta emerytalne](https://inwestomat.eu/ike-i-ikze-pasuja-tez-do-wczesnej-emerytury/)
-- [ ] 🎧 Listen [EASIEST Way To Learn VOCABULARY](https://effortlessenglishshow.com/easiest-way-to-learn-vocabulary)
-- [ ] 🎧 Listen [Episode 30 “Preview Features: A Look Back and A Look Ahead” with Alex Buckle](https://inside.java/2023/03/21/podcast-030/)
-- [ ] 🎥 Watch [IntelliJ Debugger Tips & Tricks • Marcin Chrost • Devoxx Poland 2022](https://youtu.be/Zfel67ZtB5w)
+- [ ] 📗 Read [JEP 444: Virtual Threads](https://openjdk.org/jeps/444)
+- [ ] 📗 Read [Time Zone and Currency Database in JDK](https://foojay.io/today/time-zone-and-currency-database-in-jdk/)
+- [ ] 📗 Read [Data Transfer Object](https://java-design-patterns.com/patterns/data-transfer-object/)
+- [ ] 🎧 Listen [Leverage Dopamine to Overcome Procrastination & Optimize Effort](https://hubermanlab.com/leverage-dopamine-to-overcome-procrastination-and-optimize-effort/)
+- [ ] 🎧 Listen [Demistyfikujemy testosteron – męskie libido bez tabu.](https://zaprojektujswojezycie.pl/demistyfikujemy-testosteron-meskie-libido-bez-tabu/)
+- [ ] 🎧 Listen [Doctor Reveals Top Productivity Tips and Workflows for Medical Professionals (TPS449)](https://www.asianefficiency.com/podcasts/449-doctor-don-pelto/)
+- [ ] 🎧 Listen [56. O fuckupach w projektach IT z Jarkiem Pałką i Wojtkiem Ptakiem](https://bettersoftwaredesign.pl/episodes/56)
+- [ ] 🎥 Watch [Jarosław Pałka - Architekt i jego skrzynka z narzędziami](https://youtu.be/aTWnyy55FwA)
 
 ### 🏅 In the future 
 - [ ] 🏠 Dach - zamknąć sprawę z Karolem

@@ -468,3 +468,31 @@ Friday 🤗. My wife and I cleaned up a bit at the construction site so I could 
 30/04/2023
 ---
 Another month flied by 👋! Today I cycled 30km :)
+
+01/05/2023
+---
+Sunday was pleasant 😉. We could be at both services, apart from that we had a barbecue and my wife made me a birthday cake 🎂🥰.
+
+02/05/2023
+---
+A very nice Monday. I had a day off today due to Labor Day 👍. My wife and I rode bikes to Białowieża 🌲 (we did 52 km), ate something there and came back 🚴. In the evening Piotrek with Zuzia and children came to us and we made waffles 🧇🧇.
+
+03/05/2023
+---
+No fireworks today. I was working normally and nothing extraordinary happened today 🫡.
+
+04/05/2023
+---
+In the evening Natalia made pizza and Damian and Kamil with Sylwia came to us 🍕.
+
+05/05/2023
+---
+I had birthday and I think it was the worse birthday I ever had :(.
+
+06/05/2023
+---
+In the morning I ran 6 km and then work and work 😏. In the evening Dominika came to us and we sat and talked until almost midnight 🤫.
+
+07/05/2023
+---
+I was mowing the grass on the plot today and later from noon I had a terrible headache 😓.
