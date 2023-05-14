@@ -496,3 +496,31 @@ In the morning I ran 6 km and then work and work 😏. In the evening Dominika c
 07/05/2023
 ---
 I was mowing the grass on the plot today and later from noon I had a terrible headache 😓.
+
+08/05/2023
+---
+Nice Sunday 🙂. It was sunny but not very warm. After the morning service, we went to Dubicze for Natan and Ewelina's birthday and spent the whole afternoon there 🥳.
+
+09/05/2023
+---
+I went cycling with wife today and we did 18 km :).
+
+10/05/2023
+---
+Time flies by 🫣🫣. In the evening we were guests at Maksim and Natasha's.
+
+11/05/2023
+---
+My wife and I cycled almost 22 km today 😊.
+
+12/05/2023
+---
+The real spring has come 😍😍. It's sunny and beautiful ☀️!
+
+13/05/2023
+---
+I mowed the yard today. It was sunny - although we left the yard only at 4 pm (I was still in the morning, but I don't count it). At 18 we went to prayer (we haven't been for a long time 😶).
+
+14/05/2023
+---
+Nice Saturday 😊. I got a little tan, rode a bike a little, worked on the plot for a while and so everything a little bit 😆.
