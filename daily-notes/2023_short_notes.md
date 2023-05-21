@@ -524,3 +524,31 @@ I mowed the yard today. It was sunny - although we left the yard only at 4 pm (I
 14/05/2023
 ---
 Nice Saturday 😊. I got a little tan, rode a bike a little, worked on the plot for a while and so everything a little bit 😆.
+
+15/05/2023
+---
+Beautiful Sunday. In the morning we attended the service and then went to Reduty for dinner. It was sunny and warm 🥰!
+
+16/05/2023
+---
+It was warm today, but rainy and cloudy. In the evening we were at Ewelina K.'s birthday 👍
+
+17/05/2023
+---
+Today, Natka and I rode 23 km on bikes 😉! Water is pouring through the newly poured ceiling on our construction site and it worries us a bit..
+
+18/05/2023
+---
+I went shopping in the morning and then worked all day. It was rainy and gloomy today 😩.
+
+19/05/2023
+---
+Today is another hard day at work solving the production problem, but I made it 🥳. In the evening we were at the service, so the head could rest a bit 😇.
+
+20/05/2023
+---
+Friday Friday 👍. It's going to be a beautiful weekend and I hope it will be like this 😍!
+
+21/05/2023
+---
+It was a busy Saturday 👷‍♂️. From the morning we worked at home, then work on construction.. and that's how the whole day flew by ☺️.
