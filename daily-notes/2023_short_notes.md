@@ -552,3 +552,31 @@ Friday Friday 👍. It's going to be a beautiful weekend and I hope it will be l
 21/05/2023
 ---
 It was a busy Saturday 👷‍♂️. From the morning we worked at home, then work on construction.. and that's how the whole day flew by ☺️.
+
+22/05/2023
+---
+It was a good Sunday for the most part. After the morning service we went to Gancarze for a barbecue. We stayed there for about 3 hours, and then we came back home and looked after Zuzia and Iza's children. We took them for a walk and made over 8 km 🤫😁.
+
+23/05/2023
+---
+Today after work, my wife and I went to work.. on a construction plot 😁. There is some work outside that we want to handle and there is a lot of nice weather this week so we are taking advantage of it ☺️.
+
+24/05/2023
+---
+Another busy day 🙃. I had to dig a ditch under water on our construction site and today we did it 💪!
+
+25/05/2023
+---
+In the morning (before 6 am) I went on a bike and did 28 km 😆. Then work, and then to the plot and work there 🥵.
+
+26/05/2023
+---
+Today we didn't do anything at the construction site 😏 (one day of rest is due) 😅. I got on my bike in the morning and drove to Białowieża and back 🚴🚴!
+
+27/05/2023
+---
+It was a very busy day 🥵. Something was going on from morning to night. We are getting a home facade team and we have dilemmas with a choice 🧐. I also mowed the entire plot today 👍.
+
+28/05/2023
+---
+We were in Bialystok all day - we were looking for inspiration and doing research on home details 😏.
