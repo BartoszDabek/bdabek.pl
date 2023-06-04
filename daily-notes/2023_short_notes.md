@@ -580,3 +580,31 @@ It was a very busy day 🥵. Something was going on from morning to night. We ar
 28/05/2023
 ---
 We were in Bialystok all day - we were looking for inspiration and doing research on home details 😏.
+
+29/05/2023
+---
+A very nice Sunday 👍. We celebrated Pentecost in the church and had lunch together. It was very nice ☺️.
+
+30/05/2023
+---
+Busy and hard day 🥵. We got water and sewage on our construction site today - thanks dad 🥰🥰.
+
+31/05/2023
+---
+It's already the end of May 😯. Time flew by so fast! In the morning I went out on a bike, then work and in the afternoon we went to work on construction - cover the sewage system 🥵.
+
+01/06/2023
+---
+One more busy day 🥵🥵. We finally managed to bury everything at the construction site 💪-it was hard, but thank God we made it 👊!
+
+02/06/2023
+---
+I went out on my bike again in the morning and rode 20 km 🚴. In addition, work, tiny cleaning on the plot and that's how the day passed 🙃.
+
+03/06/2023
+---
+Today was a quiet day. We didn't go to the construction site today and instead, in the evening we went to Piotrek and Zuzia 🙂.
+
+04/06/2023
+---
+Quite a pleasant Saturday 😌. I worked a little, relaxed a little, and that's how the day passed.

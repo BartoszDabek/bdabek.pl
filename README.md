@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (301/365) 🏃 ![Progress](https://progress-bar.dev/82/)
-3. Cycle 2000 km (468/2000) 🚴 ![Progress](https://progress-bar.dev/23/)
+2. Run 365 km (307/365) 🏃 ![Progress](https://progress-bar.dev/84/)
+3. Cycle 2000 km (573/2000) 🚴 ![Progress](https://progress-bar.dev/28/)
 4. Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 kroków steps 🚶
@@ -26,20 +26,22 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [05/28/2023]
+# [06/04/2023]
 ### ⭐ This week:
+- [ ] 🏠 House facade
+- [ ] 🏠 House call plumber
+- [ ] 🏠 House call windows
 - [ ] 🏃 Run 6 km
 - [ ] 🚴 Cycle 70 km
-- [ ] 🎥 AWS learning (10 minutes daily)
-- [ ] 🏠 House facade
-- [ ] 📗 Read [OpenTelemetry - what is it & why should you care?](https://javakiss.blogspot.com/2023/04/opentelemetry-what-is-it-why-should-you.html)
-- [ ] 📗 Read [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
-- [ ] 📗 Read [JEP 445: Unnamed Classes and Instance Main Methods](https://openjdk.org/jeps/445)
-- [ ] 📗 Read [Dependency Injection](https://java-design-patterns.com/patterns/dependency-injection/)
-- [ ] 🎧 Listen [Aby robić biznes, trzeba słuchać klientów – Grzegorz Rogaliński](https://zaprojektujswojezycie.pl/aby-robic-biznes-trzeba-sluchac-klientow-grzegorz-rogalinski/)
-- [ ] 🎧 Listen [How to EARN More MONEY | The BEST INVESTMENTS](https://effortlessenglishshow.com/how-to-earn-more-money-the-best-investments)
-- [ ] 🎧 Listen [Jesteś specjalistą, ale nie umiesz sprzedawać? Wystarczy jedna zmiana, żeby łatwiej docierać do idealnych klientów i budować wizerunek eksperta](https://malawielkafirma.pl/zdobywanie-klientow-na-uslugi/)
-- [ ] 🎧 Listen [Episode 31 “Sequenced Collections” with Stuart Marks](https://inside.java/2023/04/25/podcast-031/)
-- [ ] 🎥 Watch [Keynote: Introducing Spring Framework 6](https://youtu.be/mitWK_DwKGs)
+- [ ] 📗 Read [Java Gets a Boost with the Record Pattern, Enabling More Expressive Coding](https://www.infoq.com/news/2023/05/java-gets-boost-with-record/)
+- [ ] 📗 Read [Quality Outreach Heads-up - JDK 21: Sequenced Collections Incompatibilities](https://inside.java/2023/05/12/quality-heads-up/)
+- [ ] 📗 Read [Working on an unfamiliar codebase](https://blog.frankel.ch/working-unfamiliar-codebase/)
+- [ ] 📗 Read [Dirty Flag](https://java-design-patterns.com/patterns/dirty-flag/)
+- [ ] 🎧 Listen [59. O optymalizacji współpracy zespołów i Team Topologies z Piotrem Kacałą](https://bettersoftwaredesign.pl/episodes/59)
+- [ ] 🎧 Listen [New Alternative to Notion, 6 Bad Habits to Break, & Weekly Review Tips (TPS454)](https://www.asianefficiency.com/podcasts/454-notion-alternative-habits-weekly-review/)
+- [ ] 🎧 Listen [Jak zaplanować obecność biznesową w Ukrainie? Krzysztof Łątka](https://zaprojektujswojezycie.pl/jak-zaplanowac-obecnosc-biznesowa-w-ukrainie-krzysztof-latka/)
+- [ ] 🎧 Listen [Inflacja stylu życia, czyli dlaczego nie masz pieniędzy na inwestowanie](https://inwestomat.eu/inflacja-stylu-zycia-czyli-dlaczego-nie-masz-pieniedzy/)
+- [ ] 🎧 Listen [#73 Technology Radar vol. 28 - Review](https://patoarchitekci.io/73/)
+- [ ] 🎥 Watch [GeeCON 2023: Asaf Mesika - OpenTelemetry Metrics: observability’s holy grail](https://youtu.be/30b7yK5gL7c)
 
 ### 🏅 In the future 
