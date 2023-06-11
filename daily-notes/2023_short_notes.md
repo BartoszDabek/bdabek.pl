@@ -608,3 +608,31 @@ Today was a quiet day. We didn't go to the construction site today and instead, 
 04/06/2023
 ---
 Quite a pleasant Saturday 😌. I worked a little, relaxed a little, and that's how the day passed.
+
+05/06/2023
+---
+Sunday was ok. We were at both services and spent several hours thinking about the electrics in the kitchen 👍.
+
+06/06/2023
+---
+For most of the day everything was fine 😌... but in the evening we had a storm 🥺.
+
+07/06/2023
+---
+Tuesday was pretty good 😏. In the evening I even managed to go out on a bike and ride 27 km at a very good pace 😁.
+
+08/06/2023
+---
+In the morning I ran 6 km, then we went shopping with my wife and to work 😏. It was warm and sunny (it rained for a while, but that's a good thing!)
+
+09/06/2023
+---
+Yesterday was a national holiday in Poland, so I didn't work. In the afternoon we went to Reduty and celebrated my mother-in-law's 60th birthday there 🥳.
+
+10/06/2023
+---
+I worked all day (in front of the computer + at the construction site). In the evening, Piotrek with Ola and Paweł came to us 👍. We ate waffles 🧇🧇.
+
+11/06/2023
+---
+Saturday - a working day 😂. Cleaning, construction and other work 😊.
