@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (313/365) 🏃 ![Progress](https://progress-bar.dev/85/)
-3. Cycle 2000 km (695/2000) 🚴 ![Progress](https://progress-bar.dev/34/)
+2. Run 365 km (319/365) 🏃 ![Progress](https://progress-bar.dev/87/)
+3. Cycle 2000 km (814/2000) 🚴 ![Progress](https://progress-bar.dev/40/)
 4. Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
@@ -26,21 +26,20 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [06/11/2023]
+# [06/18/2023]
 ### ⭐ This week:
-- [ ] 💳 Bank credit card
-- [ ] 🏠 House call windows
-- [ ] 🏠 Kojly - call about chimney
-- [ ] 🏃 Run 6 km
-- [ ] 🚴 Cycle 70 km
-- [ ] 📗 Read [How to talk to your knowledge base?](https://abdullin.com/llm/talk-to-your-knowledge-base/)
-- [ ] 📗 Read [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
-- [ ] 📗 Read [How to do what you love and make good money](https://sive.rs/balance)
-- [ ] 📗 Read [Domain Model](https://java-design-patterns.com/patterns/domain-model/)
-- [ ] 🎧 Listen [Dr. Susanna Søberg: How to Use Cold & Heat Exposure to Improve Your Health](https://hubermanlab.com/dr-susanna-soberg-how-to-use-cold-and-heat-exposure-to-improve-your-health/)
-- [ ] 🎧 Listen [Wartość to Święty Graal pricingu – Krzysztof Szyszkiewicz, Valueships](https://zaprojektujswojezycie.pl/wartosc-to-swiety-graal-pricingu-krzysztof-szyszkiewicz-valueships/)
-- [ ] 🎧 Listen [Gdzie przechowywane są papiery wartościowe? Zawieranie transakcji na giełdzie](https://inwestomat.eu/gdzie-przechowywane-sa-papiery-wartosciowe/)
-- [ ] 🎧 Listen [10 Tricks and Hacks to Turn Your Phone Into a Productivity Tool (TPS456)](https://www.asianefficiency.com/podcasts/456-phone-hacks/)
-- [ ] 🎥 Watch [Introducing Apache Pinot • Tim Berglund • Devoxx Poland 2022](https://youtu.be/WjvT6sveS8s)
+- [ ] 🚗 Rent a car for Sardegna
+- [ ] 🏃 Run 5 km
+- [ ] 🚴 Cycle 100 km
+- [ ] 📗 Read [Patterns: Exhaustiveness, Unconditionality, and Remainder](https://openjdk.org/projects/amber/design-notes/patterns/exhaustiveness)
+- [ ] 📗 Read [Finding Fulfillment](https://longform.asmartbear.com/fulfillment/index.html)
+- [ ] 📗 Read [Class Loader Hierarchies](https://foojay.io/today/class-loader-hierarchies/)
+- [ ] 📗 Read [Double Buffer](https://java-design-patterns.com/patterns/double-buffer/)
+- [ ] 🎧 Listen [POIT #197: Startup, korporacja a może firma w stylu szwedzkim?](https://porozmawiajmyoit.pl/poit-197-startup-korporacja-a-moze-firma-w-stylu-szwedzkim/)
+- [ ] 🎧 Listen [Biznes to dzieło przypadku – Maciej Wilczyński – Valueships](https://zaprojektujswojezycie.pl/biznes-to-dzielo-przypadku-maciej-wilczynski-valueships/)
+- [ ] 🎧 Listen [#77 Jak wypadł Microsoft Build 2023?](https://patoarchitekci.io/77/)
+- [ ] 🎧 Listen [62. O siedmiu dev-grzechach głównych kariery w IT z Wojtkiem Ptakiem](https://bettersoftwaredesign.pl/episodes/62)
+- [ ] 🎧 Listen [Jak poprawić wydolność i ulepszyć swoje zdrowie?](https://zaprojektujswojezycie.pl/jak-poprawic-wydolnosc-i-ulepszyc-swoje-zdrowie/)
+- [ ] 🎥 Watch [10 Java Security Practices • Brian Vermeer • Devoxx Poland 2021](https://youtu.be/6kOjLP8tbL4)
 
 ### 🏅 In the future 

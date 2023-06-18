@@ -636,3 +636,31 @@ I worked all day (in front of the computer + at the construction site). In the e
 11/06/2023
 ---
 Saturday - a working day 😂. Cleaning, construction and other work 😊.
+
+12/06/2023
+---
+Sunday was survivable 👍. After the service, we biked to Gancarzy for a barbecue and spent the whole afternoon there.
+
+13/06/2023
+---
+Quite a good start of the week 👍! In the morning I cycled a bit, and then work and work 🙂.
+
+14/06/2023
+---
+Tuesday passed quickly. I worked, we did some cleaning at the construction site and dinner in the evening 👍.
+
+15/06/2023
+---
+My wife and I rode bikes today and did 26 km 🥰.
+
+16/06/2023
+---
+Today was a good day, but it could have been better 😏😏. I had a bit of an argument with my wife, and I guess it's mostly my fault.
+
+17/06/2023
+---
+Friday was pretty cool 👍. In the evening Marek came to watch the game and we stayed until midnight 😆.
+
+18/06/2023
+---
+In the morning I cleaned the house, then I worked a bit, we had dinner, we went to the singing rehearsal and youth meeting.. and that's how the day passed 😏.
