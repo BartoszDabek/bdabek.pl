@@ -664,3 +664,31 @@ Friday was pretty cool 👍. In the evening Marek came to watch the game and we 
 18/06/2023
 ---
 In the morning I cleaned the house, then I worked a bit, we had dinner, we went to the singing rehearsal and youth meeting.. and that's how the day passed 😏.
+
+19/06/2023
+---
+Hard Sunday 🥲. We sang in the church, but I feel that people in the church have low morale - maybe it's just my feeling. From noon, my wife and I planned electrics and actually did it until the evening 🥵🥵.
+
+20/06/2023
+---
+Pretty good Monday 👍. After work, we went to pour water on the construction site after Sunday 😏.
+
+21/06/2023
+---
+Today was a good day 👌👌. I rode a bike, worked, and in the evening my wife and I watched the Polish national team match 👀.
+
+22/06/2023
+---
+And for the opposite today was a bad day 😩. Despite the beautiful weather, the argument with my wife ruined the whole evening and you could say also the day...
+
+23/06/2023
+---
+Pretty good Thursday. This morning I was cycling and running 😁.
+
+24/06/2023
+---
+Such an average Friday 😕. Poor evening again...
+
+25/06/2023
+---
+In the morning I was at my friend's who had a haircut 💇. Later, my wife and I made preserves, had dinner and went to Dubicze for youth for the evening 👍.

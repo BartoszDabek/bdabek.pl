@@ -9,9 +9,9 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (319/365) 🏃 ![Progress](https://progress-bar.dev/87/)
-3. Cycle 2000 km (814/2000) 🚴 ![Progress](https://progress-bar.dev/40/)
-4. Master the Handstand 🤸
+2. Run 365 km (325/365) 🏃 ![Progress](https://progress-bar.dev/89/)
+3. Cycle 2000 km (936/2000) 🚴 ![Progress](https://progress-bar.dev/46/)
+4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
 
@@ -21,25 +21,25 @@ Personal Goals
 3. Cold showers 🚿
 4. ✅ 3300+ kcal 🍌 (30.01-28.02)
 5. ✅ Running 🏃 (20.03-19.04)
-6. Cycling 🚲
-7. 5 AM 🌅 (23.05-22.06)
+6. Cycling 🚲 (26.06-26.07)
+7. ✅ 5 AM 🌅 (23.05-22.06)
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [06/18/2023]
+# [06/25/2023]
 ### ⭐ This week:
 - [ ] 🚗 Rent a car for Sardegna
 - [ ] 🏃 Run 5 km
 - [ ] 🚴 Cycle 100 km
-- [ ] 📗 Read [Patterns: Exhaustiveness, Unconditionality, and Remainder](https://openjdk.org/projects/amber/design-notes/patterns/exhaustiveness)
-- [ ] 📗 Read [Finding Fulfillment](https://longform.asmartbear.com/fulfillment/index.html)
-- [ ] 📗 Read [Class Loader Hierarchies](https://foojay.io/today/class-loader-hierarchies/)
-- [ ] 📗 Read [Double Buffer](https://java-design-patterns.com/patterns/double-buffer/)
-- [ ] 🎧 Listen [POIT #197: Startup, korporacja a może firma w stylu szwedzkim?](https://porozmawiajmyoit.pl/poit-197-startup-korporacja-a-moze-firma-w-stylu-szwedzkim/)
-- [ ] 🎧 Listen [Biznes to dzieło przypadku – Maciej Wilczyński – Valueships](https://zaprojektujswojezycie.pl/biznes-to-dzielo-przypadku-maciej-wilczynski-valueships/)
-- [ ] 🎧 Listen [#77 Jak wypadł Microsoft Build 2023?](https://patoarchitekci.io/77/)
-- [ ] 🎧 Listen [62. O siedmiu dev-grzechach głównych kariery w IT z Wojtkiem Ptakiem](https://bettersoftwaredesign.pl/episodes/62)
-- [ ] 🎧 Listen [Jak poprawić wydolność i ulepszyć swoje zdrowie?](https://zaprojektujswojezycie.pl/jak-poprawic-wydolnosc-i-ulepszyc-swoje-zdrowie/)
-- [ ] 🎥 Watch [10 Java Security Practices • Brian Vermeer • Devoxx Poland 2021](https://youtu.be/6kOjLP8tbL4)
+- [ ] 📗 Read [The HTTP QUERY Method](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
+- [ ] 📗 Read [Nulls Against Collectors](https://4comprehension.com/nulls-against-collectors/)
+- [ ] 📗 Read [A few words on communication](https://event-driven.io/en/a_few_words_on_communication/)
+- [ ] 📗 Read [How AI may impact software architecture](https://blog.scottlogic.com/2023/06/06/how-ai-may-impact-software-architecture.html)
+- [ ] 📗 Read [Double Checked Locking](https://java-design-patterns.com/patterns/double-checked-locking/)
+- [ ] 🎧 Listen [Tim Ferriss: How to Learn Better & Create Your Best Future](https://hubermanlab.com/tim-ferriss-how-to-learn-better-and-create-your-best-future/)
+- [ ] 🎧 Listen [Medycyna personalizowana – przyszłość Twojego zdrowia.](https://zaprojektujswojezycie.pl/medycyna-personalizowana-przyszlosc-twojego-zdrowia/)
+- [ ] 🎧 Listen [63. O modułach w DDD i organizacji kodu aplikacji biznesowej z Marcinem Markowskim](https://bettersoftwaredesign.pl/episodes/63)
+- [ ] 🎧 Listen [POIT #199: Business Intelligence Developer](https://porozmawiajmyoit.pl/poit-199-business-intelligence-developer/)
+- [ ] 🎥 Watch [GeeCON 2023: Gerrit Grunwald - Welcome to the Jungle - A safari through the JVM landscape](https://youtu.be/m5V7JXeVc2s)
 
 ### 🏅 In the future 
