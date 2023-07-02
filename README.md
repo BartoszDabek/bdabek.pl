@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (325/365) 🏃 ![Progress](https://progress-bar.dev/89/)
-3. Cycle 2000 km (936/2000) 🚴 ![Progress](https://progress-bar.dev/46/)
+2. Run 365 km (330/365) 🏃 ![Progress](https://progress-bar.dev/90/)
+3. Cycle 2000 km (1095/2000) 🚴 ![Progress](https://progress-bar.dev/54/)
 4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
@@ -26,20 +26,20 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [06/25/2023]
+# [07/02/2023]
 ### ⭐ This week:
-- [ ] 🚗 Rent a car for Sardegna
+- [ ] 🏠 Remove the wood from the building
 - [ ] 🏃 Run 5 km
 - [ ] 🚴 Cycle 100 km
-- [ ] 📗 Read [The HTTP QUERY Method](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
-- [ ] 📗 Read [Nulls Against Collectors](https://4comprehension.com/nulls-against-collectors/)
-- [ ] 📗 Read [A few words on communication](https://event-driven.io/en/a_few_words_on_communication/)
-- [ ] 📗 Read [How AI may impact software architecture](https://blog.scottlogic.com/2023/06/06/how-ai-may-impact-software-architecture.html)
-- [ ] 📗 Read [Double Checked Locking](https://java-design-patterns.com/patterns/double-checked-locking/)
-- [ ] 🎧 Listen [Tim Ferriss: How to Learn Better & Create Your Best Future](https://hubermanlab.com/tim-ferriss-how-to-learn-better-and-create-your-best-future/)
-- [ ] 🎧 Listen [Medycyna personalizowana – przyszłość Twojego zdrowia.](https://zaprojektujswojezycie.pl/medycyna-personalizowana-przyszlosc-twojego-zdrowia/)
-- [ ] 🎧 Listen [63. O modułach w DDD i organizacji kodu aplikacji biznesowej z Marcinem Markowskim](https://bettersoftwaredesign.pl/episodes/63)
-- [ ] 🎧 Listen [POIT #199: Business Intelligence Developer](https://porozmawiajmyoit.pl/poit-199-business-intelligence-developer/)
-- [ ] 🎥 Watch [GeeCON 2023: Gerrit Grunwald - Welcome to the Jungle - A safari through the JVM landscape](https://youtu.be/m5V7JXeVc2s)
+- [ ] 📗 Read [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
+- [ ] 📗 Read [Class Loaders in Java](https://www.baeldung.com/java-classloaders)
+- [ ] 📗 Read [The Anatomy of a JVM](https://foojay.io/today/the-anatomy-of-a-jvm/)
+- [ ] 📗 Read [Double Dispatch](https://java-design-patterns.com/patterns/double-dispatch/)
+- [ ] 🎧 Listen [1 LIPCA 2023 Raport o stanie świata](https://raportostanieswiata.pl/odcinki/raport-o-stanie-swiata-1-lipca-2023/)
+- [ ] 🎧 Listen [Jeff Cavaliere: Optimize Your Exercise Program with Science-Based Tools](https://hubermanlab.com/jeff-cavaliere-optimize-your-exercise-program-with-science-based-tools/)
+- [ ] 🎧 Listen [Fediverse i Mastodon, czyli zdecentralizowane social media | Piątki po deployu #72](https://piatkipodeployu.pl/podcast/Fediverse-i-Mastodon-czyli-zdecentralizowane-social-media)
+- [ ] 🎧 Listen [Foojay Podcast #26: The Future of Source Control and CI/CD](https://foojay.io/today/foojay-podcast-26/)
+- [ ] 🎧 Listen [Systemy krytyczne – OstraPiła #94](https://ostrapila.pl/systemy-krytyczne-ostrapila-94)
+- [ ] 🎥 Watch [202. Java 19 & 20. What's new and noteworthy? - Piotr Przybył](https://youtu.be/Oj-ysSgljN0)
 
 ### 🏅 In the future 

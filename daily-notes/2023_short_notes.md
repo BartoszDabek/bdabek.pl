@@ -692,3 +692,31 @@ Such an average Friday 😕. Poor evening again...
 25/06/2023
 ---
 In the morning I was at my friend's who had a haircut 💇. Later, my wife and I made preserves, had dinner and went to Dubicze for youth for the evening 👍.
+
+26/06/2023
+---
+After the service, we developed electrics at home ⚡. It's not an easy thing and it's the second Sunday we've been sitting on it for at least 5 hours 🙄.
+
+27/06/2023
+---
+Good Monday 👍👍. The weather was beautiful and it was a busy day. At 4 pm we went to the construction site and I was mowing and Nati was working out the arrangement in the rooms 😁.
+
+28/06/2023
+---
+In the morning I rode my bike all the way to Białowieża 🙃. Later work and in the evening we visited grandparents in Jelonka and then uncle and grandpa in Reduty 👍.
+
+29/06/2023
+---
+Another day full of work and again we ate dinner well after 9 pm 😅.
+
+30/06/2023
+---
+Today was an interesting day. After work, we went on bikes for a ride and pouring water on the construction site. Later we were at the service, and in the evening Damian came to visit us 😉.
+
+01/07/2023
+---
+It was bad day 😡... and I think the weekend will also be bad.
+
+02/07/2023
+---
+And yet Saturday was better by the hour 👍. In the evening we were at Dominika's and it was a good time spent talking and praying 🙏.
