@@ -720,3 +720,31 @@ It was bad day 😡... and I think the weekend will also be bad.
 02/07/2023
 ---
 And yet Saturday was better by the hour 👍. In the evening we were at Dominika's and it was a good time spent talking and praying 🙏.
+
+03/07/2023
+---
+Today was the baptism in Dubicze and we spent the whole Sunday there 👊.
+
+04/07/2023
+---
+Today, a total of over 40 km on a bike came out - 27 in the morning and 16 in the afternoon with my wife 😁😁. The roof team is coming on Thursday 🔥🔥!
+
+05/07/2023
+---
+Another pretty good day, I guess. We managed to pre-plan all the electrics at home 🥳!
+
+06/07/2023
+---
+Once again a pretty good day 👍. Bike and run in the morning. Later work and in the evening a bike with my wife 😁. They have already brought us a roof truss 😉.
+
+07/07/2023
+---
+In one day they put us a roof truss on the main roof 😮! I'm in shock.
+
+08/07/2023
+---
+Today was a busy day. I finished work at 10 pm 🤯 (of course I took breaks and went outside + shopping).
+
+09/07/2023
+---
+Busy Saturday and that's how I like it sometimes 😆. We did a lot of things at home + I worked.

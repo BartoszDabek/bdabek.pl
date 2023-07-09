@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (330/365) 🏃 ![Progress](https://progress-bar.dev/90/)
-3. Cycle 2000 km (1095/2000) 🚴 ![Progress](https://progress-bar.dev/54/)
+2. Run 365 km (336/365) 🏃 ![Progress](https://progress-bar.dev/92/)
+3. Cycle 2000 km (1310/2000) 🚴 ![Progress](https://progress-bar.dev/65/)
 4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
@@ -26,20 +26,23 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [07/02/2023]
+# [07/09/2023]
 ### ⭐ This week:
-- [ ] 🏠 Remove the wood from the building
+- [ ] 🏖️ Reserve [La Pelosa](https://spiaggialapelosa.it/en/)
+- [ ] 🏠 Sign a contract with elevation team
+- [ ] 📝 Fix GA on [bdabek.pl](https://bdabek.pl/) 
+- [ ] 🤾‍♀️ Create week fitness protocol
 - [ ] 🏃 Run 5 km
 - [ ] 🚴 Cycle 100 km
-- [ ] 📗 Read [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
-- [ ] 📗 Read [Class Loaders in Java](https://www.baeldung.com/java-classloaders)
-- [ ] 📗 Read [The Anatomy of a JVM](https://foojay.io/today/the-anatomy-of-a-jvm/)
-- [ ] 📗 Read [Double Dispatch](https://java-design-patterns.com/patterns/double-dispatch/)
-- [ ] 🎧 Listen [1 LIPCA 2023 Raport o stanie świata](https://raportostanieswiata.pl/odcinki/raport-o-stanie-swiata-1-lipca-2023/)
-- [ ] 🎧 Listen [Jeff Cavaliere: Optimize Your Exercise Program with Science-Based Tools](https://hubermanlab.com/jeff-cavaliere-optimize-your-exercise-program-with-science-based-tools/)
-- [ ] 🎧 Listen [Fediverse i Mastodon, czyli zdecentralizowane social media | Piątki po deployu #72](https://piatkipodeployu.pl/podcast/Fediverse-i-Mastodon-czyli-zdecentralizowane-social-media)
-- [ ] 🎧 Listen [Foojay Podcast #26: The Future of Source Control and CI/CD](https://foojay.io/today/foojay-podcast-26/)
-- [ ] 🎧 Listen [Systemy krytyczne – OstraPiła #94](https://ostrapila.pl/systemy-krytyczne-ostrapila-94)
-- [ ] 🎥 Watch [202. Java 19 & 20. What's new and noteworthy? - Piotr Przybył](https://youtu.be/Oj-ysSgljN0)
+- [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Read [Instrumenting Java Code to Find and Handle Unused Classes](https://mostlynerdless.de/blog/2023/04/06/instrumenting-java-code-to-find-and-handle-unused-classes/)
+- [ ] 📗 Read [The best way to use one-to-one table relationships](https://vladmihalcea.com/one-to-one-table-relationships/)
+- [ ] 📗 Read [Exploring Java Records beyond Data Transfer Objects](https://www.infoq.com/articles/exploring-java-records/)
+- [ ] 📗 Read [Embedded Value](https://java-design-patterns.com/patterns/embedded-value/)
+- [ ] 🎧 Listen [64. O architekturze hexagonalnej, portach i adapterach z Kubą Nabrdalikiem](https://bettersoftwaredesign.pl/episodes/64)
+- [ ] 🎧 Listen [Science-Supported Tools to Accelerate Your Fitness Goals](https://hubermanlab.com/science-supported-tools-to-accelerate-your-fitness-goals/)
+- [ ] 🎧 Listen [SaaS – jak zarządzać cenami w biznesach subskrypcyjnych?](https://zaprojektujswojezycie.pl/saas-jak-zarzadzac-cenami-w-biznesach-subskrypcyjnych/)
+- [ ] 🎧 Listen [Richard Koch — Revisiting the 80/20 Principle, The Power of Optimistic Journaling, Studying History to Improve Investing, and The Grand Beliefs of Winners (Plus: The Toxic Beliefs of Losers) (#680)](https://tim.blog/2023/07/05/richard-koch-2/)
+- [ ] 🎥 Watch [197. Wrocław JUG - "Panie, kto tu Panu tak..." - czyli porozmawiajmy o Legacy - Artur Skowroński](https://youtu.be/o9qHFt0ElKY)
 
 ### 🏅 In the future 
