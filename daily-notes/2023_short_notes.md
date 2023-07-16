@@ -748,3 +748,31 @@ Today was a busy day. I finished work at 10 pm 🤯 (of course I took breaks and
 09/07/2023
 ---
 Busy Saturday and that's how I like it sometimes 😆. We did a lot of things at home + I worked.
+
+10/07/2023
+---
+Nice Sunday - sunny and warm 😊. We attended both services, and in the meantime we went to Redut for dinner.
+
+11/07/2023
+---
+Good Monday 👍. I have a lot of work now and my wife and I argued a bit in the evening 😞.
+
+12/07/2023
+---
+Today we signed a contract for the execution of the facade - it will be an expensive business 😳. Later we went to the gallery and visited Karolina and Gabrysia for the evening 😊.
+
+13/07/2023
+---
+Today was a nice day 😊. I did pretty well at work! In the evening, Grzegorz and Karolina came to visit us. Natalka made delicious food so we sat and enjoyed it 😃.
+
+14/07/2023
+---
+There was a lot of work today, but thank God somehow forward and another day behind me 😏. In the evening we were at the service - I was on duty 🫡.
+
+15/07/2023
+---
+Average day 😶. In the morning I did only 11 km and I got caught in the rain 😢. In the evening we went to the plot to work a bit and in the evening my wife started to argue about something 🙄.
+
+16/07/2023
+---
+A very busy Saturday - that's what I like 👍. In the morning I went out for a bike ride, and then we went to the plot to clean up. At 16 we had a singing rehearsal before tomorrow's service, and at 18 we set up with Damian for burgers 🍔🍔.
