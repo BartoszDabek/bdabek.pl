@@ -776,3 +776,31 @@ Average day 😶. In the morning I did only 11 km and I got caught in the rain �
 16/07/2023
 ---
 A very busy Saturday - that's what I like 👍. In the morning I went out for a bike ride, and then we went to the plot to clean up. At 16 we had a singing rehearsal before tomorrow's service, and at 18 we set up with Damian for burgers 🍔🍔.
+
+17/07/2023
+---
+A terribly hot Sunday - probably the warmest day this summer ☀️☀️! I like this weather 😁!
+
+18/07/2023
+---
+Good Monday 💪! In the morning I went out on a bike and at the end of the ride the police stopped me for control 😅 - they probably thought I was a thief. Later I worked and in the evening we went for a walk with Piotrek, Zuzia, their children and the dog 😆.
+
+19/07/2023
+---
+On the one hand, a good day, on the other, small evening misunderstandings with my wife meant that the whole thing can be crossed out 😣. I would love for us to have more common passions, and we are very different 😩.
+
+20/07/2023
+---
+I managed to book a dental check-up for tomorrow and additionally booked airport parking for our holiday.
+
+21/07/2023
+---
+Today I had a dental checkup and thank God I have all of them healthy 🦷😊. The last few days have been hard in terms of the daily bike challenge, but there are only a few days left so I'm doing what I can 💪.
+
+22/07/2023
+---
+Finally Friday 🥰. Today the window team finished installing all windows in our house (they started on Wednesday) 🙂! Now the house is taking shape 😁.
+
+23/07/2023
+---
+Today we had something to do from morning to evening 😉. We ate breakfast at all at 12 😅😅. Nice day ☺️.

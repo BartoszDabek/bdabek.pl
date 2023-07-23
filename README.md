@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (342/365) 🏃 ![Progress](https://progress-bar.dev/93/)
-3. Cycle 2000 km (1494/2000) 🚴 ![Progress](https://progress-bar.dev/74/)
+2. Run 365 km (348/365) 🏃 ![Progress](https://progress-bar.dev/95/)
+3. Cycle 2000 km (1670/2000) 🚴 ![Progress](https://progress-bar.dev/83/)
 4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
@@ -26,21 +26,20 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [07/16/2023]
+# [07/23/2023]
 ### ⭐ This week:
-- [ ] 🦷 Make an appointment with a dentist
-- [ ] 🌴 Reserve airport parking
+- [ ] 💡 Electrics at home
 - [ ] 🏃 Run 5 km
 - [ ] 🚴 Cycle 100 km
 - [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Read [The Complete Guide to Goal Setting (Backed by Science)](https://markmanson.net/goal-setting)
-- [ ] 📗 Read [A Comprehensive Guide to Java's New Feature: Pattern Matching for Switch](https://www.infoq.com/articles/pattern-matching-for-switch/)
-- [ ] 📗 Read [Removability over Maintainability](https://event-driven.io/en/removability_over_maintainability/)
-- [ ] 📗 Read [Event Aggregator](https://java-design-patterns.com/patterns/event-aggregator/)
-- [ ] 🎧 Listen [Using Deliberate Cold Exposure for Health and Performance](https://hubermanlab.com/using-deliberate-cold-exposure-for-health-and-performance/)
-- [ ] 🎧 Listen [Zarobki w IT – czy to już przesada? – OstraPiła #92](https://ostrapila.pl/zarobki-w-it-czy-to-juz-przesada)
-- [ ] 🎧 Listen [Friends of OpenJDK Today Conference JUGs Podcast Foojay Podcast #24: BeJUG, BruJUG and how Devoxx was born as JavaPolis](https://foojay.io/today/foojay-podcast-24/)
-- [ ] 🎧 Listen [Najciekawsze przeglądarki internetowe](https://piatkipodeployu.pl/podcast/najciekawsze-przegladarki-internetowe)
-- [ ] 🎥 Watch [191. Wrocław JUG - Dodać wyszukiwarkę? Żaden problem, prawda? - Zbyszko Papierski](https://youtu.be/5VSoqL1Qx1A)
+- [ ] 📗 Read [Why I prefer trunk-based development](https://foojay.io/today/why-i-prefer-trunk-based-development/)
+- [ ] 📗 Read [Sticky sessions with Apache APISIX](https://blog.frankel.ch/sticky-sessions-apache-apisix/)
+- [ ] 📗 Read [My Top Ten Tips for Peer Review](https://blog.scottlogic.com/2023/06/26/peer-review-tips.html)
+- [ ] 📗 Read [Event-based Asynchronous](https://java-design-patterns.com/patterns/event-asynchronous/)
+- [ ] 🎧 Listen [POIT #203: Kariera pokolenia Z w branży IT](https://porozmawiajmyoit.pl/poit-203-kariera-pokolenia-z-w-branzy-it/)
+- [ ] 🎧 Listen [Bill Gurley Interviews Tim Ferriss — Reflecting on 20+ Years of Life and Business Experiments (#682)](https://tim.blog/2023/07/19/bill-gurley-interviews-tim-ferriss/)
+- [ ] 🎧 Listen [Zarządzanie projektem, dostarczeniem i czasem – OstraPiła #90](https://ostrapila.pl/zarzadzanie-projektem-dostarczeniem-i-czasem-ostrapila-90)
+- [ ] 🎧 Listen [Miliony z Tik Toka – Bartosz Wika – Ojciec Okienko](https://zaprojektujswojezycie.pl/miliony-z-tik-toka-bartosz-wika-ojciec-okienko/)
+- [ ] 🎥 Watch [205. Systemy event-driven bez rwania włosów. - Andrzej Ludwikowski](https://youtu.be/Ez4O6vtDMH4)
 
 ### 🏅 In the future 
