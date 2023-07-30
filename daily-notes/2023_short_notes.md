@@ -804,3 +804,31 @@ Finally Friday 🥰. Today the window team finished installing all windows in ou
 23/07/2023
 ---
 Today we had something to do from morning to evening 😉. We ate breakfast at all at 12 😅😅. Nice day ☺️.
+
+24/07/2023
+---
+After the service, we went to Reduty and spent the rest of Sunday there 😉. There was a barbecue and it was fun 🙂.
+
+25/07/2023
+---
+Pretty hard Monday 😭. I've been sitting on one thing at work all day and couldn't get it done 😬😬.
+
+26/07/2023
+---
+It was a pretty sunny and warm day today 😊. We were at our construction site this afternoon and visualized the electrics (ps. We don't have much time left for this 😆)
+
+27/07/2023
+---
+End of the cycling challenge 👍. The last few days have been tough, but I made it. Well done 👏!
+
+28/07/2023
+---
+Pretty good Thursday 😏. I slept until 7 today, which for the last month (or maybe two) is very unusual for me 🤣..
+
+29/07/2023
+---
+Friday ❤️! In the evening, Dominika visited us and sat for a long time. I lasted until one in the morning and went to sleep 😅.
+
+30/07/2023
+---
+Today was a busy day from morning to evening 🥵. In the morning we cleaned the church and then we worked on the construction site 🙂. Late in the evening we had dinner and watched the movie Bella and Sebastian 2.

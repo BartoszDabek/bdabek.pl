@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (348/365) 🏃 ![Progress](https://progress-bar.dev/95/)
-3. Cycle 2000 km (1670/2000) 🚴 ![Progress](https://progress-bar.dev/83/)
+2. Run 365 km (355/365) 🏃 ![Progress](https://progress-bar.dev/97/)
+3. Cycle 2000 km (1784/2000) 🚴 ![Progress](https://progress-bar.dev/89/)
 4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
@@ -18,28 +18,29 @@ Personal Goals
 ## 🥉 30 Day Challenges 
 1. 10 000 steps 🦶 
 2. 100 pushups 🙇
-3. Cold showers 🚿
+3. Cold showers 🚿 (1.08-30.08)
 4. ✅ 3300+ kcal 🍌 (30.01-28.02)
 5. ✅ Running 🏃 (20.03-19.04)
-6. Cycling 🚲 (26.06-26.07)
+6. ✅ Cycling 🚲 (26.06-26.07)
 7. ✅ 5 AM 🌅 (23.05-22.06)
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [07/23/2023]
+# [07/30/2023]
 ### ⭐ This week:
+- [ ] 🌴 Change the payment on booking to a credit card
 - [ ] 💡 Electrics at home
 - [ ] 🏃 Run 5 km
-- [ ] 🚴 Cycle 100 km
+- [ ] 🚴 Cycle 70 km
 - [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Read [Why I prefer trunk-based development](https://foojay.io/today/why-i-prefer-trunk-based-development/)
-- [ ] 📗 Read [Sticky sessions with Apache APISIX](https://blog.frankel.ch/sticky-sessions-apache-apisix/)
-- [ ] 📗 Read [My Top Ten Tips for Peer Review](https://blog.scottlogic.com/2023/06/26/peer-review-tips.html)
-- [ ] 📗 Read [Event-based Asynchronous](https://java-design-patterns.com/patterns/event-asynchronous/)
-- [ ] 🎧 Listen [POIT #203: Kariera pokolenia Z w branży IT](https://porozmawiajmyoit.pl/poit-203-kariera-pokolenia-z-w-branzy-it/)
-- [ ] 🎧 Listen [Bill Gurley Interviews Tim Ferriss — Reflecting on 20+ Years of Life and Business Experiments (#682)](https://tim.blog/2023/07/19/bill-gurley-interviews-tim-ferriss/)
-- [ ] 🎧 Listen [Zarządzanie projektem, dostarczeniem i czasem – OstraPiła #90](https://ostrapila.pl/zarzadzanie-projektem-dostarczeniem-i-czasem-ostrapila-90)
-- [ ] 🎧 Listen [Miliony z Tik Toka – Bartosz Wika – Ojciec Okienko](https://zaprojektujswojezycie.pl/miliony-z-tik-toka-bartosz-wika-ojciec-okienko/)
-- [ ] 🎥 Watch [205. Systemy event-driven bez rwania włosów. - Andrzej Ludwikowski](https://youtu.be/Ez4O6vtDMH4)
+- [ ] 📗 Read [Understanding Java Compilation: From Bytecodes to Machine Code in the JVM](https://www.azul.com/blog/understanding-java-compilation-from-bytecodes-to-machine-code/)
+- [ ] 📗 Read [JEP 441: Transforming Java with Pattern Matching for switch](https://www.infoq.com/news/2023/07/tranforming-java-pattern/)
+- [ ] 📗 Read [Garbage Collection and P99 Latency](https://www.javaspecialists.eu/archive/Issue310-Garbage-Collection-and-P99-Latency.html)
+- [ ] 📗 Read [Event Driven Architecture](https://java-design-patterns.com/patterns/event-driven-architecture/)
+- [ ] 🎧 Listen [Dr. Maya Shankar: How to Shape Your Identity & Goals](https://hubermanlab.com/dr-maya-shankar-how-to-shape-your-identity-and-goals/)
+- [ ] 🎧 Listen [Kobieta w świecie nowych technologii – Anita Kijanka](https://zaprojektujswojezycie.pl/kobieta-w-swiecie-nowych-technologii-anita-kijanka/)
+- [ ] 🎧 Listen [AMA #9: Kratom Risks, Does Infrared Sauna Work & Journaling Benefits](https://youtu.be/HoH93judXmE)
+- [ ] 🎥 Watch [200. Dylematy nowoczesnego architekta - Łukasz Szydło](https://youtu.be/qGYN6zcAnKQ)
 
 ### 🏅 In the future 
+- 🏠 Find a carpenter
