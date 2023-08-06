@@ -832,3 +832,31 @@ Friday ❤️! In the evening, Dominika visited us and sat for a long time. I la
 30/07/2023
 ---
 Today was a busy day from morning to evening 🥵. In the morning we cleaned the church and then we worked on the construction site 🙂. Late in the evening we had dinner and watched the movie Bella and Sebastian 2.
+
+31/07/2023
+---
+After the morning service, we went to Reduty and spent the rest of the day there 👍.
+
+01/08/2023
+---
+Today the fitters installed our garage gate and front door to the house 😊. We have a very nice gate 😁!
+
+02/08/2023
+---
+It was hard at work today 🤯. I have a hard task to solve and after a whole day I feel like I'm in the same place.
+
+03/08/2023
+---
+Today I helped my wife make jars 😆. Apart from that, work + some work on the plot and the day flew by 😏.
+
+04/08/2023
+---
+From early morning to late evening there is something to do 🥲. I really didn't have time to do nothing today 😅. We didn't even make it to the evening service 😭.
+
+05/08/2023
+---
+Friday and another weekend 🥰. In the evening we visited Marek and Daria and Marek gave me a haircut 😁.
+
+06/08/2023
+---
+Today we had a baptism by the water in Dubicze Cerkiewne 🙂. The weather until 2 pm was uninteresting, but later it got very pleasant (contrary to all forecasts). Thank God for this 😇!

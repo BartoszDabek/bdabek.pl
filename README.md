@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. Run 365 km (355/365) 🏃 ![Progress](https://progress-bar.dev/97/)
-3. Cycle 2000 km (1784/2000) 🚴 ![Progress](https://progress-bar.dev/89/)
+2. Run 365 km (361/365) 🏃 ![Progress](https://progress-bar.dev/99/)
+3. Cycle 2000 km (1862/2000) 🚴 ![Progress](https://progress-bar.dev/93/)
 4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
@@ -26,21 +26,20 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [07/30/2023]
+# [08/06/2023]
 ### ⭐ This week:
-- [ ] 🌴 Change the payment on booking to a credit card
-- [ ] 💡 Electrics at home
-- [ ] 🏃 Run 5 km
-- [ ] 🚴 Cycle 70 km
+- [ ] 🏠 Find a carpenter
+- [ ] 🏃 Run 4 km
+- [ ] 🚴 Cycle 60 km
 - [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Read [Understanding Java Compilation: From Bytecodes to Machine Code in the JVM](https://www.azul.com/blog/understanding-java-compilation-from-bytecodes-to-machine-code/)
-- [ ] 📗 Read [JEP 441: Transforming Java with Pattern Matching for switch](https://www.infoq.com/news/2023/07/tranforming-java-pattern/)
-- [ ] 📗 Read [Garbage Collection and P99 Latency](https://www.javaspecialists.eu/archive/Issue310-Garbage-Collection-and-P99-Latency.html)
-- [ ] 📗 Read [Event Driven Architecture](https://java-design-patterns.com/patterns/event-driven-architecture/)
-- [ ] 🎧 Listen [Dr. Maya Shankar: How to Shape Your Identity & Goals](https://hubermanlab.com/dr-maya-shankar-how-to-shape-your-identity-and-goals/)
-- [ ] 🎧 Listen [Kobieta w świecie nowych technologii – Anita Kijanka](https://zaprojektujswojezycie.pl/kobieta-w-swiecie-nowych-technologii-anita-kijanka/)
-- [ ] 🎧 Listen [AMA #9: Kratom Risks, Does Infrared Sauna Work & Journaling Benefits](https://youtu.be/HoH93judXmE)
-- [ ] 🎥 Watch [200. Dylematy nowoczesnego architekta - Łukasz Szydło](https://youtu.be/qGYN6zcAnKQ)
+- [ ] 📗 Read [What Should I Know About Garbage Collection as a Java Developer?](https://www.azul.com/blog/what-should-i-know-about-garbage-collection-as-a-java-developer/)
+- [ ] 📗 Read [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+- [ ] 📗 Read [Active Health Check strategies with Spring Cloud Gateway](https://spring.io/blog/2023/07/05/active-health-check-strategies-with-spring-cloud-gateway)
+- [ ] 📗 Read [Event Queue](https://java-design-patterns.com/patterns/event-queue/)
+- [ ] 🎧 Listen [Analiza raportu IT – Wakacyjna OstraPiła #95](https://ostrapila.pl/analiza-raportu-it-wakacyjna-ostrapila-95)
+- [ ] 🎧 Listen [Foojay Podcast #12: State and Future of the IDEs](https://foojay.io/today/foojay-podcast-12/)
+- [ ] 🎧 Listen [Tony Hawk: Harnessing Passion, Drive & Persistence for Lifelong Success](https://hubermanlab.com/tony-hawk-harnessing-passion-drive-and-persistence-for-lifelong-success/)
+- [ ] 🎧 Listen [ORMy to tylko moda – OstraPiła #78](https://ostrapila.pl/ormy-to-tylko-moda)
+- [ ] 🎥 Watch [Balancing Coupling in Software Design - Vlad Khononov - NDC Oslo 2023](https://youtu.be/eQOM-UrNTS4)
 
 ### 🏅 In the future 
-- 🏠 Find a carpenter
