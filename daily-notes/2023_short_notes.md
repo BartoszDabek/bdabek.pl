@@ -860,3 +860,31 @@ Friday and another weekend 🥰. In the evening we visited Marek and Daria and M
 06/08/2023
 ---
 Today we had a baptism by the water in Dubicze Cerkiewne 🙂. The weather until 2 pm was uninteresting, but later it got very pleasant (contrary to all forecasts). Thank God for this 😇!
+
+07/08/2023
+---
+Today was the 95th anniversary of our church and the admission of new members to the church 🙂. After the service we had lunch together. It was a good Sunday!
+
+08/08/2023
+---
+Today we talked to an electrician about our house. There's a lot of it, but we were (probably) well prepared 👍🙃.
+
+09/08/2023
+---
+Pretty cool Tuesday. I rode a bike, ran, ate a delicious dinner 😊🤗!
+
+10/08/2023
+---
+Today I scored a sports goal with running 🏃🙂 (I did it pretty quickly this year 😁). In the evening we went to Kamil and Iza for a bonfire 🔥.
+
+11/08/2023
+---
+Another too short day 😏. In the evening we were at the evening service, so 2 more hours were gone😌.
+
+12/08/2023
+---
+Friday was calm 😉. I finished work at a reasonable time, we went to our house construction and finished the details with the electrician. In the evening we cleaned the house a bit and went to dinner with my parents 😁.
+
+13/08/2023
+---
+Super pleasant Saturday ☺️. In the morning I went with my dad to mow the cemetery, then we had a rehearsal in the afternoon and in the evening my wife and I were chilling out 😉.
