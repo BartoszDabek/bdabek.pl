@@ -888,3 +888,27 @@ Friday was calm 😉. I finished work at a reasonable time, we went to our house
 13/08/2023
 ---
 Super pleasant Saturday ☺️. In the morning I went with my dad to mow the cemetery, then we had a rehearsal in the afternoon and in the evening my wife and I were chilling out 😉.
+
+14/08/2023
+---
+Sunday passed quickly. Between services, we visited Darek and Kasia Osuch - it was very nice 😉.
+
+16/08/2023
+---
+Yesterday I didn't write anything because in the morning we packed the car and went to Augustów to the water 👍. The weather was perfect ☀️☀️!
+
+17/08/2023
+---
+Massacre.. I have a lot of work and my head hurts from all this 🥵. I would like to hide somewhere for two weeks 🫣 and rest from everything 😆.
+
+18/08/2023
+---
+Busy Thursday and it looks like the weekend will be like that as well 🥲 (excluding Sunday 😆). I ran 4 km in the morning and then work.
+
+19/08/2023
+---
+Finally, after a few days of searching for a bug and a solution, I finally managed to come up with something 🤗🤗. I'm having a hard time at work right now 😕.
+
+20/08/2023
+---
+An uncle and his aunt and two grandchildren came to visit our parents ☺️. We took care of one of the granddaughters 😅.

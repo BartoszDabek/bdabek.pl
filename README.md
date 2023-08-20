@@ -9,8 +9,8 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. ✅ Run 365 km (366/365) 🏃 ![Progress](https://progress-bar.dev/100/)
-3. Cycle 2000 km (1942/2000) 🚴 ![Progress](https://progress-bar.dev/97/)
+2. ✅ Run 365 km (374/365) 🏃 ![Progress](https://progress-bar.dev/102/)
+3. ✅ Cycle 2000 km (2015/2000) 🚴 ![Progress](https://progress-bar.dev/100/)
 4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
@@ -26,20 +26,23 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [08/13/2023]
+# [08/20/2023]
 ### ⭐ This week:
-- [ ] 🏠 Find a carpenter
-- [ ] 🏃 Run 4 km
+- [ ] 🏠 Find two carpenters for furniture
+- [ ] 🏠 Find two carpenters for the stairs
+- [ ] 🏠 Open a locked cabinet in the room
+- [ ] 🏃 Run 5 km
 - [ ] 🚴 Cycle 50 km
 - [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Read [Java Enhances Z Garbage Collector with Generational Capabilities](https://www.infoq.com/news/2023/07/java-enhance-zgc/)
-- [ ] 📗 Read [Uploading JaCoCo Code Coverage Reports to SonarQube](https://tech.asimio.net/2023/07/05/Uploading-JaCoCo-Code-Coverage-Reports-to-SonarQube.html)
-- [ ] 📗 Read [A gdyby tak wywalić @Transactional...](https://cezarysanecki.pl/2023/07/18/a-gdyby-tak-wywalic-transactional/)
-- [ ] 📗 Read [Event Sourcing](https://java-design-patterns.com/patterns/event-sourcing/)
-- [ ] 🎧 Listen [Dustin Moskovitz, Co-Founder of Asana and Facebook — Energy Management, Coaching for Endurance, No Meeting Wednesdays, Understanding the Real Risks of AI, Embracing Frictionless Work with AI, The Value of Holding Stories Loosely, and More (#686)](https://tim.blog/2023/08/10/dustin-moskovitz-2/)
-- [ ] 🎧 Listen [S03E04 - O rekrutacji developerów w Allegro - Jakub Westfalewski, Paweł Wolak](https://podcast.allegro.tech/o-rekrutacji-developer%C3%B3w-w-allegro/)
-- [ ] 🎧 Listen [Nawet 50 tys. euro za granie w gry. W czym esport jest lepszy od sportu?](https://antyweb.pl/nawet-50-tys-euro-za-granie-w-gry-w-czym-esport-jest-lepszy-od-sportu)
-- [ ] 🎧 Listen [UX i UI pomagają przyciągnąć i zostawić przy sobie klientów – agencja ZIMA](https://zaprojektujswojezycie.pl/ux-i-ui-pomagaja-przyciagnac-i-zostawic-przy-sobie-klientow-agencja-zima/)
-- [ ] 🎥 Watch [A Different Flavor of the Distributed Transactions • Martin Stefanko • Devoxx Poland 2022](https://youtu.be/9vs0rF2y1y4)
+- [ ] 📗 Read [Sliced Onion Architecture](http://www.odrotbohm.de/2023/07/sliced-onion-architecture/)
+- [ ] 📗 Read [Generate from Constraints](https://michaelfeathers.silvrback.com/prompt-hoisting-for-gpt-based-code-generation)
+- [ ] 📗 Read [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
+- [ ] 📗 Read [Execute Around](https://java-design-patterns.com/patterns/execute-around/)
+- [ ] 🎧 Listen [67. O danych prywatnych w architekturach zdarzeniowych z Oskarem Dudyczem](https://bettersoftwaredesign.pl/episodes/67)
+- [ ] 🎧 Listen [Lifehacki prosto od lekarza, dzięki którym dożyjesz 100 lat w dobrym zdrowiu!](https://zaprojektujswojezycie.pl/lifehacki-prosto-od-lekarza-dzieki-ktorym-dozyjesz-100-lat-w-dobrym-zdrowiu/)
+- [ ] 🎧 Listen [POIT #207: Rynek pracy SAP w Polsce](https://porozmawiajmyoit.pl/poit-207-rynek-pracy-sap-w-polsce/)
+- [ ] 🎧 Listen [The Art of Being UnmessableWith: Achieve Your Dreams Now, Not Someday w/ Josselyne Herman-Saccio (TPS469)](https://www.asianefficiency.com/productivity/469-jocelyne-herman-saccio-unmessablewith/)
+- [ ] 🎧 Listen [Episode 163 - Recursion](https://www.programmingthrowdown.com/episodes/163-recursion/)
+- [ ] 🎥 Watch [Don’t Build a Distributed Monolith - Jonathan "J." Tower - NDC London 2023](https://youtu.be/p2GlRToY5HI)
 
 ### 🏅 In the future 
