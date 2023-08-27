@@ -912,3 +912,31 @@ Finally, after a few days of searching for a bug and a solution, I finally manag
 20/08/2023
 ---
 An uncle and his aunt and two grandchildren came to visit our parents ☺️. We took care of one of the granddaughters 😅.
+
+21/08/2023
+---
+A long and interesting Sunday 🙂 . Today we were only at one morning service in Hajnówka, and then went to Reduty for Natalka's grandfather's 99th birthday 😇🥳!
+
+22/08/2023
+---
+Monday was pretty good 👍. I biked + ran in the morning 💪. Later work, some work on our construction site, and in the evening we went down to Kuba and Kasia's because guests came 😉.
+
+23/08/2023
+---
+Today was a calm and good day 😉. Bike + walk in the morning, then work in front of the computer, some construction work and dinner at the very end of the day 🫡.
+
+24/08/2023
+---
+Cool Wednesday. It was just like yesterday, except that in the evening my wife made French pancakes 🥞 and Damian came in the evening 🙂.
+
+25/08/2023
+---
+Quite a pleasant Thursday 😊. Without any fireworks today was - an ordinary day with an evening service 😉.
+
+26/08/2023
+---
+It was hard at work, but I did it 😆. A brother-in-law and his wife and another brother-in-law, who has no wife, came by for lunch. Later we went to show them the house we are building. Still later we went on bikes and did 15km 😉.
+
+27/08/2023
+---
+Yesterday was such a checkered day - mainly due to arguments with my wife 😑.

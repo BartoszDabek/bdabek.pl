@@ -9,15 +9,15 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. ✅ Run 365 km (374/365) 🏃 ![Progress](https://progress-bar.dev/102/)
-3. ✅ Cycle 2000 km (2015/2000) 🚴 ![Progress](https://progress-bar.dev/100/)
+2. ✅ Run 365 km (383/365) 🏃 ![Progress](https://progress-bar.dev/105/)
+3. ✅ Cycle 2000 km (2070/2000) 🚴 ![Progress](https://progress-bar.dev/103/)
 4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
 6. 60 000 steps 🚶
 
 ## 🥉 30 Day Challenges 
 1. 10 000 steps 🦶 
-2. 100 pushups 🙇
+2. 100 pushups 🙇 (1.09-30.09)
 3. Cold showers 🚿 (1.08-30.08)
 4. ✅ 3300+ kcal 🍌 (30.01-28.02)
 5. ✅ Running 🏃 (20.03-19.04)
@@ -26,23 +26,21 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [08/20/2023]
+# [08/27/2023]
 ### ⭐ This week:
-- [ ] 🏠 Find two carpenters for furniture
-- [ ] 🏠 Find two carpenters for the stairs
-- [ ] 🏠 Open a locked cabinet in the room
+- [ ] 📁 Organize file cabinet
+- [ ] 🏠 Find one more carpenter for furniture
+- [ ] 🏠 Find one more carpenter for the stairs
 - [ ] 🏃 Run 5 km
 - [ ] 🚴 Cycle 50 km
 - [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Read [Sliced Onion Architecture](http://www.odrotbohm.de/2023/07/sliced-onion-architecture/)
-- [ ] 📗 Read [Generate from Constraints](https://michaelfeathers.silvrback.com/prompt-hoisting-for-gpt-based-code-generation)
-- [ ] 📗 Read [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
-- [ ] 📗 Read [Execute Around](https://java-design-patterns.com/patterns/execute-around/)
-- [ ] 🎧 Listen [67. O danych prywatnych w architekturach zdarzeniowych z Oskarem Dudyczem](https://bettersoftwaredesign.pl/episodes/67)
-- [ ] 🎧 Listen [Lifehacki prosto od lekarza, dzięki którym dożyjesz 100 lat w dobrym zdrowiu!](https://zaprojektujswojezycie.pl/lifehacki-prosto-od-lekarza-dzieki-ktorym-dozyjesz-100-lat-w-dobrym-zdrowiu/)
-- [ ] 🎧 Listen [POIT #207: Rynek pracy SAP w Polsce](https://porozmawiajmyoit.pl/poit-207-rynek-pracy-sap-w-polsce/)
-- [ ] 🎧 Listen [The Art of Being UnmessableWith: Achieve Your Dreams Now, Not Someday w/ Josselyne Herman-Saccio (TPS469)](https://www.asianefficiency.com/productivity/469-jocelyne-herman-saccio-unmessablewith/)
-- [ ] 🎧 Listen [Episode 163 - Recursion](https://www.programmingthrowdown.com/episodes/163-recursion/)
-- [ ] 🎥 Watch [Don’t Build a Distributed Monolith - Jonathan "J." Tower - NDC London 2023](https://youtu.be/p2GlRToY5HI)
+- [ ] 📗 Read [Analyzing JVM Energy Consumption for JDK 17: An Empirical Study](https://ionutbalosin.com/2023/07/analyzing-jvm-energy-consumption-for-jdk-17-an-empirical-study/)
+- [ ] 📗 Read [THE BEST WAY TO USE TESTCONTAINERS FROM YOUR SPRING BOOT TESTS!](https://info.michael-simons.eu/2023/07/27/the-best-way-to-use-testcontainers-from-your-spring-boot-tests/)
+- [ ] 📗 Read [JDBC Profiling with VisualVM](https://vladmihalcea.com/jdbc-profiling-visualvm/)
+- [ ] 📗 Read [Extension objects](https://java-design-patterns.com/patterns/extension-objects/)
+- [ ] 🎧 Listen [Work Smarter, Not Harder: 5 Strategies To Be More Effective (TPS470)](https://www.asianefficiency.com/podcasts/470-work-smarter-not-harder/)
+- [ ] 🎧 Listen [Nie chcę iść z życiem na kompromis – założyciel Klubu 555, Fryderyk Karzełek](https://zaprojektujswojezycie.pl/nie-chce-isc-z-zyciem-na-kompromis-zalozyciel-klubu-555-fryderyk-karzelek/)
+- [ ] 🎧 Listen [S04E05 - O roli analityków biznesowych w Allegro - Jakub Król, Mateusz Falkowski](https://podcast.allegro.tech/o-roli-analitykow-biznesowych-w-allegro/)
+- [ ] 🎥 Watch [207. Static Application Security Testing - jak wybrać narzędzie? - Paweł Materniak](https://youtu.be/UvEVO2AWkjc)
 
 ### 🏅 In the future 
