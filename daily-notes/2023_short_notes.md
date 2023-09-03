@@ -939,4 +939,32 @@ It was hard at work, but I did it 😆. A brother-in-law and his wife and anothe
 
 27/08/2023
 ---
-Yesterday was such a checkered day - mainly due to arguments with my wife 😑.
+Such a checkered day - mainly due to arguments with my wife 😑.
+
+28/08/2023
+---
+Happy Sunday 😇. We attended both services + dinner at Reduty. Natalia's brother and her cousin came (and went) 👍.
+
+29/08/2023
+---
+My wife got a job 🥳! In the evening we came to Kardasze / Piotrowscy and played board games 😁.
+
+30/08/2023
+---
+Today we celebrated yesterday's message and went for pizza at TRIO tonight 🍕😊!
+
+31/08/2023
+---
+Time flies by very fast - it's the last day of August🫣!
+
+01/09/2023
+---
+A very busy day 🥵. And it looks like the next few will be the same 😢.
+
+02/09/2023
+---
+Today we were in Bielsk Podlaski and arranged some important things around our trip to Italy and our house 😉.
+
+03/09/2023
+---
+A very hard Saturday - there was a lot to do from morning to evening. Construction, house, it takes time to handle everything though 😏.
