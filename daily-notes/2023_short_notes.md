@@ -968,3 +968,31 @@ Today we were in Bielsk Podlaski and arranged some important things around our t
 03/09/2023
 ---
 A very hard Saturday - there was a lot to do from morning to evening. Construction, house, it takes time to handle everything though 😏.
+
+04/09/2023
+---
+Morning service, then dinner and after dinner Gabryś and Karolina visited us 😉.
+
+05/09/2023
+---
+Tired Monday 🥵. Work and work. In the evening we went to Reduty to get a desk for my wife for her new job 😄.
+
+06/09/2023
+---
+Today I fasted from morning to evening - I haven't done it in a long time 🤫.
+
+07/09/2023
+---
+Pretty cool day. In the evening, Marek dropped by with Daria. Marek cut my hair 👍.
+
+08/09/2023
+---
+In the evening we watched the match together with Damian and Marek 🇵🇱.
+
+09/09/2023
+---
+In the evening we went to Piotrek and Zuzia's because my wife had to get her eyebrows done 😏.
+
+10/09/2023
+---
+A terribly exhausting Saturday 🥵. From morning to evening while running and at the end of the day I had a headache 😭😭. Ps. Tomorrow we leave for a week's vacation, so I have a week off.
