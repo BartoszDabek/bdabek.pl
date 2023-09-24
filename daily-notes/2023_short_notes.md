@@ -996,3 +996,27 @@ In the evening we went to Piotrek and Zuzia's because my wife had to get her eye
 10/09/2023
 ---
 A terribly exhausting Saturday 🥵. From morning to evening while running and at the end of the day I had a headache 😭😭. Ps. Tomorrow we leave for a week's vacation, so I have a week off.
+
+19/09/2023
+---
+It's hard to go back to the morning notes and routines I had before the holidays 😅.
+
+20/09/2023
+---
+There has been downtime at the construction site for almost two weeks - it's the contractors' fault... which I'm a little angry about 🤨!
+
+21/09/2023
+---
+Hard days after returning from vacation, I can't recover 😮‍💨.
+
+22/09/2023
+---
+Quite a good Thursday. Of course, work is work, but later we could attend the evening service 😉.
+
+23/09/2023
+---
+Friday 🥰. Tonight we went to Piotrek and Zuzia's. Today was Zuzia's birthday :).
+
+24/09/2023
+---
+Saturday was a lazy day for me - I didn't feel like doing anything 😁. I ran 4 km, but I don't know if it can be considered productive 😅.
