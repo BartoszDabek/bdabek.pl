@@ -1020,3 +1020,31 @@ Friday 🥰. Tonight we went to Piotrek and Zuzia's. Today was Zuzia's birthday 
 24/09/2023
 ---
 Saturday was a lazy day for me - I didn't feel like doing anything 😁. I ran 4 km, but I don't know if it can be considered productive 😅.
+
+25/09/2023
+---
+Today we celebrated the Harvest Festival in church. We thanked God for this year's harvest. Between services we had dinner together and time to spend together 😉.
+
+26/09/2023
+---
+Today was our second wedding anniversary 🥳😍. I took my wife to Białowieża and we had a walk there and then a romantic dinner 🥰.
+
+27/09/2023
+---
+We have a very warm end of September ☺️. My wife and I went out for a bike ride today and covered almost 18 km 😋
+
+28/09/2023
+---
+Wednesday - nothing interesting today 😏. I survived the day, I'm happy 😁!
+
+29/09/2023
+---
+Today was bad. Nati and I argued in the evening and we didn't manage to go to the evening service 😑. Later we reconciled, but we had already lost something 🥲.
+
+30/09/2023
+---
+Friday 😊😊. Long awaited and it's finally here 😁. I actually have no plans for the weekend, but it's nice to be able to do something different than usual.
+
+01/10/2023
+---
+Saturday, as always, passed quickly 😄. I worked a little today, helped my wife with cleaning and making cakes, and in the evening we went to a youth meeting and that's how the whole day passed :).
