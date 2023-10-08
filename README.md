@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. ✅ Run 365 km (410/365) 🏃 ![Progress](https://progress-bar.dev/112/)
+2. ✅ Run 365 km (419/365) 🏃 ![Progress](https://progress-bar.dev/114/)
 3. ✅ Cycle 2000 km (2131/2000) 🚴 ![Progress](https://progress-bar.dev/106/)
 4. ❌ Master the Handstand 🤸
 5. 100 kg bench press  🏋️
@@ -26,18 +26,18 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [10/01/2023]
+# [10/08/2023]
 ### ⭐ This week:
 - [ ] 🏃 Run 5 km
 - [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Read [Problem podczas zrównoleglenia testów](https://cezarysanecki.pl/2023/08/03/problem-podczas-zrownoleglenia-testow/)
-- [ ] 📗 Read [JEP draft: Computed Constants](https://openjdk.org/jeps/8312611)
-- [ ] 📗 Read [My final take on Gradle (vs. Maven)](https://blog.frankel.ch/final-take-gradle/)
-- [ ] 📗 Read [Factory](https://java-design-patterns.com/patterns/factory/)
-- [ ] 🎧 Listen [69. O wydajności systemu, optymalizacjach i trade-offach z Tomaszem Lelkiem](https://bettersoftwaredesign.pl/episodes/69)
-- [ ] 🎧 Listen [164: Choosing a Database For Your Project With Kris Zyp](https://www.programmingthrowdown.com/episodes/164-choosing-a-database-for-your-project-with-kris-zyp/)
-- [ ] 🎧 Listen [Transformacja cyfrowa to przyszłość Twojego biznesu – Michał Mądry, JP Weber](https://zaprojektujswojezycie.pl/transformacja-cyfrowa-to-przyszlosc-twojego-biznesu-michal-madry-jp-weber/)
-- [ ] 🎧 Listen [Czy inwestycja w mieszkanie ma sens? Rynek mieszkań w Polsce 2023 roku](https://inwestomat.eu/czy-inwestycja-w-mieszkanie-ma-sens/)
-- [ ] 🎥 Watch [209. Java 21™ What's new and noteworthy? - Piotr Przybył](https://youtu.be/Om8dIt3cJIU)
+- [ ] 📗 Read [We All Grow Older, But Do Our Projects Really Have To?](https://foojay.io/today/we-all-grow-older-but-do-our-projects-really-have-to-openrewrite/)
+- [ ] 📗 Read [Worrying is self-fulfilling; what to do instead](https://blog.asmartbear.com/worry.html)
+- [ ] 📗 Read [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
+- [ ] 📗 Read [Factory Kit](https://java-design-patterns.com/patterns/factory-kit/)
+- [ ] 🎧 Listen [POIT #213: Jak bank tworzy i rozwija duże systemy informatyczne?](https://porozmawiajmyoit.pl/poit-213-jak-bank-tworzy-i-rozwija-duze-systemy-informatyczne/)
+- [ ] 🎧 Listen [Guest Series | Dr. Paul Conti: Tools and Protocols for Mental Health](https://www.hubermanlab.com/episode/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health)
+- [ ] 🎧 Listen [Jak przygotować się do sprzedaży firmy?](https://zaprojektujswojezycie.pl/jak-przygotowac-sie-do-sprzedazy-firmy/)
+- [ ] 🎧 Listen [Foojay Podcast #29: How will AI and ML Influence the Role of Developers?](https://foojay.io/today/foojay-podcast-29/)
+- [ ] 🎥 Watch [Plain Text - Dylan Beattie - NDC Copenhagen 2022](https://youtu.be/gd5uJ7Nlvvo)
 
 ### 🏅 In the future 

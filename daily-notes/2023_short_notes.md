@@ -1048,3 +1048,31 @@ Friday 😊😊. Long awaited and it's finally here 😁. I actually have no pla
 01/10/2023
 ---
 Saturday, as always, passed quickly 😄. I worked a little today, helped my wife with cleaning and making cakes, and in the evening we went to a youth meeting and that's how the whole day passed :).
+
+02/10/2023
+---
+After the morning service, we went to Redut. We ate lunch there and spent the entire afternoon :).
+
+03/10/2023
+---
+Monday was busy, but not only at work in front of the computer, but also at work on the construction site 😆. Dad did a few things for us today at the construction site - for which I am very grateful to him :)!
+
+04/10/2023
+---
+Tuesday passed quickly (a lot of days have passed like this lately). Since the holidays, I can't bring myself to get up earlier... 😤😤
+
+05/10/2023
+---
+I consider Wednesday a success 🥳. I ran in the morning, then work, in the evening we went to the construction site and at the end we had a delicious dinner 😉.
+
+06/10/2023
+---
+Today was a good day. I had everything done on time at work :). After work, everything was in a hurry 😄.
+
+07/10/2023
+---
+Strong Friday 😆. We had a really tight schedule today! After work, we went to pick up Edyta (who visited us) and together we went to the construction site. Everything quickly 🥵!
+
+08/10/2023
+---
+Today we had no free time at all 😱. At 7 a.m. we had a meeting with the carpenter. Later we took our cousin and his wife - Daniel and Ania - to the construction site. Later, I worked on a construction site with my dad... Then we went to a singing rehearsal and a youth meeting. At the end of the day my head was pounding 🤯🤯.
