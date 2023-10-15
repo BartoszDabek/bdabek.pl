@@ -1076,3 +1076,31 @@ Strong Friday 😆. We had a really tight schedule today! After work, we went to
 08/10/2023
 ---
 Today we had no free time at all 😱. At 7 a.m. we had a meeting with the carpenter. Later we took our cousin and his wife - Daniel and Ania - to the construction site. Later, I worked on a construction site with my dad... Then we went to a singing rehearsal and a youth meeting. At the end of the day my head was pounding 🤯🤯.
+
+09/10/2023
+---
+Nice, quiet Sunday 😇. We attended both services, and also hosted some guests and hosted each other for a while 😁.
+
+10/10/2023
+---
+Monday was quiet. We finished at reasonable hours, went to the construction site, went for a walk and had the evening free 🥰.
+
+11/10/2023
+---
+I forgot to brag - on Monday I managed to bench press 100 kg 🙃!
+
+12/10/2023
+---
+In the evening, Damian came over and we sat and talked until midnight 😅.
+
+13/10/2023
+---
+Thursday. Work, construction for a while and then an evening service and the whole day flew by 😀.
+
+14/10/2023
+---
+Tonight we invited Kamil, Iza and their children. We made pizza and then sat and talked - we had a good time 😉.
+
+15/10/2023
+---
+Saturday, as always, was very busy 😆. We came home at 9 p.m. and could eat and go to sleep 🤣.
