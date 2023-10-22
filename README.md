@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. ✅ Run 365 km (426/365) 🏃 ![Progress](https://progress-bar.dev/116/)
+2. ✅ Run 365 km (432/365) 🏃 ![Progress](https://progress-bar.dev/118/)
 3. ✅ Cycle 2000 km (2131/2000) 🚴 ![Progress](https://progress-bar.dev/106/)
 4. ❌ Master the Handstand 🤸
 5. ✅ 100 kg bench press  🏋️ (9.10)
@@ -17,7 +17,7 @@ Personal Goals
 
 ## 🥉 30 Day Challenges 
 1. 10 000 steps 🦶 
-2. 100 pushups 🙇 (20.09-19.10)
+2. ✅ 100 pushups 🙇 (20.09-19.10)
 3. ✅ Cold showers 🚿 (1.08-30.08)
 4. ✅ 3300+ kcal 🍌 (30.01-28.02)
 5. ✅ Running 🏃 (20.03-19.04)
@@ -26,21 +26,21 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [10/15/2023]
+# [10/22/2023]
 ### ⭐ This week:
-- [ ] 🏠 Call Kojły about roof
 - [ ] 🏠 Make steps in the garage and pantry
 - [ ] 🏠 Make a design of the exit to the property 
+- [ ] 🧹 Throw away old clothes
 - [ ] 🏃 Run 5 km
 - [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
 - [ ] 📗 Read [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
-- [ ] 📗 Read [AI w pracy programisty. 7 narzędzi, które zrewolucjonizują Twoją pracę](https://geek.justjoin.it/ai-w-pracy-programisty-2/)
-- [ ] 📗 Read [Sealed Interfaces and Pattern Matching: A Quick Dive into Java’s Modern Capabilities](https://foojay.io/today/sealed-interfaces-and-pattern-matching-a-quick-dive-into-javas-modern-capabilities/)
-- [ ] 📗 Read [Factory Method](https://java-design-patterns.com/patterns/factory-method/)
-- [ ] 🎧 Listen [Kamil Kozieł – Jak przemawiać, żeby Cię słuchali?](https://zaprojektujswojezycie.pl/kamil-koziel-jak-przemawiac-zeby-cie-sluchali/)
-- [ ] 🎧 Listen [#84 Umierające skille?!](https://patoarchitekci.io/84/)
-- [ ] 🎧 Listen [70. O Testcontainers, piramidzie testów i jakości życia z Piotrem Przybyłem](https://bettersoftwaredesign.pl/episodes/70)
-- [ ] 🎧 Listen [21 sposobów, jak zdobyć zaufanie klientów w mniej niż 30 minut](https://malawielkafirma.pl/jak-szybko-zdobyc-zaufanie-klientow/)
-- [ ] 🎥 Watch [Plain Text - Dylan Beattie - NDC Copenhagen 2022](https://youtu.be/gd5uJ7Nlvvo)
+- [ ] 📗 Read [Ignore sunk costs](https://seths.blog/2009/05/ignore-sunk-costs/)
+- [ ] 📗 Read [Centralizing the decision-making](https://mikemybytes.com/2023/08/24/centralizing-the-decision-making/)
+- [ ] 📗 Read [Fan-Out/Fan-In](https://java-design-patterns.com/patterns/fanout-fanin/)
+- [ ] 🎧 Listen [U.S. Surgeon General Dr. Vivek Murthy: Efforts & Challenges in Promoting Public Health](https://www.hubermanlab.com/episode/us-surgeon-general-dr-vivek-murthy-efforts-challenges-in-promoting-public-health)
+- [ ] 🎧 Listen [Leasing i kupno drogich samochodów – potrzeba czy inflacja wydatków?](https://inwestomat.eu/leasing-i-kupno-drogich-samochodow/)
+- [ ] 🎧 Listen [CFO na godziny – Małgorzata Mazur i Adam Zagała](https://zaprojektujswojezycie.pl/cfo-na-godziny-malgorzata-mazur-i-adam-zagala/)
+- [ ] 🎧 Listen [#85 Patoarchitekci Short #35](https://patoarchitekci.io/85/)
+- [ ] 🎥 Watch [208. Wszystko czego nie chcesz wiedzieć o współbieżności w JVM - Jarosław Pałka](https://youtu.be/25N-l3fc1hE)
 
 ### 🏅 In the future 

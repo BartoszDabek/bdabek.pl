@@ -1104,3 +1104,31 @@ Tonight we invited Kamil, Iza and their children. We made pizza and then sat and
 15/10/2023
 ---
 Saturday, as always, was very busy 😆. We came home at 9 p.m. and could eat and go to sleep 🤣.
+
+16/10/2023
+---
+We had a nice Sunday 😉. We spent it at home + we attended both services 😇.
+
+17/10/2023
+---
+Monday was mentally difficult, but in terms of private life and not work 😶😶.
+
+18/10/2023
+---
+Today we had a meeting with a carpenter 🪚. Our impressions were positive - I just wonder how much he will ask for our kitchen 😆. We will compare the price of the second carpenter and choose who we want 😉.
+
+19/10/2023
+---
+We are very busy because of our house construction 😢. I'm glad it's moving forward, but at the same time there are so many decisions to make... shock!
+
+20/10/2023
+---
+There is a lot of work 😩😩. Thank God I'm somehow coping with it, but it's not easy 😆.
+
+21/10/2023
+---
+Friday ❤️. It was hard at work today - I was working on a non-deterministic problem, but at least I know why it's happening 🙃. In the evening we went to Marek and Daria's for a haircut and to talk.
+
+22/10/2023
+---
+Saturday as always - it passed too quickly 😅😅. In the evening we had a youth meeting at our house - I think it was quite nice :).
