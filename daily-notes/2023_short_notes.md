@@ -1132,3 +1132,31 @@ Friday ❤️. It was hard at work today - I was working on a non-deterministic 
 22/10/2023
 ---
 Saturday as always - it passed too quickly 😅😅. In the evening we had a youth meeting at our house - I think it was quite nice :).
+
+23/10/2023
+---
+Sunday was nice 😊. We were only there for the morning service. Then we went to Redut and spent the entire afternoon there.
+
+24/10/2023
+---
+Monday was ok 👍. Without any revelations 😝.
+
+25/10/2023
+---
+In the evening, Piotrek, Zuzia and the children came to visit us. Kuba also came with Kasia and the children and we had a great time together 👍.
+
+26/10/2023
+---
+Thank God for giving me strength. It was really hard at work today 🥵. I worked until 7 p.m....
+
+27/10/2023
+---
+I have managed to do few things on the list so far 🤫. I have a lot of work and it's hard to do anything more ☹️.
+
+28/10/2023
+---
+Friday was good 👍. In the evening we visited my uncle in the hospital - he is in a very bad condition ☹️.
+
+29/10/2023
+---
+Saturday was Saturday - it passed very quickly. We did some work on the construction site and at home, and in the evening we went to a youth meeting :).
