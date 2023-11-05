@@ -1160,3 +1160,31 @@ Friday was good 👍. In the evening we visited my uncle in the hospital - he is
 29/10/2023
 ---
 Saturday was Saturday - it passed very quickly. We did some work on the construction site and at home, and in the evening we went to a youth meeting :).
+
+30/10/2023
+---
+Thank God for Sunday 😉. We attended both services, and after lunch we visited Maksim and Natasha.
+
+31/10/2023
+---
+Monday was quite pleasant :). I didn't have much to do - I did my thing and no one bothered me 🙃.
+
+01/11/2023
+---
+And tick, we're starting a new month 🫡. Yesterday, the uncle we visited last week passed away to eternity.
+
+02/11/2023
+---
+Today we celebrated my dad's birthday 🥳🥳. As always, the family gathered for the afternoon. We sat at the table and talked about various topics :).
+
+03/11/2023
+---
+It was a hard day. We ate dinner at 5:30 p.m. and barely made it in time for the evening service 😩.
+
+04/11/2023
+---
+A very hard day and no time. In the evening we attended the funeral service 😢.
+
+05/11/2023
+---
+Today was the funeral of Natalia's uncle. On the one hand, there was sadness, but the soul went to heaven and, in my opinion, there was more joy 🙃.

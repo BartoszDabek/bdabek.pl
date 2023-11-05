@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. 3:30 without breathing 😮‍💨
-2. ✅ Run 365 km (444/365) 🏃 ![Progress](https://progress-bar.dev/121/)
+2. ✅ Run 365 km (451/365) 🏃 ![Progress](https://progress-bar.dev/123/)
 3. ✅ Cycle 2000 km (2131/2000) 🚴 ![Progress](https://progress-bar.dev/106/)
 4. ❌ Master the Handstand 🤸
 5. ✅ 100 kg bench press  🏋️ (9.10)
@@ -26,9 +26,8 @@ Personal Goals
 8. Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [10/29/2023]
+# [11/05/2023]
 ### ⭐ This week:
-- [ ] 🏠 Make steps in the garage and pantry
 - [ ] 🏠 Prepare the membrane on the balcony
 - [ ] 🧹 Throw away old clothes
 - [ ] 🏃 Run 5 km
@@ -37,10 +36,10 @@ Personal Goals
 - [ ] 📗 Read [Ignore sunk costs](https://seths.blog/2009/05/ignore-sunk-costs/)
 - [ ] 📗 Read [Centralizing the decision-making](https://mikemybytes.com/2023/08/24/centralizing-the-decision-making/)
 - [ ] 📗 Read [Fan-Out/Fan-In](https://java-design-patterns.com/patterns/fanout-fanin/)
-- [ ] 🎧 Listen [#85 Patoarchitekci Short #35](https://patoarchitekci.io/85/)
-- [ ] 🎧 Listen [AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog](https://www.hubermanlab.com/episode/ama-11-improve-task-switching-productivity-and-brain-fog)
-- [ ] 🎧 Listen [How to Feel More CONFIDENCE When Speaking English](https://effortlessenglishshow.com/how-to-feel-more-confidence-when-speaking-english)
 - [ ] 🎧 Listen [Chris Voss: How to Succeed at Hard Conversations](https://www.hubermanlab.com/episode/chris-voss-how-to-succeed-at-hard-conversations)
-- [ ] 🎥 Watch [2023 - Jakub Nabrdalik - How to NOT get insane when working for 20 years as a dev](https://youtu.be/PabarutaU6I)
+- [ ] 🎧 Listen [English for Engineers and Other Professionals](https://effortlessenglishshow.com/english-for-engineers-and-other-professionals)
+- [ ] 🎧 Listen [Make Your Morning Routine a Rise Ritual To Win The Day (TPS476)](https://www.asianefficiency.com/podcasts/476-morning-routine-rise-ritual/)
+- [ ] 🎧 Listen [Co wie Maciej po 200 odcinkach?](https://zaprojektujswojezycie.pl/co-wie-maciej-po-200-odcinkach/)
+- [ ] 🎥 Watch [2023 - Sławomir Sobótka - Modularyzacja - miało być tak pięknie a wyszło jak zwykle :(](https://youtu.be/yh5JkIz2X-U)
 
 ### 🏅 In the future 
