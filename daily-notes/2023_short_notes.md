@@ -1188,3 +1188,31 @@ A very hard day and no time. In the evening we attended the funeral service 😢
 05/11/2023
 ---
 Today was the funeral of Natalia's uncle. On the one hand, there was sadness, but the soul went to heaven and, in my opinion, there was more joy 🙃.
+
+06/11/2023
+---
+After the morning service, we went to Redut and spent the entire afternoon there 🙃.
+
+07/11/2023
+---
+There was an awful lot of work today again 🥵. I'm waiting for the time when I'll be bored at work 😅😅.
+
+08/11/2023
+---
+We are pushing the construction issues forward - we hope that we will be able to pour the floors this year... although we are about a month away 😄. Unless December will be warm.
+
+09/11/2023
+---
+Yesterday we visited Rybaków - this is the family of the uncle whose funeral we recently attended. We were there from 6:30 p.m. to midnight! 😄
+
+10/11/2023
+---
+Day like everyday. In the evening we attended a service, and apart from that it's everyday life😃.
+
+11/11/2023
+---
+Friday - finally. But I admit that it was a bad evening and I would prefer it to be Monday 😏😏
+
+12/11/2023
+---
+Today there was a youth conference in Hajnówka. Overall it was a good time 👍.

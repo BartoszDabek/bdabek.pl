@@ -14,7 +14,7 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Effective Java 3rd Edition (page: 320)
+- [ ] Effective Java 3rd Edition (page: 330)
 
 ## ⭐ Books read 
 ### ✅ 2023
