@@ -1216,3 +1216,31 @@ Friday - finally. But I admit that it was a bad evening and I would prefer it to
 12/11/2023
 ---
 Today there was a youth conference in Hajnówka. Overall it was a good time 👍.
+
+13/11/2023
+---
+Today's services were unusually long 😇. Both lasted more than 3 hours! I haven't been to such gatherings for a long time 😅.
+
+14/11/2023
+---
+Thank God we managed to survive this Monday - it was busy 🥵🥵.
+
+15/11/2023
+---
+Another busy day 😏. Job, job, construction, construction - I just have to hold out a little longer 😆
+
+16/11/2023
+---
+In the evening we were at Piotrek and Zuzia's :). The food was delicious and we had a good time 😉.
+
+17/11/2023
+---
+Thank God Thursday was good 👍. The evening service was the last one - the next one the pastor changes. This pastor served over 40 years in the church and I must admit - he will be missed a bit 😢.
+
+18/11/2023
+---
+Friday 🤩. It was peaceful at work and thank God for that 👍!
+
+19/11/2023
+---
+Today we went to Białystok and spent the whole day there. We were looking for tiles and panels for the house + we signed a contract with a carpenter. I admit that I was tired at the end of the day 😄.
