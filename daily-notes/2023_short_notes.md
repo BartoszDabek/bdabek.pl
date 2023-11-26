@@ -1244,3 +1244,31 @@ Friday 🤩. It was peaceful at work and thank God for that 👍!
 19/11/2023
 ---
 Today we went to Białystok and spent the whole day there. We were looking for tiles and panels for the house + we signed a contract with a carpenter. I admit that I was tired at the end of the day 😄.
+
+20/11/2023
+---
+Today we only attended the morning service and there was an official change of pastor. Then we went to dinner and spent the entire afternoon and evening with Piotrek and Zuzia.
+
+21/11/2023
+---
+Definitely a hard Monday 🥵. I finished my work around 8 p.m. and the topics didn't get any smaller 🤯.
+
+22/11/2023
+---
+There was a lot of work today, but I managed to get the main things done :).
+
+23/11/2023
+---
+Wednesday was ok 👍. I read a lot today 😅.
+
+24/11/2023
+---
+Thank God Thursday was a quiet day 🙃. It seems to me that I managed to do a lot of things 😆.
+
+25/11/2023
+---
+Today I worked a little longer and in the evening we went shopping. We finally ate dinner before 10 p.m. 😅.
+
+26/11/2023
+---
+Saturday passed quickly 😏 - too quickly 😆. We did a little on the construction site, a little at home, and in the evening we had to get ready for the youth group.
