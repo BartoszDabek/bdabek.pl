@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. ❌ 3:30 without breathing 😮‍💨
-2. ✅ Run 365 km (472/365) 🏃 ![Progress](https://progress-bar.dev/129/)
+2. ✅ Run 365 km (483/365) 🏃 ![Progress](https://progress-bar.dev/132/)
 3. ✅ Cycle 2000 km (2131/2000) 🚴 ![Progress](https://progress-bar.dev/106/)
 4. ❌ Master the Handstand 🤸
 5. ✅ 100 kg bench press  🏋️ (9.10)
@@ -26,23 +26,23 @@ Personal Goals
 8. ❌ Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [11/26/2023]
+# [12/03/2023]
 ### ⭐ This week:
-- [ ] 💡 Main goal idea(s) for next year
-- [ ] 💰 Invest money from an investment account
 - [ ] 🏃 Run 5 km
-- [ ] 📗 Read 20 pages of [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Read [Łatwo już było? O sytuacji na rynku IT z Pawłem Pustelnikiem](https://geek.justjoin.it/latwo-juz-bylo-o-sytuacji-na-rynku-it/)
-- [ ] 📗 Read [How to Diagnose and Mitigate Pinning in Java’s Virtual Thread Execution](https://foojay.io/today/how-to-diagnose-and-mitigate-pinning-in-javas-virtual-thread-execution/)
-- [ ] 📗 Read [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
-- [ ] 📗 Read [Fluent Interface](https://java-design-patterns.com/patterns/fluentinterface/)
-- [ ] 🎧 Listen [FBO 230: Co na rynkach i w portfelu po 3-kwartale 2023 [FFP20]](https://open.spotify.com/episode/5QQq29CTQ0LBYavdbGzkD1)
-- [ ] 🎧 Listen [Dr. Mark Plotkin on Coffee, the World’s Favorite Stimulant — Chemistry, History, and More (#698)](https://tim.blog/2023/10/13/story-of-coffee/)
-- [ ] 🎧 Listen [#87 Technology Radar vol. 29 - Review](https://patoarchitekci.io/87/)
-- [ ] 🎧 Listen [Czy warto założyć OIPE? Drugie IKE czy klęska unijnej legislacji?](https://inwestomat.eu/czy-warto-zalozyc-oipe/)
-- [ ] 🎥 Watch [2023 - Piotr Suwała - Clean & Hexagonal Architecture - it really works!](https://youtu.be/ET_Otfuy3os)
+- [ ] 📚 Prepare 5 books to read in next year
+- [ ] 📗 Finish [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Read [Virtual Threads](https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#GUID-DC4306FC-D6C1-4BCC-AECE-48C32C1A8DAA)
+- [ ] 📗 Read [Prepare for phasing out third-party cookies](https://developer.chrome.com/en/docs/privacy-sandbox/third-party-cookie-phase-out/)
+- [ ] 📗 Read [Pytania rekrutacyjne na stanowisko (Regular/Senior) Java Developer](https://programistanaswoim.pl/pytania-rekrutacyjne-na-stanowisko-regular-senior-java-developer/)
+- [ ] 📗 Read [Flux](https://java-design-patterns.com/patterns/flux/)
+- [ ] 🎧 Listen [Szymon Negacz – Rok z życia milionera](https://zaprojektujswojezycie.pl/szymon-negacz-rok-z-zycia-milionera/)
+- [ ] 🎧 Listen [#88 Event Storming z Mariuszem Gilem](https://patoarchitekci.io/88/)
+- [ ] 🎧 Listen [Cechy przedsiębiorcy – 8 sygnałów, że własna firma to coś dla ciebie](https://malawielkafirma.pl/cechy-przedsiebiorcy)
+- [ ] 🎧 Listen [Mark Zuckerberg & Dr. Priscilla Chan: Curing All Human Diseases & the Future of Health & Technology](https://www.hubermanlab.com/episode/mark-zuckerberg-dr-priscilla-chan-curing-all-human-diseases-future-of-health-technology)
+- [ ] 🎥 Watch [2023 - Michał Ostruszka - Things I wish I knew before I started with event sourcing](https://youtu.be/DE3PihgiiZQ)
 
 ### 🏅 In the future 
 - [ ] Implement GTD habits
 - [ ] Write 500 words everyday for blog article
 - [ ] Maintaining the blog from ads
+- [ ] 💰 Invest money from an investment account

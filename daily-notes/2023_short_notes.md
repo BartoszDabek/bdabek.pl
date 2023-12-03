@@ -1272,3 +1272,31 @@ Today I worked a little longer and in the evening we went shopping. We finally a
 26/11/2023
 ---
 Saturday passed quickly 😏 - too quickly 😆. We did a little on the construction site, a little at home, and in the evening we had to get ready for the youth group.
+
+27/11/2023
+---
+In the morning we attended the service, then lunch, and after dinner Karolina and Gabryś came to visit us 😉.
+
+28/11/2023
+---
+A very busy Monday 🥵🥵. I tried to upgrade the Java version in the project, but after a few hours it turned out to be impossible 🥹.
+
+29/11/2023
+---
+Today we had no electricity for 14 hours ☹️. It so happened that my wife and I had something to do in the city until almost 6 p.m., but the electricity was restored only before 9 p.m. 😏.
+
+30/11/2023
+---
+In the evening, Piotrek and Zuzia came to visit us. Natalka made sushi and that's how we spent the evening 👍.
+
+01/12/2023
+---
+Thank God it was a good day from noon 👍. I started it poorly in the morning because my wife and I had a bit of an argument ☹️.
+
+02/12/2023
+---
+It was good Friday :). Actually I think that I was bored after 5 pm. 😂
+
+03/12/2023
+---
+It was a lazy Saturday - I didn't have to do anything 😉. At noon we went to my in-laws' and there we walked the dog and had tea. In the evening there was a youth party + then we went down to my parents' house for the evening.
