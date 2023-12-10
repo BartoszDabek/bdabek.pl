@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. ❌ 3:30 without breathing 😮‍💨
-2. ✅ Run 365 km (483/365) 🏃 ![Progress](https://progress-bar.dev/132/)
+2. ✅ Run 365 km (491/365) 🏃 ![Progress](https://progress-bar.dev/134/)
 3. ✅ Cycle 2000 km (2131/2000) 🚴 ![Progress](https://progress-bar.dev/106/)
 4. ❌ Master the Handstand 🤸
 5. ✅ 100 kg bench press  🏋️ (9.10)
@@ -26,20 +26,19 @@ Personal Goals
 8. ❌ Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [12/03/2023]
+# [12/10/2023]
 ### ⭐ This week:
 - [ ] 🏃 Run 5 km
-- [ ] 📚 Prepare 5 books to read in next year
-- [ ] 📗 Finish [Current In Progress Book](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Read [Virtual Threads](https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#GUID-DC4306FC-D6C1-4BCC-AECE-48C32C1A8DAA)
-- [ ] 📗 Read [Prepare for phasing out third-party cookies](https://developer.chrome.com/en/docs/privacy-sandbox/third-party-cookie-phase-out/)
-- [ ] 📗 Read [Pytania rekrutacyjne na stanowisko (Regular/Senior) Java Developer](https://programistanaswoim.pl/pytania-rekrutacyjne-na-stanowisko-regular-senior-java-developer/)
-- [ ] 📗 Read [Flux](https://java-design-patterns.com/patterns/flux/)
-- [ ] 🎧 Listen [Szymon Negacz – Rok z życia milionera](https://zaprojektujswojezycie.pl/szymon-negacz-rok-z-zycia-milionera/)
-- [ ] 🎧 Listen [#88 Event Storming z Mariuszem Gilem](https://patoarchitekci.io/88/)
-- [ ] 🎧 Listen [Cechy przedsiębiorcy – 8 sygnałów, że własna firma to coś dla ciebie](https://malawielkafirma.pl/cechy-przedsiebiorcy)
-- [ ] 🎧 Listen [Mark Zuckerberg & Dr. Priscilla Chan: Curing All Human Diseases & the Future of Health & Technology](https://www.hubermanlab.com/episode/mark-zuckerberg-dr-priscilla-chan-curing-all-human-diseases-future-of-health-technology)
-- [ ] 🎥 Watch [2023 - Michał Ostruszka - Things I wish I knew before I started with event sourcing](https://youtu.be/DE3PihgiiZQ)
+- [ ] 📚 Buy 5 books to read in next year
+- [ ] 📗 Read [JEP 461: Stream Gatherers (Preview)](https://openjdk.org/jeps/461)
+- [ ] 📗 Read [Patterns For The Design Of Microservices – Part 2](https://foojay.io/today/patterns-for-the-design-of-microservices-part-2/)
+- [ ] 📗 Read [In-memory HttpServer Handler](https://inside.java/2023/11/06/in-memory-http-server-handler/)
+- [ ] 📗 Read [Flyweight](https://java-design-patterns.com/patterns/flyweight/)
+- [ ] 🎧 Listen [167: Desktop User Interfaces](https://www.programmingthrowdown.com/episodes/167-desktop-user-interfaces/)
+- [ ] 🎧 Listen [72. O encjach w Domain-Driven Design z Kamilem Grzybkiem](https://bettersoftwaredesign.pl/episodes/72)
+- [ ] 🎧 Listen [POIT #217: Kodowanie to tylko jedna z dróg programistów](https://porozmawiajmyoit.pl/poit-217-kodowanie-to-tylko-jedna-z-drog-programistow/)
+- [ ] 🎧 Listen [Sukcesja zaczyna się od wychowania – Jakub Lisiński](https://zaprojektujswojezycie.pl/sukcesja-zaczyna-sie-od-wychowania-jakub-lisinski/)
+- [ ] 🎥 Watch [Jakub Nabrdalik - Czemu nikt nie buduje dziś dużego monolitu](https://youtu.be/EnNXLNZe4nY?t=7233)
 
 ### 🏅 In the future 
 - [ ] Implement GTD habits

@@ -1300,3 +1300,31 @@ It was good Friday :). Actually I think that I was bored after 5 pm. 😂
 03/12/2023
 ---
 It was a lazy Saturday - I didn't have to do anything 😉. At noon we went to my in-laws' and there we walked the dog and had tea. In the evening there was a youth party + then we went down to my parents' house for the evening.
+
+04/12/2023
+---
+Time for changes! From now on, I will write about my plans for that day (I have already tried it), and also about what happened yesterday (what worked, what didn't and why). Yesterday we attended both services, we had a nice Sunday just for ourselves 🥰. Today I would like to run 3-5 km, prepare one book to read for the next year and read one article.
+
+05/12/2023
+---
+I managed to implement yesterday's plan 100% 😊. Today I would like to read 1 article and visit Natalia's aunt and family in the evening 👍
+
+06/12/2023
+---
+Yesterday everything went according to plan :). Today I would like to read the last article on the list for this week, run 3-4 km and maybe buy the books I have chosen to read for next year (but maybe I will refrain from doing so because there is a chance that there will be some book promotions before Christmas 😅).
+
+07/12/2023
+---
+Yesterday evening we visited Grzesiek and Karolina. Today I am without a plan. I want to take a walk in the morning and go to church in the evening :).
+
+08/12/2023
+---
+Today I have exactly the same lack of plan as yesterday 😁. I managed to complete the entire week's list, so I can rest 😅 (joking).
+
+09/12/2023
+---
+I had a ruined evening - my wife is a blessing on the one hand, and on the other... (I really don't like it when we argue) 🙄.
+
+10/12/2023
+---
+Tough Saturday. I haven't been in a good mood all day 😐. We were in Białystok and looked at the floors - the prices are astronomical 🤯.

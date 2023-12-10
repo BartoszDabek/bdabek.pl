@@ -14,10 +14,10 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Effective Java 3rd Edition (page: 381)
 
 ## ⭐ Books read 
 ### ✅ 2023
+- [x] Effective Java 3rd Edition
 - [x] Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistó - Robert C. Martin
 
 ### ✅ 2022
