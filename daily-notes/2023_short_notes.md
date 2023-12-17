@@ -1328,3 +1328,31 @@ I had a ruined evening - my wife is a blessing on the one hand, and on the other
 10/12/2023
 ---
 Tough Saturday. I haven't been in a good mood all day 😐. We were in Białystok and looked at the floors - the prices are astronomical 🤯.
+
+11/12/2023
+---
+Yesterday we went to the morning service, and then we went to Reduty and spent the entire afternoon and evening there :). The plan for today is to read an article, run 3 km and learn a bit about Kubernetes 👍.
+
+12/12/2023
+---
+Yesterday was as good a day as possible 😌. I managed to do what I set out to do. Today I would like to buy at least one book from the book list for 2023.
+
+13/12/2023
+---
+Yesterday I didn't manage to buy a book. In the evening we were at the Kondratiuks' and returned late in the evening. Today I would like to take care of it 📚.
+
+14/12/2023
+---
+I failed again 🫢. This time the excuse is that I had a lot of work - really 😑!
+
+15/12/2023
+---
+Natalia's armchair arrived yesterday, but it has one defect that makes it wobble slightly from side to side 😐. I filed a complaint and I hope they will replace this element 😏. If I have enough time and strength, I will finally want to buy books in the evening.
+
+16/12/2023
+---
+Yesterday, without any special revelations - a walk in the morning, then work. In the meantime, I had to go to the construction site, I did workout and around 3PM dinner. In the evening, my wife and I spent time together :).
+
+17/12/2023
+---
+Yesterday evening we attended a Christmas Eve youth meeting in Bielsk Podlaski. We also took our teenagers and it was ok. We could see a few people we hadn't seen for a long time :).
