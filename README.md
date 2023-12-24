@@ -9,7 +9,7 @@ Personal Goals
 
 ## 🥈 Sport Goals 
 1. ❌ 3:30 without breathing 😮‍💨
-2. ✅ Run 365 km (500/365) 🏃 ![Progress](https://progress-bar.dev/136/)
+2. ✅ Run 365 km (511/365) 🏃 ![Progress](https://progress-bar.dev/140/)
 3. ✅ Cycle 2000 km (2131/2000) 🚴 ![Progress](https://progress-bar.dev/106/)
 4. ❌ Master the Handstand 🤸
 5. ✅ 100 kg bench press  🏋️ (9.10)
@@ -26,23 +26,24 @@ Personal Goals
 8. ❌ Breath holding 😮‍💨
 9. ✅ Stretching 🧘 (15.01-14.02)
 
-# [12/17/2023]
+# [12/24/2023]
 ### ⭐ This week:
-- [ ] ⭐ Review first 6 months of 2023
-- [ ] 💵 Buy gutter nails
-- [ ] 💵 Buy document trays
-- [ ] 💰 Invest money from an investment account
-- [ ] 🎓 [Kubernetes - Core Concepts and Scheduling sections](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [ ] ⭐ Review and summary 2023
+- [ ] 🏠 Waterworks agreement
+- [ ] 🏠 Buy bulbs
+- [ ] 🏠 Look contractor for house paving
+- [ ] 💰 Prepare all finance documents for 2023
+- [ ] 🎓 [Kubernetes - Logging & Monitoring and Application Lifecycle Management](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 - [ ] 🏃 Run 5 km
-- [ ] 📗 Read [API versioning](https://blog.frankel.ch/api-versioning/)
-- [ ] 📗 Read [Random Thoughts 15 years into Software Engineering](https://roughlywritten.substack.com/p/random-thoughts-15-years-into-software)
-- [ ] 📗 Read [Technical Standards Bodies are Regulators](https://www.mnot.net/blog/2023/11/01/regulators)
-- [ ] 📗 Read [Front Controller](https://java-design-patterns.com/patterns/front-controller/)
-- [ ] 🎧 Listen [Ranking spółek dywidendowych 2024. Najlepsze spółki dywidendowe GPW](https://inwestomat.eu/ranking-spolek-dywidendowych-2024/)
-- [ ] 🎧 Listen [#89 Patoarchitekci Short #37](https://patoarchitekci.io/89/)
-- [ ] 🎧 Listen [Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health](https://www.hubermanlab.com/episode/mental-health-toolkit-tools-to-bolster-your-mood-mental-health)
-- [ ] 🎧 Listen [Milion złotych za samochód?! Czemu nie?](https://zaprojektujswojezycie.pl/milion-zlotych-za-samochod-czemu-nie/)
-- [ ] 🎥 Watch [Top 10 Spring Annotations to know in 2024](https://youtu.be/wf70Hs-aCcI)
+- [ ] 📗 Read [Pattern Matching for switch - Sip of Java](https://inside.java/2023/11/13/sip088/)
+- [ ] 📗 Read [Exploring the OpenTelemetry Collector](https://blog.frankel.ch/opentelemetry-collector/)
+- [ ] 📗 Read [Creating an OpenAPI Generator from Scratch: From YAML to JetBrains HTTP Client](https://foojay.io/today/creating-an-openapi-generator-from-scratch-from-yaml-to-jetbrains-http-client/)
+- [ ] 📗 Read [Game Loop](https://java-design-patterns.com/patterns/game-loop/)
+- [ ] 🎧 Listen [How To Set Your 2024 Goals and Achieve Them With Confidence (TPS487)](https://www.asianefficiency.com/podcasts/487-personal-strategic-planning/)
+- [ ] 🎧 Listen [Byłem prelegentem na TEDx! Powiem ci, jak się tam dostałem i co zyskałem dzięki wystąpieniu](https://malawielkafirma.pl/wystep-na-tedx-w-roli-prelegenta/)
+- [ ] 🎧 Listen [ETF accumulating czy ETF distributing? Który jest lepszy dla kogo?](https://inwestomat.eu/etf-accumulating-czy-etf-distributing/)
+- [ ] 🎧 Listen [POIT #218: Jak wygląda praca specjalisty ds. cyberbezpieczeństwa w banku w obliczu nowych trendów branżowych?](https://porozmawiajmyoit.pl/poit-218-jak-wyglada-praca-specjalisty-ds-cyberbezpieczenstwa-w-banku-w-obliczu-nowych-trendow-branzowych/)
+- [ ] 🎥 Watch [Top 5 mistakes with Java Sets!](https://youtu.be/zgxf0eYqRSg)
 
 ### 🏅 In the future 
 - [ ] Implement GTD habits

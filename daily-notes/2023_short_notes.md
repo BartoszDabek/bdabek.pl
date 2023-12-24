@@ -217,6 +217,7 @@ It's Friday 🤗. And weekend has begun 👍. After work, I went for a run with 
 26/02/2023
 ---
 Saturday was ok 👍. I walked a bit in the morning and then worked. In the evening I went to a youth meeting and it was nice. 
+
 27/02/2023
 ---
 Ehh Sunday Sunday 🙄 - it was mentally tough day.
@@ -1356,3 +1357,31 @@ Yesterday, without any special revelations - a walk in the morning, then work. I
 17/12/2023
 ---
 Yesterday evening we attended a Christmas Eve youth meeting in Bielsk Podlaski. We also took our teenagers and it was ok. We could see a few people we hadn't seen for a long time :).
+
+18/12/2023
+---
+Yesterday I had a huge argument with my wife 😟. Thank God we were reconciled at the end of the day. We attended both services and also had dinner in Reduty. Today I ran 5 km. and now I have work and I don't have any special plans 😉.
+
+19/12/2023
+---
+Yesterday at 3 p.m. Damian came by and stayed for about 3 hours - we sat and talked 😀. In the evening, Natka and I made a Christmas food list 😆. Today the plan is to complete this list ✅.
+
+20/12/2023
+---
+Yesterday my wife got sick 🥹. It's not bad, but I hope it will be better - especially since it's the time before Christmas 😏.
+
+21/12/2023
+---
+We made peanut shells - Natalia did more than me, although at the very end he came to help a little 😆. The plan for today is to finally buy a document tray!
+
+22/12/2023
+---
+I didn't manage to buy a document tray 😒. We were in front of the store and it was closed 🫨🫨. Today is Friday, so I would like to finish as many things from the list as possible - and whatever works, will work 😆.
+
+23/12/2023
+---
+What happened yesterday? Nothing special, I guess - we cleaned for the Chrirstmas 🎄🙂.
+
+24/12/2023
+---
+Another well-organized day 😉. We just didn't calculate how long it takes to make chocolate nuts and that's why I didn't go to the youth meeting. Today is Christmas Eve 🎁 - we go to the morning service and then we'will be hosted by Kuba and Kasia 🙂🍴!
