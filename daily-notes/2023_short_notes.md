@@ -1385,3 +1385,31 @@ What happened yesterday? Nothing special, I guess - we cleaned for the Chrirstma
 24/12/2023
 ---
 Another well-organized day 😉. We just didn't calculate how long it takes to make chocolate nuts and that's why I didn't go to the youth meeting. Today is Christmas Eve 🎁 - we go to the morning service and then we'will be hosted by Kuba and Kasia 🙂🍴!
+
+25/12/2023
+---
+You could say that we have started Christmas :). We spent most of the day at Kuba and Kasia's. Today at 5:30 a.m. we got up to prepare our dinner - today we cook and serve 😀. We're going to the service in a moment, and then we'll have dinner together. And there is a plan to go to Gancarze in the evening, after our guests leave :).
+
+26/12/2023
+---
+The first day of Christmas is behind us. We invited the sisters from the church for dinner, and in the evening we went to Gancarze. And at night we were walking with Dominika - she told us about her situation.
+
+27/12/2023
+---
+The second day of Christmas has passed. Today we had dinner and the whole afternoon at my parents' house upstairs :). I'm not planning anything today - we'll see what happens.
+
+28/12/2023
+---
+Yesterday evening we had guests - Rybacy. I ran in the morning, then I worked all day long. Today I'm going to take a walk, then work and service in the evening :).
+
+29/12/2023
+---
+Yesterday we were at the evening service and my wife and I had a bit of an argument. Today, work + Kubernetes course.
+
+30/12/2023
+---
+Yesterday I was writing my annual summary and I was thinking about my goals for the next year. In addition, I worked during the day and cleaned the house in the evening 🏠. Today I would like to go for a run, then go to the construction site and tidy up there, and at the end of the day there is a youth meeting and I'm there 🙂.
+
+31/12/2023
+---
+It's the last day of this year 🎊. Yesterday I managed to execute my plan. I ran in the morning and then we went shopping and cleaned up at the construction site. In the evening we attended a youth meeting. Today the plan is to attend both services and in the evening we are organizing a New Year's Eve party for several people from our youth :).
