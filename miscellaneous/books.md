@@ -1,5 +1,4 @@
 ## 📚 Books to read 
-- [ ] Java Concurrency in Practice
 - [ ] Java Performance: The Definitive Guide: Getting the Most Out of Your Code
 - [ ] Head First Object-Oriented Analysis and Design
 - [ ] Growing Object-Oriented Software, Guided by Tests
@@ -14,6 +13,7 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
+- [ ] Java Concurrency in Practice
 
 ## ⭐ Books read 
 ### ✅ 2023
