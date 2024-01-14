@@ -13,7 +13,7 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Java Concurrency in Practice
+- [ ] Java Concurrency in Practice (page: 33)
 
 ## ⭐ Books read 
 ### ✅ 2023
