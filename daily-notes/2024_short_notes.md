@@ -53,3 +53,31 @@ Wczoraj nie udało mi się za bardzo dotknąć kubernetesa 🤫. Damian przyjech
 14/01/2024
 ---
 Rano odśnieżaliśmy zbór (dziś też go odśnieżają - bo przez noc znów napadał śnieg ❄️, ale mi się nie udało wybrać 😑), później śniadanie z żoną ☕🍳 i kubernetes. Nie ogarnąłem całego rozdziału bezpieczeństwa, ale i tak jestem zadowolony. Przed młodzieżowym musiałem się jeszcze przygotować bo Adam poprosił mnie o usługę. Dzisiaj będzie raczej dzień leniwca 🤫🥱. 
+
+15/01/2024
+---
+Odśnieżyłem rano podwórko i to była jedna z rzeczy, których pod leniwca podpiąć nie mogę 😅. Byliśmy na obu nabożeństwach,na obiad jedliśmy rybę 🐟🍴, myśleliśmy trochę nad kwestiami w nowym domu - łazienka na dole 🚽🥱.
+
+16/01/2024
+---
+Wczoraj musieliśmy pojechać do Białegostoku 🚗. Ja miałem w pracy do załatwienia migrację 💻, a Nati chciała zobaczyć panele, która upatrzyła na instagramie 🏠. Wracając zgarnęliśmy obiad w babuszce i pracowaliśmy do 20 🤯. Dziś będzie spokojniej - oprócz pracy chcę ogarnąć też nieco kubernetesa 🙂.
+
+17/01/2024
+---
+Wtorek był ok 👌, chociaż nie pouczyłem się kubernetesa, tyle ile myślałem 🤫. Cóż... życie 😵. Dzisiaj oprócz biegania z rana i treningu podczas pracy chciałbym wieczorem usiąść do mentalnego inboxu i pozbyć się wszystkiego co siedzi w głowie (a przy okazji wypełnić jedno z zadań na ten tydzień 😏).
+
+18/01/2024
+---
+Bardzo dobra środa 👍🦾! W pracy do przodu, kubernetesa ogarnąłem i wszystkie tematy z głowy przelałem na kartkę 👏. Dziś do przeczytania mam kilka stron książki Java Concurreny In Practice, artykuł o testach mutacyjnych i wieczorem nabożeństwo 🙏👋.
+
+19/01/2024
+---
+Plan z wczoraj się powiódł 🫷🏻. Dzisiaj ponownie w planach kilka stron książki, trening 🏋️, bieganie z rana i oczywiście praca 👨🏻‍💻💛. Większość planu tygodniowego już wykonałem, więc jest dobrze ✅👍!
+
+20/01/2024
+---
+Cały tygodniowy plan mam już zaliczony 🥳. Dzisiaj sobota i planujemy coś na działce porobić: poodśnieżać i poprzenosić styropian z garażu do blaszaka, żeby można było rozłożyć styropian na podłogę w garażu 🙂.
+
+21/01/2024
+---
+W sobotę 3 godziny spędziliśmy na budowie 🏠🚧. Musieliśmy ogarnąć garaż, ale pomimo spędzonego czasu i tak wszystkiego nie udało się jeszcze zrobić. Został jakieś płyty OSB, których nie mamy nawet gdzie położyć 😏. Wieczorem było młodzieżowe + próba śpiewu, więc do domu wróciliśmy dopiero o 21 😳. Dzisiaj śpiewamy na nabożeństwie i później planów nie mamy. Zobaczymy co wyjdzie 🙂.

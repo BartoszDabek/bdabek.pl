@@ -8,7 +8,7 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (20/400) 🏃 ![Progress](https://progress-bar.dev/5/)
+1. Przebiec 400 km (31/400) 🏃 ![Progress](https://progress-bar.dev/7/)
 2. Przejechać na rowerze 1600 km (0/1600) 🚴 ![Progress](https://progress-bar.dev/0/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
@@ -24,20 +24,20 @@ Personal Goals
 8. 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. 0 cukru 🎂
 
-# [01/14/2023]
+# [01/21/2023]
 ### 🚧 W tym tygodniu:
-- [ ] 🧹 GTD - zebrać wszystkie rzeczy dookoła siebie + projekty w głowie i wrzucić w inbox
-- [ ] 🎓 [Kubernetes - Security & Storage](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [ ] 🧹 GTD - zrobić porządek z inboxem
 - [ ] 🏃 Przebiec 7 km
+- [ ] 🎓 [Kubernetes - Netowrking](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 - [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Reflecting on 18 years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
-- [ ] 📗 Przeczytać [How I use Mutation Testing to Drive Good Test Case Coverage](https://akjaw.com/using-mutation-testing-for-good-test-coverage/)
-- [ ] 📗 Przeczytać [Spacja w system properties, małpa i inne zawiłości komendy 'java’](https://pkubowicz.pl/spacja-w-system-properties-malpa-i-inne-zawilosci-komendy-java/)
-- [ ] 📗 Przeczytać [Health Check Pattern](https://java-design-patterns.com/patterns/health-check/)
-- [ ] 🎧 Przesłuchać [A Science-Supported Journaling Protocol to Improve Mental & Physical Health](https://www.hubermanlab.com/episode/a-science-supported-journaling-protocol-to-improve-mental-physical-health)
-- [ ] 🎧 Przesłuchać [73. O streamingu eventów w systemie z Piotrem Gankiewiczem](https://bettersoftwaredesign.pl/episodes/73)
-- [ ] 🎧 Przesłuchać [POIT #220: Czym zajmuje się Azure Cloud Architect?](https://porozmawiajmyoit.pl/poit-220-czym-zajmuje-sie-azure-cloud-architect/)
-- [ ] 🎧 Przesłuchać [Dochód pasywny jest przereklamowany – Maciej Filipkowski](https://zaprojektujswojezycie.pl/dochod-pasywny-jest-przereklamowany-maciej-filipkowski/)
-- [ ] 🎥 Obejrzeć [2023 - Marek Chrapek - Multitenancy from scratch](https://youtu.be/5t02XoWf_Bw)
+- [ ] 📗 Przeczytać [Java List, ArrayList, LinkedList](https://stormit.pl/java-list-arraylist-linkedlist/)
+- [ ] 📗 Przeczytać [Clever, surprised and gray-haired](https://blog.allegro.tech/2023/12/lmdb-postmortem.html)
+- [ ] 📗 Przeczytać [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
+- [ ] 📗 Przeczytać [Hexagonal Architecture](https://java-design-patterns.com/patterns/hexagonal/)
+- [ ] 🎧 Przesłuchać [Sprawia, że rzeczy się dzieją – Karolina Brzuchalska](https://zaprojektujswojezycie.pl/sprawia-ze-rzeczy-sie-dzieja-karolina-brzuchalska/)
+- [ ] 🎧 Przesłuchać [#94 Patoarchitekci Short #39](https://patoarchitekci.io/94/)
+- [ ] 🎧 Przesłuchać [Biznesowe Q&A: Zaczynanie od zera, psychologia przedsiębiorcy i mądry marketing](https://malawielkafirma.pl/biznesowe-qa/)
+- [ ] 🎧 Przesłuchać [Robert Greene: A Process for Finding & Achieving Your Unique Purpose](https://www.hubermanlab.com/episode/robert-greene-a-process-for-finding-achieving-your-unique-purpose)
+- [ ] 🎥 Obejrzeć [2023 - Rafał Maciak - Komunikacja bez przemocy w świecie systemów rozproszonych](https://youtu.be/BFsdlTHw4NA)
 
 ### 💡 Pomysły na przyszłość
