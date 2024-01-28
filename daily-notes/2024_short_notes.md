@@ -81,3 +81,31 @@ Cały tygodniowy plan mam już zaliczony 🥳. Dzisiaj sobota i planujemy coś n
 21/01/2024
 ---
 W sobotę 3 godziny spędziliśmy na budowie 🏠🚧. Musieliśmy ogarnąć garaż, ale pomimo spędzonego czasu i tak wszystkiego nie udało się jeszcze zrobić. Został jakieś płyty OSB, których nie mamy nawet gdzie położyć 😏. Wieczorem było młodzieżowe + próba śpiewu, więc do domu wróciliśmy dopiero o 21 😳. Dzisiaj śpiewamy na nabożeństwie i później planów nie mamy. Zobaczymy co wyjdzie 🙂.
+
+22/01/2024
+---
+Niedzielę spędziliśmy w domu. Byliśmy na obu nabożeństwach, pomiędzy wyszliśmy na prawie godzinny spacer 🚶🌲❆, byliśmy piętro niżej na kawie i cieście ☕. Plan na dziś to przebiec się, zrobić trening, przeczytać 1 artykuł z listy na ten tydzień i pouczyć się z 30 minut kubernetesa 🎓😉.
+
+23/01/2024
+---
+Poniedziałkowy plan udało mi się wykonać nawet z nawiązką ✅👏. Z kubernetesa przerabiam teraz sekcję o sieciach i przyznam, że jest ciężko 🫣. Dzisiaj w planach ponownie jeden artykuł do przeczytania, kubernetes, trochę ksiązka o programowaniu współbieżnym i oczywiście praca 👈🏻🤍.
+
+24/01/2024
+---
+To co zaplanowałem na wczoraj, się nie udało ❌. Poległem z kubernetesem i przeczytaniem artykułu 🫣. Nie łamię się i przesuwam to na dziś, a dodatkowo jest środa, więc jeszcze mam do zrobienia trening 😋💪!
+
+25/01/2024
+---
+Dzisiaj strasznie ciężko mi się wstawało - wstałem o 6:45 🥱😵. Wczorajszy plan udał się w 100%. Dzisiaj bez planu. Trochę kubernetesa i wieczorem nabożeństwo 👋!
+
+26/01/2024
+---
+Rollercoster wstawania 🎢, dziś wstałem o 5:03 🌅. Plan jest taki, żeby zamknąć całą listę rzeczy na ten tydzień, oprócz tego praca, trening + bieganie 🏃🏻!
+
+27/01/2024
+---
+Wczoraj nie udało mi się ogarnąć GTD, ale cała reszta zrobiona ✔. O 19 wpadł Damian. Pomógł mi skręcić biurko dla Nati, później zdjeliśmy zapiekanki 🥪, i na koniec graliśmy w grę planszową - catana 🎲. Graliśmy prawie do 1 w nocy 😆 - każdy wygrał po 1 razie i wszyscy byli szczęśliwi (chyba). Dzisiaj rano jedziemy z tatą i Kubą pomóc wyciągnąć piec jednemu bratu ze zboru, a popołudniu będziemy świętować urodziny Witalika.
+
+28/01/2024
+---
+Sobota była udana 🔥! Wszystko co planowałem, udało się wykonać 😊. Świętowaliśmy też urodziny Witalika 🎂, było kilka znajomych osób. Później z Nati pojechaliśmy na młodzieżowe, ale jak wróciliśmy to urodziny jeszcze trwały i ostatecznie siedzieliśmy jakoś do 22:30 🥳. Już tylko my, Kuba, Kasia i rodzice - goście się rozjechali. Dzisiaj niedziela - dzień Pański 😇. Planujemy pojechać do Redut, a wieczorem na urodziny do Andżeliki Rybak.
