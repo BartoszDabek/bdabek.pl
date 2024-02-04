@@ -109,3 +109,31 @@ Wczoraj nie udało mi się ogarnąć GTD, ale cała reszta zrobiona ✔. O 19 wp
 28/01/2024
 ---
 Sobota była udana 🔥! Wszystko co planowałem, udało się wykonać 😊. Świętowaliśmy też urodziny Witalika 🎂, było kilka znajomych osób. Później z Nati pojechaliśmy na młodzieżowe, ale jak wróciliśmy to urodziny jeszcze trwały i ostatecznie siedzieliśmy jakoś do 22:30 🥳. Już tylko my, Kuba, Kasia i rodzice - goście się rozjechali. Dzisiaj niedziela - dzień Pański 😇. Planujemy pojechać do Redut, a wieczorem na urodziny do Andżeliki Rybak.
+
+29/01/2024
+---
+Niedziela mijała dobrze... do czasu 😡😡. Na sam koniec moja żona ubzdurała coś w swojej głowie i się zaczęło 🤯. Nie lubię i nie chcę się kłócić, ale mam też słabe nerwy 🤐. Dzisiaj chce normalnie żyć, ale nie napiszę swoich planów bo ta sytuacja mnie rozstroiła i nie wiem co będzie.
+
+30/01/2024
+---
+Poniedziałek choć zaczął się bardzo źle, to skończył dobrze 😉, dzięki Bogu! Pogodziliśmy się z Natalią w ciągu dnia ❤️. Dzisiaj plan jest taki, żeby wykonać inwestycję na koncie IKE, przejść się rano do sklepu, przeczytać jeden artykuł i kilka stron książki o współbieżności w javie 📚👀.
+
+31/01/2024
+---
+To już ostatni dzień stycznia 👋🏼. Wczorajszy plan zrealizowany w 100%. Dzisiaj chcę przebiec się z rana, w ciągu dnia poćwiczyć 🏋🏻 i znów przeczytać jeden artykuł 😄. Oprócz tego muszę poogarniać faktury i sprawy związane z zamknięciem miesiąca 🧾🏦.
+
+01/02/2024
+---
+Realizacja wczorajszego planu zaliczona ✅. Dzisiaj będzie luźniej, bo jedyne co chcę to przepracować i wieczorem pójść na nabożeństwo. Prawie całą listę tego co miałem zrobić, mam już zamkniętą 🙂. Chciałbym się jeszcze dowiedzieć o wylewaniu żywicy epoksydowej - żeby wiedzieć ile w garażu i kotłowni robić wylewki 🏠.
+
+02/02/2024
+---
+Znów się lekko zaciąłem w kwesti domu i dzwonienia do fachowców - strasznie tego nie lubię i z jednej strony cieszę się, że już widać horyzont końca 😆. Wczoraj wieczorem odwiedziliśmy Daniela Kardasza - byliśmy na herbacie + ciastku 🙂. Dziś chcę się przebiec 6km (za wczorajsze ciastka), przeczytać kilka stron książki, zrobić trening i jak najwięcej w pracy 😁.
+
+03/02/2024
+---
+Piąteczek minął szybko. Pracowałem do 19, a później pomogłem żonie sprzątać dom 🧹🧼. Dzisiaj planujemy pojechać na budowę i tam posrzpątać + zmierzyć schody 📏. Na 15 jesteśmy zaproszeni na urodziny do Piotrowskich 🎂🎀.
+
+04/02/2024
+---
+Wczorj do 22 byliśmy na urodzinach - było ok, ale bez fajerwerków 🤫. Na obiad/kolację wzięliśmy kebaby z lokalu obok. Z Nati wzięliśmy dużego kebaba i zjedliśmy całego, ale trzyma mnie do teraz 🫓🍖! Dzisiaj nabożeństwa i za oknem wydaje się przyjemna pogoda 🙂 - nie mamy na dziś żadnych planów.
