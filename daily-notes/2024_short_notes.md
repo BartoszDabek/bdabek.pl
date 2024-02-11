@@ -137,3 +137,31 @@ Piąteczek minął szybko. Pracowałem do 19, a później pomogłem żonie sprz�
 04/02/2024
 ---
 Wczorj do 22 byliśmy na urodzinach - było ok, ale bez fajerwerków 🤫. Na obiad/kolację wzięliśmy kebaby z lokalu obok. Z Nati wzięliśmy dużego kebaba i zjedliśmy całego, ale trzyma mnie do teraz 🫓🍖! Dzisiaj nabożeństwa i za oknem wydaje się przyjemna pogoda 🙂 - nie mamy na dziś żadnych planów.
+
+05/02/2024
+---
+Byliśmy na porannym nabożeństwie, później zrobiliśmy spacer, zjedliśmy obiad, mieliśmy dżemkę 💤🥱, zjedliśmy crumble, planowaliśmy meble do łazienki i pojechaliśmy na 17 pograć w gry planszowe do Piotrowskich 🎲🧩. Dziś poniedziałek, więc z rana chcę się przebiec. Później w ciągu dnia zrobić trening, a oprócz tego to standardowo praca 🙂. Liczę też, że uda się przeczytać kilka stron książki i może pouczyć trochę kubernetesa.
+
+06/02/2024
+---
+Plan poniedziałkowy zaliczony 💯✔. Wieczorem jeszcze projektowaliśmy meble, żeby stolarz mógł nam je wycenić. Dzisiaj wtorek więc dzień omleta na śniadanie 🍌+🐔=🍳. Z rana muszę się przejść do sklepu po składniki, później planuję odstawić auto Piotrkowi, żeby mógł naprawić co tam jest nie tak i zrobić mi przegląd. Poza tym praca, praca, praca 😌.
+
+07/02/2024
+---
+Wtorek minął szybko 🚀👋. Dzisiaj dzień treningowy, z rana planuję jeszcze się przebiec (choć póki co pada deszcz, ale już słabszy niż jak tylko wstałem). Poza tym praca, zapewne kilka stron książki, może kubernetes jeszcze 🤛. Może w końcu warto też byłoby zadzwonić do gości od wylewania żywicy epoksydowej w garażu i kotłowni 🤔.
+
+08/02/2024
+---
+W końcu się przełamałem i zadzwoniłem do wykonawców od żywicy epoksydowej 📞😶‍🌫️ i teraz już wiem na czym stoję. Mamy czwartek i w zasadzie mam większość planu tygodniowego już zrealizowaną - a nie był on mały 😏... Dziś praca i wieczorowe nabożeństwo. Jak starczy sił i chęci to może jeszcze na młodzieżowe sobotnie się coś przygotuję 📖.
+
+09/02/2024
+---
+Pierwszy challenge w tym roku (podciąganie) zaliczony ✅. Teraz weekend przerwy i zaczynam codzienne bieganie 🏃‍♂️🫡. Piąteczek w końcu 😁😁. Oprócz zrobienia treningu i przebiegnięcia się z rana kilku kilometrów, to nie mam większego planu. Zapewne pomogę żonie wieczorem sprzątać dom + przygotuję się do młodzieżowego na jutro 😉.
+
+10/02/2024
+---
+Wieczorem wpadł Damian 🤝, więc posprzątać zdążyłem, ale przygotować się do młodzieżowego już nie 🫥. Dzisiaj mamy umówione spotkanie z wykonawcą od kostki brukowej o 9 rano. Oprócz tego na budowie jeszcze trochę sprzątania + trzeba ogarnąć styropiany. Wieczorem jest młodzieżowe i tak zapewne minie ten dzień 😏.
+
+11/02/2024
+---
+W sobotę z samego rana posprzątaliśmy klatkę 🧼, później Piotrek odstawił nam samochód, razem zjedliśmy śniadanie ☕🍳 i z Nati pojechaliśmy spotkać się z brukarzem + posprzątać na budowie 🏠🚧. Do domu wróciliśmy około 12 (już po zakupach) i później wieczorem na młodzieżowe. Tak minął dzień - celowo pomijam nasze wszelkie spory 😡. Dzisiaj po nabożeństwie jedziemy do Redut i pewnie tam spędzimy całe popołudnie 😉.
