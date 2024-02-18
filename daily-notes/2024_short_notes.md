@@ -165,3 +165,31 @@ Wieczorem wpadł Damian 🤝, więc posprzątać zdążyłem, ale przygotować s
 11/02/2024
 ---
 W sobotę z samego rana posprzątaliśmy klatkę 🧼, później Piotrek odstawił nam samochód, razem zjedliśmy śniadanie ☕🍳 i z Nati pojechaliśmy spotkać się z brukarzem + posprzątać na budowie 🏠🚧. Do domu wróciliśmy około 12 (już po zakupach) i później wieczorem na młodzieżowe. Tak minął dzień - celowo pomijam nasze wszelkie spory 😡. Dzisiaj po nabożeństwie jedziemy do Redut i pewnie tam spędzimy całe popołudnie 😉.
+
+12/02/2024
+---
+Było mniej więcej tak jak planowałem. Rano pojechaliśmy na nabożeństwo, później na obiad do Redut i tam byliśmy do 18, a na koniec jeszcze odwiedziliśmy Izę i Kamila. Dziś poniedziałek - nowy tydzień 👊👏, nowe wyzwania. Zaraz idę biegać, później praca i w międzyczasie trening. Chcę przeczytać kilka stron książki + pouczyć się kubernetesa - ot taki plan na dziś 🙂.
+
+13/02/2024
+---
+Wczorajsze założenia wykonane w 💯%. Dzisiaj moja misja to podzwonić i zapytać o ceny układania kostki 📞.
+
+14/02/2024
+---
+Udało się wykonać kilka telefonów i na sobotę umówić z lokalnym wykonawcą 🚜. Dzisiaj bardzo dobrze mi się spało 💤, ale jakoś udało się wstać 😅. Plan na dziś 🎯: bieganie z rana, trening, praca, kilka stron książki, ogarnąć formularz IKE, zdecydować się na schodziarza 👈.
+
+15/02/2024
+---
+Nie ogarnąłem formularza IKE i nie zdecydowaliśmy się na schodziarza 🥲. Chociaż co do schodziarza to raczej weźmiemy wykonawcę z Hajnówki, tylko musimy to jeszcze dobrze przemyśleć 😆. Dzisiaj wieczorowe nabożeństwo, a reszta dnia to praca 🫣.
+
+16/02/2024
+---
+Wczoraj spotkaliśmy się z Michałem na budowie i omówiliśmy co jest do zrobienia i co on chce robić 🏠. Cel na dziś to: przebiec się rano, przeczytać ostatni artykuł z listy tygodnia, kilka stron książki i w końcu napisać ten formularz IKE 🎯😏!
+
+17/02/2024
+---
+Piąteczek 🥰. Wszystko zrobiłem oprócz formularza IKE... zapomniałem o nim całkowicie a nawet coś drukowałem 🤦. O 10 wpadła do nas Dominika bo chciała właśnie coś wydrukować. Siedzieliśmy z 30 minut i rozmawialiśmy na różne tematy. Wieczorem natomiast świętowaliśmy urodziny mamy 🥳 (która urodziny ma dziś, ale dziś cały dzień jest w pracy). Nati zrobiła pyszną bezę 🍰 i tak zleciał wieczór. Dziś na budowie mamy spotkać się ze schodziarzem i wykonawcą od kostki. Oprócz tego mamy coś do ogarnięcia/posprzątania 🙂.
+
+18/02/2024
+---
+Pracowita sobota 😌🤛. Z samego rana posprzątaliśmy klatkę, a później byliśmy na budowie i też robiliśmy porządki. Po powrocie ledwo wróciliśmy i zjedliśmy, to przyjechał Łukasz, żeby dywan umyć, więc jeszcze godzinkę z nim tam byłem. Później już było młodzieżowe i na koniec wpadliśmy jeszcze do Piotrka i Zuzi na 40 minut 🥵. Dzisiaj dzień Pański i dzień odpoczynku. Z rana jedynie biegam, a tak to laba 😆.
