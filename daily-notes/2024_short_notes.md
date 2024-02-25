@@ -193,3 +193,31 @@ Piąteczek 🥰. Wszystko zrobiłem oprócz formularza IKE... zapomniałem o nim
 18/02/2024
 ---
 Pracowita sobota 😌🤛. Z samego rana posprzątaliśmy klatkę, a później byliśmy na budowie i też robiliśmy porządki. Po powrocie ledwo wróciliśmy i zjedliśmy, to przyjechał Łukasz, żeby dywan umyć, więc jeszcze godzinkę z nim tam byłem. Później już było młodzieżowe i na koniec wpadliśmy jeszcze do Piotrka i Zuzi na 40 minut 🥵. Dzisiaj dzień Pański i dzień odpoczynku. Z rana jedynie biegam, a tak to laba 😆.
+
+19/02/2024
+---
+Moja żona przychorowała 🤧😭 - zatoki. Byliśmy na obu nabożeństwach + między obiadem zeszliśmy na herbatę piętro niżej. U Kuby był Łukasz z żoną i Marcelem i Michał z żoną i dziećmi. Później dojechała też Sylwia. Dziś nowy tydzień 👊💪. Zaraz mam zamiar iść się przebiec, później praca i w międzyczasie trening. Będę też musiał wykonać kilka telefonów ☎️ i przeczytać 1 artykuł z listy 🙂.
+
+20/02/2024
+---
+Plan z wczoraj zaliczony ✅. Wieczorem wpadł jeszcze Damian z Sylwią i Kamilem. Zjedliśmy razem kolację, zagraliśmy w grę i później Sylwia z Kamilem pojechali i został tylko Damian. Mieliśmy zagrać jeszcze w grę, ale zaczęliśmy szczerą rozmowę i tak rozmawialiśmy do 23 z groszami 🤫. Plan na dziś to znów kilka telefonów do wykonania, artykuł i kilka stron książki do przeczytania + trochę kubernetesa. I oczywiście zaraz przebiec się kilka kilometrów 🏃🙂.
+
+21/02/2024
+---
+Nie udało mi się wykonać telefonów 🫣 - zawsze szukam wymówki, żeby tego nie zrobić 😅. Dzisiaj z żoną mamy umówioną wizytę u stomatologa 🦷. Wieczorem ma wpaść jeszcze Sasza i mamy wypełnić mu PIT 🏦.
+
+22/02/2024
+---
+Wczoraj udało mi się wykonać kilka telefonów, które mnie stresowały 😅. Byliśmy też u stomatologa :). Dziś prawdopodobnie będziemy mieć spotkanie z panem, które nam będzie wylewał posadzki 🏠.
+
+23/02/2024
+---
+Spotkanie z panel od posadzek nas ominęło - akurat miałem spotknie, ale tato był na budowie i porozmawiał. Dzisiaj prawdopodobnie czeka mnie kilka telefonów do wykonawców od ogrodzeń. Poza tym bieganie z rana i trening podczas dnia. Rano muszę jeszcze koniecznie kupić kratkę ściekową ⚠️⚠️
+
+24/02/2024
+---
+Nie wykonałem żadnego telefonu 🫢🤫 - mówiłem, że strasznie tego nie lubię 😏. Dziś ostatni dzień sprzątania klatki w tym miesiącu 🤗, później mamy jeszcze na budowie do posprzątania trochę, a wieczorem młodzieżowe :). Tak zapewne minie ten dzień.
+
+25/02/2024
+---
+Wczoraj zroiłem łącznie troszkę ponad 15k kroków 👣. Rano było bieganie, później działka, sprzątanie klatki, znów działka i się na robiło tego 😅. Dzisiaj nabożeństwo poranne ⛪, a później urodziny Euniki i Laury w Bielsku 🎂.
