@@ -221,3 +221,31 @@ Nie wykonałem żadnego telefonu 🫢🤫 - mówiłem, że strasznie tego nie lu
 25/02/2024
 ---
 Wczoraj zroiłem łącznie troszkę ponad 15k kroków 👣. Rano było bieganie, później działka, sprzątanie klatki, znów działka i się na robiło tego 😅. Dzisiaj nabożeństwo poranne ⛪, a później urodziny Euniki i Laury w Bielsku 🎂.
+
+26/02/2024
+---
+Niedziela minęła tak jak opisałem wyżej + wieczorem wpadł do nas jeszcze Damian na gierki 🎲🧩 - siedzieliśmy długo, bo aż do 23:30. Na dziś plan jest taki, żeby przebiec się zaraz, później praca i w międzyczasie trening. Przeczytał jeden artykuł i dokończyć połowę egzaminu próbnego z mocków. W sumie dobrze byłoby też ogarnąć klej lub piankę do kratek wentylacyjnych na podbitkę 😏.
+
+27/02/2024
+---
+Pianki nie udało się kupić, ale już przynajmniej wiem, że chcę kupić silikon uniwersalny bezbarwny ⚪. Wczoraj zalali nam już posadzkę na piętrze 👍🏠. Dzisiaj parter (bez garażu i kotłowni), ale musimy tam z rana jeszcze podjechać, żeby dogadać kwestie poziomu przy HS i w wiatrołapie. Muszę też koniecznie do Marka się umówić na strzyżenie✂️💇🏻‍♂️!
+
+28/02/2024
+---
+Udało się wczoraj ostrzyc i w końcu mam normalne włosy 😂. Kolejnym sukcesem jest to, że zasylikonowaliśmy wszystkie kratki wentyalcyjne 🥳🥳. Dziś plan standardowo-środowy: bieganie, praca, trening, dokończyć czytanie artykułu i kilka stron książki. Na 17:30 jedziemy na pożegnanie Dominiki 👋, która się przeprowadza na dolny śląsk 😏.
+
+29/02/2024
+---
+Wczoraj wszystko było zgodnie z planem. Od Dominiki wróciliśmy po 22 - było tam sporo gości 😉, a ona sama dziś już jedzie na dolny śląsk. Dzisiaj będzie sporo pracy 🤯. O 10:30 jeszcze będziemy musieli wyjść do dentysty 🦷👣, a wieczorem nabożeństwo 🙏.
+
+01/03/2024
+---
+Plam ma dziś to standardowo bieganie + trening + praca. Oprócz tego został mi jeden artykuł do przeczytania i kilka stron książki. Trochę ciężko z kubernetesem, bo na egzamin muszę przeznaczyć 2 godziny, a ciężko jest je wyłuskać 🥹. Dziś popołudniu chciałbym też pojechać na działkę i po pierwsze zobaczyć jak wygląda dom po wylaniu posadzek, a po drugie trochę posprzątać 😝.
+
+02/03/2024
+---
+Na działce posprzątaliśmy 10/10 👍🤗. Wieczorem pojechaliśmy do Piotrka i Zuzi jeszcze. Dziś jestem już po porannym bieganiu i zaraz jedziemy do Bielska, a później do Białegostoku, żeby rozglądać się za rzeczami potrzebnymi w dalszych etapach inwestycji w domu 😆🏠.
+
+03/03/2024
+---
+Sobota to był w większości dzień pzoa domem. Wyjechaliśmy około 7:30 i wróciliśmy mniej więcej o 18:30 🚗. Załatwiliśmy dużo rzeczy (tak mi się wydaje 🙄). Poszliśmy też na obiad na sushi i muszę przyznać, że było dobre 🍣🥢😋. Dziś nabożeństwo, a później może kogoś zaprosimy na kawę i ciasto ☕🙂.
