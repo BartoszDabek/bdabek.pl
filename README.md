@@ -8,7 +8,7 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (175/400) 🏃 ![Progress](https://progress-bar.dev/48/)
+1. Przebiec 400 km (210/400) 🏃 ![Progress](https://progress-bar.dev/52/)
 2. Przejechać na rowerze 1600 km (0/1600) 🚴 ![Progress](https://progress-bar.dev/0/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
@@ -24,26 +24,26 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. 0 śmieciowego jedzenia 🍔
 
-# [03/03/2023]
+# [03/10/2023]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Zamówić legary na strop
-- [ ] 🏠 Zamówić parapety wewnętrzne
 - [ ] 🏠 Zamówić kominek
-- [ ] 🏠 Research kostki na podjazd i taras
 - [ ] 🏠 Zdecydować jakie chcemy ogrodzenie
-- [ ] 🏛️ Rozliczyć PIT-28
-- [ ] 🎓 [Kubernetes - drugi mock exam](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [ ] 🏠 Schodziarz - podpisać umowę
+- [ ] 🏠 Pręty gwintowane - pociąć i wsadzić w kołek rozporowy
+- [ ] 🎓 [Kubernetes - trzeci mock exam](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 - [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Achieving High Throughput Without Sacrificing Latency](https://foojay.io/today/achieving-high-throughput-without-sacrificing-latency/)
-- [ ] 📗 Przeczytać [Sztuka kierowania zespołem – porady dla nowych team leaderów](https://sii.pl/blog/sztuka-kierowania-zespolem-porady-dla-nowych-team-leaderow/)
-- [ ] 📗 Przeczytać [Threads, ThreadPools and Executors - Multi Thread Processing In Java](https://softwaremill.com/threadpools-executors-and-java/)
-- [ ] 📗 Przeczytać [Lazy Loading](https://java-design-patterns.com/patterns/lazy-loading/)
-- [ ] 🎧 Przesłuchać [Od budowlańca do właściciela firmy z 200 mln przychodu – Marcin Ziopaja](https://zaprojektujswojezycie.pl/od-budowlanca-do-wlasciciela-firmy-z-200-mln-przychodu-marcin-ziopaja/)
-- [ ] 🎧 Przesłuchać [W jakie obligacje zainwestować? Obligacje a inflacja i stopy procentowe](https://inwestomat.eu/w-jakie-obligacje-zainwestowac/)
-- [ ] 🎧 Przesłuchać [Episode 32 “The Panama Effect” with Jorn Vernee](https://inside.java/2024/01/08/podcast-032/)
-- [ ] 🎧 Przesłuchać [How to Prevent & Treat Colds & Flu](https://www.hubermanlab.com/episode/how-to-prevent-treat-colds-flu)
-- [ ] 🎥 Obejrzeć [2023 - Marcin Baranowski - Jakie zJavy są wśród nas? Czyli co musisz nadrobić przed JDK 21](https://youtu.be/zFTnb32sx3w)
+- [ ] 📗 Przeczytać [Navigating Secrets Consumption in Kubernetes Pods](https://handsonarchitects.com/blog/2024/navigating-secrets-consumption-in-kubernetes-pods/)
+- [ ] 📗 Przeczytać [Don’t bother: it is only a little expired](https://blog.allegro.tech/2024/02/couchbase-expired-docs-tuning.html)
+- [ ] 📗 Przeczytać [Over-engineering w procesie tworzenia oprogramowania: droga do porażki](https://geek.justjoin.it/over-engineering-w-procesie-tworzenia-oprogramowania/)
+- [ ] 📗 Przeczytać [Leader Election](https://java-design-patterns.com/patterns/leader-election/)
+- [ ] 🎧 Przesłuchać [Jaki jest sens Twojego życia? Jacek Walkiewicz](https://zaprojektujswojezycie.pl/jaki-jest-sens-twojego-zycia-jacek-walkiewicz/)
+- [ ] 🎧 Przesłuchać [#98 Enterprise Architecture z Andrzejem Sobczakiem](https://patoarchitekci.io/98/)
+- [ ] 🎧 Przesłuchać [2 proste pytania, na których zbudowałem strategię tworzenia treści](https://malawielkafirma.pl/strategia-tresci-2-pytania/)
+- [ ] 🎧 Przesłuchać [Czy warto mieć konto w Interactive Brokers? Recenzja Interactive Brokers (IBKR)](https://inwestomat.eu/czy-warto-miec-konto-w-interactive-brokers/)
+- [ ] 🎧 Przesłuchać [78. O Outbox Pattern i skutecznej komunikacji z Jackiem Milewskim](https://bettersoftwaredesign.pl/episodes/78)
+- [ ] 🎥 Obejrzeć [2023 - Paweł Warczyński - Blizny, stłuczenia i złamania - czyli o programowaniu z perspektywy czasu](https://youtu.be/e4xRYZeTc8o)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Zorientować się w cenach za ogrodzenie + potencjalni wykonawcy
+- [ ] 🏠 Research kostki na podjazd i taras
 - [ ] 🏠 Wizyta u schodziarza

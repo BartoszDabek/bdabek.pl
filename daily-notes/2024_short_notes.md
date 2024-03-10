@@ -249,3 +249,31 @@ Na działce posprzątaliśmy 10/10 👍🤗. Wieczorem pojechaliśmy do Piotrka 
 03/03/2024
 ---
 Sobota to był w większości dzień pzoa domem. Wyjechaliśmy około 7:30 i wróciliśmy mniej więcej o 18:30 🚗. Załatwiliśmy dużo rzeczy (tak mi się wydaje 🙄). Poszliśmy też na obiad na sushi i muszę przyznać, że było dobre 🍣🥢😋. Dziś nabożeństwo, a później może kogoś zaprosimy na kawę i ciasto ☕🙂.
+
+04/03/2024
+---
+To była bardzo leniwa niedziela 🥱🥱. Byliśmy na porannym nabożeństwie, a później zrobiliśmy obiad i po obiedzie... poszliśmy się zdrzemnąć. Drzemaliśmy prawie 2 godziny 😆 i później pojechaliśmy do Piotrowskich pograć w gry planszowe 🫷. A dzisiaj już poniedziałek 📅 i plan jest standardowy. Bieganie, trening, praca, artykuł i kilka stron książki. Oprócz tego muszę zamówić legary na strop i pomierzyć + zamówić parapety wewnętrzne 🏠.
+
+05/03/2024
+---
+Poniedziałek zaliczony ✅. Nawet udało mi się więcej bo rozliczyłem od razu PIT-28! Dziś chcę odwieźć na złom blachy po dachu (część 1/3 lub 1/4 😅), a reszta standardowo jak to we wtorek. Zaraz czeka mnie bieganie 🏃, później omlecik 🍳😋, a później już praca 👨🏻‍💻. A na wieczór może kogoś zaprosimy... zobaczymy 😉.
+
+06/03/2024
+---
+Nie udało się nikogo zaprosić - Nati pracowała do 19 🥵😱. Mi za dnia udało się pojechać na złom + na budowę trochę posprzątać. Dzisiaj standardowa środa raczej, czyli bieganie, trening, praca. Wieczorem być może jeszcze trochę kubernetesa 🫡.
+
+07/03/2024
+---
+Wczoraj wszystko poszło zgodnie z planem 👏🎉! Dużo myśleliśmy o wakacjach i gdzie by można było pojechać, ale nie doszliśmy do porozumienia 🌴🌴. Dziś mamy dentystę o 10:30, a wieczorem nabożeństwo o 18 😇, a poza tym brak konkretnych planów.
+
+08/03/2024
+---
+Czwartek był bez planu i było ok 👍. Dzisiaj natomiast plan już jest 😅. Rano bieganie, później praca i trening. Dziś jest dzień kobiet, więc planuję popołudniu zabrać moją żonę do Białowieży na spacer i kolację 🥰.
+
+09/03/2024
+---
+Kolację jednak zrobiliśmy w domu - zjedliśmy pyszny świeży chlebek i swojskie wędliny (i wyszło taniej) 😋. Dzisiaj na budowie będziemy opróżniać blaszaka, żeby móc go odsprzedać Markowi. Pomogę jeszcze tacie przewieźć kibelek do niego na budowę 🚽. A na 16 jest młodzieżowe w Dubiczach i tam się wybieramy 🚗.
+
+10/03/2024
+---
+To była pracowita sobota 🛠️. Łącznie zrobiłem 17k kroków 🦶🦶! Wszystko to co zaplanowałem udało się zrobić 🤗. Wieczorem młodzieżowe było też bardzo dobre 👍🤛. Dzisiaj czeka mnie bieganie z rana. Później nabożeństwo i na obiad jedziemy do Redut. Na wieczór wracamy na nabożeństwo bo będą goście - Ci którzy usługiwali na młodzieżowym w Dubiczach.
