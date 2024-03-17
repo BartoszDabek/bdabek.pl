@@ -277,3 +277,31 @@ Kolację jednak zrobiliśmy w domu - zjedliśmy pyszny świeży chlebek i swojsk
 10/03/2024
 ---
 To była pracowita sobota 🛠️. Łącznie zrobiłem 17k kroków 🦶🦶! Wszystko to co zaplanowałem udało się zrobić 🤗. Wieczorem młodzieżowe było też bardzo dobre 👍🤛. Dzisiaj czeka mnie bieganie z rana. Później nabożeństwo i na obiad jedziemy do Redut. Na wieczór wracamy na nabożeństwo bo będą goście - Ci którzy usługiwali na młodzieżowym w Dubiczach.
+
+11/03/2024
+---
+Błogosławiona niedziela 😇! Byliśmy na obu nabożeństwach, a między nabożeństwami w Redutach. Wieczorem usługiwali nam goście i nabożeństwo trwało 2.5h 😉. Dziś plan standardowy, czyli zaraz idę biegać, później praca + trening. Planuję przeczytać jeszcze jeden artykuł + kilka stron książki 📖👋🏼.
+
+12/03/2024
+---
+Wszystko się udało 👍. Dodatkowo ogarnąłem jeszcze trochę kubernetesa i na wieczór zaprosiliśmy Marka i Darię z dziećmi. Było fajnie - dobre jedzenie + rozmowy 🙂. W końcu to nasi sąsiedzi są, więc musimy budować relacje 😉. Dzisiaj chcę przebiec nieco więcej niz 5km 🏃 (zobaczymy czy się uda), a później praca 👨🏻‍💻👨🏻‍💻!
+
+13/03/2024
+---
+Wczoraj udało mi się przebiec 7km ✅. Przez chwilę myślałem, że zrobię 8, ale przy 4-5 kilometrze zmieniłem plan 😀. Przed 16 mieliśmy też dynamiczne spotkanie z glazurnikiem, który możliwe, że będzie robił nam łazienki. Przy okazji wyszło, że w łazience na górze trzeba będzie chyba poprawiać bo nie ma spadku 😣😣. A dzisiaj plan jest standardowy - ostatni dzień biegania (w ramach 30 dniowego wyzwania), później praca i trening. Na pewno też kilka stron książki + trochę nauki kubernetesa. Dziś mają też przyjechać parapety wewnętrzne do domu, więc będę musiał wyskoczyć w ciągu dnia i pojechać je rozładować.
+
+14/03/2024
+---
+Nie udało mi się za bardzo przysiąść do kubernetesa ❌, ale pozostałe rzeczy zrobione ✅. Koniec wyzwania z codziennym bieganiem, aż dziwnie że dziś idę się tylko przejść 😆! Plan na dziś to praca + dentysta + nabożeństwo wieczorowe. Nic więcej nie planuję 😉.
+
+15/03/2024
+---
+Wczoraj była moja ostatnia wizyta na fotelu u dentysty 🦷🙂. Zostanie mi tam pójść już ostatni raz za tydzień z żoną i później widzimy się dopiero za co najmniej pół roku. Dzisiaj plan jest taki, żeby pójść się przebiec, praca, trening i na 14 do Białegostoku jedziemy 🚗💨! Będziemy oglądać płytki do domu 😉.
+
+16/03/2024
+---
+Byliśmy w Białymstoku i jesteśmy w miarę zadowoleni z zobaczenia kostki brukowej/płyn betonowych. Drugi ważny wniosek z wyjazdu to, że w komforcie nie kupimy płytek do domu bo nie było nic co by nam się podobało 🫢🤫. Dzisiaj jestem już po bieganiu (tak challenge się skończył, ale lubię biegać 😅) i dziś czeka nas jeszcze sprzątanie zboru 🫠, a wieczorem młodzieżowe. Na pewno też troszkę dziś popracuję bo wczoraj skończyłem wcześniej 👨‍💻.
+
+17/03/2024
+---
+Zabiegana sobota 🥵. Głównym powodem zabiegania było sprzątanie zboru + spotkanie z Michałem na budowie. Liczyliśmy metry potrzebne do zamówienia materiałów na dalsze prace + Michał przywiózł osuszacz 😉. Dziś będziemy na porannym nabożeństwie, a później 18-tka Pawła w Redutach 🎉🥳!
