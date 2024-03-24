@@ -305,3 +305,31 @@ Byliśmy w Białymstoku i jesteśmy w miarę zadowoleni z zobaczenia kostki bruk
 17/03/2024
 ---
 Zabiegana sobota 🥵. Głównym powodem zabiegania było sprzątanie zboru + spotkanie z Michałem na budowie. Liczyliśmy metry potrzebne do zamówienia materiałów na dalsze prace + Michał przywiózł osuszacz 😉. Dziś będziemy na porannym nabożeństwie, a później 18-tka Pawła w Redutach 🎉🥳!
+
+18/03/2024
+---
+Byliśmy całe popołudnie i wieczór w Redutach. Pod sam wieczór czułem się źle, jakby coś mnie brało 🤧🤒. Dziś rano też nie było najlepiej, ale z godziny na godzinę (teraz jest prawie 9) jest już lepiej. Rano nawet przebiegłem się 3km, ale trening siłowy sobie odpuściłem 🙄. Plan na dzisiaj jest standardowy jak to w poniedziałek. Praca, trening, artykuł, kilka stron ksiażki i kubernetes 😏.
+
+19/03/2024
+---
+Cały poniedziałek po 9 czułem się już całkiem dobrze, ale dziś w nocy znów wrócił okropny katar i było źle 😭🤧. Teraz czuję się zmęczony, więc dobrze, że dziś nie jest dzień treningowy. Wczoraj na kolację jedliśmy pizzę 🍕. Rodzicie zamówili bo świętowaliśmy to, że mama dostała emeryturę 😄. Z tego wszystkiego zapomniałem też zrobić wczoraj codzinnego rozciągania 🫣 (dobrze, że to pierwszy dzień wyzwania, więc po prostu je przesunę o dzień). A dzisiaj plan jest taki: przejść się do sklepu, przeczytać artykuł, zrobić kilka zadań z kubernetesa i praca.
+
+20/03/2024
+---
+Kolejna ciężka noc 🤧😓. Wczoraj przypomniałem sobie o rozciąganiu przed 21 😂 - nie czułem się najlepiej, ale zrobiłem. Dzisiaj prawdopodobnie zrezygnuję z biegania porannego, a jedynie pójdę się przejść 🚶. Nie wiem też czy nie odpuścić dziś treningu 🤔🫣. Człowiek docenia bycie zdrowym... jak jest chory 😶‍🌫️.
+
+21/03/2024
+---
+Rano nie biegałem, ale trening jednak później zrobiłem. To był najcięższy trening w tym roku 🥵, a dodatkowo strasznie mnie bolała głowa przy tym... No nic, to już za mną. Dzisiaj przespałem całą noc 🤗! Plan na dziś jest taki, że wieczorem jest nabożeństwo. Oprócz tego trochę ksiażki, praca i kubernetes 😏.
+
+22/03/2024
+---
+Przeczytałem całą książkę Java Concurrency in Practice 📗 - zajęło mi to trochę ponad 3 miesiące, bo książka nie była łatwa. Wczoraj wieczorem poszliśmy do Kuby i Kasi i razem z gościem Martinem i tatą mieliśmy wspólny czas. Dzisiaj piątek i czuję się już w 95% zdrowy, więc idę zaraz się przebiec 5km, później trening, praca, kubernetes (będę męczył tego kubernetesa 😆).
+
+23/03/2024
+---
+Wczoraj wszystko poszło zgodnie z planem 👍. Wieczorem jeszcze pomagałem żonie posprzątać dom i zjedliśmy razem kolację 😋. Dzisiaj już jestem po porannym spacerze. Planujemy dziś jechać do Białegostoku, żeby zdecydować się na płytki do domu 🏠. Później zapewne obiad, młodzieżowe i tak zleci nam dzień 🫡.
+
+24/03/2024
+---
+Sobota minęła 😭. Byliśmy w Białymstoku i już jesteśmy coraz bliżej finalnej decyzji odnośnie wyboru płytek w domu 🤭. Dzisiaj nabożeństwo poranne, a na 16 jedziemy do Dubicz na pożegnanie cioci i wujka mojej żony. Zdecydowali, że jednak jadą do Niemiec 🫷.

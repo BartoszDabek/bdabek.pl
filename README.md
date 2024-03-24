@@ -8,7 +8,7 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (242/400) 🏃 ![Progress](https://progress-bar.dev/60/)
+1. Przebiec 400 km (250/400) 🏃 ![Progress](https://progress-bar.dev/62/)
 2. Przejechać na rowerze 1600 km (0/1600) 🚴 ![Progress](https://progress-bar.dev/0/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
@@ -19,31 +19,32 @@ Personal Goals
 3. ✅ Codzienne bieganie 🏃 (12.02-13.03)
 4. Codzienny rower 🚲
 5. 5 rano pobudka 🌅
-6. Rozciąganie 🧘 (18.03-17.04)
+6. Rozciąganie 🧘 (19.03-18.04)
 7. Napisać 500 słów na blogu 📝
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. 0 śmieciowego jedzenia 🍔
 
-# [03/17/2023]
+# [03/24/2023]
 ### 🚧 W tym tygodniu:
 - [ ] 🏠 Zdecydować jakie chcemy ogrodzenie
-- [ ] 🏠 Schodziarz - podpisać umowę
 - [ ] 🎓 Kubernetes - zadania na [killercoda](https://killercoda.com/sachin/course/CKA/)
-- [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [FetchType: Lazy/Eager loading for Hibernate & JPA](https://thorben-janssen.com/entity-mappings-introduction-jpa-fetchtypes/)
-- [ ] 📗 Przeczytać [Tired of repetitive tasks?! Go for RPA!](https://blog.allegro.tech/2024/02/rpa.html)
-- [ ] 📗 Przeczytać [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
-- [ ] 📗 Przeczytać [Leader/Followers](https://java-design-patterns.com/patterns/leader-followers/)
-- [ ] 🎧 Przesłuchać [Co powiedziałbym młodszemu sobie o finansach? Najważniejsze lekcje](https://inwestomat.eu/co-powiedzialbym-mlodszemu-sobie-o-finansach/)
-- [ ] 🎧 Przesłuchać [FBO 237: Finansowe nawyki które utrzymują Cię w biedzie](https://www.podkasty.info/katalog/podkast/675-Finanse_Bardzo_Osobiste_oszcz%C4%99dzanie_inwestowanie_pieni%C4%85dze_dobre_%C5%BCycie/FBO_237_Finansowe_nawyki_kt%C3%B3re_utrzymuj%C4%85_Ci%C4%99_w_biedzie)
-- [ ] 🎧 Przesłuchać [W biznesie musisz być czujny. Piotr Wieczorek](https://zaprojektujswojezycie.pl/w-biznesie-musisz-byc-czujny-piotr-wieczorek/)
-- [ ] 🎧 Przesłuchać [#100 Short #42](https://patoarchitekci.io/100/)
-- [ ] 🎧 Przesłuchać [Tools to Enhance Working Memory & Attention](https://www.hubermanlab.com/episode/tools-to-enhance-working-memory-attention)
-- [ ] 🎧 Przesłuchać [79. O modularyzacji bez użycia subdomen i heurystyk DDD z Łukaszem Szydło](https://bettersoftwaredesign.pl/episodes/79)
-- [ ] 🎥 Obejrzeć [It's a kind of magic: under the covers of Spring Boot by Stéphane Nicoll & Andy Wilkinson](https://youtu.be/uof5h-j0IeE)
+- [ ] 📗 Przeczytać [60 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Przeczytać [When should a compiler expand garbage collection barriers?](https://robcasloz.github.io/blog/2024/02/14/when-should-a-compiler-expand-garbage-collection-barriers.html)
+- [ ] 📗 Przeczytać [Pattern match Optional in Java 21](https://blog.joda.org/2024/02/pattern-match-optional-in-java-21.html)
+- [ ] 📗 Przeczytać [Life is Short](https://www.paulgraham.com/vb.html)
+- [ ] 📗 Przeczytać [The Arrival of Java 22!](https://inside.java/2024/03/19/the-arrival-of-java-22/)
+- [ ] 📗 Przeczytać [Lockable Object](https://java-design-patterns.com/patterns/lockable-object/)
+- [ ] 🎧 Przesłuchać [POIT #228: Trendy w rekrutacji IT na rok 2024](https://porozmawiajmyoit.pl/poit-228-trendy-w-rekrutacji-it-na-rok-2024/)
+- [ ] 🎧 Przesłuchać [S04E08 - Programowanie - co liczy się w nim najbardziej? - Rafał Schmidt, Waldemar Panas](https://podcast.allegro.tech/programowanie-co-liczy-sie-w-nim-najbardziej/)
+- [ ] 🎧 Przesłuchać [#101 Short #43](https://patoarchitekci.io/101/)
+- [ ] 🎧 Przesłuchać [Pani Strażak. Ogień na treningu, płomień w biznesie – Agnieszka Niedobylska](https://zaprojektujswojezycie.pl/pani-strazak-ogien-na-treningu-plomien-w-biznesie-agnieszka-niedobylska/)
+- [ ] 🎧 Przesłuchać [POIT #229: Software Craftsmanship: Secure by Design](https://porozmawiajmyoit.pl/poit-229-software-craftsmanship-secure-by-design/)
+- [ ] 🎧 Przesłuchać [Po 9 miesiącach wróciłem do social mediów. Co mnie przyciągnęło?](https://malawielkafirma.pl/powrot-do-social-mediow-po-9-miesiacach/)
+- [ ] 🎧 Przesłuchać [Professional Athlete Bud Norris Shares His High Performance Habits (TPS494)](https://www.asianefficiency.com/podcasts/494-professional-athlete-bud-norris/)
+- [ ] 🎥 Obejrzeć [215. Recruiter fallacies - Marian Jureczko](https://youtu.be/rQNQADAXCF0)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Zorientować się w cenach za ogrodzenie + potencjalni wykonawcy
 - [ ] 🏠 Research kostki na podjazd i taras
-- [ ] 🏠 Wizyta u schodziarza
+- [ ] 🏠 Schodziarz - podpisać umowę
 - [ ] 🏠 Pręty gwintowane - pociąć i wsadzić w kołek rozporowy

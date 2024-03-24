@@ -13,9 +13,12 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Java Concurrency in Practice (page: 335)
+- [ ] Jak zdobyć przyjaciół i zdjenać sobie ludzi - Dale Carnegie (strona: 50)
 
 ## ⭐ Books read 
+### ✅ 2024
+- [x] Java Concurrency in Practice
+
 ### ✅ 2023
 - [x] Effective Java 3rd Edition
 - [x] Czysta architektura. Struktura i design oprogramowania. Przewodnik dla profesjonalistó - Robert C. Martin
