@@ -333,3 +333,31 @@ Wczoraj wszystko poszło zgodnie z planem 👍. Wieczorem jeszcze pomagałem żo
 24/03/2024
 ---
 Sobota minęła 😭. Byliśmy w Białymstoku i już jesteśmy coraz bliżej finalnej decyzji odnośnie wyboru płytek w domu 🤭. Dzisiaj nabożeństwo poranne, a na 16 jedziemy do Dubicz na pożegnanie cioci i wujka mojej żony. Zdecydowali, że jednak jadą do Niemiec 🫷.
+
+25/03/2024
+---
+Wczorajsze pożegnanie skończyło się trochę po 21. Do niemiec jadą prawdopodobnie już dziś w nocy. A ja na dzisiaj mam standardowy plan: bieganie, praca, trening. Muszę odstawić jeszcze rano samochód do Piotrka i zapewne załatwić sobie samochód, żeby móc pojechać na budowę bo dziś chyba przychodzi pracownik Michała do docieplania kotłowni.
+
+26/03/2024
+---
+Dużo zapłaciliśmy za wczorajszą naprawę auta 😵, ale jak trzeba to trzeba 😏. Dzisiaj na wieczór wpada do nas Damian, Sylwia i Kamil 🫷. Zanim wieczór to mam w dziś w planach pouczyć się kubernetesa, przeczytać artykuł i popracować 🙂. Przy okazji nie wiem czy pisałem o tym (wydaje mi się, że nie), od jakoś 3 tygodni po trochę zbieram śmieci z okolic i składuję je pod mostem warszawskim 😄. Ciekawym i smutnym faktem jest, że dużo już tego uzbierałem 😣.
+
+27/03/2024
+---
+O 18 mieliśmy gości. O 21 Kamil z Sylwią się zmyli, a my z Damianem zostaliśmy obejrzeć mecz Polski ⚽ w finałach barażu o euro 2024. Polska wygrała w karnych 👏👍! Na budowie Michał ze swoim pracownikiem zaczęli docieplać kotłownię 🙂. Dzisiaj środa a to oznacza bieganie z rana, a później praca i trening 😉.
+
+28/03/2024
+---
+Wczoraj zrobiliśmy sobie z Nati długi spacer. Wzięliśmy Baksa 🐕 i poszliśmy do lasu. Łącznie za cały dzień wyszło mi ponad 16k kroków 😆. Dzisiaj planuję pracować, za dnia pojechać na działkę do rodziców, żeby podlać wieniec, wieczorem nabożeństwo. Prawdopodobnie zadzwonię też do gościa od ogrodzenia podpytać o terminy 🙂.
+
+29/03/2024
+---
+Dużo killercoda i zadań z kubernetesa porobiłem. Chyba będę musiał się zapisać już w następnym tygodniu na egzamin 😏. Dzisiaj planuje pójść się przebiec zaraz, a później praca i trening. Chciałbym też popołudniu pojechać na budowę i trochę śmieci posegregować 😉.
+
+30/03/2024
+---
+Piąteczek zleciał (za) szybko 😭. Pogoda na ten weekend i całe święta Wielkanocy zapowiada się przepiękna 🤩 - ma być nawet 20 stopni 😍! Wczoraj wszystko udało się zgodnie z planem ✅, ponadto jeszcze pomagałem w sprzątaniu i przy robieniu ciasta. Dzisiaj barzdo chciałbym wyjść na rower 🚲, ale nie wiem jak to się uda 🙄. Oprócz tego większych planów nie mam - co wyjdzie to wyjdzie 🙂.
+
+31/03/2024
+---
+Sobota była przepiękna 🥰. Świeciło słońce i nawet udało mi się opalić na twarzy 😁. Wyszliśmy z żoną na rower, więc się udało ❤️! Dzisiaj pierwszy dzień Świąt Wielkanocy. Będziemy w rodzinnym gronie świętować 😇.
