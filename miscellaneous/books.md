@@ -13,7 +13,7 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Jak zdobyć przyjaciół i zdjenać sobie ludzi - Dale Carnegie (strona: 122)
+- [ ] Jak zdobyć przyjaciół i zdjenać sobie ludzi - Dale Carnegie (strona: 198)
 
 ## ⭐ Books read 
 ### ✅ 2024

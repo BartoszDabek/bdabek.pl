@@ -361,3 +361,31 @@ Piąteczek zleciał (za) szybko 😭. Pogoda na ten weekend i całe święta Wie
 31/03/2024
 ---
 Sobota była przepiękna 🥰. Świeciło słońce i nawet udało mi się opalić na twarzy 😁. Wyszliśmy z żoną na rower, więc się udało ❤️! Dzisiaj pierwszy dzień Świąt Wielkanocy. Będziemy w rodzinnym gronie świętować 😇.
+
+01/04/2024
+---
+Już jest pierwszy kwiecień 😲! Pierwszy kwartał tego roku już minął - niesamowicie szybko! Wczoraj w rodzinnym gronie zjedliśmy śniadanie, obiad, ciasto i kolację. Na kolację zaprosiliśmy jeszcze Damiana i Daniela 😉. Byliśmy na spacerze i oczywiście na obu świątecznych nabożeństwach 👍. Dzisiaj jedno nabożeństwo, a reszta może być podobna 😝.
+
+02/04/2024
+---
+Święta minęły i trzeba wrócić do pracy 😭. Wczoraj po porannym nabożeństwie mieliśmy rodziną wspólny obiad i kawę. Później wybraliśmy się do Gancarzy i tam spędziliśmy resztę popołudnia. Byli tam też Rybacy bo ich ciocia zaprosiła 🙂. Rozmawialiśmy, mieliśmy dobry wspólny czas!
+
+03/04/2024
+---
+Wczoraj Damian robił swoje pożegnanie przed wyjazdem na dolny śląsk 😢. Siedzieliśmy do 23, było trochę osób, dobre jedzenie i na koniec jakieś gry planszowe 😁. Dzisiaj ciężko było wstać, ale się udało. Pogoda za oknem słaba, więc z rana będę biegał, później praca i trening. O 16 mamy spotkanie z wykonawcą od ogrodzenia 🏠.
+
+04/04/2024
+---
+Wczorajszy dzień był za krótki.. ☹️. Dużo mam pracy ostatnio i muszę się bardziej spinać 👊! Dzisiaj praca, praca i wieczorem nabożeństwo. Fajnie byłoby znaleźć jeszcze chwilę na kubernetesa 👨‍🎓.
+
+05/04/2024
+---
+Niestety chwili na kubernetesa nie znalazłem, ale za to dużo ogarnąłem z budową 👍🏠. Dzisiaj planuję przejechać kilka kilometrów rowerem z rana o ile nie będzie padał deszcz, a później standardowy dzień. Popołudniu na pewno zajedziemy na budowę zobaczyć jak idzie montaż kominka bo nie wspomniałem ale go nam montują 😁! Chcę też znaleźć czas na kubernetesa!! Dzisiaj specjalnie wstałem o 4 żeby mieć więcej czasu 🙂.
+
+06/04/2024
+---
+Nie udało mi się przejechać rowerem ani biegać. Deszcz padał rano, więc smuteczek 😥. Zrobili nam kominek na budowie 🤗 - wygląda super 👍! Dzisiaj jedziemy do Bielska decydować się na ogrodzenie, a później do Białegostoku oglądać białe kolory elewacji 😆.
+
+07/04/2024
+---
+Sobota nam minęła na wyjeźdzcie. Wyjechaliśmy przed 8 rano do Bielska, później Białystok i zatrzymaliśmy się jeszcze na kilka godzin u Gabrysia i Karoliny. Końcowo do domu przyjechaliśmy lekko po 20 👍. Dzisiaj (i przez kilka najbliższych dni) ma być piękna pogoda. Po nabożeństwie jedziemy do Redut i tam spędzimy zapewne resztę dnia 😋.
