@@ -389,3 +389,31 @@ Nie udało mi się przejechać rowerem ani biegać. Deszcz padał rano, więc sm
 07/04/2024
 ---
 Sobota nam minęła na wyjeźdzcie. Wyjechaliśmy przed 8 rano do Bielska, później Białystok i zatrzymaliśmy się jeszcze na kilka godzin u Gabrysia i Karoliny. Końcowo do domu przyjechaliśmy lekko po 20 👍. Dzisiaj (i przez kilka najbliższych dni) ma być piękna pogoda. Po nabożeństwie jedziemy do Redut i tam spędzimy zapewne resztę dnia 😋.
+
+08/04/2024
+---
+Niedziela minęła tak jak to wczoraj zaplanowałem 😉. Dzisiaj plan jest taki, że z rana idę na rower, później trening, praca, rower z żoną (mam nadzieję, że się uda) i kubernetes na koniec 🥹.
+
+09/04/2024
+---
+Poniedziałek zaliczony zgodnie z planem ✅. Na budowie się dzieje 🏠! Jest ekipa od elewacji, Michał ze swoim pomocnikiem też ciśnie do przodu - garaż i kotłownia już są ocieplone 👍🙂. Na koniec dnia mieliśmy jeszcze duże zaskoczenie, bo szwagier Piotrek (brat mojej żony) dowiedział się, że jedziemy na Maderę 22 maja i ten pomysł tak się spodobał mu i jego żonie, że też jadą 😆 i już wczoraj zamówili bilety lotnicze 😝. Dzisiaj planuję rower z rana, później praca i trochę kubernetesa w międzyczasie.
+
+10/04/2024
+---
+Wszystko się udało tak jak planowałem. Nati mi przychorowała 🤒 i popołudniu nie wyszliśmy na rower 😢 (dobrze, że rano to zrobiłem). Dziś planuję powtórkę z wczorajszego dnia + trening 💪.
+
+11/04/2024
+---
+I ponownie wszystko zgodnie z planem 😀. W pracy mam ciekawe zadania - nie koniecznie coś kodujące, tylko bardziej analizujące. Kubernetes idzie mi zgodnie z planem - przerobiłem już wszystko na killercoda. Teraz jeszcze raz 2 cięższe mocki na udemy, później killer.sh i egzamin 👊! Na budowie leci wszystko do przodu 🏠. Jest dobrze 🤛!
+
+12/04/2024
+---
+Dobry czwartek 💪. Strasznie dużo roboty mam 🥹, ale będzie dobrze. Muszę bardziej się skupić chyba w pracy 😆. Dzisiaj planuję rower z rana + później trening. Wieczorem idziemy do Piotrka i Zuzi 👍🙂.
+
+13/04/2024
+---
+Piątek zleciał szybko.. za szybko 😅. Dzisiaj jedziemy do Białegostoku zrobić projekty łazienek. Jak wrócimy to pewnie będę się uczył jeszcze kubernetesa bo już zostało mi mało czasu 🥸🫣.
+
+14/04/2024
+---
+Spotkanie z projektantem oceniam na takie 5/10 👎. Tak szczerze to ona tylko naniosła na projekt to co chcieliśmy i w programie wyklikała wszystko, ale wiedzy merytorycznej w ogóle nie wniosła. Ogólnie spoko, bo przynajmniej będziemy mieli wyliczoną ilość płyek... Dzisiaj jesteśmy w domu. Po nabożeństwie będę się uczył kubernetesa 👋🧑‍🎓.

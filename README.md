@@ -9,7 +9,7 @@ Personal Goals
 
 ## ⚽️ Cele Sportowe
 1. Przebiec 400 km (269/400) 🏃 ![Progress](https://progress-bar.dev/67/)
-2. Przejechać na rowerze 1600 km (51/1600) 🚴 ![Progress](https://progress-bar.dev/3/)
+2. Przejechać na rowerze 1600 km (168/1600) 🚴 ![Progress](https://progress-bar.dev/10/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
 
@@ -24,24 +24,21 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [04/07/2023]
+# [04/14/2023]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Schodziarz - podpisać umowę
-- [ ] 🏠 Kojly - zamówić deski do podbitki
-- [ ] 🏠 Pręty gwintowane - pociąć i wsadzić w kołek rozporowy
-- [ ] 🏠 Zamówić drzwi wewnętrzne do garażu i kotłowni
-- [ ] 🎓 Kubernetes - zadania na [killercoda](https://killercoda.com/chadmcrowell/course/cka)
+- [ ] 🏠 Doprecyzować szczegóły odnośnie drzwi wewnętrznych do kotłowni i garażu
+- [ ] 🎓 Kubernetes - zadania na [killer.sh](https://killer.sh/)
 - [ ] 📗 Przeczytać [60 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
-- [ ] 📗 Przeczytać [15 minut potrafi zmienić nastawienie Twojego zespołu](https://cezarysanecki.pl/2024/03/04/15-minut-potrafi-zmieni%C4%87-nastawienie-twojego-zespo%C5%82u/)
-- [ ] 📗 Przeczytać [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
-- [ ] 📗 Przeczytać [Marker Interface](https://java-design-patterns.com/patterns/marker/)
-- [ ] 🎧 Przesłuchać [171: Compilers and Interpreters](https://www.programmingthrowdown.com/episodes/171-compilers-and-interpreters/)
-- [ ] 🎧 Przesłuchać [Jak mała firma stała się potęgą biznesu technologicznego? Geniusz Kamila Kozłowskiego](https://zaprojektujswojezycie.pl/jak-mala-firma-stala-sie-potega-biznesu-technologicznego-geniusz-kamila-kozlowskiego/)
-- [ ] 🎧 Przesłuchać [#103 DevOpsSec z Andrzejem Dyjakiem](https://patoarchitekci.io/103/)
-- [ ] 🎧 Przesłuchać [POIT #232: Software Craftsmanship: Object-oriented programming](https://porozmawiajmyoit.pl/poit-232-software-craftsmanship-object-oriented-programming/)
-- [ ] 🎧 Przesłuchać [Jak ustalić proporcję akcji do obligacji w portfelu inwestycyjnym?](https://inwestomat.eu/jak-ustalic-proporcje-akcji-do-obligacji-w-portfelu-inwestycyjnym/)
-- [ ] 🎥 Obejrzeć [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java/)
+- [ ] 📗 Przeczytać [Modularyzacja i testy architektury](https://detektywi.it/2024/03/modularyzacja-i-testy-architektury/)
+- [ ] 📗 Przeczytać [Event Interception](https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html)
+- [ ] 📗 Przeczytać [Java 22 Delivers Foreign Memory & Memory API, Unnamed Variables & Patterns, and Return of JavaOne](https://www.infoq.com/news/2024/03/java22-released/)
+- [ ] 📗 Przeczytać [Master-Worker](https://java-design-patterns.com/patterns/master-worker-pattern/)
+- [ ] 🎧 Przesłuchać [Friz na poważnie. O przeszłości, zarobkach i swoich biznesowych planach na przyszłość.](https://zaprojektujswojezycie.pl/friz-na-powaznie-o-przeszlosci-zarobkach-i-swoich-biznesowych-planach-na-przyszlosc/)
+- [ ] 🎧 Przesłuchać [#104 Short #45](https://patoarchitekci.io/104/)
+- [ ] 🎧 Przesłuchać [Foojay Podcast #43: Modern Java Testing](https://foojay.io/today/foojay-podcast-43/)
+- [ ] 🎧 Przesłuchać [Jak stworzyć Unique Value Proposition (UVP), aby wyróżnić się na rynku jako soloprzedsiębiorca](https://malawielkafirma.pl/jak-stworzyc-unique-value-proposition/)
+- [ ] 🎧 Przesłuchać [81. O procesie discovery i wprowadzaniu DDD do organizacji z Darkiem Pawlukiewiczem i Michałem Wilczyńskim](https://bettersoftwaredesign.pl/episodes/81)
+- [ ] 🎥 Obejrzeć [216. W kierunku blokujących strumieni - Adam Warski](https://youtu.be/xQjcJCRI7h4)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
