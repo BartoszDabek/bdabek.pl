@@ -1,5 +1,4 @@
 ## 📚 Books to read 
-- [ ] Java Performance: The Definitive Guide: Getting the Most Out of Your Code
 - [ ] Head First Object-Oriented Analysis and Design
 - [ ] Growing Object-Oriented Software, Guided by Tests
 - [ ] Test Driven: TDD and Acceptance TDD for Java Developers 
@@ -13,10 +12,11 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Jak zdobyć przyjaciół i zdjenać sobie ludzi - Dale Carnegie (strona: 274)
+- [ ] Java Performance: The Definitive Guide: Getting the Most Out of Your Code (strona: 18)
 
 ## ⭐ Books read 
 ### ✅ 2024
+- [x] Jak zdobyć przyjaciół i zdjenać sobie ludzi - Dale Carnegie
 - [x] Java Concurrency in Practice
 
 ### ✅ 2023

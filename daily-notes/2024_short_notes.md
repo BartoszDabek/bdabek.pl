@@ -417,3 +417,31 @@ Piątek zleciał szybko.. za szybko 😅. Dzisiaj jedziemy do Białegostoku zrob
 14/04/2024
 ---
 Spotkanie z projektantem oceniam na takie 5/10 👎. Tak szczerze to ona tylko naniosła na projekt to co chcieliśmy i w programie wyklikała wszystko, ale wiedzy merytorycznej w ogóle nie wniosła. Ogólnie spoko, bo przynajmniej będziemy mieli wyliczoną ilość płyek... Dzisiaj jesteśmy w domu. Po nabożeństwie będę się uczył kubernetesa 👋🧑‍🎓.
+
+15/04/2024
+---
+Udało mi się być na obu nabożeństwach - i to Pan Bóg tak sprawił, bo ja sam z siebie wybierałem spacer z żoną 🫣. Dziś plan całkiem standardowy jak na poniedziałek, czyli z rana rower, później praca i trening. Po pracy kubernetes na grubo, bo jutro już egzamin!!
+
+16/04/2024
+---
+Wczoraj kubernetes faktycznie wjechał na grubo - siedziałem do 22 z groszami 🥲. Za niecałą godzinę mam już egzamin 😨🫣... teraz jest godzina 4:40 rano, więc mam jeszcze chwilkę na wybudzenie się 😁. Na dziś nic nie planuję - zobaczę co wyjdzie.
+
+17/04/2024
+---
+Dosłownie kilkanaście minut temu przyszedł mi wynik z wczorajszego egzaminu - 86/100 i zaliczone 🥳🙂👏! Dzięki Bogu 🤗! Wczoraj odebrałem polecony z poczty i okazało się, że jeszcze jeden mandat na Sardydni dostałem 😪 i 200€ do zapłaty 🙄. Ale... egzamin przynajmniej zdany 😁. Dzisiaj z rana planuję spacer, a później praca i trening 😉.
+
+18/04/2024
+---
+Środa była wporządeczku 👍. Udało się całkiem o sensownej godzinie skończyć pracę i pojechaliśmy na budowę obgadać drzwi garaż-wiatrołap, garaż-kotłownia 🚪. Później zajechaliśmy do Piotrka i Zuzi i Natalka podcięła włosy 💇‍♀️. Siedzieliśmy u nich do 21 i później poszliśmy jeszcze po chleb do biedronki i do domu ostatecznie 😊.
+
+19/04/2024
+---
+Wczoraj był ostatni dzień 30-dniowego wyzwania z rozciąganiem 🧘. Szybko minęło ⚡🚀. Wczoraj po nabożeństwie pojechałem do Marka i mnie ostrzygł ✂️💇🏻‍♂️. Dzisiaj planuję zrobić trening z rana, później chcę się przebiec (wolałbym rower, ale jest za zimno) i później praca 👨🏻‍💻👨🏻‍💻.
+
+20/04/2024
+---
+Piąteczek 🤩. W pracy było dobrze 👍, a po pracy wysprzątaliśmy cały dom 🧹✨🧼! Wszystko co też wczoraj założyłem udało się wykonać ✅. Dzisiaj coś tam na budowie porobimy i musimy ustalić co z drzwiami garaż-wiatrołap + jaki dajemy zlewozmywak w kuchni 😉.
+
+21/04/2024
+---
+Sobota była bardzo udana 😊🤛. Z rana byłem 3 godziny na budowie: sprzątałem i nosiłem wełnę na górne piętro 💪. Później pojechałem z żoną na zakupy 🛒 i po powrocie robiliśmy obiad. W międzyczasie postanowiliśmy, że zrobimy młodzieżowe u nas w domu. Było nas sporo osób i to był fajny czas. Smutne jest tylko to, że Artem i Maksim wracają na Ukrainę 😢. Wyszły jakieś plotki i ich zabierają - już dziś mają jechać z powrotem 🙁.
