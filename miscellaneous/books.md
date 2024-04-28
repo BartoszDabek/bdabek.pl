@@ -12,7 +12,7 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Java Performance: The Definitive Guide: Getting the Most Out of Your Code (strona: 18)
+- [ ] Java Performance: The Definitive Guide: Getting the Most Out of Your Code (strona: 47)
 
 ## ⭐ Books read 
 ### ✅ 2024

@@ -8,8 +8,8 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (279/400) 🏃 ![Progress](https://progress-bar.dev/69/)
-2. Przejechać na rowerze 1600 km (180/1600) 🚴 ![Progress](https://progress-bar.dev/11/)
+1. Przebiec 400 km (292/400) 🏃 ![Progress](https://progress-bar.dev/73/)
+2. Przejechać na rowerze 1600 km (202/1600) 🚴 ![Progress](https://progress-bar.dev/12/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
 
@@ -24,22 +24,21 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [04/21/2023]
+# [04/28/2023]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Sfinalizować zamówienie drzwi do kotłowni i garażu
-- [ ] 🏠 Zamówienie w Blu
-- [ ] 📗 Przeczytać [20 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Spring: Internals of RestClient](https://foojay.io/today/spring-internals-of-restclient/)
-- [ ] 📗 Przeczytać [Localize applications with AI](https://foojay.io/today/localize-apps-with-ai/)
-- [ ] 📗 Przeczytać [Wypychaj zewnętrzne klasy jak najdalej można](https://cezarysanecki.pl/2024/03/28/wypychaj-klasy-zewnetrznych-bibliotek-jak-najdalej-mozna/)
-- [ ] 📗 Przeczytać [Mediator](https://java-design-patterns.com/patterns/mediator/)
-- [ ] 🎧 Przesłuchać [S04E09 - O pracy analityków w obszarze technologii i przetwarzaniu danych w dużej skali - Adrianna Napiórkowska, Kaya Akcelikli](https://podcast.allegro.tech/o-pracy-analitykow-w-obszarze-technologii-i-przetwarzaniu-danych-w-duzej-skali/)
-- [ ] 🎧 Przesłuchać [Historia Wizjonera – Maciej Panek](https://zaprojektujswojezycie.pl/historia-wizjonera-maciej-panek/)
-- [ ] 🎧 Przesłuchać [#105 Short #46](https://patoarchitekci.io/105/)
-- [ ] 🎧 Przesłuchać [POIT #234: Software Craftsmanship: Functional programming](https://porozmawiajmyoit.pl/poit-234-software-craftsmanship-functional-programming/)
-- [ ] 🎧 Przesłuchać [Czy Polska ma problem z długiem publicznym? Rekordowy koszt obsługi długu](https://inwestomat.eu/czy-polska-ma-problem-z-dlugiem-publicznym/)
-- [ ] 🎧 Przesłuchać [How Placebo Effects Work to Change Our Biology & Psychology](https://www.hubermanlab.com/episode/how-placebo-effects-work-to-change-our-biology-psychology)
-- [ ] 🎥 Obejrzeć [GeeCON Prague 2023: Jarek Ratajski - The dark side of kotlin](https://youtu.be/xOIpDHM28Po)
+- [ ] 🏠 Sfinalizować zamówienie w Blu
+- [ ] 🏠 Zamówić uchwyty do domu
+- [ ] 📗 Przeczytać [25 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Przeczytać [Wymień Husky na Lefthook i wejdź na nowy poziom znajomości Git Hooków](https://geek.justjoin.it/wymien-husky-na-lefthook/)
+- [ ] 📗 Przeczytać [Code Before super() - JEP 447](https://www.javaspecialists.eu/archive/Issue316-Code-Before-super---JEP-447.html)
+- [ ] 📗 Przeczytać [A summary of Jakarta Persistence 3.2](https://in.relation.to/2024/04/01/jakarta-persistence-3/)
+- [ ] 📗 Przeczytać [Memento](https://java-design-patterns.com/patterns/memento/)
+- [ ] 🎧 Przesłuchać [Jedna zmiana, dzięki której klienci zapłacą więcej za twoje konsultacje](https://malawielkafirma.pl/jak-robic-lepsze-konsultacje/)
+- [ ] 🎧 Przesłuchać [82. O architekturze makro front-endu Atlassiana z Bartoszem Cytrowskim prowadzi Tomasz Ducin](https://bettersoftwaredesign.pl/episodes/82)
+- [ ] 🎧 Przesłuchać [POIT #235: Jak zapanować nad chaosem w projekcie dzięki Domain-Driven Design?](https://porozmawiajmyoit.pl/poit-235-jak-zapanowac-nad-chaosem-w-projekcie-dzieki-domain-driven-design/)
+- [ ] 🎧 Przesłuchać [Fundusz nie wybacza błędów. Magda Magnuszewska](https://zaprojektujswojezycie.pl/fundusz-nie-wybacza-bledow-magda-magnuszewska/)
+- [ ] 🎧 Przesłuchać [#106 Short #47](https://patoarchitekci.io/106/)
+- [ ] 🎥 Obejrzeć [Event Modeling Anti-patterns](https://www.confluent.io/events/kafka-summit-london-2024/event-modeling-anti-patterns/)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras

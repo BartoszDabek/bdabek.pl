@@ -445,3 +445,31 @@ Piąteczek 🤩. W pracy było dobrze 👍, a po pracy wysprzątaliśmy cały do
 21/04/2024
 ---
 Sobota była bardzo udana 😊🤛. Z rana byłem 3 godziny na budowie: sprzątałem i nosiłem wełnę na górne piętro 💪. Później pojechałem z żoną na zakupy 🛒 i po powrocie robiliśmy obiad. W międzyczasie postanowiliśmy, że zrobimy młodzieżowe u nas w domu. Było nas sporo osób i to był fajny czas. Smutne jest tylko to, że Artem i Maksim wracają na Ukrainę 😢. Wyszły jakieś plotki i ich zabierają - już dziś mają jechać z powrotem 🙁.
+
+22/04/2024
+---
+Niedziela to był dzień złych informacji i wieści 😟. Zmarła Kasia, która grała na pianinie w chórze i też z nami w grupie, chłopaki zostałi odesłani na Ukrainę, jeden z pastorów na Ukrainie, który tutaj przyjeżdzał i był szanowany w kręgach zborowych został oskarżony o niemoralne czyny i podobno się przyznał. Normalnie szok...
+
+23/04/2024
+---
+Smutny poniedziałek był 😶. Bardzo nie chciało mi się pracować... wieczorem było pogrzebowe nabożeństwo Kasi ☹️.
+
+24/04/2024
+---
+Wczoraj był pogrzeb 🪦, było dużo ludzi, było zimno, ale nie padało - najważniejsze, że Kasia jest już w lepszym miejscu 🥲. Oprócz tego była codzienność i trzeba było pracować. Na budowie zrobili nam już część elewacji 🏠! Moim zdaniem wygląda to super 🤫.
+
+25/04/2024
+---
+Środa była wporządeczku. Pogoda słaba bo przez większość dnia padał deszcz, ale od najbliższej soboty ma wrócić ładna pogoda 🥰. Na dziś planu brak. Wieczorem jest nabożeństwo, a tak to praca 🙂.
+
+26/04/2024
+---
+Czwartek zalioczny bez żadnych rewelacji ✅. W ciągu dnia bolała mnie trochę głowa - nie wiem czy to od idącej zmiany pogody czy od skupiania się mocno na temacie z pracy. Dzisiaj rano pogoda już wygląda świetnie 🤗🤗!! Świeci słoneczko i wedle wszelkich prognoz ma być ładnie przez cały tydzień 😊! Rano będę robił trening, idę na rower i później praca do samej nocy 😁.
+
+27/04/2024
+---
+I piątek minął 🙂. Ciężko było w pracy 😭. Dzisiaj jedziemy do Białegostoku realizować zamówienie na łazienki 💵🚽, a wieczorem zapewne młodzieżowe 🙂.
+
+28/04/2024
+---
+Całkiem udana sobota 👌. Przygotowaliśmy duże zamówienie na łazienki, zostało nam jeszcze dopracowanie kilku pozycji i w maju będziemy je realizować. Maj to będzie miesiąc, gdzie z konta wypłynie nam duuużo pieniędzy 🫡. Dzisiaj jest piękny dzień niedzielny. Popołudniu planujemy zrobić grilla i zobaczymy co jeszcze wyjdzie 😇.
