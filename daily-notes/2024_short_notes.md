@@ -473,3 +473,31 @@ I piątek minął 🙂. Ciężko było w pracy 😭. Dzisiaj jedziemy do Białeg
 28/04/2024
 ---
 Całkiem udana sobota 👌. Przygotowaliśmy duże zamówienie na łazienki, zostało nam jeszcze dopracowanie kilku pozycji i w maju będziemy je realizować. Maj to będzie miesiąc, gdzie z konta wypłynie nam duuużo pieniędzy 🫡. Dzisiaj jest piękny dzień niedzielny. Popołudniu planujemy zrobić grilla i zobaczymy co jeszcze wyjdzie 😇.
+
+29/04/2024
+---
+Niedziela była słoneczna i piękna. Mieliśmy grilla na obiad 🍖♨️ - było smacznie i dobrze 🙂. Wieczorem z żoną poszliśmy jeszcze na rowery i zajechaliśmy na budowę 😋. A na dziś plan jest standardowy jak na poniedziałek - rano rower, później praca i w międzyczasie trening. Wieczorem jeszcze będę namawiał żonę na rower 🤫.
+
+30/04/2024
+---
+Początek tygodnia zaczął się fajnie 😇. Byłem 2x na rowerze - raz rano, a później po południu z żoną 🥰. Dzisiaj plan jest podobny do wczoraj z wyłączeniem treningu 💪.
+
+01/05/2024
+---
+Plan wykonany ✅. Dzisiaj mamy święto pracy w Polsce i jest to dzień wolny od pracy 😅. Z żoną planujemy zrobić sobie wycieczkę rowerową 🚲🥰.
+
+02/05/2024
+---
+Wczorajszy plan musieliśmy nieco zmodyfikować bo rodzice chcieli rowery na 14, a my wyjeżdzaliśmy o 11:30. Przejechaliśmy 42km ciągiem 🚴💪 (brawa dla mojej żony 👏), a później zjedliśmy kiełbaski bo rodzice akurat grila zrobili jak nas nie było ♨️. Wieczorem odwiedzili nas Piotrek z Olą i Jackiem (brat Oli). Dzisiaj praca, a wieczorem zapewne nabożeństwo 🙂.
+
+03/05/2024
+---
+Wczoraj pracowałem i generalnie był taki mocno średni, żeby nie powiedziec słaby (mentalnie) dzień 🫣. Pogoda za oknem była super, ale przesiedziałem praktycznie cały dzień w domu 😩😩. Dzisiaj znów jest święto narodowe w PL i mamy dzień wolny od pracy, ale ja jednak będę pracował 😆. Rano planuję trening i rower, a później praca i na 16 ognisko u Kamila i Izy w Dubiczach 🔥🏕️.
+
+04/05/2024
+---
+Ognisko było fajne i udane 😇. Byliśmy do 22 i później się rozjechaliśmy do domów. A dzisiaj są moje urodziny 🎂🥳! Żona już mi zrobiła prezent w środę, zabierając mnie na 42km podróż rowerową 😚❤️. Dzisiaj w planach jest rozpalenie w kominku na budowie i pomaganie w gotowaniu na jutrzejsze Święto Wielkanocy.
+
+05/05/2024
+---
+Moje urodziny minęły - miałem miłą niespodziankę ze strony rodzeństwa mojej żony. Przyjechali wieczorem, żeby złożyć życzenia co było bardzo miłe 😉. Udało nam się rozpalić i przepalić pierwszy raz w kominku - fajna sprawa 😁. Dzisiaj Święta i jedziemy na nabożeństwo do Dubicz, a później do Redut na resztę dnia. Wieczorem być może odwiedzimy jeszcze Dominikę u Konrdratiuków 🙂.

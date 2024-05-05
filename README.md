@@ -9,7 +9,7 @@ Personal Goals
 
 ## ⚽️ Cele Sportowe
 1. Przebiec 400 km (292/400) 🏃 ![Progress](https://progress-bar.dev/73/)
-2. Przejechać na rowerze 1600 km (202/1600) 🚴 ![Progress](https://progress-bar.dev/12/)
+2. Przejechać na rowerze 1600 km (376/1600) 🚴 ![Progress](https://progress-bar.dev/23/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
 
@@ -22,23 +22,23 @@ Personal Goals
 6. ✅ Rozciąganie 🧘 (19.03-18.04)
 7. Napisać 500 słów na blogu 📝
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
-9. 0 śmieciowego jedzenia 🍔 (3.04-3.05)
+9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [04/28/2023]
+# [05/05/2023]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Sfinalizować zamówienie w Blu
 - [ ] 🏠 Zamówić uchwyty do domu
-- [ ] 📗 Przeczytać [25 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Wymień Husky na Lefthook i wejdź na nowy poziom znajomości Git Hooków](https://geek.justjoin.it/wymien-husky-na-lefthook/)
-- [ ] 📗 Przeczytać [Code Before super() - JEP 447](https://www.javaspecialists.eu/archive/Issue316-Code-Before-super---JEP-447.html)
-- [ ] 📗 Przeczytać [A summary of Jakarta Persistence 3.2](https://in.relation.to/2024/04/01/jakarta-persistence-3/)
-- [ ] 📗 Przeczytać [Memento](https://java-design-patterns.com/patterns/memento/)
-- [ ] 🎧 Przesłuchać [Jedna zmiana, dzięki której klienci zapłacą więcej za twoje konsultacje](https://malawielkafirma.pl/jak-robic-lepsze-konsultacje/)
-- [ ] 🎧 Przesłuchać [82. O architekturze makro front-endu Atlassiana z Bartoszem Cytrowskim prowadzi Tomasz Ducin](https://bettersoftwaredesign.pl/episodes/82)
-- [ ] 🎧 Przesłuchać [POIT #235: Jak zapanować nad chaosem w projekcie dzięki Domain-Driven Design?](https://porozmawiajmyoit.pl/poit-235-jak-zapanowac-nad-chaosem-w-projekcie-dzieki-domain-driven-design/)
-- [ ] 🎧 Przesłuchać [Fundusz nie wybacza błędów. Magda Magnuszewska](https://zaprojektujswojezycie.pl/fundusz-nie-wybacza-bledow-magda-magnuszewska/)
-- [ ] 🎧 Przesłuchać [#106 Short #47](https://patoarchitekci.io/106/)
-- [ ] 🎥 Obejrzeć [Event Modeling Anti-patterns](https://www.confluent.io/events/kafka-summit-london-2024/event-modeling-anti-patterns/)
+- [ ] 🏠 Kupić wannę
+- [ ] 🏠 Krawężniki do domu - zorientować się i kupić
+- [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Przeczytać [Fixing duplicate API requests](https://blog.frankel.ch/fix-duplicate-api-requests/)
+- [ ] 📗 Przeczytać [Tips for reading code](https://foojay.io/today/tips-for-reading-code/)
+- [ ] 📗 Przeczytać [Price Tracker – praktyczne zanurzenie się w aplikacjach serverless](https://sii.pl/blog/price-tracker-praktyczne-zanurzenie-sie-w-aplikacjach-serverless/)
+- [ ] 📗 Przeczytać [Metadata Mapping](https://java-design-patterns.com/patterns/metadata-mapping/)
+- [ ] 🎧 Przesłuchać [Dr. Cal Newport: How to Enhance Focus and Improve Productivity](https://www.hubermanlab.com/episode/dr-cal-newport-how-to-enhance-focus-and-improve-productivity)
+- [ ] 🎧 Przesłuchać [172: Transformers and Large Language Models](https://www.programmingthrowdown.com/episodes/172-transformers-and-large-language-models/)
+- [ ] 🎧 Przesłuchać [Życie to podróż, na własnych zasadach. Tomasz Ciąpała](https://zaprojektujswojezycie.pl/zycie-to-podroz-na-wlasnych-zasadach-tomasz-ciapala/)
+- [ ] 🎧 Przesłuchać [#107 Short #48](https://patoarchitekci.io/107/)
+- [ ] 🎥 Obejrzeć [AWS re:Invent 2023 - CEO Keynote with Adam Selipsky](https://youtu.be/PMfn9_nTDbM)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
