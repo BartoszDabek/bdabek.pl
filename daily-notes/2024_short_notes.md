@@ -501,3 +501,31 @@ Ognisko było fajne i udane 😇. Byliśmy do 22 i później się rozjechaliśmy
 05/05/2024
 ---
 Moje urodziny minęły - miałem miłą niespodziankę ze strony rodzeństwa mojej żony. Przyjechali wieczorem, żeby złożyć życzenia co było bardzo miłe 😉. Udało nam się rozpalić i przepalić pierwszy raz w kominku - fajna sprawa 😁. Dzisiaj Święta i jedziemy na nabożeństwo do Dubicz, a później do Redut na resztę dnia. Wieczorem być może odwiedzimy jeszcze Dominikę u Konrdratiuków 🙂.
+
+06/05/2024
+---
+Niedziela minęła tak jak planowałem - nabożeństwo w Dubiczach, Reduty i na koniec Kondratiuki 👊. Dzisiaj drugi dzień świąteczny, ale my mamy do pracy, więc na dziś plan jest taki żeby pojechać do Redut po pracy. Teraz z rana chcę zrobić trening + przejechać się rowerem i później już do pracy.
+
+07/05/2024
+---
+Wczoraj pracowaliśmy do 14, a później pojechaliśmy do Redut i byliśmy tam prawie do 21 🤫. Dzisiaj praca do 16, a później koszenie działki 👨🏼‍🦯🏡 i palenie w kominku 🪔🧱.
+
+08/05/2024
+---
+Wtorek zaliczony ✔️. Ciężej paliło się w kominku i nie udało mi się całej działki skosić. Zostało trochę trawy na prypciu bo mi sie żyłka skończyła 🫠... Dzisiaj środa, więc plan jest taki: trening rano, później rower, praca i po południu jakaś aktywność (spacer lub rower) z żoną 😍.
+
+09/05/2024
+---
+Masakra.. rano robiłem trening i na ostatnim ćwiczeniu brzucha w ostatniej serii jak już wszystko zrobiłem i wstawałem, nagle poczułem ból w lewym ramieniu, idący od szyi 😓😫. Nie mam pojęcia co tam się stało, ale czuję się jakby coś mi się tam mocno naciągnęło 😬🥵. Dzisiejsza noc była ciężka i wstałem już o 5 bo nie mogłem spać. Mam nadzieję, że to tylko drobny uraz i mi się to zagoi w niedługim czasie. Dzisiaj możliwe, że zrezygnuję z porannego roweru, tylko pójdę się przejść, a później praca 🙂.
+
+10/05/2024
+---
+Czwartek był ok. Udało nam się w końcu wybrać uchwyty do domu 🏠. Dziś o 15 mamy spotkanie ze stolarzem i będzie się działa nasza kuchnia ❤️. Dzisiaj (chyba) odpuszczam trening ze względu na ból szyja - bark - ręka, ale za to zamierzam pójść na rower 🚲. ps. ból już jest o wiele łagodniejszy 🙂.
+
+11/05/2024
+---
+Piąteczek 💕. Udało mi się przejechać rowerem i zrobić trening (bez wyciskania na ławce) 💪. Mieliśmy też spotkanie ze stolarzem i poszło sprawnie 👊. Dzisiaj planuję na działce rozpalić i przepalić w kominku + jakieś drobnostki na działce 🙂.
+
+12/05/2024
+---
+Sobota minęła dobrze i przyjemnie 💪. Rano było sprzątanie, później zakupy i prawie 4h na budowie 🏠. Wróciliśmy zrobić obiad, ogarnąć się, posiedzieć trochę nad sprzętami AGD do kuchni i trzeba było wybierać się na młodzieżowe 🚶. Po młodzieżowym zrobiliśmy spacer (w ramach przygotowań na Maderę 😆), zjedliśmy kolację i znów usiedliśmy do sprzętów AGD. I tak minęła nasza sobota 🙃. A dzisiaj na pewno nabożeństwo poranne, później obiad, zapewne dalsze rozkminy z kuchnią i też spacer kilku kilometrowy wymyślę 😆!
