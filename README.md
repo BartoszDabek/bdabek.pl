@@ -9,7 +9,7 @@ Personal Goals
 
 ## ⚽️ Cele Sportowe
 1. Przebiec 400 km (292/400) 🏃 ![Progress](https://progress-bar.dev/73/)
-2. Przejechać na rowerze 1600 km (450/1600) 🚴 ![Progress](https://progress-bar.dev/28/)
+2. Przejechać na rowerze 1600 km (566/1600) 🚴 ![Progress](https://progress-bar.dev/35/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
 
@@ -24,26 +24,18 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [05/12/2023]
+# [05/19/2023]
 ### 🚧 W tym tygodniu:
-- [ ] 🌴 Madera - zaplanować wyjazd
-- [ ] 🏠 Krawężniki do domu - zorientować się i kupić
-- [ ] 🏠 Zorientować się czy warto/trzeba równać teren na działce
+- [ ] 🌴 Madera - doszczegółowić wyjazd
 - [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Debugging Streams with Peek](https://foojay.io/today/debugging-streams-with-peek/)
-- [ ] 📗 Przeczytać [Expressive REST Resources with Java Records and Jakarta REST](https://blog.payara.fish/expressive-rest-resources-with-java-records-and-jakarta-rest)
-- [ ] 📗 Przeczytać [How to Detect Cache Misses Using Observability](https://foojay.io/today/how-to-detect-cache-misses-using-observability/)
-- [ ] 📗 Przeczytać [Records for Cleaner and More Expressive Parameterized Tests in JUnit 5](https://foojay.io/today/records-for-cleaner-and-more-expressive-parameterized-tests-in-junit-5/)
-- [ ] 📗 Przeczytać [Model-View-Controller](https://java-design-patterns.com/patterns/model-view-controller/)
-- [ ] 🎧 Przesłuchać [POIT #237: Software Craftsmanship: Clean code](https://porozmawiajmyoit.pl/poit-237-software-craftsmanship-clean-code/)
-- [ ] 🎧 Przesłuchać [3 błędy, które zniechęcają ekspertów do dzielenia się wiedzą w social mediach – i jak ich uniknąć](https://malawielkafirma.pl/bledy-ktore-zniechecaja-ekspertow-do-dzielenia-sie-wiedza/)
-- [ ] 🎧 Przesłuchać [83. O testowaniu systemu end-to-end i Quality Assurance z Arkadiuszem Jelonkiem](https://bettersoftwaredesign.pl/episodes/83)
-- [ ] 🎧 Przesłuchać [POIT #238: Generative AI: Halucynacje czy rewolucja w komunikacji, tworzeniu UI aplikacji i edukacji technologicznej?](https://porozmawiajmyoit.pl/poit-238-generative-ai-halucynacje-czy-rewolucja-w-komunikacji-tworzeniu-ui-aplikacji-i-edukacji-technologicznej/)
-- [ ] 🎧 Przesłuchać [Człowiek, który zaprojektował życie milionom Polaków. Lech Wałęsa](https://zaprojektujswojezycie.pl/czlowiek-ktory-zaprojektowal-zycie-milionom-polakow-lech-walesa/)
-- [ ] 🎧 Przesłuchać [CZY TO JUŻ AKCYJNA BAŃKA? JAK INWESTOWAĆ GDY BOISZ SIĘ GIEŁDOWEGO KRACHU?](https://marciniwuc.com/czy-to-juz-akcyjna-banka/)
-- [ ] 🎧 Przesłuchać [#108 Short #49](https://patoarchitekci.io/108/)
-- [ ] 🎧 Przesłuchać [Twórca online czy soloprzedsiębiorca dzielący się wiedzą – który model jest lepszy dla ciebie?](https://malawielkafirma.pl/tworca-online-czy-soloprzedsiebiorca-dzielacy-sie-wiedza/)
-- [ ] 🎥 Obejrzeć [Inner Development Loop with Java on Kubernetes • Thomas Vitale • GOTO 2022](https://youtu.be/SSuGJZIwnZs)
+- [ ] 📗 Przeczytać [12 Text Tools For Developers](https://foojay.io/today/12-text-tools-for-developers/)
+- [ ] 📗 Przeczytać [Ensuring the right usage of Java 21 new features](https://foojay.io/today/ensuring-the-right-usage-of-java-21-new-features/)
+- [ ] 📗 Przeczytać [Model-View-Intent](https://java-design-patterns.com/patterns/model-view-intent/)
+- [ ] 🎧 Przesłuchać [POIT #239: Jak przejść do cyberbezpieczeństwa z innej specjalizacji IT?](https://porozmawiajmyoit.pl/poit-239-jak-przejsc-do-cyberbezpieczenstwa-z-innej-specjalizacji-it/)
+- [ ] 🎧 Przesłuchać [Ile można zarobić prowadząc podcast? Maciej Filipkowski o kulisach audycji ZSŻ.](https://zaprojektujswojezycie.pl/ile-mozna-zarobic-prowadzac-podcast-maciej-filipkowski-o-kulisach-audycji-zsz/)
+- [ ] 🎧 Przesłuchać [#109 Legacy i frameworki jednego developera z Andrzejem Krzywdą](https://patoarchitekci.io/109/)
+- [ ] 🎥 Obejrzeć [Structured Concurrency in Java: The What & Why • Balkrishna Rawool • GOTO 2023](https://youtu.be/fbI3qveS_Is)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
+- [ ] 🏠 Krawężniki do domu - zorientować się i kupić

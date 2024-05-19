@@ -529,3 +529,31 @@ Piąteczek 💕. Udało mi się przejechać rowerem i zrobić trening (bez wycis
 12/05/2024
 ---
 Sobota minęła dobrze i przyjemnie 💪. Rano było sprzątanie, później zakupy i prawie 4h na budowie 🏠. Wróciliśmy zrobić obiad, ogarnąć się, posiedzieć trochę nad sprzętami AGD do kuchni i trzeba było wybierać się na młodzieżowe 🚶. Po młodzieżowym zrobiliśmy spacer (w ramach przygotowań na Maderę 😆), zjedliśmy kolację i znów usiedliśmy do sprzętów AGD. I tak minęła nasza sobota 🙃. A dzisiaj na pewno nabożeństwo poranne, później obiad, zapewne dalsze rozkminy z kuchnią i też spacer kilku kilometrowy wymyślę 😆!
+
+13/05/2024
+---
+Udało nam się być na obu nabożeństwach - dzięki mojej żonie 😘. Mieliśmy przepyszny obiad - kopytka + schabowe + mizeria 👌, później poszliśmy na kawę do rodziców i kończyliśmy rozkminę z kuchnią. Wieczorem po nabożeństwie zrobiliśmy sobie jeszcze kilku kilometrowy spacer 🦶🦶. Dzisiaj jest trochę zimno z rana, więc planuję się przebiec, zrobić trening i pracować. Po południu z tatą będziemy działać trochę na budowie 🏠🙂.
+
+14/05/2024
+---
+Poniedziałek checked ✅. Rano jednak byłem na rowerze, świeciło takie słoneczko ładne i uznałem, że to będzie lepsze niż bieganie i faktycznie było ciepło 😉. Wieczorem z żoną znów wyszliśmy na spacer i dodatkowo wzięliśmy jeszcze Piotrka i Zuzię z rodziną i psem 👪🐕. Dzisiaj z rana też pójdę na rower, później praca i wieczorem też rower/spacer z żoną - tak bym chciał, a zobaczymy jak wyjdzie 🙂.
+
+15/05/2024
+---
+Wyszło fajnie, bo z żoną przejechaliśmy wieczorkiem ponad 26km 🚲😍! Dzień był ogólnie spokojny. Dzisiaj rano idziemy na rynek po skarpety 😅. Później zapewne trening i praca, a wieczorkiem może znów uda się na rowery wyciągnąć żonę 😋.
+
+16/05/2024
+---
+Wczoraj przyszła nam bateria do kuchni. Złota, ładna, ale ma jakieś 3 rurki i nie możemy rozkminić do czego jest trzecia (czy nie kupiliśmy przypadkiem jakiegoś badziewia, albo czegoś nam nie dosłali...). Dzisiaj rano będzie rowerek, a później praca do 18 i nabożeństwo.
+
+17/05/2024
+---
+Ostatnio nabożeństwa są dla mnie jakieś takie suche... zastanawiam się czy to ja osłabłem, czy faktycznie tak jest 😥. Dzisiaj dużo spraw na głowie, nie wiem od czego zacząć... ciężki piątek chyba będzie 💩.
+
+18/05/2024
+---
+I ostatecznie wczoraj nie było tak źle 😝. Trochę spraw miałem w swoim todo, ale wszystkie udało się załatwić 👊👏. Najgorsza wiadomość to, że nasz samochód potrzebuje wymiany turbo i będzie walka z czasem, żebyśmy mieli auto na wyjazd na Maderę 🚗. Dzisiaj popołudniu planujemy pożyczyć auto od Kuby i Kasi i pojechać do Redut. Pożegnać się przed wyjazdem 😁. A w dzień co jeszcze wyjdzie to zobaczymy!
+
+19/05/2024
+---
+Wczoraj wszystko było zgodnie z planem ✅. Dzisiaj mamy dzień pięćdziesiątnicy, zesłania Ducha Świętego. Po nabożeństwie będzie wspólny obiad 👍.
