@@ -557,3 +557,31 @@ I ostatecznie wczoraj nie było tak źle 😝. Trochę spraw miałem w swoim tod
 19/05/2024
 ---
 Wczoraj wszystko było zgodnie z planem ✅. Dzisiaj mamy dzień pięćdziesiątnicy, zesłania Ducha Świętego. Po nabożeństwie będzie wspólny obiad 👍.
+
+20/05/2024
+---
+Niedziela minęła całkiem ok, popołudniu poszliśmy jeszcze z Nati na rowery i zrobiliśmy 27km 👍. Dzisiaj standardowy poniedziałkowy plan do zrealizowania + kilka telefonów dotyczących budowy 😉.
+
+21/05/2024
+---
+Poniedziałek - rano był szybki rower (12km), w ciągu dnia trening i w pracy dociągam tematy przed urlopem 🏖️✈️,. Noc spędziliśmy w łóżku u Piotrka i Zuzi bo pojechali po auto do Wrocławia i im się tak skomplikowały sprawy, że wrócili przed 5 rano do domu dopiero, więc my nas noc z dziećmi zostaliśmy. Dzisiaj planuję rower z rana, a później zamknąć wszystkie tematy w pracy, zakupy na Maderę, pakowanie wieczorem i dobrze się wyspać 🤗!
+
+22/05/2024
+---
+Wtorek był wporządku, udało się wszystko zrobić zgodnie z planem 👍🙂. Na budowę nie zajechaliśmy bo czasu nam zbrakło, ale reszta załatwiona 👊. A dzisiaj od rana już się ogarniamy na wyjazd i za godzinę wyjeżdzamy do Warszawy 🚗, a później Madera ✈️🤗...
+
+23/05/2024
+---
+Środa to był dzień wyjazdu i dzień przygód. Wyjechaliśmy z lekkim opoźnieniem (15-20min) i chcieliśmy to nadrobić na trasie 🚗. Nadrabialiśmy, ale w samej Warszawie był korek, który nas spowolnił o 30 minut... był moment, że myśleliśmy, że już nie zdążymy, ale dzięki Bogu się udało. Później jeszcze mieliśmy przygodę, że do samego parkingu jechaliśmy jakimś polem 😅. Teraz można się z tego śmiać, ale jak czas nas gonił to było nie fajne. Później już był tylko samolot ✈️. Do lądowania na Maderę podchodziliśmy 2 razy. Za pierwszym był przeszkadzający wiatr i musieliśmy zrobić kółko i spróbować jeszcze raz... ale się udało i jesteśmy 👍😇. Ostatnia przygoda to płatność za samochód. Nie wiem dlaczego ale karta kredytowa 💳 nie chciała nam wejść w terminalu i musieliśmy znów się trochę nakombinować. Ostatecznie wszystko się udało i dostaliśmy Audi A3. Pojechaliśmy do hotelu, który jest bardzo fajny i czekamy na przygodę... 😋
+
+24/05/2024
+---
+Czwartek - wybraliśmy się na szlak 25 wodospadów 💦🍃. Były wodospady, była piękna roślinność, było pięknie 👍. Łącznie tego dnia zrobiliśmy prawie 30k kroków 💪. To wszystko uwieńczyliśmy kolacją w jakiejś mniejszej miejscowości w której jedliśmy bardzo dobrą rybę 🐟😋. Dzisiaj nie wiemy co jeszcze będzie - na śniadaniu ustalimy, ale zapewne będzie fajnie... btw. śniadania są też pyszniutkie 😆!
+
+25/05/2024
+---
+Kolejny dzień za nami - piątek. Dzisiaj wybraliśmy się na półwysep Św. Wawrzyńca - takie półpustkowie, bez drzew, a my z Piotrkiem inteligentni ludzie zdjęliśmy koszulki na początku trasy i całą trasę pokonaliśmy bez koszulek. Wieczorem (i w nocy) wyszedł tego rezultat - budziłem się w nocy chyba z 30 razy i każdy ruch strasznie, strasznie mnie bolał 🫣! Dzisiaj sobota, boję się, że ekipa nie da rady dziś chodzić 😪... ale zobaczymy co będzie.
+
+26/05/2024
+---
+Sobota była ciężka. Zjadłem bardzo obfite śniadanie i niby wszystko było ok - cała reszta natomiast (szczególnie Piotrek z Olą) mówili, że się źle czują i nie bardzo chcieli jeść 🍽️. Wydawało mi się to dziwne... Ruszyliśmy na szlak, który był prosty bo wystarczyło iść przed siebie, a jedynie co było wymagające to to, że był długi 🦶. I się zaczęło, po jakimś kilometrze zachciało mi się kupę + brało mnie na wymioty. W jedną stronę przeszliśmy w miarę sprawnie, ale powrót to był tragedia. Czułem, że mam gorączkę, byłem osłabiony, wziąłem tabletkę po drodze, ale zaraz ją zwymiotowałem 🤮.. Później raz jeszcze zwymiotowałem i od tego momentu było już lepiej 😅 (byłem atrakcją szlaku XD). Wróciliśmy do hotelu i pojechaliśmy do Funchal. Tam jedliśmy pyszne burgery 🍔, a później pojechaliśmy do centrum i akurat trafiliśmy na pokaz aut klasycznych 🚘. Pochodziliśmy, zjedliśmy lody 🍦 i taki to był dzień pełen wrażeń 🙂.

@@ -9,7 +9,7 @@ Personal Goals
 
 ## ⚽️ Cele Sportowe
 1. Przebiec 400 km (292/400) 🏃 ![Progress](https://progress-bar.dev/73/)
-2. Przejechać na rowerze 1600 km (566/1600) 🚴 ![Progress](https://progress-bar.dev/35/)
+2. Przejechać na rowerze 1600 km (626/1600) 🚴 ![Progress](https://progress-bar.dev/39/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
 
@@ -24,17 +24,17 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [05/19/2023]
+# [05/26/2023]
 ### 🚧 W tym tygodniu:
-- [ ] 🌴 Madera - doszczegółowić wyjazd
+- [ ] 🏠 Odebrać płytki do kotłowni
+- [ ] 🏠 Odebać ceramikę z Villeroy&Boch
 - [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [12 Text Tools For Developers](https://foojay.io/today/12-text-tools-for-developers/)
-- [ ] 📗 Przeczytać [Ensuring the right usage of Java 21 new features](https://foojay.io/today/ensuring-the-right-usage-of-java-21-new-features/)
-- [ ] 📗 Przeczytać [Model-View-Intent](https://java-design-patterns.com/patterns/model-view-intent/)
-- [ ] 🎧 Przesłuchać [POIT #239: Jak przejść do cyberbezpieczeństwa z innej specjalizacji IT?](https://porozmawiajmyoit.pl/poit-239-jak-przejsc-do-cyberbezpieczenstwa-z-innej-specjalizacji-it/)
-- [ ] 🎧 Przesłuchać [Ile można zarobić prowadząc podcast? Maciej Filipkowski o kulisach audycji ZSŻ.](https://zaprojektujswojezycie.pl/ile-mozna-zarobic-prowadzac-podcast-maciej-filipkowski-o-kulisach-audycji-zsz/)
-- [ ] 🎧 Przesłuchać [#109 Legacy i frameworki jednego developera z Andrzejem Krzywdą](https://patoarchitekci.io/109/)
-- [ ] 🎥 Obejrzeć [Structured Concurrency in Java: The What & Why • Balkrishna Rawool • GOTO 2023](https://youtu.be/fbI3qveS_Is)
+- [ ] 📗 Przeczytać [QCon London: Lessons Learned from Building LinkedIn’s AI/ML Data Platform](https://www.infoq.com/news/2024/04/linkedin-ai-platform-venicedb/)
+- [ ] 📗 Przeczytać [Model-View-Presenter](https://java-design-patterns.com/patterns/model-view-presenter/)
+- [ ] 🎧 Przesłuchać [O komunikacja dev-biz – Ostra Piła #97](https://ostrapila.pl/o-komunikacji-dev-biz-ostrapila-97)
+- [ ] 🎧 Przesłuchać [Jak pracować efektywnie – 4 nawyki, które pomagają osiągać cele, zwiększyć satysfakcję i oszczędzić czas](https://malawielkafirma.pl/jak-pracowac-efektywnie-4-nawyki/)
+- [ ] 🎧 Przesłuchać [Jak więcej zarobić na obligacjach oszczędnościowych? Przedterminowy wykup i kupno nowych emisji](https://inwestomat.eu/jak-wiecej-zarobic-na-obligacjach-oszczednosciowych/)
+- [ ] 🎥 Obejrzeć [Optimizing JVM for the Cloud: Strategies for Success](https://www.infoq.com/presentations/jvm-optimization-cloud/)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
