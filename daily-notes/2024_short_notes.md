@@ -585,3 +585,31 @@ Kolejny dzień za nami - piątek. Dzisiaj wybraliśmy się na półwysep Św. Wa
 26/05/2024
 ---
 Sobota była ciężka. Zjadłem bardzo obfite śniadanie i niby wszystko było ok - cała reszta natomiast (szczególnie Piotrek z Olą) mówili, że się źle czują i nie bardzo chcieli jeść 🍽️. Wydawało mi się to dziwne... Ruszyliśmy na szlak, który był prosty bo wystarczyło iść przed siebie, a jedynie co było wymagające to to, że był długi 🦶. I się zaczęło, po jakimś kilometrze zachciało mi się kupę + brało mnie na wymioty. W jedną stronę przeszliśmy w miarę sprawnie, ale powrót to był tragedia. Czułem, że mam gorączkę, byłem osłabiony, wziąłem tabletkę po drodze, ale zaraz ją zwymiotowałem 🤮.. Później raz jeszcze zwymiotowałem i od tego momentu było już lepiej 😅 (byłem atrakcją szlaku XD). Wróciliśmy do hotelu i pojechaliśmy do Funchal. Tam jedliśmy pyszne burgery 🍔, a później pojechaliśmy do centrum i akurat trafiliśmy na pokaz aut klasycznych 🚘. Pochodziliśmy, zjedliśmy lody 🍦 i taki to był dzień pełen wrażeń 🙂.
+
+27/05/2024
+---
+Niedziela była bardziej leniwa. Większość czasu przesiedzieliśmy w hotelu 🏨. Spróbowaliśmy raz pojechać na jakiś punkt widokowy, ale złapał nas taki deszcz, że nawet z samochodu nie wysiedliśmy 🌧️😅. Wieczorem pojechaliśmy do karczmy i jedliśmy steki 🥩 + ciasto 🍰. Było dobre 😋,ale nie lepsze niż burgery! Dzisiaj planujemy przejść najbardziej wymagający szlak Madery i zdobyć jej najwyższy szczyt, czyli trasa PR1 ᨒ💪!
+
+28/05/2024
+---
+Poniedziałek był cudowny 🥰! Trasę PR1 zobaczyliśmy w każdej odsłonie. Jak zajechaliśmy to było widać jedynie chmury i można powiedzieć, żę przez 70-80% trasy szliśmy w takich chmurach w jedną stronę ☁️. Jak doszliśmy na szczyt, to zaczęło się przejaśniać, spędziliśmy tam z 30 minut, mieliśmy jakieś widoczki, które nas zadowoliły 😆 i zaczęliśmy drogę powrotną. Chmury odeszły i na powrocie mogliśmy podziwiać piękne widoki 🤗! Cała trasa łatwa nie była, ale nie była też bardzo wyczerpująca. Wieczorem poszliśmy na pizzę 🍕, a później znaleźliśmy w hotelu miejsce z grami planszowymi i pograliśmy przez godzinkę wieczorem 🧩. Dzisiaj jedziemy na drugi koniec wyspy i to będzie nasza ostatnia dalsza podróż po wyspie 🙂.
+
+29/05/2024
+---
+Wtorek był trochę niewypałem. Atrakcje, które chcieliśmy zobaczyć były albo zamknięte albo zbyt nieprzyjemne do korzystania (baseny naturalne 🏊). Wieczorem pojechaliśmy do karczmy i tam nawet tanio (czego nie zakładaliśmy) się najedliśmy do syta 🙂. Dzisiaj już koniec naszej podróży i będzie czas powrotu. Czeka nas jeszcze pyszne śniadanie 🥐☕... i później powrót do 🇵🇱! 
+
+30/05/2024
+---
+Dzięki Bogu dotarliśmy cali do domu ✈️🚗🏠! Mieliśmy dwie przygody w drodze powrotnej. Pierwsza to nasze gapiostwo na lotnisku i aż byliśmy wywoływani na ostatni lot. Druga przygoda (to już nie nasza wina), już po wylądowaniu to, że gościu, który miał nas przetransferować na parking nie odbierał telefonu 📞... wezwaliśmy bolta po 20 minutach i sami zajechaliśmy na parking.. dobrze, że był otwarty 😝! Ciężko było wracać w nocy, ale dzięki Bogu się udało 🙂. Dzisiaj jest dzień wolny ze względu na święto narodowe i planu na dziś nie mam 😋.
+
+31/05/2024
+---
+Czwartek był taki dniem odpoczynku po urlopie 😁. Zjedliśmy obiad z rodzicami, byliśmy na budowie zobaczyć co się zmieniło, zrobiłem trening i wieczorem pojechaliśmy na nabożeństwo. Dzisiaj planuję rower z rana 🚲, praca i w międzyczasie zrobić trening 💪🙂.
+
+01/06/2024
+---
+Ciężko jest mi się pozbierać po tym urlopie. Wstaję około 7 bo wcześniej nie daję rady i jestem mniej produktywny 🫣... Zapewne chwilka i to minie - muszę tylko ustawić odpowiedni tor i będzie dobrze 🫡. Wczoraj po pracy skosiłem jeszcze działkę na budowie a dzisiaj jedziemy do Białegostoku odebrać płytki 🚗.
+
+02/06/2024
+---
+Byliśmy w Białymstoku i jak załadowaliśmy samochód płytkami to się zastanawialiśmy czy dojedziemy 🤔😆. Dzięki Bogu udało się 😇! Wieczorem byliśmy jeszcze na młodzieżowym i zdążyliśmy wrócić dosłownie minutę przed burzą ⛈️. Jak wracaliśmy to już wokoło były ciemne chmury i błyskało, ale deszcz spadł dopiero jak weszliśmy do domu. Dzisiaj po nabożeństwie planujemy pojechać do Redut i jak pogoda pozwoli to tam pójdziemy na spacer z Maksem 🐕.
