@@ -613,3 +613,31 @@ Ciężko jest mi się pozbierać po tym urlopie. Wstaję około 7 bo wcześniej 
 02/06/2024
 ---
 Byliśmy w Białymstoku i jak załadowaliśmy samochód płytkami to się zastanawialiśmy czy dojedziemy 🤔😆. Dzięki Bogu udało się 😇! Wieczorem byliśmy jeszcze na młodzieżowym i zdążyliśmy wrócić dosłownie minutę przed burzą ⛈️. Jak wracaliśmy to już wokoło były ciemne chmury i błyskało, ale deszcz spadł dopiero jak weszliśmy do domu. Dzisiaj po nabożeństwie planujemy pojechać do Redut i jak pogoda pozwoli to tam pójdziemy na spacer z Maksem 🐕.
+
+03/06/2024
+---
+Niedziela minęła sielankowo 😂. Pojechaliśmy tam na obiad i zostaliśmy aż do kolacji. Dzisiaj natomiast zaczyna się już życie. Trzeba zakasać rękawy i wracać do pracy + ogarniać budowę 😌. Dziś udało mi się wstać o 5 rano, mam nadzieję, że uda mi się też przejechać rano rowerem + zrobić trening 😁💪.
+
+04/06/2024
+---
+Poniedziałek minął szybko 😌. Wieczorem sprzątaliśmy trochę na budowie 🧹 - jestem zadowolony z nas 😅. Dzisiaj z rana planuję rower i później praca.
+
+05/06/2024
+---
+W pracy się dzieje, na budowie się dzieje - ciężko jest 🤫. Staram się, żeby ze wszystkim się wyrabiać, ale brakuje mi kilku godzin w dobie 😵. Dzisiaj środa - rano chciałbym wyskoczyć na rower, zrobić trening i do pracy. Dzisiaj możliwe, że przyjadą nam rzeczy do łazienek 😉.
+
+06/06/2024
+---
+Wczoraj nie wyszło mi przejechanie się rowerem - padał mały deszczyk, który z minuty na minutę stawał się mocniejszy 🌧️😓. Byliśmy kilka razy na budowie, udało mi się wywieźć śmieci na PSZOK 👍 (i nawet odzyskać worki 😁). Rzeczy do łazienek nie przyszły wczoraj, więc zapewne będą dzisiaj. A dziś ponownie chcę wyjść na rower. Chcę też kupić truskawki na obiad 🍓😄.
+
+07/06/2024
+---
+Przyszły rzeczy do łazienek 🚽 - 4 palety, 3 tony. Dobrze, że Marek był po sąsiedzku i cała ekipa (Michał, Adrian i Jurek), to wszystko ponosiliśmy sprawnie w niecałą godzinę. Ciężkie to wszystko (patrz płytki) 😅. Dużo w tym tygodniu z budową się dzieje, nie ma czasu żeby cokolwiek innego zrobić wieczorem 😰. Dziś z rana planuję trening, chciałbym jeszcze wyjść na rower, ale nie wiem czy wyjdzie ze względu na pogodę za oknem 🥺. Później praca, mam w planie zakończyć dziś temat i zaczynam weekend 🙂!
+
+08/06/2024
+---
+Wczoraj rower nie wyszedł bo padał deszcz, ale zdecydowałem się przebiec 🏃. Od długiego czasu już nie biegałem i wczoraj zrobiłem 4km, padał deszcz i nie było zbyt przyjemnie 😆. Na budowie dzieje się do przodu powoli, dziś jedziemy do Białegostoku odebrać kilka rzeczy i kupić lampy do łazienki na dole 😇. Już powoli widać koniec naszego wykańczania - POWOLI 😅!
+
+09/06/2024
+---
+Sobota minęła szybko. Około 9 wyjechaliśmy do Białegostoku i wróciliśmy lekko po 15. Zajechaliśmy jeszcze na budowę rozładować wszystko, pogadać z sąsiadami, itp. i była już 16. Później do domu, obiad i już 17. Nie dałem rady iść na młodzieżowe, więc zostaliśmy i robiliśmy obiad na dziś + ciasto 😅. Wieczorem siedzieliśmy u rodziców i rozmawialiśmy do 22:30. Dzisiaj raczej leniwa niedziela, będziemy na nabożeństwie i zobaczymy co oprócz tego 😋.
