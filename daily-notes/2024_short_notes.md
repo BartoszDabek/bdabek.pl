@@ -641,3 +641,31 @@ Wczoraj rower nie wyszedł bo padał deszcz, ale zdecydowałem się przebiec �
 09/06/2024
 ---
 Sobota minęła szybko. Około 9 wyjechaliśmy do Białegostoku i wróciliśmy lekko po 15. Zajechaliśmy jeszcze na budowę rozładować wszystko, pogadać z sąsiadami, itp. i była już 16. Później do domu, obiad i już 17. Nie dałem rady iść na młodzieżowe, więc zostaliśmy i robiliśmy obiad na dziś + ciasto 😅. Wieczorem siedzieliśmy u rodziców i rozmawialiśmy do 22:30. Dzisiaj raczej leniwa niedziela, będziemy na nabożeństwie i zobaczymy co oprócz tego 😋.
+
+10/06/2024
+---
+Niedziela była ładna i minęła szybko. Byliśmy na obu nabożeństwach i raczej dobrze spędziliśmy ten dzień 😇. Dziś wstałem późno (5:50) i jestem zmęczony. Wiem, że czeka mnie dziś trening, chciałoby się też (mentalnie) wyjść na rower, ale nie wiem czy to wyjdzie 🤫. Dziś przyjedzie też zapewne do nas kuzyn Damian bo przyjechał do Hajnówki - a był kilka miesięcy w pracy w Anglii.
+
+11/06/2024
+---
+Wczorajszy dzień w większości był dobry. W ciągu dnia Damian z Kamilem wpadli na kawę i wieczorem my zajechaliśmy do nich. Wyszła jedna niemiła sytuacja i moja Nati straciła mocno humor 😒... Dzisiaj z rana rowerek i później praca!
+
+12/06/2024
+---
+Wtorek był ciężki - głównie psychicznie. Końcowo dzięki Bogu wszystko się unormowało i skończył się dobrze 🙏. Zepsuła nam się renówka i nie wiem czy jest jeszcze sens ją naprawiać 😓😓. Dzisiaj trening + rower + praca + później chcę koniecznie pojechać na budowę bo już dawno tam nie byliśmy 🏠.
+
+13/06/2024
+---
+Dobrze minęła ta środa. W pracy był mały sukces 🥳, na budowie do przodu, byłem na rowerze 2x 😁 - fajnie. Dzisiaj czwartek, więc wieczorem idziemy na nabożeństwo wieczorowe a w ciągu dnia będę pracować 🙃. Z rana planuję iść na rower i może zajadę jeszcze i kupię truskawki, żeby mieć na obiad 🍓.
+
+14/06/2024
+---
+Nie udało nam się dotrzeć na nabożeństwo 😒. Padał deszcz, nie mieliśmy auta, byliśmy na budowie, później na zakupach i wróciliśmy o 17:50 do domu, ale nie zdążyliśmy już się wybrać. W pracy jest ciężko bo mam ciężki temat... aż głowa paruje 🤯. Dzisiaj rano trening, jak się uda to rower i z rana będę musiał jeszcze wyskoczyć na budowę. Później praca i wieczorem mamy gości - Piotrek i Zuzia z dziećmi 😊.
+
+15/06/2024
+---
+Piątek minął fajnie 🙂. Na budowie coraz więcej się dzieje 😊 - majstry robią aż miło 🤗. Dzisiaj zamierzamy pojechać na budowę i porobić nieco porządków 🫡, a wieczorem młodzieżowe 👍.
+
+16/06/2024
+---
+Sobota minęła za szybko 😭😭. Posprzątaliśmy na budowie 👏, Nati ma/miała dylemat czy płytki w łazience na górze do siebie pasują i taka to walka 😂. Dzisiaj rano nagłaśniam na nabożeństwie, a po nabo jedziemy do Redut robić grilla 😉.
