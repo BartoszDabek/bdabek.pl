@@ -9,7 +9,7 @@ Personal Goals
 
 ## ⚽️ Cele Sportowe
 1. Przebiec 400 km (296/400) 🏃 ![Progress](https://progress-bar.dev/74/)
-2. Przejechać na rowerze 1600 km (810/1600) 🚴 ![Progress](https://progress-bar.dev/50/)
+2. Przejechać na rowerze 1600 km (942/1600) 🚴 ![Progress](https://progress-bar.dev/58/)
 3. 100 kg na klatę  🏋️
 4. 3km < 12 minut 👟
 
@@ -24,20 +24,20 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [06/16/2023]
+# [06/23/2023]
 ### 🚧 W tym tygodniu:
 - [ ] 🏠 Kupić pręty zbrojeniowe do ogrodzenia
 - [ ] 🏠 Kupić krawężniki pod podjazd
 - [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [This is not your uncle's Java! Modelling with Java 22 records pattern matching in practice](https://event-driven.io/en/this_is_not_your_uncle_java/)
-- [ ] 📗 Przeczytać [Explicit vs Diagnostic GC](https://www.javaspecialists.eu/archive/Issue317-Explicit-vs-Diagnostic-GC.html)
-- [ ] 📗 Przeczytać [Let’s Replace the synchronized Keyword](https://foojay.io/today/lets-replace-the-synchronized-keyword/)
-- [ ] 📗 Przeczytać [Monitor Pattern in Java: Implementing Robust Locking Mechanisms with Monitors](https://java-design-patterns.com/patterns/monitor/)
-- [ ] 🎧 Przesłuchać [#111 Technology Radar vol. 30 - Review](https://patoarchitekci.io/111/)
-- [ ] 🎧 Przesłuchać [POIT #240: Współpraca różnych pokoleń w IT](https://porozmawiajmyoit.pl/poit-240-wspolpraca-roznych-pokolen-w-it/)
-- [ ] 🎧 Przesłuchać [Guest Series | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine](https://www.hubermanlab.com/episode/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine)
-- [ ] 🎧 Przesłuchać [Robił AI zanim to było modne. Maciej Jarząb](https://zaprojektujswojezycie.pl/robil-ai-zanim-to-bylo-modne-maciej-jarzab/)
-- [ ] 🎥 Obejrzeć [OTWA #Moduł 4-8](https://www.ofensywnetestowanie.pl/)
+- [ ] 📗 Przeczytać [The Vary HTTP header](https://blog.frankel.ch/vary-http-header/)
+- [ ] 📗 Przeczytać [Is your Java application ready for the next generation of server CPUs?](https://foojay.io/today/is-your-java-application-ready-for-the-next-generation-of-server-cpus/)
+- [ ] 📗 Przeczytać [Hacking our way to better team meetings](https://www.allthingsdistributed.com/2024/05/hacking-our-way-to-better-team-meetings.html)
+- [ ] 📗 Przeczytać [Monostate Pattern in Java: Achieving Singleton Behavior with Class-Level State](https://java-design-patterns.com/patterns/monostate/)
+- [ ] 🎧 Przesłuchać [85. O Architectural Kata i procesie tworzenia architektury z Piotrem Filipowiczem](https://bettersoftwaredesign.pl/episodes/85)
+- [ ] 🎧 Przesłuchać [POIT #243: Dyrektywa NIS2 i narzędzia do jej wdrożenia](https://porozmawiajmyoit.pl/poit-243-dyrektywa-nis2-i-narzedzia-do-jej-wdrozenia/)
+- [ ] 🎧 Przesłuchać [Guest Series | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory](https://www.hubermanlab.com/episode/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory)
+- [ ] 🎧 Przesłuchać [How to Handle Crisis, Fear, Loss](https://effortlessenglishshow.com/how-to-handle-crisis-fear-loss)
+- [ ] 🎥 Obejrzeć [OTWA #Moduł 9-12](https://www.ofensywnetestowanie.pl/)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras

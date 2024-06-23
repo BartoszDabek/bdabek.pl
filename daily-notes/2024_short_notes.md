@@ -669,3 +669,31 @@ Piątek minął fajnie 🙂. Na budowie coraz więcej się dzieje 😊 - majstry
 16/06/2024
 ---
 Sobota minęła za szybko 😭😭. Posprzątaliśmy na budowie 👏, Nati ma/miała dylemat czy płytki w łazience na górze do siebie pasują i taka to walka 😂. Dzisiaj rano nagłaśniam na nabożeństwie, a po nabo jedziemy do Redut robić grilla 😉.
+
+17/06/2024
+---
+Niedziela u teściów minęła dobrze 👍. Dziś poniedziałek, cieżko było wstać 🫣. Idę zaraz na rower, później praca i trening w międzyczasie 💪.
+
+18/06/2024
+---
+Wczoraj było całkiem fajnie. Rano nie udało mi się pójść na rower, ale za to wieczorem poszedłem razem z żoną. Wieczorem pojechaliśmy też na działkę i oberwaliśmy cały krzak czarnej porzeczki 🍇😉 i dziś Nati będzie robiła z tego dżem. Dzisiaj planuję iść na rower z rana i później praca. Fajnie jakby udało się też policzyć ile zbrojenia będę musiał dokupić i ile krawężników 🙃.
+
+19/06/2024
+---
+Wtorek był dobry 😉. Przeliczyłem ile drutu trzeba nam na ogrodzenie i ile krawężników obniżonych musimy kupić (ale to niedokładnie wymierzyłem) 🤫. Na budowie z każdym dniem praca idzie do przodu i się z tego powodu cieszę 😊! Dziś środa - dzień treningowy 💪😌.
+
+20/06/2024
+---
+Środa była BARDZO dynamiczna 🤯. Z samego rana pojechałem na rynek i kupiłem 4kg truskawek (po dobrej cenie bo 12zł/kg). O 11 pojechaliśmy na budowę, bo nasz glazurnik coś chciał + chłopaki zaczęli wykop elektryczny do domu... i spędziliśmy tam godzinę. Okazało się też, że w Białymstoku są już do odebrania podtynki, więc zdecydowaliśmy, że to jedyny pasujący nam dzień, żeby pojechać. Pojechaliśmy i odebraliśmy + przy okazji zajechaliśmy do mieszalni farb Flugger i kupiliśmy dwie próbki 😆. Do domu wróciliśmy około 20 i jeszcze Nati robiłą dżemy 😍. Dzisiaj myślę, żę będzie spokojniej... o 10 musimy pojechać na chwilę na budowę i wieczorem mamy nabożeństwo i to tyle na dziś (CHYBA!) 😌.
+
+21/06/2024
+---
+Czwartek był spokojniejszy - wyskoczyliśmy na godzinę na budowę, a tak to głównie była praca 😉. Dziś piątek i standardowo z rana trening + rower. Później praca i trzeba będzie znów na budowę skoczyć na chwilkę z glazurnikiem porozmawiać 🫡. Wieczorem meczyk euro 24' - Polska vs Austria ⚽⚽.
+
+22/06/2024
+---
+Meczyk niestety przegrany i jesteśmy pierwszą reprezentacją, która nie ma już żadnych szans na wyjście z grupy 😓. Ale... tego i tak się spodziewaliśmy 😅. Dzisiaj w zborze mamy ślub i wesele, więc szykujemy się na tą okoliczność 🫡.
+
+23/06/2024
+---
+Prognoza na wesele była zła - miało padać i być burzowo ⛈️. O 11 faktycznie lało przez 1.5h, ale później przestało i zaczęło się wypogadzać... akurat jak kończyło się nabożeństwo ślubne 👰. Bóg dał piękną pogodę na cały czas obiadowy i po obiedzie i Jemu chwała! Dziś po nabożeństwie jedziemy do Jelonki i tam będziemy mieć wspólny rodzinny obiad, ze względu na 60 rocznicę ślubu dziadka i babci 🙂.
