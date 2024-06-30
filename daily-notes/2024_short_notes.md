@@ -697,3 +697,31 @@ Meczyk niestety przegrany i jesteśmy pierwszą reprezentacją, która nie ma ju
 23/06/2024
 ---
 Prognoza na wesele była zła - miało padać i być burzowo ⛈️. O 11 faktycznie lało przez 1.5h, ale później przestało i zaczęło się wypogadzać... akurat jak kończyło się nabożeństwo ślubne 👰. Bóg dał piękną pogodę na cały czas obiadowy i po obiedzie i Jemu chwała! Dziś po nabożeństwie jedziemy do Jelonki i tam będziemy mieć wspólny rodzinny obiad, ze względu na 60 rocznicę ślubu dziadka i babci 🙂.
+
+24/06/2024
+---
+Długo siedzieliśmy u dziadków i rozmawialiśmy - była cała rodzina oprócz Kondratiuków. Martwi mnie sytuacja w zborze, bo brakuje chęci, motywacji i młodych osób w zborze 😔... Dzisiaj jest poniedziałek i standardowo z rana będę robił trening + wyjdę na rower. Później czeka mnie praca i o 16 mamy spotkanie ze schodziarzem 🪜.
+
+25/06/2024
+---
+Spotkanie ze schodziarzem przesunęło się na 18, ale i tak na budowie mieliśmy co robić. Odkopałem arota do przewodów elektrycznych, porozmawialiśmy z Markiem i majstrami na budowie i czas zleciał 😆. Wieczorem poszedłem jeszcze na rower i zrobiłem 12km (bo rano zrobiłem tylko 6 + biegałem). Dzisiaj z rana już planuję sam rower, a później praca 🫡! Dziś musimy jeszcze wybrać kolor na jaki malować kotłownię 😏.
+
+26/06/2024
+---
+Na wieczór zaprosiliśmy Kamila z Izą i dziećmi. Obejrzeliśmy mecz i spędziliśmy czas razem - ich dzieci się nudziły, bo nie miały się z kim bawić 😢. Dzisiaj wstałem dosyć późno, z rana pójdę na rower, później praca i w międzyczasie postaram się poćwiczyć 💪.
+
+27/06/2024
+---
+Środa upłynęła szybko. Mamy teraz bardzo ładną pogodę za oknem - w dzień jest około 26-30 stopni i piękne słońce 🥰! Czuję, że nie wykorzystujemy tego w pełni (ani nawet w 50%) z moją żoną 🤫. Plan na dziś to rower 🚲, praca 👨🏻‍💻 i wieczorem nabożeństwo ⛪.
+
+28/06/2024
+---
+Czwartek minął - dziś elektryk położył kabel od skrzynki do domu ⚡ - jeszcze trochę i będziemy mieli swój prąd 🤗. Dziś standard, czyli trening + rower + praca a wieczorem zapewne sprzątanie domu 😉. Za dnia jeszcze będę musiał skoczyć na budowę, bo przyjedzie zbrojenie.
+
+29/06/2024
+---
+Weekend rozpoczęty 🥳. Dziś sobota i jest plan na skoszenie trawy na budowie 😏. Lekko nie będzie ze względu na temperaturę, ale dam(y) radę 👊! A wieczorem jedziemy chyba do Dubicz na młodzieżowe.
+
+30/06/2024
+---
+Nie udało się pojechać na młodzieżowe. Precyzując pojechaliśmy, ale spóźnieni 30 minut, a nabożeńśtwo było w zborze (a nie namiocie) i powstydziliśmy się wejść spóźnieni. I pojechaliśmy do Redut odwiedzieć rodziców 😃. Dziś jestem już po rowerze i raczej leniwy dzień nas czeka. Rano idziemy na nabożeńśtwo a później obiad, kawka, ciasto i  może się trochę poopalamy 🤔.
