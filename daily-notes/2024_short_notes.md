@@ -725,3 +725,31 @@ Weekend rozpoczęty 🥳. Dziś sobota i jest plan na skoszenie trawy na budowie
 30/06/2024
 ---
 Nie udało się pojechać na młodzieżowe. Precyzując pojechaliśmy, ale spóźnieni 30 minut, a nabożeńśtwo było w zborze (a nie namiocie) i powstydziliśmy się wejść spóźnieni. I pojechaliśmy do Redut odwiedzieć rodziców 😃. Dziś jestem już po rowerze i raczej leniwy dzień nas czeka. Rano idziemy na nabożeńśtwo a później obiad, kawka, ciasto i  może się trochę poopalamy 🤔.
+
+01/07/2024
+---
+Niedziela minęła przyjemnie, choć na podwórku było naprawdę gorąco 🥵. Po południu do Kuby i Kasi przyjechali Rudlewscy i też tam zeszliśmy i rozmawialiśmy, a wieczorem do nas przyjechała Andżelika z narzeocznym Mateuszem. Dzisiaj poniedziałek, ale zaczął się inaczej niż zawsze bo poszedłem rano na rower i jak to piszę to jestem już w połowie treningu i mam poranny rower za sobą 🙂. Dziś opróćz pracy pojedziemy zapewne jeszcze na budowę i zakładam, że tak zleci dzień 😆.
+
+02/07/2024
+---
+Poniedziałek minął ok 👍. Dzisiaj jestem już po rowerze, a przed śniadaniem. Oprócz pracy mam dziś jeszcze rozmowę rekrutacyjną - bardziej dla sprawdzenia siebie/rynku - bo dobrze mi jest tu gdzie jestem 😁. Muszę też ogarnąć jakieś drobne rzeczy z budową i rozliczyć się z Michałem za robotę 💵💰.
+
+03/07/2024
+---
+Wczoraj wieczorem wpadł do nas mój szwagier Paweł. Obejrzeliśmy dwa meczyki, zagraliśmy w carcassone 🧩 i rozmawialiśmy. Miałem też rozmowę rekrutacyjną do której się w ogóle nie przygotowywałem. Zostałem ocecniony jako mid+ i zostałem zaproszony na drugi etap rozmowy. Dziś jestem jeszcze przed rowerem, ale zaraz idę. Później praca + trening i tak zleci dzień 👊.
+
+04/07/2024
+---
+Środa była ok. Dzisiaj zrobiłem rano 25km rowerem 🚲, zaraz zjem śniadanie i do pracy 🫡. Później pewnie na budowę podjedziemy i wieczorem nabożeństwo 🙂.
+
+05/07/2024
+---
+Wczoraj prawie wszystko było tak jak było zaplanowane z jednym wyjątkiem... żonie nagle przestał się podobać płytki na jedną ścianę, więc zamówiliśmy inne 😗🙄. Dzisiaj piątek ❤️. Jeździłem już rowerem, jeszcze został mi trening i do wykonania kilka telefonów 🫨.
+
+06/07/2024
+---
+Oglądaliśmy wczoraj wszystkie mecze z Nati i szwagrem Pawłem. Dzisiaj planujemy na budowie porozkładać płytki do łazienki i ogólnie dziś będzie bardziej chilloutowy dzień 🥳😉. Rano przejechałem już 27km rowerem, a zobaczymy może jeszcze z żoną wieczorem uda się coś przejechać 😃.
+
+07/07/2024
+---
+Nie udało się wyjść z żoną na rower, ale mamy wymówkę - byliśmy zmęczeni po całym dniu 🥵. Na obiadokolację Nati zrobiła pierogi 🥟... dużo pierogów 🥟🥟😅 - było smacznie! Dziś jedziemy do Dubicz na chrzest i nabożeństwo i zapewne tam już zejdzie nam cały dzień 😉.

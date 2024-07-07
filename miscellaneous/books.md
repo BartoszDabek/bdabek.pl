@@ -12,10 +12,11 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Java Performance: The Definitive Guide: Getting the Most Out of Your Code (strona: 35😆6)
+- [ ] Pięć poziomów przywództwa - Maxwell John C. (strona: 15)
 
 ## ⭐ Books read 
 ### ✅ 2024
+- [x] Java Performance: The Definitive Guide: Getting the Most Out of Your Code
 - [x] Jak zdobyć przyjaciół i zdjenać sobie ludzi - Dale Carnegie
 - [x] Java Concurrency in Practice
 
