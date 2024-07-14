@@ -753,3 +753,31 @@ Oglądaliśmy wczoraj wszystkie mecze z Nati i szwagrem Pawłem. Dzisiaj planuje
 07/07/2024
 ---
 Nie udało się wyjść z żoną na rower, ale mamy wymówkę - byliśmy zmęczeni po całym dniu 🥵. Na obiadokolację Nati zrobiła pierogi 🥟... dużo pierogów 🥟🥟😅 - było smacznie! Dziś jedziemy do Dubicz na chrzest i nabożeństwo i zapewne tam już zejdzie nam cały dzień 😉.
+
+08/07/2024
+---
+Niedziela minęła przyjemnie 😇. Pogoda na chrzest i po chrzcie była super! Zobaczyliśmy i porozmawialiśmy z wieloma znajomymi - to był dobry czas. A dziś już poniedziałek... jestem już po porannym rowerze i w połowie treningu. Teraz dokończyć jeszcze trening, zjeść śniadanie i do pracy 😉. A pracy będę miał dziś duuuużoooo 🤫.
+
+09/07/2024
+---
+Poniedziałek był pracowity zarówno dla mnie jak i mojej żony - pracowaliśmy do 20 🤯🥵. Dziś myślę, że będzie lżej... chociaż czeka na nas jeszcze trochę roboty na budoowie - nie wiem kiedy to ogarniemy 🙄. Jestem już po porannym rowerze - dziś zrobiłem 27 km 💪🚲, teraz śniadanko i praca ❤️.
+
+10/07/2024
+---
+Został już tylko tydzień wyzwania rowerowego... ale to szybko mija 🤔. Wróciłem właśnie z rynku, kupiłem 10kg ogórków i dziś z żoną będziemy je robić 🥒🫙.
+
+11/07/2024
+---
+Zrobiliśmy 21 słoików 😋. Byłem już na rowerze - dziś siadło 27km 💪. Teraz śniadanie i praca, a wieczorem nabożeństwo 😇.
+
+12/07/2024
+---
+Czwartek minął szybko, wieczorem zamówiliśmy jeszcze kilka potrzebnych rzeczy do domu (lustro, oświetlenie, uchwyty). Dziś już kolejny dzień przed nami - piątek 🥰. Z rana jest pochmurnie (jest spora mgła), ale bardzo ciepło - około 20 stopni o 6 rano. Byłem już na rowerze 🚲, kupiłem ogórki na rynku 💵🥒 i siadam zaraz do pracy 👨🏻‍💻👨🏻‍💻.
+
+13/07/2024
+---
+Piątek i po piątku 😄. Po pracy Nati robiła ogórki, Andżelika z Mateuszem zarposili nas na ślub i wesele, które będzie we wrześniu 💒. Dziś jedziemy odwieźć płytki do Białegostoku - miło z ich strony, że zgodzili się na ich przyjęcie 😉. Później wracamy i ma przyjechać wujek Rysiek z żoną i zięciem. Nati z tej okazji z rana zrobiła mi szarlotkę 🍎🍏😋.
+
+14/07/2024
+---
+Fajna była sobota 😇. Udało nam się zwrócić płytki, zjeść obiad rodzinnie i na budowie coś pomyśleć + posprzątać. Dzisiaj jestem już po rowerze i zimnym prysznicu 🚿 i jest super 😅. Po nabożeństwie jedziemy do Redut i tam będziemy zapewne aż do wieczora 👍.
