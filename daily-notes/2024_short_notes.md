@@ -781,3 +781,31 @@ Piątek i po piątku 😄. Po pracy Nati robiła ogórki, Andżelika z Mateuszem
 14/07/2024
 ---
 Fajna była sobota 😇. Udało nam się zwrócić płytki, zjeść obiad rodzinnie i na budowie coś pomyśleć + posprzątać. Dzisiaj jestem już po rowerze i zimnym prysznicu 🚿 i jest super 😅. Po nabożeństwie jedziemy do Redut i tam będziemy zapewne aż do wieczora 👍.
+
+15/07/2024
+---
+Tak jak myślałem - większość popołudnia spędziliśmy w Redutach, ale wieczorem pojechaliśmy do Grześka i Karoliny. Graliśmy w planszówki i obejrzeliśmy (w tle) finał euro ⚽. Dziś rower i zimny prysznic już zaliczone. Teraz trening, śniadanie i praca 💪.
+
+16/07/2024
+---
+Poniedziałek minął dobrze 👍. Spotkaliśmy się z kierownikiem budowy i omawialiśmy temat zakończenia budowy 😊🏠. Dziś rower i zimny prysznic już zaliczone. Za chwilę będę robił śniadanie i do pracy. Dzisiaj ma też przyjechać człowiek do pomiaru drzwi wewnętrznych + mamy spotkać się z sąsiadem i przegadać kwestię płotu na działce.
+
+17/07/2024
+---
+Nasza ekipa remontowa (tak mogę ich nazwać) chce się ulotnić na 2 tygodnie na inną robótkę. Ja nie widzę w tym problemu, o ile wrócą na czas i dokończą wszystko co mają do dokończenia. Po pomiarze drzwi wyszło też, że trzeba poprawić kilka otworów 😑. Z sukcesów - dziś zakończyłem challenge rowerowy 🚲👏. Dziś będę miał chyba dużo pracy.
+
+18/07/2024
+---
+Aj cały dzień ok, ale pompę gruntową wieczorem przetransportowaliśmy w poziomie, gdzie jest to zakazane bo może się uszkodzić wewnątrz... i teraz nie wiem czy to nie będzie najdroższy transport w naszym życiu 😑. Dziś wieczorem nabożeństwo, muszę się jakoś pozbyć tych myśli z pompą...
+
+19/07/2024
+---
+Z pompą już się pogodziłem. Teraz właśnie wróciłem z zakupów, ogórki + biedronka i żona na mnie najechała, że złe ogórki jej kupiłem 😡. Zagotowałem się mocno...
+
+20/07/2024
+---
+Piątek zleciał w sumie fajnie. Pieliliśmy kostkę na podwórku 🌿🌱, a później robiliśmy kiszone... i takim oto sposobem kolację jedliśmy o 22:30 🥲. Dziś natomiast czeka nas rozbieranie płotu u sąsiada 🚧🔨🏠!
+
+21/07/2024
+---
+Rozbieranie płotu będzie jeszcze trwało 🔨. Udało nam się rozebrać część najbliżej od nas. Najgorsze do rozbierania są siatki bo są wrośniete w ziemię... i strasznie ciężko je się wyrywa 🥵. Jestem już po rowerze i porannym zimnym prysznicu 🚿. Dziś na nabożeństwie śpiewamy z grupą - dawno już nie śpiewaliśmy z przodu 😏.

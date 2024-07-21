@@ -12,7 +12,7 @@
 - [ ] Nawyki warte miliony - Tracy Brian
 
 ## 🚧 In Progress
-- [ ] Pięć poziomów przywództwa - Maxwell John C. (strona: 86)
+- [ ] Pięć poziomów przywództwa - Maxwell John C. (strona: 143)
 
 ## ⭐ Books read 
 ### ✅ 2024
