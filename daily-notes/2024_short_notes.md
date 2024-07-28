@@ -809,3 +809,31 @@ Piątek zleciał w sumie fajnie. Pieliliśmy kostkę na podwórku 🌿🌱, a p�
 21/07/2024
 ---
 Rozbieranie płotu będzie jeszcze trwało 🔨. Udało nam się rozebrać część najbliżej od nas. Najgorsze do rozbierania są siatki bo są wrośniete w ziemię... i strasznie ciężko je się wyrywa 🥵. Jestem już po rowerze i porannym zimnym prysznicu 🚿. Dziś na nabożeństwie śpiewamy z grupą - dawno już nie śpiewaliśmy z przodu 😏.
+
+22/07/2024
+---
+Niedziela minęła przyjemnie. Po nabożeństwie zjedliśmy obiad, wypiliśmy kawę z rodzicami ☕, zjedliśmy lody 🍦 i się obijaliśmy. Wieczorem poszliśmy na rowerki i szukaliśmy w internecie jakichś rzeczy do domu 😉. Dziś jestem już po rowerze i prysznicu. Teraz idę zjeść śniadanko, później praca i trening a popołudniu na działkę walczyć 😁!
+
+23/07/2024
+---
+Poniedziałek był spoko 👍. Znów późno wróciliśmy z budowy, ale przynajmniej przygotowaliśmy się pod dzisiejszy wykop 🚜👷 i ustaliliśmy (raczej) jak będzie wyglądał temat z płotem. Dzisiaj jestem już po rowerze i zimnym prysznicu 🚲🚿💪
+
+24/07/2024
+---
+Wczoraj nie było wykopu bo koparka pracowała gdzieś indziej... i ma być dziś. Wczoraj liczyliśmy na nowo ile będzie nas kosztowało ogrodzenie i się grubo pomyliliśmy 💸💰, w tą gorszą dla nas stronę 🥲. W sobotę będę musiał na nowo przysiąść do excela i podliczyć pozostałe koszty. Dziś poranny rytuał już zaliczony. Zaraz trening, śniadanie i praca. Zobaczymy czy koparka nie przeszkodzi i nie trzeba będzie jechać na budowę 🙃.
+
+25/07/2024
+---
+Wczoraj działała u nas koparka i się działo 😁! Fajnie bo nie musimy ani gruzu spod tarasu wyrzucać, ani odkopywać słupki, ani wyrywać siatkę - wszystko zrobił koparką 🚜. Dziś pierwszy raz od ponad miesiąca nie poszedłem rano na rower bo pada deszcz. Jadę zaraz zapłacić za koparkę i zobaczymy jak się dalej dzień potoczy.
+
+26/07/2024
+---
+Pracowałem mocno w czwartek, nie miałem żadnej aktywności, byliśmy też z żoną w półpoście (jedliśmy tylko śniadanie i kolację). Na budowie nasz glazurnik ciśnie do przodu, wszystkie płytki są już ułożone 🏠❤️  i pięknie to już zaczyna wyglądać! Teraz czekamy aż wróci Michał i pomaluje nam dom 😁 (+ zostało oczywiście jeszcze dużo szczegółów, szczególików). Dzisiaj udało mi się wyjść na rower, zajechać na rynek po pomidory 🍅 i wziąć zimny prysznic. Teraz praca, trening i dzień zleci 😉.
+
+27/07/2024
+---
+Był piątek i jest sobota 😌. Wczoraj przygotowywaliśmy rzeczy pod sos słodko-kwaśny domowej roboty, a dziś będziemy go kończyć. Oprócz tego mamy spotkanie ze stolarzem i na działce trochę roboty 🤗.
+
+28/07/2024
+---
+Sobota była bardzo bardzo męcząca 😅. Wstaliśmy o 5 i robiliśmy słoiki, ja w międzyczasie pojechałem jeszcze rowerem na rynek dokupić pare rzeczy. Słoiki robiliśmy do 10:30 i później na budowę spotkać się ze stolarzem. Po spotkaniu wróciliśmy na obiad i później znów na budowę, żeby ogarnąć siatkę i słupki, które koparka nam wyjęła z ziemi. Po powrocie ja jeszcze chwilę się uczyłem, a później pomagałem żonie robić szarlotkę 🍎🍏❤️. Dziś jedziemy na obiad i popołudnie do Redut 😉.
