@@ -837,3 +837,31 @@ Był piątek i jest sobota 😌. Wczoraj przygotowywaliśmy rzeczy pod sos słod
 28/07/2024
 ---
 Sobota była bardzo bardzo męcząca 😅. Wstaliśmy o 5 i robiliśmy słoiki, ja w międzyczasie pojechałem jeszcze rowerem na rynek dokupić pare rzeczy. Słoiki robiliśmy do 10:30 i później na budowę spotkać się ze stolarzem. Po spotkaniu wróciliśmy na obiad i później znów na budowę, żeby ogarnąć siatkę i słupki, które koparka nam wyjęła z ziemi. Po powrocie ja jeszcze chwilę się uczyłem, a później pomagałem żonie robić szarlotkę 🍎🍏❤️. Dziś jedziemy na obiad i popołudnie do Redut 😉.
+
+29/07/2024
+---
+Niedzielka minęła i czas na poniedziałek. Dziś jest wietrznie i pochmurno - rano zamiast roweru poszedłem pobiegać i zrobiłem 5km 🏃. Wziąłem też już zimny prysznic 🚿. Zaraz będę jadł śniadanko i do pracy 💪.
+
+30/07/2024
+---
+Wczoraj po pracy pojechaliśmy na budowę i tam na działce działaliśmy - ja wycinałema chaszcze i obcinałem gałęzie, a Nati podrównywała ziemię. Dziś wstałem o 5 (drugi dzień challengu), byłem już na rowerze i wziąłem zimny prysznic 👍. Dziś też czeka mnie zabiegany dzień pełen emocji 😅.
+
+31/07/2024
+---
+I cyk, dziś ostatni dzień lipca 📅. Wczorajszy dzień pełen emocji skończył się tym, że pojechaliśmy przed 18 na działkę i ogarnialiśmy coś niecoś przy ogrodzeniu 😇. Dziś rower i zimny prysznic już zalioczne. Idę zaraz jeść śniadanie ☕🍳, trening i praca 🏋🏽🔥💪🏼!
+
+01/08/2024
+---
+Środa minęłą, znów byliśmy na działce i dziś wujek powycinał drzewa będące na granicy z sąsiadem. Mieliśmy później trochę sprzątania po tym 😂. Dzisiaj jestem już po rowerze i zimnym prysznicu. To 20 dzień zimnych pryszniców i dziś było ciężej mentalnie, aż se tak myślałem, że fajnie byłoby w ciepłej wodzie się wykąpać 😄.
+
+02/08/2024
+---
+Kolejny dzień przeleciał. Nic nadzwyczajnego się nie wydarzyło, a dziś zapowiada się też standardowy dzień 😌.
+
+03/08/2024
+---
+Piątek był w miarę luźny. Dziś rano biegałem i wziąłem już zimny prysznic. Zaraz będę sprzątał samochód 🚗 i jedziemy dziś do Białegostoku załatwiać sprawy do domu 🫷🏠.
+
+04/08/2024
+---
+Wczoraj wszystko poszło nam bardzo sprawnie 😉👍. Z Białegostoku wróciliśmy jeszcze przed 15. Kupiliśmy farby do domu, podpisaliśmy umowę na drzwi, odwieźliśmy próbki do stolarza. Nati zrobiła bardzo smaczny obiad, ja chwilkę popracowałem i wieczorem zrobiliśmy sobie jeszcze około godzinny spacer 🥰. Dzisiaj rano udało mi się przejechać rowerem i wziąć już zimny prysznic. Zaraz będziemy jeść śniadanie, później nabożeńśtwo i na popołudnie/wieczór (zależy jak to traktować) zaprosiliśmy Czarka i Esterę z ich synkiem (kilka miesięcy dopiero).

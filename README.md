@@ -8,8 +8,8 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (300/400) 🏃 ![Progress](https://progress-bar.dev/75/)
-2. ✅ Przejechać na rowerze 1600 km (1690/1600) 🚴 ![Progress](https://progress-bar.dev/105/) (22.07)
+1. Przebiec 400 km (310/400) 🏃 ![Progress](https://progress-bar.dev/77/)
+2. ✅ Przejechać na rowerze 1600 km (1784/1600) 🚴 ![Progress](https://progress-bar.dev/111/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
 4. 3km < 12 minut 👟
 
@@ -24,20 +24,20 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [07/28/2024]
+# [08/04/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Wybrać i zamówić klimatyzację
-- [ ] 🏠 Ogrodzenie - dokończyć jak dokładnie ma wyglądać i wysłać
+- [ ] 🏠 Inwentaryzacja geodezyjna powykonawcza - załatwić z geodetą
 - [ ] 📗 Przeczytać [40 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Data Fetching Patterns in Single-Page Applications](https://martinfowler.com/articles/data-fetch-spa.html)
-- [ ] 📗 Przeczytać [Make Illegal States Unrepresentable - Data-Oriented Programming v1.1](https://inside.java/2024/06/03/dop-v1-1-illegal-states/)
-- [ ] 📗 Przeczytać [Null Object Pattern in Java: Streamlining Error Handling with Graceful Defaults](https://java-design-patterns.com/patterns/null-object/)
-- [ ] 🎧 Przesłuchać [Milionerem nie zostaje się rok. Michał Jabłoński](https://zaprojektujswojezycie.pl/milionerem-nie-zostaje-sie-rok-michal-jablonski/)
-- [ ] 🎧 Przesłuchać [#119 Microsoft Build 2024](https://patoarchitekci.io/119/)
-- [ ] 🎧 Przesłuchać [Foojay Podcast #52: JCON Report, Part 4 – Garbage Collectors, Intelligence Cloud, Test Containers and Flaky Tests, ToxiProxy, Structured Concurrency, Virtual Threads](https://foojay.io/today/foojay-podcast-52/)
-- [ ] 🎧 Przesłuchać [Jak pozyskać klienta, oferując bezpłatny audyt, który przygotujesz w 15 minut](https://malawielkafirma.pl/pozyskiwanie-klientow-bezplatny-audyt/)
-- [ ] 🎧 Przesłuchać [Dr. Jonathan Haidt: How Smartphones & Social Media Impact Mental Health & the Realistic Solutions](https://www.hubermanlab.com/episode/dr-jonathan-haidt-how-smartphones-social-media-impact-mental-health-the-realistic-solutions)
-- [ ] 🎥 Obejrzeć [301. WJUG Robert Szarejko - "JVM Garbage Collector - świadomy wybór"](https://youtu.be/x05IdW9NBnQ)
+- [ ] 📗 Przeczytać [The TornadoVM Programming Model Explained](https://foojay.io/today/the-tornadovm-programming-model-explained/)
+- [ ] 📗 Przeczytać [Even more Opentelemetry!](https://blog.frankel.ch/even-more-opentelemetry/)
+- [ ] 📗 Przeczytać [3 Reasons Why We Shouldn’t Initialize Our Test Data With Production Code](https://www.petrikainulainen.net/programming/testing/3-reasons-why-we-shouldnt-initialize-our-test-data-with-production-code/)
+- [ ] 📗 Przeczytać [How YouTube Was Able to Support 2.49 Billion Users With MySQL](https://newsletter.systemdesign.one/p/vitess-mysql)
+- [ ] 📗 Przeczytać [Object Mother Pattern in Java: Simplifying Object Creation for Testing](https://java-design-patterns.com/patterns/object-mother/)
+- [ ] 🎧 Przesłuchać [How & Why to Strengthen Your Heart & Cardiovascular Fitness | Perform with Dr. Andy Galpin](https://youtu.be/A8HbppXMDWY)
+- [ ] 🎧 Przesłuchać [Jak przygotować firmę na konflikt zbrojny? Grzegorz Mikłusiak](https://zaprojektujswojezycie.pl/jak-przygotowac-firme-na-konflikt-zbrojny-grzegorz-miklusiak/)
+- [ ] 🎧 Przesłuchać [#120 Short #55](https://patoarchitekci.io/120/)
+- [ ] 🎧 Przesłuchać [Foojay Podcast #53: JCON Report, Part 5 – CQRS, JOOQ, GraphQL, API, Vaadin, OpenRewrite, ErrorProne, Gateways, Proxies,…](https://foojay.io/today/foojay-podcast-53/)
+- [ ] 🎥 Obejrzeć [301. WJUG Chris Suszyński - "You need event mesh, not a service mesh"](https://youtu.be/q6Yal8jODEU)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
