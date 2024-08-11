@@ -10,9 +10,10 @@
 - [ ] Dependency Injection Principles, Practices, and Patterns - Steven van Deursen and Mark Seemann
 - [ ] Fenomen poranka - Hal Elrod
 - [ ] Nawyki warte miliony - Tracy Brian
+- [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
-- [ ] Pięć poziomów przywództwa - Maxwell John C. (strona: 241)
+- [ ] Pięć poziomów przywództwa - Maxwell John C. (strona: 301)
 
 ## ⭐ Books read 
 ### ✅ 2024

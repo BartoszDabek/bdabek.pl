@@ -865,3 +865,31 @@ Piątek był w miarę luźny. Dziś rano biegałem i wziąłem już zimny pryszn
 04/08/2024
 ---
 Wczoraj wszystko poszło nam bardzo sprawnie 😉👍. Z Białegostoku wróciliśmy jeszcze przed 15. Kupiliśmy farby do domu, podpisaliśmy umowę na drzwi, odwieźliśmy próbki do stolarza. Nati zrobiła bardzo smaczny obiad, ja chwilkę popracowałem i wieczorem zrobiliśmy sobie jeszcze około godzinny spacer 🥰. Dzisiaj rano udało mi się przejechać rowerem i wziąć już zimny prysznic. Zaraz będziemy jeść śniadanie, później nabożeńśtwo i na popołudnie/wieczór (zależy jak to traktować) zaprosiliśmy Czarka i Esterę z ich synkiem (kilka miesięcy dopiero).
+
+05/08/2024
+---
+Niedzielny dzień był przyjemny. Odpocząłem 😉. Nati zrobiła pyszny obiad - jedliśmy rybkę 🐟, a wieczorem z goścmi bezy jako deser do kawy i na kolację suwlaki 🍖😋. Dziś rano biegałem, wziąłem prysznic i teraz chyba jeszcze trening zrobię przed śniadaniem. Później zjeść i praca 👨🏻‍💻👨🏻‍💻.
+
+06/08/2024
+---
+Poranny rower ✅ zimny prysznic ✅. Dziś rano chcę ogarnąć to co muszę z budową i później mocno się skupić na pracy 🎯.
+
+07/08/2024
+---
+Wczoraj wieczorem robiliśmy dżemy jabłkowe 😋🫙. Nati średnio za nimi przepada, ale ja je uwielbiam 😅❤️. Dzisiaj rano już standardowe rzeczy zrobione ✔️ - czyli rower i prysznic. Teraz śniadanie i później praca + trening 🦾.
+
+08/08/2024
+---
+Na budowie jakieś kwiatki z ustawieniem pompy wychodzą 😥. Wczoraj zamontowali nam klimatyzacje i w środku panowie dalej działają z przygotowaniami pod malowanie 😏. Dziś standardowy poranek już zaliczony 🙂. Popołudniu mamy spotkać się z geodetą odnośnie inwentaryzacji powykonawczej, żeby powoli móc odebrać budynek.
+
+09/08/2024
+---
+Nie udało nam się czasowo wybrać wczoraj na wieczorowe 😥 - mieliśmy spotkanie z Panami od grodzenia + geodetą. Dzisiaj standardzik z rana już zaliczony i teraz śniadanko ☕🍳, a później praca i trening. A wieczorem możliwe, że będziemy robić dżemy jabłkowe 😄. 
+
+10/08/2024
+---
+Ostatni dzień wyzwania z zimnymi prysznicami 🤗. Dzisiaj mam napięty grafik i poranek jest już inny. Nie byłem/ide na rower/biegać. Rano sprzątamy z żoną klatkę + piwnicę i jedziemy do ogrodzenia, bo prawdopodobnie będziemy zmieniać bloczki na inne. Później w zborze pomagam przy przesadzaniu tuji 🌲🌲, a później planujemy z żoną kebaba + finał siatkówki 🥙😆❤️. I na 100% jeszcze na działce chcę coś podziałać dzisiaj 🏠.
+
+11/08/2024
+---
+Wczoraj był intensywny dzień. Cała praca jaką planowałem została zrobiona ✅🙂. Kebaba zjedliśmy dopiero na wieczór,a przez większość dnia nic nie jedliśmy 😆. Dzisiaj byłem już na rowerze i pomimo zakończonego wyzwania wziąłem później zimny prysznic 🤫. Niedziela będzie standardowa, nabożeńśtwo i później do Redut 🏎️💨.
