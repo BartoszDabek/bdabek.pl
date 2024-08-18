@@ -13,10 +13,11 @@
 - [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
-- [ ] Pięć poziomów przywództwa - Maxwell John C. (strona: 301)
+- [ ] Refactoring Improving the Design of Existing Code - Martin Fowler with Kent Beck (strona: 31)
 
 ## ⭐ Books read 
 ### ✅ 2024
+- [x] Pięć poziomów przywództwa - Maxwell John C.
 - [x] Java Performance: The Definitive Guide: Getting the Most Out of Your Code
 - [x] Jak zdobyć przyjaciół i zdjenać sobie ludzi - Dale Carnegie
 - [x] Java Concurrency in Practice

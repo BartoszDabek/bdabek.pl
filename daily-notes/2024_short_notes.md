@@ -893,3 +893,31 @@ Ostatni dzień wyzwania z zimnymi prysznicami 🤗. Dzisiaj mam napięty grafik 
 11/08/2024
 ---
 Wczoraj był intensywny dzień. Cała praca jaką planowałem została zrobiona ✅🙂. Kebaba zjedliśmy dopiero na wieczór,a przez większość dnia nic nie jedliśmy 😆. Dzisiaj byłem już na rowerze i pomimo zakończonego wyzwania wziąłem później zimny prysznic 🤫. Niedziela będzie standardowa, nabożeńśtwo i później do Redut 🏎️💨.
+
+12/08/2024
+---
+Niedziela minęła fajnie 😇. Dziś byłem na rowerze i teraz przede mną śniadanko 😋. Czeka mnie dziś rozmowa z hydraulikami, bo trzeba ustalić, gdzie ma stać pompa - oni postawili sobie ją jak chcieli pośrodku kotłowni i są zadowoleni 😣.
+
+13/08/2024
+---
+Poniedziałek był zabiegany. Musieliśmy spotkać się z hydraulikami na budowie, a później niespodziewanie przyjechał Sasza i trzeba było go ugościć. Odrabialiśmy później naszą pracę do 20:30 😏. Dzisiaj byłem na rowerze i zaraz będę robił omlecika 🥘😋. Dziś praca, a wieczorem musimy z żoną usiąść i w końcu wysłać stolarzowi i fachowcom od ogrodzenia odpowiedzi na wszystkie pytania 😌.
+
+14/08/2024
+---
+Kolejny zabiegany dzień. Dziś mieliśmy kuriera z deskami balkonowymi o... 21:30 😂. A tak to praca, praca i budowa, budowa 🤯. Dziś może będzie już spokojniej 😏.
+
+15/08/2024
+---
+Wczoraj było luźniej, a dziś to już w ogóle będzie luźno bo jest dzień wolny 🫷. Dziś byłem już na rowerze, ale być może jeszcze z żoną pojedziemy rowerami na jakąś przejażdzkę i później coś zjeść 👀.
+
+16/08/2024
+---
+Planowałem jedno, a wyszło inaczej 😆. Ogólnie to mieliśmy zabiegany dzień bo wczoraj ogarnęliśmy stolarkę + ogrodzenie (co nie było łatwe 🥵!). Na budowie trochę posprzątaliśmy i na wieczór zaprosili nas Iza z Kamilem na ognisko 😌🏕️. Dzisiaj rano biegałem i teraz czas na śniadanko i pracę 🦾!
+
+17/08/2024
+---
+Wczoraj nie jedliśmy obiadu, ale za to Natalka zrobiła na kolację pizze 🍕🍕😘. Jest weekend w końcu 😁. Dziś wstałem o 4:30, byłem już na rowerze. Teraz będziemy sprzątać klatkę, bo nasza kolejka a później jadę z tatą skosić cmentarz. Potem mamy jeszcze robótkę na działce 😉😉.
+
+18/08/2024
+---
+Robótka na działce nie do końca się udała (moja część) 👎. Chciałem spalić gałęzie, ale wypalił się tylko liście, a później wszystko ugasło 🔥❌. Dziś po obiedzie przyjadą do nas Gabryś z Karoliną i dziećmi. Nati zrobiłą szarlotkę 🍎🍏 - będzie smacznie 😋.

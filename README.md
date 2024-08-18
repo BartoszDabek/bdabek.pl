@@ -8,8 +8,8 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (315/400) 🏃 ![Progress](https://progress-bar.dev/78/)
-2. ✅ Przejechać na rowerze 1600 km (1904/1600) 🚴 ![Progress](https://progress-bar.dev/119/) (22.07)
+1. Przebiec 400 km (320/400) 🏃 ![Progress](https://geps.dev/progress/80/)
+2. ✅ Przejechać na rowerze 1600 km (2053/1600) 🚴 ![Progress](https://geps.dev/progress/128/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
 4. 3km < 12 minut 👟
 
@@ -24,21 +24,23 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [08/11/2024]
+# [08/18/2024]
 ### 🚧 W tym tygodniu:
 - [ ] 🏠 Kupić sprzęty AGD
 - [ ] 🏠 Kupić uchwyty
-- [ ] 📗 Przeczytać [10 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Mam problem z mockami...](https://cezarysanecki.pl/2024/06/06/mam-problem-z-mockami/)
-- [ ] 📗 Przeczytać [Has my JVM Lost Exception Stacktraces?!](https://4comprehension.com/exception-drop-stacktraces/)
-- [ ] 📗 Przeczytać [REST service client: design, testing, monitoring](https://blog.allegro.tech/2024/06/rest-service-client-design-testing-monitoring.html)
-- [ ] 📗 Przeczytać [Object Pool Pattern in Java: Enhancing Performance with Reusable Object Management](https://java-design-patterns.com/patterns/object-pool/)
-- [ ] 🎧 Przesłuchać [89. O ciemnej stronie implementacji API z GraphQL z Sebastianem Rabiejem](https://bettersoftwaredesign.pl/episodes/89)
-- [ ] 🎧 Przesłuchać [#121 Wdrożenie metryk DORA w praktyce z Kingą Gaździńską](https://patoarchitekci.io/121/)
-- [ ] 🎧 Przesłuchać [Foojay Podcast #55: Embedded Java, Part 2](https://foojay.io/today/foojay-podcast-55/)
-- [ ] 🎧 Przesłuchać [Odzyskaj swoje życie. Jak skutecznie uwolnić się od Social Mediów? Monika Sabat](https://zaprojektujswojezycie.pl/odzyskaj-swoje-zycie-jak-skutecznie-uwolnic-sie-od-social-mediow-monika-sabat/)
-- [ ] 🎧 Przesłuchać [Dr. Gabrielle Lyon: How to Exercise & Eat for Optimal Health & Longevity](https://www.hubermanlab.com/episode/dr-gabrielle-lyon-how-to-exercise-eat-for-optimal-health-longevity)
-- [ ] 🎥 Obejrzeć [304. WJUG Krzysztof Ślusarski - Architektura "Thread-per-core" jako droga do najlepszej wydajności](https://youtu.be/xati7kCqWXs)
+- [ ] 🏠 Pomiar + zamówienie pryszniców
+- [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Przeczytać [Debugging Kubernetes Part 1: An Introduction](https://foojay.io/today/debugging-kubernetes-part-1-an-introduction/)
+- [ ] 📗 Przeczytać [Workflow, From Stateless To Stateful](https://foojay.io/today/workflow-from-stateless-to-stateful/)
+- [ ] 📗 Przeczytać [The Three Levels of Self-Awareness](https://markmanson.net/self-awareness)
+- [ ] 📗 Przeczytać [Observer Pattern in Java: Mastering Reactive Interfaces in Java Applications](https://java-design-patterns.com/patterns/observer/)
+- [ ] 🎧 Przesłuchać [Walk & Talk | Trip to USA, Worry, Surgery, Reading](https://effortlessenglishshow.com/walk-talk-trip-to-usa-worry-surgery-reading)
+- [ ] 🎧 Przesłuchać [Migranci ekonomiczni w Polsce. Zagrożenie czy szansa na rozwój? Andrzej Korkus](https://zaprojektujswojezycie.pl/migranci-ekonomiczni-w-polsce-zagrozenie-czy-szansa-na-rozwoj-andrzej-korkus/)
+- [ ] 🎧 Przesłuchać [Foojay Podcast #56: Vectors in Java Code, Databases, and LLMs](https://foojay.io/today/foojay-podcast-56/)
+- [ ] 🎧 Przesłuchać [#115 Software Architecture and Design Trends Report - April 2024](https://patoarchitekci.io/115/)
+- [ ] 🎧 Przesłuchać [Jak zyskać więcej? Kontroluj koszty i unikaj drogich instytucji!](https://inwestomat.eu/jak-zyskac-wiecej-kontroluj-koszty/)
+- [ ] 🎧 Przesłuchać [Jak zostać soloprzedsiębiorcą, zdobyć tysiące klientów i zarabiać także wtedy, gdy nie pracujesz](https://malawielkafirma.pl/jak-zostac-soloprzedsiebiorca/)
+- [ ] 🎥 Obejrzeć [What is generative AI and how does it work? – The Turing Lectures with Mirella Lapata](https://youtu.be/_6R7Ym6Vy_I)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
