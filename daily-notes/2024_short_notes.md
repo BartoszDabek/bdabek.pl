@@ -921,3 +921,31 @@ Wczoraj nie jedliśmy obiadu, ale za to Natalka zrobiła na kolację pizze 🍕�
 18/08/2024
 ---
 Robótka na działce nie do końca się udała (moja część) 👎. Chciałem spalić gałęzie, ale wypalił się tylko liście, a później wszystko ugasło 🔥❌. Dziś po obiedzie przyjadą do nas Gabryś z Karoliną i dziećmi. Nati zrobiłą szarlotkę 🍎🍏 - będzie smacznie 😋.
+
+19/08/2024
+---
+Wczoraj było git 👍. Na wieczór zjedliśmy sushi domowej roboty 🍣 - mocno się najadłem 😅. Dziś pora wracać do pracy 🙌. Jestem już po rowerze i zaraz będę kończył trening, śniadanie i później praca. Z pewnością w ciągu dnia trzba też będzie wyskoczyć na budowę 🏠😏.
+
+20/08/2024
+---
+Poniedziałek minął wporządku 👍. Długo pracowałem, ale... odrobię sobie w inny dzień 😅. Wczoraj nie musiałem wychodzić na budowę, bo nie było nikogo oprócz Michała 🙂. Dziś mamy spotkać się z Panem od ogrodzenia i tu już będą konkrety bo prawdopodobnie jutro będą kopać i zalewać podmurówkę 🧱🪨👷🏼.
+
+21/08/2024
+---
+Wtorkowy wieczór był lekko ciężki ze względu na lekkie kryzys żony 😣. Wierzę jednak, że będzie lepiej i będzie dobrze ☝️. Dziś byłem już na rowerze i dzisiejszym przejazdem pobiłem zeszłoroczny wynik dystansu przejechanego w ciągu roku! Na budowie mają robić dziś ogrodzenie - mam nadzieję, że nie będzie z tym problemów 😉.
+
+22/08/2024
+---
+Wczoraj zalali nam ogrodzenie - wlali 24m betonu 😮. Okazało się (wiedziałem to już tydzień wcześniej), że kopią 1.2m w dół i tam zbrojenie i zalewają. Dziś rowerek już zaliczony - mocno sportowy wyszedł ten rok 😅. Wieczorem chciałbym, żeby w końcu udało się pójść na wieczorowe, bo już dwa czwartki nas ominęły 😓.
+
+23/08/2024
+---
+I niestety, ale trzeci czwartek ominęliśmy nabożeństwo 🫣. Jakoś tak plany się porozchodziły, że nie udało nam się znów dotrzeć. Na budowę zajechaliśmy tylko na chwilę, żeby zobaczyć jak idzie chłopakom malowanie (w końcu!) 😁. O 20 pojechałem do Marka i mnie ostrzygł i bum koniec dnia. Dziś nietypowo, bo nie idę biegać ani przejechać się rowerem. Dzisiaj z żoną idziemy pieszo na zakupy z rana 😅 - na jej życzenie 😉. Wieczorem mają przyjechać do nas goście - Samuel z żoną - i będą nocować aż do poniedziałku.
+
+24/08/2024
+---
+Wieczorem mieliśmy fajną społeczność ludzi bo oprócz Samuela i jego żony Magdy, przyjechali jeszcze moi dwaj szwagrowie (z czego jeden z żoną). Jedliśmy, rozmawialiśmy... spać poszliśmy przed 1 w nocy 🤫. I muszę się przyznać, że po części złamałem moje wyzwanie bo dziś wstałem o 5, ale uznałem, że jestem na tyle zmęczony że idę jeszcze spać i ostatecznie wstałem o 6:30 🙄, Ale wybaczam sobie 😅. Dziś zobaczymy co się będzie dziać. Nie mamy planu 😋.
+
+25/08/2024
+---
+Sobota była dla mnie dniem zmywania naczyń 🧼😆. Nati robiła tort, a ja zmywałem, tak samo po wszystkich posiłkach 🙄. Za dnia - jak goście wybyli na chwilę - udało mi się przebiec 6 km 🏃. Około 17-18, po obiedzie, wzięliśmy naszych gości i poszliśmy się przejść na naszą budowę 🏠. Tak nam minął dzień. A dzisiaj jedziemy do Dubicz i tam będą setne urodziny dziadka 💯🥳!
