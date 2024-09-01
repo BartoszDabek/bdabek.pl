@@ -949,3 +949,31 @@ Wieczorem mieliśmy fajną społeczność ludzi bo oprócz Samuela i jego żony 
 25/08/2024
 ---
 Sobota była dla mnie dniem zmywania naczyń 🧼😆. Nati robiła tort, a ja zmywałem, tak samo po wszystkich posiłkach 🙄. Za dnia - jak goście wybyli na chwilę - udało mi się przebiec 6 km 🏃. Około 17-18, po obiedzie, wzięliśmy naszych gości i poszliśmy się przejść na naszą budowę 🏠. Tak nam minął dzień. A dzisiaj jedziemy do Dubicz i tam będą setne urodziny dziadka 💯🥳!
+
+26/08/2024
+---
+Niedziela cała spędzona w Dubiczach na setnych urodzinach dziadka. Było sporo ludzi (około 70 osób), dużo rodziny i fajny był czas 😉. Wieczorem przyjechał do nas jeszcze Piotrek z Olą i odwiedziliśmy budowę, a później wszyscy pojechaliśmy po kebaba i przyjechaliśmy do nas 🥙😅. Dzisiaj robię trening rano, robimy śniadanie gościom i do pracy 👨🏻‍💻.
+
+27/08/2024
+---
+Pierwszy dzień tygodnia był ok. Rano pożegnaliśmy gości 👋 i później była codzienność. Na budowie już coś tam chłopaki pomalowali i fajnie to wygląda 😉. Dziś przejechałem się rowerem, za chwilkę będę robił omleta 😋 i później siadam do pracy.
+
+28/08/2024
+---
+Wtorek też minął dobrze. Musieliśmy pojechać do Białegostoku popołudniu, żeby dokupić farby. Przyznam, że moja żona ma gust - dom już jest prawie cały pomalowany i bardzo ładnie wygląda 😇🤗.
+
+29/08/2024
+---
+Dom mamy już pomalowany ❤️🖌️🏠! Został tylko garaż i to prawdopodobnie wydarzy się dziś. Fajnie to wygląda 🥰. Dziś jestem już po rowerze i przyznaję, że to już końcówka sezonu bo mi nawet ciężko czasem się wybrać na ten rower z rana. Powoli będę się przerzucał na spacery + bieganie poranne 😇.
+
+30/08/2024
+---
+Udało się przeżyć czwartek całkiem sprawnie i w końcu poszliśmy na nabożeństwo 🫡. Trzy czwartki nam się to nie udawało i wczoraj też było blisko bo z elektrykiem na budowie musieliśmy się spotkać. Dziś czeka mnie koszenie trawy bo już całkiem nieźle odrosła 😁.
+
+31/08/2024
+---
+Kosiłem do 20 🥵, końcówka była ciężka, ale końcowo odniosłem zwycięstwo 🤗. Dzisiaj z rana pojechałem na budowę i zebrałem złom. Zaraz będę jadł śniadanie, później odwiozę złom, tato jeszcze potrzebuje chwilki pomocy na budowie i u nas będziemy jeszcze robić porządki 😉.
+
+01/09/2024
+---
+Cyk... kolejny miesiąc minął 🫣. Wczoraj prawie cały dzień zszedł nam na porządkach w nowym domu. Nati odkurzała (nasi fachowcy zostawili nam odkurzacz budowlany), a ja ogarniałem jakieś śmieci - łącznie wyszło z 7-8 worków 😅. Wieczorem był jeszcze montażysta od podłóg i okazało się, że jest zbyt wilgotno 💩. Prawdopodobnie dlatego, że mieliśmy na podłodze folię + świeże malowanie. Mamy jeszcze półtorej tygodnia, żeby to zbić, więc będziemy nad tym działać 🤛. Dzisiaj popołudniu jedziemy do Redut i tam spędzimy zapewne resztę dnia 😉.
