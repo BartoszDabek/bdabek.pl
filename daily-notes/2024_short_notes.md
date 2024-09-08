@@ -977,3 +977,31 @@ Kosiłem do 20 🥵, końcówka była ciężka, ale końcowo odniosłem zwycięs
 01/09/2024
 ---
 Cyk... kolejny miesiąc minął 🫣. Wczoraj prawie cały dzień zszedł nam na porządkach w nowym domu. Nati odkurzała (nasi fachowcy zostawili nam odkurzacz budowlany), a ja ogarniałem jakieś śmieci - łącznie wyszło z 7-8 worków 😅. Wieczorem był jeszcze montażysta od podłóg i okazało się, że jest zbyt wilgotno 💩. Prawdopodobnie dlatego, że mieliśmy na podłodze folię + świeże malowanie. Mamy jeszcze półtorej tygodnia, żeby to zbić, więc będziemy nad tym działać 🤛. Dzisiaj popołudniu jedziemy do Redut i tam spędzimy zapewne resztę dnia 😉.
+
+02/09/2024
+---
+Niedziela minęła i nastał poniedziałek 😇. Rano rowerek zaliczony 🚲. Teraz nie wiem czy na budowę podjechać czy zrobić trening 🏋️‍♂️. Dziś trochę spraw budowlanych nas czeka + sporo pracy 😏.
+
+03/09/2024
+---
+Wczoraj udało się ustalić wszystko z ogrodzeniem. Przyjechał geodeta i wyznaczył nam granicę i razem z fachowcami ustaliliśmy jak ma iść ogrodzenie 👍. Dziś już rowerek zaliczony 🚲✅. Dzisiaj mają nam dostarczyć sprzęty AGD 🤗.
+
+04/09/2024
+---
+Fajnie minął wtorek 😇. Dziś mam spotkać się z hydraulikami i mamy porozmawiać o rozstawieniu sprzętów w kotłowni. Niestety są słabymi fachowcami bo im się nie chce robić tak żeby było ładnie 😑.
+
+05/09/2024
+---
+Środa minęła 😏. Ogarnęliśmy farby i zasilikonowaliśmy zaślepki na balkonie. Dziś rowerek zrobiony, zaraz śniadanie i praca 😇.
+
+06/09/2024
+---
+I po czwartku. Hydraulicy przestawili nieco pompę w kotłowni i od razu wygląda to lepiej 👏! Dziś piątek, miał do nas przyjść stolarz, zobaczymy czy będzie 😉. Nie mam specjalnego planu na dziś oprócz pracy i treningu 😝.
+
+07/09/2024
+---
+Wczoraj stolarz przybył, był zaraz po 8 rano... ale niestety nie jesteśmy zadowoleni 😐. Jakość mebli nie jest na zadawalającym nas poziomie. Są jakieś zadrapania, odpryski, słabo 😥... Martwiące jest to, że ten człowiek ma nam robić prawie całą stolarkę w domu 🫣. W poniedziałek będziemy z nim rozmawiać, żeby ta jakość się polepszyła 🤏.
+
+08/09/2024
+---
+Sobota minęła za szybko 🙂‍↕️. Nie zdążyliśmy zrobić na budowie tego co chcieliśmy 🏠. Uznaliśmy też, że ze stolarzem nie ma ogromnej tragedi i odkryliśmy, że lustro na górze nam pękło na ramie 😓. Wieczorem spotkaliśmy się rodzinnie (od strony żony) na pizzy w pizzeri 🍕😉. A dziś ślub i wesele Mateusza i Andźeliki 👰🎉!
