@@ -8,8 +8,8 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (326/400) 🏃 ![Progress](https://geps.dev/progress/81/)
-2. ✅ Przejechać na rowerze 1600 km (2424/1600) 🚴 ![Progress](https://geps.dev/progress/151/) (22.07)
+1. Przebiec 400 km (338/400) 🏃 ![Progress](https://geps.dev/progress/84/)
+2. ✅ Przejechać na rowerze 1600 km (2463/1600) 🚴 ![Progress](https://geps.dev/progress/153/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
 4. 3km < 12 minut 👟
 
@@ -24,22 +24,21 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [09/08/2024]
+# [09/15/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 💲 Przelać pieniądze na IKE + inwestycja
-- [ ] 🏠 Kupić rurę do okapu
-- [ ] 🏠 Kupić gniazdka elektryczne
-- [ ] 🏠 Zamontować anemostaty
+- [ ] 🗄️ Ogarnąć gwarancje
+- [ ] 🏠 Zaimpregnować parapety
+- [ ] 🏠 Zdecydować jaki blat do górnej łazienki
 - [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [INP — what is the new Core Web Vitals metric and how do we work with it at Allegro.](https://blog.allegro.tech/2024/07/INP-new-core-web-vitals.html)
-- [ ] 📗 Przeczytać [Structured Concurrency is More Than ShutdownOnFailure](https://foojay.io/today/structured-concurrency-is-more-than-shutdownonfailure/)
-- [ ] 📗 Przeczytać [Maven Dependency Hell: Five Tips to Get Out](https://gradle.com/blog/five-ways-dependency-hell-maven/)
-- [ ] 📗 Przeczytać [Page Controller Pattern in Java: Centralizing Web Page Logic for Cleaner Design](https://java-design-patterns.com/patterns/page-controller/)
-- [ ] 🎧 Przesłuchać [Rewolucjonizują branżę budowlanej dzięki Sztucznej Inteligencji. Michał Mazur i Adam Wiśniewski](https://zaprojektujswojezycie.pl/rewolucjonizuja-branze-budowlanej-dzieki-sztucznej-inteligencji-michal-mazur-i-adam-wisniewski/)
-- [ ] 🎧 Przesłuchać [POIT #254: Tajniki działania job boardów](https://porozmawiajmyoit.pl/poit-254-tajniki-dzialania-job-boardow/)
-- [ ] 🎧 Przesłuchać [175: Resume Writing](https://www.programmingthrowdown.com/episodes/175-resume-writing/)
-- [ ] 🎧 Przesłuchać [Co jest potrzebne, by osiągnąć sukces? Niecodziennik Macieja](https://youtu.be/Er3WiGRpj0c)
-- [ ] 🎥 Obejrzeć [303. WJUG - Jan Siekierski "Mikroserwisy w chmurze - jak to wygląda z lotu ptaka"](https://youtu.be/uLmpdia2bJ4)
+- [ ] 📗 Przeczytać [Effective Java Logging](https://foojay.io/today/effective-java-logging/)
+- [ ] 📗 Przeczytać [Why Facebook doesn’t use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
+- [ ] 📗 Przeczytać [Separate Operations From Data - Data-Oriented Programming v1.1](https://inside.java/2024/06/05/dop-v1-1-separate-operations/)
+- [ ] 📗 Przeczytać [Page Object Pattern in Java: Streamlining UI Testing for Better Maintainability](https://java-design-patterns.com/patterns/page-object/)
+- [ ] 🎧 Przesłuchać [Dr. Teo Soleymani: How to Improve & Protect Your Skin Health & Appearance](https://www.hubermanlab.com/episode/dr-teo-soleymani-how-to-improve-protect-your-skin-health-appearance)
+- [ ] 🎧 Przesłuchać [Dlaczego warto budować relacje z ludźmi? Niecodziennik Macieja](https://youtu.be/p_CtzcLHWe4)
+- [ ] 🎧 Przesłuchać [Narzędzia soloprzedsiębiorcy: 9 aplikacji ułatwiających prowadzenie firmy bez pracowników](https://malawielkafirma.pl/narzedzia-soloprzedsiebiorcy/)
+- [ ] 🎧 Przesłuchać [Jaka jest Twoja wartość netto? Ile posiadasz na tle Polaków i na tle świata?](https://inwestomat.eu/jaka-jest-twoja-wartosc-netto/)
+- [ ] 🎥 Obejrzeć [308. WJUG - Damian Kamyszek - "Projektowanie Architektury Aplikacji"](https://youtu.be/Hg1bMM9n-Jw)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras

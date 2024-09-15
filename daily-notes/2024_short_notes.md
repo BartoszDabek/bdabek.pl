@@ -1005,3 +1005,31 @@ Wczoraj stolarz przybył, był zaraz po 8 rano... ale niestety nie jesteśmy zad
 08/09/2024
 ---
 Sobota minęła za szybko 🙂‍↕️. Nie zdążyliśmy zrobić na budowie tego co chcieliśmy 🏠. Uznaliśmy też, że ze stolarzem nie ma ogromnej tragedi i odkryliśmy, że lustro na górze nam pękło na ramie 😓. Wieczorem spotkaliśmy się rodzinnie (od strony żony) na pizzy w pizzeri 🍕😉. A dziś ślub i wesele Mateusza i Andźeliki 👰🎉!
+
+09/09/2024
+---
+Ślub i wesele minęły - pogoda dopisała, było bardzo ładnie! Ślub był pod namiotem w Malinnikach a wesele w sali weselnej w Orli 😉. Jedzenie było przeciętne, ale nie było złe 😁. Dziś trzeba wrócić do rzeczywistości i to poniedziałkowej!
+
+10/09/2024
+---
+Dużo mam pracy 😭. Wczoraj wieczorem pojechałem na godzinę na budowę coś posprzątać i oprócz tego pracowałem, a wieczorem zamówiłem jeszcze gniazdka i włączniki - i tak minął dzień. Dziś rano przebiegłem 4km, teraz śniadanie i praca. Dziś też będę chciał pojechać na budowę coś zrobić - chociaż na godzinkę 😉.
+
+11/09/2024
+---
+Wczoraj na budowie spędziliśmy więcej niż godzinkę 😅. Oglądaliśmy co stolarz zrobił i przyznajemy, że fajnie to wygląda 🙂! Na początku byliśmy źli, a teraz jest super 👍. Wszystkie defekty, które widzieliśmy nam poprawił 😉. Dziś rano bieg zaliczony 🏃✅. Zaraz śniadanie i później na budowę na chwilkę, żeby chłopakom od paneli otworzyć dom i niech oni działają 🤗.`
+
+12/09/2024
+---
+Układanie paneli w naszym domu się zaczęło 🚀. Cała góra już prawie jest ułożona 🙂! Pomontowałem też część anemostatów na ścianę i wydaje mi się, że będzie z nimi wszystko dobrze 😁. W pracy jest trochę lepiej bo ruszyłem z zadaniem do przodu 🫡. Dziś plan jest, żeby załatwić sprawę z podlicznikiem bo hydraulicy zrobili już swoją robotę 👍.
+
+13/09/2024
+---
+Układanie paneli w naszym domu już się skończyło 🏁😁. Pięknie to wygląda ❤️! Został mi do zamontowania ostatni anemostat. Wczoraj się okazało, że zjechał na silikonie i musiałem cały wyciągnąć + dziś dokupić silikon i na nowo go zamontuję (zapewne jutro). Przebiegłem rano 4km, teraz idę jeść śniadanko, później praca + trening. I dziś jeszcze jedziemy do Białegostoku załatwić kilka spraw 🚗💨.
+
+14/09/2024
+---
+Wczorajszy dzień zleciał nam bardzo szybko 😌. W Białymstoku udało się ogarnąć wszystko co zaplanowaliśmy 👍, byliśmy jeszcze w odwiedzinach u Edyty 🙂. Dziś mamy też intensywną sobotę bo czeka nas sprzątanie zboru + klejenie podłóg w domu (żeby nie brudzić paneli), próba śpiewu na jutro i Nati jeszcze będzie robić ciasto na jutro, bo będzie święto żniw 🌽🥖.
+
+15/09/2024
+---
+Wszystko się stało tak jak planowałem - a najważniejsze, że wszystko się udało 😇! Ogólnie rzecz biorąc to sobota była bardzo ładna, ciepła i przyjemna 😉. Dzisiaj mamy święto żniw a później wspólny zborowy obiad 😋.
