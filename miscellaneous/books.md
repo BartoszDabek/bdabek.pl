@@ -13,7 +13,7 @@
 - [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
-- [ ] Refactoring Improving the Design of Existing Code - Martin Fowler with Kent Beck (strona: 150)
+- [ ] Refactoring Improving the Design of Existing Code - Martin Fowler with Kent Beck (strona: 200)
 
 ## ⭐ Books read 
 ### ✅ 2024

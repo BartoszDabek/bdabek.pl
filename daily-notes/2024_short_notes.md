@@ -1033,3 +1033,31 @@ Wczorajszy dzień zleciał nam bardzo szybko 😌. W Białymstoku udało się og
 15/09/2024
 ---
 Wszystko się stało tak jak planowałem - a najważniejsze, że wszystko się udało 😇! Ogólnie rzecz biorąc to sobota była bardzo ładna, ciepła i przyjemna 😉. Dzisiaj mamy święto żniw a później wspólny zborowy obiad 😋.
+
+16/09/2024
+---
+Pogoda na zborowym obiedzie była w sam raz 👍. Jedzenie i ciasto było super 😋. Później pojechaliśmy z Piotrkiem, Zuzią i ich dziećmi do Białowieży na spacer i później jeszcze do Kuby i Kasi. Ot i tak minęła niedziela. A dziś nowy tydzień 📅🆕. Bieganie już zaliczone. Zaraz śniadanie i później standardowo praca + trening, a wieczorem zapewne na budowę zobaczyć co tam się dzieje 😊.
+
+17/09/2024
+---
+Poniedziałek minął dobrze 👍. Z Nati po pracy poszliśmy na rowery, które zaproponowała 🤗. Stolarz zrobił nam słupki w salonie i wygląda to bardzo fajnie 😊. Dzisiaj bieganie już zaliczone. Teraz śniadanie, praca i po pracy na budowę trochę podziałać 💪.
+
+18/09/2024
+---
+Wtorek przeleciał też bardzo szybko. Pogoda jest piękna 😍! Dziś jestem po bieganiu, idę zaraz wziąć prysznic, śniadanie i do pracy 👨🏻‍💻.
+
+19/09/2024
+---
+Szukamy oświetlenia do domu - bardzo to drogie 😮! Obstawiałem, że do całego domu to będzie max 10k, a możliwe, że przebije tą wartość x2 🤫.
+
+20/09/2024
+---
+Wczoraj - trochę tradycyjnie - nie jedliśmy obiadu. Nie było ciężko bo było mało czasu (praca, dom). Dziś jak wstałem to nie czułem się na 100%, więc odpuściłem bieganie a zamiast tego zrobiłem spacer 👍. Teraz skończę trening i później śniadanie + praca. Wieczorem chciałbym usiąść na porządnie do oświetlenia i mieć konkrety 💡💡! 
+
+21/09/2024
+---
+Do oświetlenia nie udało mi się usiąść 😓. Dziś planujemy zaimpregnować parapety + pomyć okna (na piętrze) w nowym domu ❤️. Wieczorem jest młodzieżowe, coś przygotowałem, mam nadzieję, że będzie dobrze 👍😌.
+
+22/09/2024
+---
+Sobota była zapracowana 🥵. Zrezygnowaliśmy z impregnacji parapetów, a skupiliśmy się na myciu okien 🪟🧼. Umyliśmy wszystkie okna z parapetami (+ łazienka) - trochę ich jest 😅. Wieczorem było młodzieżowe i chyba fajnie wszystko nam wyszło - Chwała Bogu 🤗! Dziś dzień odpoczynku, będziemy odpoczywać w domu, chociaż musimy w końcu kupić oświetlenie... 

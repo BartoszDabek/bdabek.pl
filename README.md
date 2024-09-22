@@ -8,10 +8,10 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (338/400) 🏃 ![Progress](https://geps.dev/progress/84/)
-2. ✅ Przejechać na rowerze 1600 km (2463/1600) 🚴 ![Progress](https://geps.dev/progress/153/) (22.07)
+1. Przebiec 400 km (358/400) 🏃 ![Progress](https://geps.dev/progress/89/)
+2. ✅ Przejechać na rowerze 1600 km (2477/1600) 🚴 ![Progress](https://geps.dev/progress/154/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
-4. 3km < 12 minut 👟
+4. ❌ 3km < 12 minut 👟
 
 ## 🎯 30 Dniowe Wyzwania
 1. 10 000 kroków 🦶 
@@ -24,21 +24,25 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [09/15/2024]
+# [09/22/2024]
 ### 🚧 W tym tygodniu:
 - [ ] 🗄️ Ogarnąć gwarancje
-- [ ] 🏠 Zaimpregnować parapety
 - [ ] 🏠 Zdecydować jaki blat do górnej łazienki
-- [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Effective Java Logging](https://foojay.io/today/effective-java-logging/)
-- [ ] 📗 Przeczytać [Why Facebook doesn’t use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
-- [ ] 📗 Przeczytać [Separate Operations From Data - Data-Oriented Programming v1.1](https://inside.java/2024/06/05/dop-v1-1-separate-operations/)
-- [ ] 📗 Przeczytać [Page Object Pattern in Java: Streamlining UI Testing for Better Maintainability](https://java-design-patterns.com/patterns/page-object/)
-- [ ] 🎧 Przesłuchać [Dr. Teo Soleymani: How to Improve & Protect Your Skin Health & Appearance](https://www.hubermanlab.com/episode/dr-teo-soleymani-how-to-improve-protect-your-skin-health-appearance)
-- [ ] 🎧 Przesłuchać [Dlaczego warto budować relacje z ludźmi? Niecodziennik Macieja](https://youtu.be/p_CtzcLHWe4)
-- [ ] 🎧 Przesłuchać [Narzędzia soloprzedsiębiorcy: 9 aplikacji ułatwiających prowadzenie firmy bez pracowników](https://malawielkafirma.pl/narzedzia-soloprzedsiebiorcy/)
-- [ ] 🎧 Przesłuchać [Jaka jest Twoja wartość netto? Ile posiadasz na tle Polaków i na tle świata?](https://inwestomat.eu/jaka-jest-twoja-wartosc-netto/)
-- [ ] 🎥 Obejrzeć [308. WJUG - Damian Kamyszek - "Projektowanie Architektury Aplikacji"](https://youtu.be/Hg1bMM9n-Jw)
+- [ ] 🏠 Kupić LED do schodów
+- [ ] 🏠 Kupić smar do bramy garażowej
+- [ ] 🏠 Kupić oświetlenie do domu
+- [ ] 📗 Przeczytać [40 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Przeczytać [Czy da się pracować chodząc na bieżni?](https://softwaremill.com/czy-da-sie-pracowac-chodzac-na-biezni/)
+- [ ] 📗 Przeczytać [JDK 23 Release Notes](https://jdk.java.net/23/release-notes)
+- [ ] 📗 Przeczytać [Nie (nad)używaj String.split](https://koziolekweb.pl/2024/08/01/nie-nad-uzywaj-string-split/)
+- [ ] 📗 Przeczytać [The noisy JIT Compiler](https://blog.allegro.tech/2024/07/the-noisy-jit-compiler.html?)
+- [ ] 📗 Przeczytać [Parameter Object Pattern in Java: Simplifying Method Signatures with Structured Data](https://java-design-patterns.com/patterns/parameter-object/)
+- [ ] 🎧 Przesłuchać [Sezon IV #11 - O technologii Salesforce w Allegro](https://podtail.com/podcast/allegro-tech-podcast/sezon-iv-11-o-technologii-salesforce-w-allegro/)
+- [ ] 🎧 Przesłuchać [Jak uniknąć największych błędów inwestując w nieruchomości za granicą? Maria Kobryń](https://zaprojektujswojezycie.pl/jak-uniknac-najwiekszych-bledow-inwestujac-w-nieruchomosci-za-granica-maria-kobryn/)
+- [ ] 🎧 Przesłuchać [Kiedy masz więcej niż potrzebujesz, zbuduj dłuższy stół, a nie wyższy płot. Niecodziennik Macieja](https://youtu.be/rm-Y7Ym2Rk4)
+- [ ] 🎧 Przesłuchać [Co to są Managed Futures i czy są alternatywą dla akcji i obligacji?](https://inwestomat.eu/co-to-sa-managed-futures/)
+- [ ] 🎥 Obejrzeć [308. WJUG - Maciej Przepióra - "Java Memory Model for Mere Mortals" [EN]](https://youtu.be/GEVGL36rLLU)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
+- [ ] 🏠 Zaimpregnować parapety
