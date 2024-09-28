@@ -1061,3 +1061,27 @@ Do oświetlenia nie udało mi się usiąść 😓. Dziś planujemy zaimpregnowa�
 22/09/2024
 ---
 Sobota była zapracowana 🥵. Zrezygnowaliśmy z impregnacji parapetów, a skupiliśmy się na myciu okien 🪟🧼. Umyliśmy wszystkie okna z parapetami (+ łazienka) - trochę ich jest 😅. Wieczorem było młodzieżowe i chyba fajnie wszystko nam wyszło - Chwała Bogu 🤗! Dziś dzień odpoczynku, będziemy odpoczywać w domu, chociaż musimy w końcu kupić oświetlenie... 
+
+23/09/2024
+---
+Niedziela była słoneczna i ładna. Z żoną po obiedzie zrobiliśmy sobie 5 kilometrowy spacer do lasu 🥰🌲. Wieczorem ogarnialiśmy oświetlenie 💡 i już jesteśmy blisko 🫡! Dziś rano czułem się lekko podziębiony, ale zacząłem trening na siłowni + bieganie i już jest git 👍. Później musimy pojechać na budowę i stolarzowi powiedzieć nasze uwagi do jego pracy 😏 - mamy nadzieję, że popoprawia to co nam nie leży 😉.
+
+24/09/2024
+---
+Poniedziałek minął dobrze 😉. Z żoną w ramach naszej rocznicy postanowiliśmy, że pojedziemy w góry i wczoraj zarezerwowaliśmy hotel 😆🛎️. Jedziemy na termy w sobotę 🤗.
+
+25/09/2024
+---
+Nasze ogrodzenie jest już całe ułożone i zalane 🤗. Zostały jedynie daszki i się rozliczyć 🙂. Dziś prawdopodobnie pojedziemy do Białegostoku bo musimy ogarnąć blat do łazienki na górze 😏.
+
+26/09/2024
+---
+Udało się pojechać i ogarnąć blat 🤗. Już zostało nam coraz mniej rzeczy do ogarnięcia 😀. Teraz chcę do piątku jeszcze LEDa do schodów + półki w kuchni ogarnąć i będziemy prawie w domu 🏠 - PRAWIE 🙂! Dzisiaj większych planów nie mam - żonie może pomogę przy zmianie prawa jazdy i podjadę z nią do urzędu, a oprócz tego to praca i wieczorem nabożeństwo 😇.
+
+27/09/2024
+---
+Wczoraj schodziarz pokazał nam próbki wybarwienia schodów i efekt jest zadowalający 😉. Dziś oprócz pracy i treningu musimy podjechać na budowę i zapłacić część pieniędzy stolarzowi + spotkać się z elektrykiem, żeby ustalić szczegóły odnośnie leda w schodach.
+
+28/09/2024
+---
+Piątek minął fajnie i przyjemnie 😉👍. Marek wieczorem ściął mi włosy 💇 i jestem gotowy na drogę 😆. Dziś jedziemy w góry 🤗. Po drodze zachaczamy Warszawę, żeby zobaczyć sofy i krzesła. Fajna wycieczka się szykuje 😊!
