@@ -1085,3 +1085,27 @@ Wczoraj schodziarz pokazał nam próbki wybarwienia schodów i efekt jest zadowa
 28/09/2024
 ---
 Piątek minął fajnie i przyjemnie 😉👍. Marek wieczorem ściął mi włosy 💇 i jestem gotowy na drogę 😆. Dziś jedziemy w góry 🤗. Po drodze zachaczamy Warszawę, żeby zobaczyć sofy i krzesła. Fajna wycieczka się szykuje 😊!
+
+01/10/2024
+---
+Wróciliśmy z gór 🥲. Pogoda nam nie dopisała za bardzo, ale i tak było bardzo fajnie! Aż nie chce się wracać do rzeczywistości 😅.
+
+02/10/2024
+---
+Pierwszy dzień pracy po krótkim urlopie - nie był łatwy, ale całkiem produktywny 😆. Dziś rano przebiegłem 4km 💪, teraz trening, śniadanie i do pracy 😉!
+
+03/10/2024
+---
+Środa minęła gładko 😏. Na budowie był stolarz i coś tam działał. Nasza opinia o nim jest taka - robi ok, ale nie ma w tym perfekcji i niestety, ale nie jesteśmy w 100% zadowoleni 😒. No nic - takie jest życie, że się czasem źle wybierze i później są konsekwencje 🙂. Dziś jest deszczowo z rana, więc nie wychodziłem, może zaraz pójdę po pieczywo na śniadanie i później do pracy :).
+
+04/10/2024
+---
+I po czwartku. Przyszło nam oświetlenie do garażu + kotłowni i wszystkie świetłowki mają fizyczne uszkodzenie 😒. Zgłosiłem reklamację i zobaczymy co będzie. Dziś z rana biegałem, teraz będę robił trening, śniadanie i do pracy. Podczas dnia będę musiał też wyskoczyć do schodziarza na chwilę i później na budowę do stolarza.
+
+05/10/2024
+---
+Piątek minął, jest weekend 😉. Dziś będziemy działać na budowie, albo może już bardziej w nowym domu 🤭🏠. Z rana byłem żeby zabrać śmieci na PSZOK i zaraz po śniadaniu pojadę je odwieźć. Wieczorem młodzieżowe i tak minie dzień.
+
+06/10/2024
+---
+Sobota była udana 👍. Wywiozłem śmieci na PSZOK, posprzątaliśmy co nieco w domu i jesteśmy o krok bliżej do przeprowadzki 😉. Dziś po nabożeństwie jedziemy do Redut i tam spędzimy popołudnie 😊.

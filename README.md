@@ -8,7 +8,7 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (374/400) 🏃 ![Progress](https://geps.dev/progress/93/)
+1. Przebiec 400 km (382/400) 🏃 ![Progress](https://geps.dev/progress/95/)
 2. ✅ Przejechać na rowerze 1600 km (2477/1600) 🚴 ![Progress](https://geps.dev/progress/154/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
 4. ❌ 3km < 12 minut 👟
@@ -24,19 +24,21 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [09/29/2024]
+# [10/06/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Zaimpregnować parapety
+- [ ] 🏠 Dokupić pozostałę oświetlenie do domu
 - [ ] 📗 Przeczytać [40 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Is Java Still Relevant Nowadays?](https://blog.jetbrains.com/idea/2024/07/is-java-still-relevant-nowadays/)
-- [ ] 📗 Przeczytać [Działanie adnotacji @AliasFor, które może Ci się przydać](https://cezarysanecki.pl/2024/08/06/dzialanie-adnotacji-aliasfor-ktore-moze-ci-sie-przydac/)
-- [ ] 📗 Przeczytać [Migrating Selenium to Playwright in Java - evolution, not revolution](https://blog.allegro.tech/2024/08/selenium-playwright-migration.html)
-- [ ] 📗 Przeczytać [Partial Response Pattern in Java: Optimizing Data Delivery for Efficient Web Services](https://java-design-patterns.com/patterns/partial-response/)
-- [ ] 🎧 Przesłuchać [How to Survive a CRISIS](https://effortlessenglishshow.com/how-to-survive-a-crisis)
-- [ ] 🎧 Przesłuchać [Zmień podejście do zarządzania swoimi finansami. Transformuj, automatyzuj i rośnij.](https://youtu.be/knX9rW4eZRE)
-- [ ] 🎧 Przesłuchać [7 konkretnych działań, żeby klient przestał porównywać cię z konkurencją i zaufał, że mu pomożesz](https://malawielkafirma.pl/jak-zbudowac-zaufanie-klienta-i-wyprzedzic-konkurencje/)
-- [ ] 🎧 Przesłuchać [Jak przenieść IKE lub IKZE do innej instytucji? Przenosiny środków i instrumentów finansowych](https://inwestomat.eu/jak-przeniesc-ike-lub-ikze-do-innej-instytucji/)
-- [ ] 🎥 Obejrzeć [309. WJUG- Tomasz Ducin - Dlaczego FE wraca na serwer: ewolucja architektury webowej](https://youtu.be/LmLRibVjFkU)
+- [ ] 📗 Przeczytać [Instead of restricting AI and algorithms, make them explainable](https://martinfowler.com/articles/2024-restrict-algorithm.html)
+- [ ] 📗 Przeczytać [A manifesto for small teams doing important work](https://seths.blog/2016/02/a-manifesto-for-small-teams-doing-important-work/)
+- [ ] 📗 Przeczytać [Ciekawostka o tworzeniu beanów wykorzystując @Configuration](https://cezarysanecki.pl/2024/08/13/ciekawostka-o-tworzeniu-beanow-wykorzystujac-configuration/)
+- [ ] 📗 Przeczytać [Introduction to Java Encryption/Decryption](https://dev.java/learn/security/intro/)
+- [ ] 📗 Przeczytać [Pipeline Pattern in Java: Streamlining Data Processing with Modular Components](https://java-design-patterns.com/patterns/pipeline/)
+- [ ] 🎧 Przesłuchać [POIT #257: Ścieżka kariery testera oprogramowania: Od juniora do seniora.](https://porozmawiajmyoit.pl/poit-257-sciezka-kariery-testera-oprogramowania-od-juniora-do-seniora/)
+- [ ] 🎧 Przesłuchać [Nie musisz mieć 'sexy' biznesu, by zarabiać miliony. Daniel Stachowiak](https://youtu.be/JxOsQ5nLilY)
+- [ ] 🎧 Przesłuchać [Foojay Podcast #57: Welcome to OpenJDK (Java) 23](https://foojay.io/today/foojay-podcast-57/)
+- [ ] 🎧 Przesłuchać [#123 Sezon nieogórkowy](https://patoarchitekci.io/123/)
+- [ ] 🎥 Obejrzeć [306. WJUG - Marcin Jakuszko - "Pierwsza randka z ‘krypto'..."](https://youtu.be/OW_iTAiTY4s)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
+- [ ] 🏠 Zaimpregnować parapety
