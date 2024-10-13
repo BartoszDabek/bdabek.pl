@@ -1109,3 +1109,31 @@ Piątek minął, jest weekend 😉. Dziś będziemy działać na budowie, albo m
 06/10/2024
 ---
 Sobota była udana 👍. Wywiozłem śmieci na PSZOK, posprzątaliśmy co nieco w domu i jesteśmy o krok bliżej do przeprowadzki 😉. Dziś po nabożeństwie jedziemy do Redut i tam spędzimy popołudnie 😊.
+
+07/10/2024
+---
+Niedziela była deszczowa i brzydka i nie poszliśmy z psem na spacer 😢😢. Dziś przyjadą do nas drzwi i będzie ich montaż 🚪. Jestem już po bieganiu, teraz na budowę szybko i później śniadanie i praca (+ w międzyczasie trening).
+
+08/10/2024
+---
+Pierwszy dzień tygodnia był całkiem dobry 🤗. Pojawił się elektryk, który zaczął montować nam gniazdka 🔌, i montażysta drzwi, który ogarnął już prawie całą górę 🚪✔️. Ja się cieszę 😉!
+
+09/10/2024
+---
+Wtorek był w porządeczku 👌. W pracy zagłębiłem się w temat i aż mnie głowa zaczęła boleć po 15, ale jak odpuściłem później to przestała 😅. Drzwi mamy już zamontowane ✅. Dziś jestem po bieganiu, zaraz jedziemy na małe zakupy i na budowę otworzyć chłopakom od listw przypodłogowych 🙂.
+
+10/10/2024
+---
+Listwy na górze w większości pomieszczeń mamy ułożone 🙂. Teraz muszę walczyć z prądem, ale nasz geodeta coś się nie spisuje 👎👎, a bez tego nie możemy dostać prądu! Dziś biegałem, teraz śniadanie i praca 🥐👨🏻‍💻.
+
+11/10/2024
+---
+Wczoraj przyjechał kuzyn Damian ❤️. Oprowadziliśmy go po domu bo już dawno nie był. Posprzątaliśmy śmieci po drzwiach + listwach i teraz czekamy na prąd ⚡😣. Wieczorem Damian przyjechał do nas i siedzieliśmy do północy. Dzisiaj rano udało mi się przebiec (zdążyłem przed deszczem 😁). Muszę dziś zamówić oświetlenie do domu, żeby elektryk zdążył je pomontować przed schodziarzem 😏.
+
+12/10/2024
+---
+Zapomniałem napisać, że wczoraj udało mi się osiągnąć kolejny roczny cel - przebiec 400km w przeciągu roku 🏃😉! Wieczorem byłem na basenie 🏊 - pierwszy raz od półtorej roku 🤫, a później pojechaliśmy do Damiana na pizzę 😁. Dziś jedziemy do Warszawy patrzeć i zamawiać narożnik + sofę i potestować krzesła do jadalni 🫣.
+
+13/10/2024
+---
+Wczoraj była stolica 🏙️. Udało nam się kupić narożnik + sofę i jesteśmy też zdecydowani co do stołu. Został nam już tylko krzesła 🪑. Dziś po nabożeństwie zostajemy w domu - będziemy mieli (chyba) leniwą niedzielę 😉.
