@@ -9,14 +9,14 @@
 - [ ] Dynamic Proxies in Java Mini-Book - Dr Heinz M. Kabutz
 - [ ] Dependency Injection Principles, Practices, and Patterns - Steven van Deursen and Mark Seemann
 - [ ] Fenomen poranka - Hal Elrod
-- [ ] Nawyki warte miliony - Tracy Brian
 - [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
-- [ ] Refactoring Improving the Design of Existing Code - Martin Fowler with Kent Beck (strona: 361)
+- [ ] Nawyki warte miliony - Tracy Brian (strona: 23)
 
 ## ⭐ Books read 
 ### ✅ 2024
+- [x] Refactoring Improving the Design of Existing Code - Martin Fowler with Kent Beck
 - [x] Pięć poziomów przywództwa - Maxwell John C.
 - [x] Java Performance: The Definitive Guide: Getting the Most Out of Your Code
 - [x] Jak zdobyć przyjaciół i zdjenać sobie ludzi - Dale Carnegie

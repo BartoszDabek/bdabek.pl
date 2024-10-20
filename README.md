@@ -8,7 +8,7 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. ✅ Przebiec 400 km (402/400) 🏃 ![Progress](https://geps.dev/progress/100/) (11.10)
+1. ✅ Przebiec 400 km (417/400) 🏃 ![Progress](https://geps.dev/progress/104/) (11.10)
 2. ✅ Przejechać na rowerze 1600 km (2477/1600) 🚴 ![Progress](https://geps.dev/progress/154/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
 4. ❌ 3km < 12 minut 👟
@@ -24,25 +24,23 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [10/13/2024]
+# [10/20/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Zaimpregnować parapety
-- [ ] 🏠 Wniosek o numer porządkowy domu
-- [ ] 🏠 Kupić umywalkę do kotłowni
-- [ ] 💡 Kupić oświetlenie do garażu
-- [ ] 💡 Kupić oświetlenie nad garaż i kotłownię
-- [ ] 💡 Kupić kinkiety zewnętrzne
-- [ ] 📗 Przeczytać [40 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Fundamentals of Digital Signatures and Certificates in Java](https://dev.java/learn/security/digital-signature/)
-- [ ] 📗 Przeczytać [Monitoring Java Application Security with JDK tools and JFR Events](https://dev.java/learn/security/monitor/)
-- [ ] 📗 Przeczytać [JSpecify 1.0.0 and Nullability in Java](https://www.infoq.com/news/2024/08/jspecify-java-nullability/)
-- [ ] 📗 Przeczytać [Growing Better in Product: the Importance of Collaborative Culture](https://product.hubspot.com/blog/grow-better-product)
-- [ ] 📗 Przeczytać [Poison Pill Pattern in Java: Gracefully Terminating Multithreaded Processes](https://java-design-patterns.com/patterns/poison-pill/)
-- [ ] 🎧 Przesłuchać [POIT #256: Tworzenie skutecznego CV w branży IT](https://porozmawiajmyoit.pl/poit-256-tworzenie-skutecznego-cv-w-branzy-it/)
-- [ ] 🎧 Przesłuchać [Biznesowy poligamista. Daniel Moczydłowski](https://youtu.be/_R53rg7HfxE)
-- [ ] 🎧 Przesłuchać [ETF na globalny rynek akcji – ranking najlepszych](https://inwestomat.eu/etf-na-globalny-rynek-akcji-ranking-najlepszych/)
-- [ ] 🎧 Przesłuchać [Foojay Podcast #58: How Java Developers Can Secure Their Code](https://foojay.io/today/foojay-podcast-58-how-java-developers-can-secure-their-code/)
-- [ ] 🎥 Obejrzeć [311. WJUG - Krzysztof Przygudzki - "Dlaczego heksagon nie zawsze ma osiem boków?"](https://youtu.be/ctCExnN2Myo)
+- [ ] 🏠 Kupić wieszaki do łazienek
+- [ ] 🏠 Kupić żaluje do kuchni
+- [ ] 🏠 Kupić baterie do umywalki w kotłowni
+- [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Przeczytać [Notes on a Successful Second System](https://avdi.codes/notes-on-a-successful-second-system/)
+- [ ] 📗 Przeczytać [Exploring Generative AI](https://martinfowler.com/articles/exploring-gen-ai.html)
+- [ ] 📗 Przeczytać [Things I wish I knew when I started with Event Sourcing - part 2, consistency](https://softwaremill.com/things-i-wish-i-knew-when-i-started-with-event-sourcing-part-2-consistency/)
+- [ ] 📗 Przeczytać [Dobra praktyka - rejestruj najbardziej szczególny typ beana w Spring!](https://cezarysanecki.pl/2024/09/01/dobra-praktyka-zwracaj-najogolnieszy-typ-beana-w-spring/)
+- [ ] 📗 Przeczytać [Presentation Model Pattern in Java: Enhancing UI Design with Robust Data Management](https://java-design-patterns.com/patterns/presentation-model/)
+- [ ] 🎧 Przesłuchać [Dr. Charan Ranganath: How to Improve Memory & Focus Using Science Protocols](https://www.hubermanlab.com/episode/dr-charan-ranganath-how-to-improve-memory-focus-using-science-protocols)
+- [ ] 🎧 Przesłuchać [Nie szukaj pomysłu. Rozwiązuj problemy. Jakub Pawelski](https://youtu.be/D6pTWNgE-UI)
+- [ ] 🎧 Przesłuchać [Gdybym budował listę mailingową od zera, zrobiłbym TO](https://malawielkafirma.pl/jak-zbudowac-liste-mailingowa-od-zera/)
+- [ ] 🎧 Przesłuchać [POIT #258: Jak radzić sobie z legacy code przy pomocy GenAI?](https://porozmawiajmyoit.pl/poit-258-jak-radzic-sobie-z-legacy-code-przy-pomocy-genai/)
+- [ ] 🎥 Obejrzeć [Introduction to Microservices Architecture](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
+- [ ] 🏠 Zaimpregnować parapety

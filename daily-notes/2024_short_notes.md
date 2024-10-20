@@ -1137,3 +1137,31 @@ Zapomniałem napisać, że wczoraj udało mi się osiągnąć kolejny roczny cel
 13/10/2024
 ---
 Wczoraj była stolica 🏙️. Udało nam się kupić narożnik + sofę i jesteśmy też zdecydowani co do stołu. Został nam już tylko krzesła 🪑. Dziś po nabożeństwie zostajemy w domu - będziemy mieli (chyba) leniwą niedzielę 😉.
+
+14/10/2024
+---
+Niedzielka była leniwa, żeby nie powiedzieć mocno leniwa 😅. Już dawno aż tak nic nie robiłem 😀. Dziś długo spałem, nie biegałem. Teraz zrobię trening, później śniadanie i praca. Zobaczymy czy dziś jeszcze nie będę załatwiał spraw z prądem 😏.
+
+15/10/2024
+---
+Pierwszy dzień tygodnia był ok. Cały dzień w pracy, było brzydko na zewnątrz, nie wychodziliśmy nigdzie oprócz zakupów wieczorem 😔. Dziś rano biegałem 💪. Teraz śniadanie i do pracy ️‍🔥!
+
+16/10/2024
+---
+Wtorek minął spoko. Wieczorem byliśmy u Piotrka i Zuzi. Zuzia narobiła jedzenia, że hoho. Dziś rano zrobiłem sobie spacer i teraz zmykam do roboty 🙂‍↕️.
+
+17/10/2024
+---
+Środa też była git 👍. Pobyliśmy chwilkę na budowie, rozliczyliśmy się z hydraulikiem i teraz czekamy na prąd, żeby wszystko uruchomić ⚡. Dziś przebiegłem 5km, zaraz śniadanie i do pracy. W ciągu dnia będziemy musieli jeszcze skoczyć na budowę bo przyjedzie stolarz robić poprawki i wziąć część pieniędzy 😏.
+
+18/10/2024
+---
+Czwartek też minął dobrze 🙂. Był u nas stolarz i coś tam pomontował i popoprawiał. Została mu jeszcze ostatnia wizyta - oceniam go tak 6/10. Jest ok, ale nie ma perfekcji 😏. Dzisiaj przyjdzie nam chyba część oświetlenia do domu 😋.
+
+19/10/2024
+---
+Piąteczek 🤗. Wieczorem byliśmy na pizzy 🍕. Przyjechała ciocia i wujek Natali i że cała rodzina chciała się zebrać a nie było gdzie, więc poszliśmy do trio 😆.
+
+20/10/2024
+---
+Sobota była trudna. Wstaliśmy o 8:40 😄, posprzątaliśmy w mieszkaniu i pojechaliśmy sprzątać dom. Tam byliśmy prawie do 18, później młodzieżowe i po 20 do domu (ofc. w międzyczasie jedliśmy śniadanie i obiad w domu 🙂). Dziś odpocznę bo mamy niedzielę 😇.
