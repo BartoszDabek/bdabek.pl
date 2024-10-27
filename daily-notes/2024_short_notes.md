@@ -1165,3 +1165,31 @@ Piąteczek 🤗. Wieczorem byliśmy na pizzy 🍕. Przyjechała ciocia i wujek N
 20/10/2024
 ---
 Sobota była trudna. Wstaliśmy o 8:40 😄, posprzątaliśmy w mieszkaniu i pojechaliśmy sprzątać dom. Tam byliśmy prawie do 18, później młodzieżowe i po 20 do domu (ofc. w międzyczasie jedliśmy śniadanie i obiad w domu 🙂). Dziś odpocznę bo mamy niedzielę 😇.
+
+21/10/2024
+---
+Niedziela minęła przyjemnie. Pogoda była bardzo fajna - było słonecznie, aż szkoda, że nie mogliśmy wyjść u teściów z psem na spacer 😏. Dzisiaj poniedziałek i plan jest taki, żeby przetrwać 😅.. Nie no żartuję. Rano biegałem, teraz szybko na budowę musimy podjechać i porozmawiać z naszym ulubionym wykonawcą 😊.
+
+22/10/2024
+---
+Poniedziałek był dobry 👍. Wieczorem odwiedziliśmy dziadka Bazyla w szpitalu - ma już 100 lat i na tyle wygląda 🙄. Ciężko oczekiwać, że będzie pełny werwy i życia bo jego życie się już zakańcza i właściwie w każdym momencie może odejść. Dzisiaj plan jest taki, żeby przebiec się z rana i pomóc coś tam tacie, a później śniadanie i praca 😉!
+
+23/10/2024
+---
+Wczoraj Jurek zrobił u nas kawał dobrej roboty i poprawił ucięty blat przy oknie w kuchni - teraz tylko czekamy aż stolarz przywiezie nowy 👌. Dziś mam odebrać od geodety papierek inwentaryzacji powykonawczej 😇, długo nam się to ciągnęło. Najgorsze, że nie mamy nadal prądu. Dzwoniłem do PGE i niestety nadal papierka nie przygotowali 😓!
+
+24/10/2024
+---
+Środa minęła - jak każdy dzień, szybko. To kolejny dzień oczekiwania na prąd 😏. Będę dzwonił do PGE dzisiaj i może to coś przyśpieszy 🤔. Wieczorem z żoną zrobiliśmy sobie około 3km spacerek - fajnie było 😉 - już dawno tego nie praktykowaliśmy. Dzisiaj jestem po spacerze porannym, zjem śniadanko i praca 😌, a wieczorem nabożeństwo.
+
+25/10/2024
+---
+Dzwoniłem do PGE i faktycznie telefon pomógł. W ciągu około godziny Pan przygotował ten papierek, a ja czekałem na to prawie 2 tygodnie... Jest 5:45, zaraz jadę go odebrać, a później do Białegostoku podpisać umowę na prąd 🔌🤗!
+
+26/10/2024
+---
+Dzięki Bogu naprawdę szybko udało mi się załatwić wszystkie dokumenty z PGE. O 9:25 byłem już w domu 🤗. Prąd będziemy mieli w najbliższą środę 👏👏 JUPI! Wieczorem z żoną zrobiliśmy sobie spacer do Piotrka i Zuzi, Nati chciała podstrzyc sobie włosy 💇‍♀️. Dzisiaj jest konferencja młodzieżowa - wybieramy się na 16, a wcześniej jedziemy na budowę podziałać 👍.
+
+27/10/2024
+---
+Sobota była bardzo dobra. Z rana (i w południe) ogarnęliśmy impregnację parapetów w domu 🏠. Później zjedliśmy obiad (łosoś 🐟😋) i pojechaliśmy na konferencję. Nie było bardzo dużo ludzi, ale i tak było fajnie 😉. Udało nam się wysłuchać nawet jednego wykładu 😆, bo tak to większość czasu w kuchni pomagaliśmy. Dziś jedziemy do Redut po nabożeństwie i tam będziemy pewnie chodzić z psami 😅.

@@ -8,7 +8,7 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. ✅ Przebiec 400 km (417/400) 🏃 ![Progress](https://geps.dev/progress/104/) (11.10)
+1. ✅ Przebiec 400 km (430/400) 🏃 ![Progress](https://geps.dev/progress/107/) (11.10)
 2. ✅ Przejechać na rowerze 1600 km (2477/1600) 🚴 ![Progress](https://geps.dev/progress/154/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
 4. ❌ 3km < 12 minut 👟
@@ -24,23 +24,21 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [10/20/2024]
+# [10/27/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Kupić wieszaki do łazienek
-- [ ] 🏠 Kupić żaluje do kuchni
-- [ ] 🏠 Kupić baterie do umywalki w kotłowni
-- [ ] 📗 Przeczytać [30 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Notes on a Successful Second System](https://avdi.codes/notes-on-a-successful-second-system/)
-- [ ] 📗 Przeczytać [Exploring Generative AI](https://martinfowler.com/articles/exploring-gen-ai.html)
-- [ ] 📗 Przeczytać [Things I wish I knew when I started with Event Sourcing - part 2, consistency](https://softwaremill.com/things-i-wish-i-knew-when-i-started-with-event-sourcing-part-2-consistency/)
-- [ ] 📗 Przeczytać [Dobra praktyka - rejestruj najbardziej szczególny typ beana w Spring!](https://cezarysanecki.pl/2024/09/01/dobra-praktyka-zwracaj-najogolnieszy-typ-beana-w-spring/)
-- [ ] 📗 Przeczytać [Presentation Model Pattern in Java: Enhancing UI Design with Robust Data Management](https://java-design-patterns.com/patterns/presentation-model/)
-- [ ] 🎧 Przesłuchać [Dr. Charan Ranganath: How to Improve Memory & Focus Using Science Protocols](https://www.hubermanlab.com/episode/dr-charan-ranganath-how-to-improve-memory-focus-using-science-protocols)
-- [ ] 🎧 Przesłuchać [Nie szukaj pomysłu. Rozwiązuj problemy. Jakub Pawelski](https://youtu.be/D6pTWNgE-UI)
-- [ ] 🎧 Przesłuchać [Gdybym budował listę mailingową od zera, zrobiłbym TO](https://malawielkafirma.pl/jak-zbudowac-liste-mailingowa-od-zera/)
-- [ ] 🎧 Przesłuchać [POIT #258: Jak radzić sobie z legacy code przy pomocy GenAI?](https://porozmawiajmyoit.pl/poit-258-jak-radzic-sobie-z-legacy-code-przy-pomocy-genai/)
-- [ ] 🎥 Obejrzeć [Introduction to Microservices Architecture](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
+- [ ] 🏠 Nasmarować rolki w bramie garażowej
+- [ ] 📗 Przeczytać [40 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Przeczytać [Różne sposoby korzystania z lifecycle callbacks istniejących w Spring](https://cezarysanecki.pl/2024/09/05/rozne-sposoby-korzystania-z-lifecycle-callbacks-istniejacych-w-spring/)
+- [ ] 📗 Przeczytać [Accelerate test execution in Groovy and Spock](https://blog.allegro.tech/2024/09/accelerate-test-execution-in-groovy-spock.html)
+- [ ] 📗 Przeczytać [How to profile a performance issue using Spring Boot profiling tools](https://foojay.io/today/how-to-profile-a-performance-issue-using-spring-boot-profiling-tools/)
+- [ ] 📗 Przeczytać [My Architecture Drivers](https://event-driven.io/en/architecture_drivers/)
+- [ ] 📗 Przeczytać [Private Class Data Pattern in Java: Safeguarding Data Integrity with Encapsulation](https://java-design-patterns.com/patterns/private-class-data/)
+- [ ] 🎧 Przesłuchać [POIT #259: Jak pracuje DevOps: Ludzie, metodologia i sukces biznesowy](https://porozmawiajmyoit.pl/poit-259-jak-pracuje-devops-ludzie-metodologia-i-sukces-biznesowy/)
+- [ ] 🎧 Przesłuchać [Jesteś kimś więcej niż myślisz. Janina Bąk](https://youtu.be/xPIzh3Hh-nc)
+- [ ] 🎧 Przesłuchać [#125 Short #57: PostgreSQL 17, Copilot, Mikroserwisy, Chmura, WordPress](https://patoarchitekci.io/125/)
+- [ ] 🎧 Przesłuchać [Your Unlimited Power](https://effortlessenglishshow.com/your-unlimited-power)
+- [ ] 🎥 Obejrzeć [Section 8: Service Discovery & Service Registration in microservices](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
-- [ ] 🏠 Zaimpregnować parapety
+- [ ] 🏠 Kupić żaluje do kuchni
