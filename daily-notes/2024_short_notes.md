@@ -1193,3 +1193,31 @@ Dzięki Bogu naprawdę szybko udało mi się załatwić wszystkie dokumenty z PG
 27/10/2024
 ---
 Sobota była bardzo dobra. Z rana (i w południe) ogarnęliśmy impregnację parapetów w domu 🏠. Później zjedliśmy obiad (łosoś 🐟😋) i pojechaliśmy na konferencję. Nie było bardzo dużo ludzi, ale i tak było fajnie 😉. Udało nam się wysłuchać nawet jednego wykładu 😆, bo tak to większość czasu w kuchni pomagaliśmy. Dziś jedziemy do Redut po nabożeństwie i tam będziemy pewnie chodzić z psami 😅.
+
+28/10/2024
+---
+Piękna pogoda była w niedzielę ☀️🤗. Nabożeństwo trwało do 13 i było dobre. Później pojechaliśmy do Redut - byliśmy na spacerze z psami i było pięknie. A dziś pierwszy dzień tygodnia i pora wracać do trybu praca 😄! Dzisiaj plan jest standardowy jak w każdy poniedziałek 😏.
+
+29/10/2024
+---
+Poniedziałek był zapracowany 🙂‍↕️. Dziś rano strasznie bolały mnie plecy - nie wiem co to za ból, ale był przerażający 😩. Poszedłem na spacer i już jest lepiej - Bogu dzięki! Dziś po pracy chciałbym podjechać na budowę i zobaczyć czy może już prądu nie mamy 😆.
+
+30/10/2024
+---
+Mamy prąd ⚡🔌🤗! Wczoraj odpalaliśmy już oświetlenie, które mamy zamontowane (schody + łazienki) i wygląda to super! Gorzej jest z ledami, ale to dopracujemy/poprawimy 😆. Dziś przebiegłem 4km i teraz śniadanko + praca 😊.
+
+31/10/2024
+---
+Środa była spokojna 😎. Niestety w tym tygodniu nie doczekamy się uruchomienia pompy (nasi hydraulicy to tacy bardziej krętacze niż fachowcy) 😑. Dzięki Bogu wszystko idzie do przodu i w pracy jest ok 🙂.
+
+01/11/2024
+---
+Czwartek był git 👍. Dziś jest dzień wolny od pracy (fajnie 😆). Przebiegłem najdłuższy dystans w tym roku - 8km 💪🏃, ale to z jednego powodu - dziś są urodziny taty 🥳. To z kolei oznacza, że będzie dziś dużo słodkości 🎂🍰🍪!
+
+02/11/2024
+---
+Wczoraj świętowaliśmy urodziny i było fajnie. Dziś jak piszę to jest już prawie 11 🤫, ale spokojnie... nie spałem do tej godziny 😄. Po prostu z rana sprzątaliśmy klatkę, a później pojechałem z tatą poprzewodzić rzeczy przyczepką z naszego nowego domu na ich budowę. Teraz zjedliśmy z żoną śniadanie i jedziemy do domu popracować trochę 😁.
+
+03/11/2024
+---
+Fajne wczoraj młodzieżowe mieliśmy. Olek zaprosił Sebastiana, który opowiedział swoje świadectwo i wyszedł z tego fajny czas 👌. Dziś Nati robi kaczkę na obiad (pierwszy raz w życiu 😀) - będziemy testować 💩!
