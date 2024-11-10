@@ -1221,3 +1221,31 @@ Wczoraj świętowaliśmy urodziny i było fajnie. Dziś jak piszę to jest już 
 03/11/2024
 ---
 Fajne wczoraj młodzieżowe mieliśmy. Olek zaprosił Sebastiana, który opowiedział swoje świadectwo i wyszedł z tego fajny czas 👌. Dziś Nati robi kaczkę na obiad (pierwszy raz w życiu 😀) - będziemy testować 💩!
+
+04/11/2024
+---
+Niedziela była spokojna - spędziliśmy ją w domu 🙂. A dziś już pierwszy dzień tygodnia i trzeba iść do pracy 😉👍. Dzisiaj mają nam uruchamiać pompę ciepła - jestem ciekawy czy się odpali 🫣...
+
+05/11/2024
+---
+Pompa się odpaliła 🦾. Póki co odpalili nam tylko grzanie parteru bo góry nie dało rady, ale mam nadzieję, że będzie dobrze wszystko chodziło 🙏. Dziś ma przyjechać stolarz i to będzie jego ostatni raz u nas - kilka rzeczy do poprawy jest, więc pewnie cały dzień mu na tym zejdzie. Oprócz tego mają nam jeszcze dziś montować blat w górnej łazience 🙂.
+
+06/11/2024
+---
+Rozstaliśmy się ze stolarzem i przyznam, że jesteśmy z niego średnio zadowoleni - żeby nie powiedzieć niezadowoleni 😢. No nic - to nasz błąd, że go wzięliśmy bo chcieliśmy nieco przyoszczędzić 😏. W tym tygodniu długo pracuję i na budowie jesteśmy zazwyczaj raz lub dwa, żeby coś obgadać lub się rozliczyć. Dziś też pewnie zajedziemy odebrać stół zapasowy - który zapewne chwilkę nam jeszcze posłuży jako główny.
+
+07/11/2024
+---
+Wczoraj sporo rzeczy z mojej todo listy udało się załatwić. W pracy mam trochę młyn, ale mam nadzieję, że uda się dziś ugasić najbardziej palące tematy 💦🔥. Dziś przychodzi schodziarz 🤗 - miał być w piątek, ale jednak przyjdzie już dziś - no i fajnie 😉!
+
+08/11/2024
+---
+Nie udało nam się wybrać na nabożeństwo - Natalia pracowała, ja też - a szkoda bo straciliśmy usługę Daniela 🥺 (tato był i powiedział nam kto usługiwał). Dziś jestem już po porannym biegu i zaraz biorę się do pracy 👨🏻‍💻👨🏻‍💻, a po południu planujemy pojechać do Białegostoku 🚗💨...
+
+09/11/2024
+---
+Udało nam się załatwić sporo rzeczy 🙂. Właściwie to mamy już wyceny żaluzji - jeszcze dziś przyjedzie do nas jeden wykonawca żeby wycenić i wybierzemy. Oglądaliśmy jeszcze firanki i przy okazji Pani nam zaproponowała, że montują i sprzedają też karnisze... i prawdopodobnie na to też się zdecydujemy 🙂. Dziś będziemy ogarniać troszkę dom - ja będę konfigurował wifi, bo wczoraj nam podłączyli Internet 🤗.
+
+10/11/2024
+---
+Sobotę można zaliczyć do udanych. Udało mi się skonfigurować wifi w nowym domu - jeszcze nie w pełni, ale podstawowa sieć już istnieje 😀. Tutaj też podziękowania tacie, który pomógł coś tam poprzewiercać, żeby urządzenie się trzymało 🙂. Coś tam sprzątaliśmy i krzątaliśmy się, a później przyjechał szwagier z żoną i pojechaliśmy do nas na Miłą. Później przyjechała jeszcze Iza i siedzieliśmy do 17 z groszami. Później miałem młodzieżowe - Nati nie poszła bo robiła ciasto - i tak minął cały dzień.

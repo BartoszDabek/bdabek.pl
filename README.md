@@ -8,7 +8,7 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. ✅ Przebiec 400 km (451/400) 🏃 ![Progress](https://geps.dev/progress/112/) (11.10)
+1. ✅ Przebiec 400 km (475/400) 🏃 ![Progress](https://geps.dev/progress/118/) (11.10)
 2. ✅ Przejechać na rowerze 1600 km (2477/1600) 🚴 ![Progress](https://geps.dev/progress/154/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
 4. ❌ 3km < 12 minut 👟
@@ -24,21 +24,21 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [11/03/2024]
+# [11/10/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Kupić żaluzje do kuchni
-- [ ] 💵 Założyć IKE dla Nati
+- [ ] 🏠 Znaleźć ubezpieczenie na dom
+- [ ] 🏠 Kupić wideodomofon
 - [ ] 📗 Przeczytać [40 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Progress](https://lucumr.pocoo.org/2024/9/3/progress/)
-- [ ] 📗 Przeczytać [Automating Code Migrations at Scale](https://blog.allegro.tech/2024/09/automating-code-migrations-at-scale.html?)
-- [ ] 📗 Przeczytać [Java 23: czyli JDK w preview](https://bartlomiejchmielewski.pl/java-23/)
-- [ ] 📗 Przeczytać [Cycle Time](https://martinfowler.com/bliki/CycleTime.html)
-- [ ] 📗 Przeczytać [Producer-Consumer Pattern in Java: Streamlining Production and Consumption Processes](https://java-design-patterns.com/patterns/producer-consumer/)
-- [ ] 🎧 Przesłuchać [#126 12-factor app - skamielina czy nadal żywe?](https://patoarchitekci.io/126/)
-- [ ] 🎧 Przesłuchać [Badanie potrzeb – jak wykorzystać ankietę, aby stworzyć produkt, który pokochają twoi klienci](https://malawielkafirma.pl/badanie-potrzeb-klienta-ankieta/)
-- [ ] 🎧 Przesłuchać [POIT #261: Kariera w IT, jej planowanie oraz znaczenie marki osobistej](https://porozmawiajmyoit.pl/poit-261-kariera-w-it-jej-planowanie-oraz-znaczenie-marki-osobistej/)
-- [ ] 🎧 Przesłuchać [Sprzedaje 4 miliony litrów paliw miesięcznie. Tomasz Szultka](https://youtu.be/84y1nKsC8-E)
-- [ ] 🎥 Obejrzeć [Section 9: Gateway, Routing & Cross cutting concerns in Microservices](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
+- [ ] 📗 Przeczytać [Java 23: What’s New?](https://foojay.io/today/java-23-whats-new/)
+- [ ] 📗 Przeczytać [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
+- [ ] 📗 Przeczytać [Exploring New Features in JDK 23: Factory Pattern with Flexible Constructor Bodies with JEP-482](https://foojay.io/today/exploring-new-features-in-jdk-23-factory-pattern-with-flexible-constructor-bodies-with-jep-482/)
+- [ ] 📗 Przeczytać [I will f(l)ail at your tech interviews, here's why you should care](https://fraklopez.com/noodlings/2024-08-25-i-will-fail-your-technicals/)
+- [ ] 📗 Przeczytać [Promise Pattern in Java: Streamlining Async Tasks for Better Performance](https://java-design-patterns.com/patterns/promise/)
+- [ ] 🎧 Przesłuchać [177: Vector Databases](https://www.programmingthrowdown.com/episodes/177-vector-databases/)
+- [ ] 🎧 Przesłuchać [POIT #263: Jak projektować systemy informatyczne w dobie generatywnego AI?](https://porozmawiajmyoit.pl/poit-263-jak-projektowac-systemy-informatyczne-w-dobie-generatywnego-ai/)
+- [ ] 🎧 Przesłuchać [Nie zawsze wygrywasz. Jak porażki kształtują prawdziwy sukces w biznesie? Sławek Mokrzycki](https://youtu.be/T5pSZBntQAk)
+- [ ] 🎧 Przesłuchać [#129 Technology Radar vol. 31 - Review](https://patoarchitekci.io/129/)
+- [ ] 🎥 Obejrzeć [Introducing Spring AI by Christian Tzolov / Mark Pollack @ Spring I/O 2024](https://youtu.be/umKbaXsiCOY)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras
