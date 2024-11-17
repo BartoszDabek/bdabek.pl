@@ -1249,3 +1249,31 @@ Udało nam się załatwić sporo rzeczy 🙂. Właściwie to mamy już wyceny ż
 10/11/2024
 ---
 Sobotę można zaliczyć do udanych. Udało mi się skonfigurować wifi w nowym domu - jeszcze nie w pełni, ale podstawowa sieć już istnieje 😀. Tutaj też podziękowania tacie, który pomógł coś tam poprzewiercać, żeby urządzenie się trzymało 🙂. Coś tam sprzątaliśmy i krzątaliśmy się, a później przyjechał szwagier z żoną i pojechaliśmy do nas na Miłą. Później przyjechała jeszcze Iza i siedzieliśmy do 17 z groszami. Później miałem młodzieżowe - Nati nie poszła bo robiła ciasto - i tak minął cały dzień.
+
+11/11/2024
+---
+Niedziela - mieliśmy fajne nabożeństwo poranne. Był gość z Ukrainy i drugi z Wolsztyna. Później pojechaliśmy do Piotrka i Zuzi i świętowaliśmy urodziny Oli 🥳. Dziś pierwszy dzień tygodnia, ale to dzień wolny od pracy 😊, bo mamy święto narodowe w Polsce. Z Nati będziemy sprzątać dom 😆!
+
+12/11/2024
+---
+Poniedziałek był bardzo spokojny 🥱. Mógłbym nawet powiedzieć, że się nudziliśmy 😂. Dziś z rana przebiegłem 4km i zrobiłem malutkie zakupki. Teraz omlet 🥘🔥 i do pracy 👍💪!
+
+13/11/2024
+---
+Opiekowaliśmy się Emmą i Mikołajem od południa do wieczora. Całkiem sprawnie nam to poszło 😏. Wczoraj zamontowali nam już kilka schodów 🪜 - pięknie wyglądają 🤗 - i był też Michał z Adrianem i poprawili dwa niedociągnięcia przy lamelach 👍. Dziś standardowo bieg mam już zaliczony i teraz śniadanie i do pracy. A po południu na budowę zmieniać LED'a przy lamelach 😉.
+
+14/11/2024
+---
+Zamontowali nam prawie wszystkie schody (oprócz jednego bo coś krzywo tam posadzka wyszła 🫣) - jest pięknie 🤩. Wymienialiśmy też wczoraj LEDa przy lamelach i już lepiej to wygląda 👌. Dziś rano zrobiłem sobie spacer, zaraz idę zjeść śniadanie i do pracy 😉.
+
+15/11/2024
+---
+Nati mi się rozchorowała 🤒🤧. Zjadła tylko śniadanie o 13, i jakiś batonik twarogowy o 18. Mam nadzieję, że jak zaraz wstanie to już będzie się dobrze czuła 👈🫣. Dziś wstałem trochę wcześniej i mam zamiar zrobić trening z samego rana + pójść pobiegać, a później standardowo... praca 😏 i chyba sprzątanie domu.
+
+16/11/2024
+---
+Piąteczek minął 😏. Wieczorem był u nas Marek, ostrzygł mnie, a później razem oglądaliśmy mecz ⚽. Dziś wstaliśmy o... 9 🤫🙄! Jest nasza kolej sprzątania klatki, więc bierzemy się zaraz za to, później śniadanko i do drugiego domu 🫠.
+
+17/11/2024
+---
+Sobota była pracowita (jak już wstaliśmy 😁). Skręciłem szafkę nocną i przymocowałem uchwyt w zamrażarce - może i to nie dużo, ale doszło jeszcze jakieś sprzątanie i ogólnie to jestem zadowolony 🙂. Dziś niedziela - rano zrobiłem mały spacer i zaraz na nabożeństwo, a później spędzamy czas w domu z żoną 😊.
