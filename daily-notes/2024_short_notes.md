@@ -1277,3 +1277,31 @@ Piąteczek minął 😏. Wieczorem był u nas Marek, ostrzygł mnie, a później
 17/11/2024
 ---
 Sobota była pracowita (jak już wstaliśmy 😁). Skręciłem szafkę nocną i przymocowałem uchwyt w zamrażarce - może i to nie dużo, ale doszło jeszcze jakieś sprzątanie i ogólnie to jestem zadowolony 🙂. Dziś niedziela - rano zrobiłem mały spacer i zaraz na nabożeństwo, a później spędzamy czas w domu z żoną 😊.
+
+18/11/2024
+---
+Mieliśmy spędzić czas w domu i tak faktycznie było z małymi odstępstwami. Po obiedzie poszliśmy na kawę do rodziców, później oprowadziliśmy Dawida i Izę po naszym nowym domu i później na około 2.5 godziny pojechaliśmy jeszcze do Maxima i Nataszy 😉. To było wczoraj, a dziś mamy już poniedziałek 👋. Jestem po bieganiu, teraz robię trening, później śniadanko 🥐🍳☕ i do pracy 🙏! Będę musiał jeszcze wyskoczyć do urzędu i załatwić sprawę bo przyszło mi wezwanie do nich 🙄.
+
+19/11/2024
+---
+Poniedziałek minął fajnie. Po pracy pojechaliśmy na budowę i ja skręciłem szafkę nocną, a Nati czyściła garderobę 😌. Elektryk skończył oświetlenie kuchni i jest SUPER 💡🤗! Dzisiaj z rana biegałem, zaraz czas na omleta i do pracy 👨🏻‍💻.
+
+20/11/2024
+---
+Mamy zamontowane całe oświetlenie w środku domu 🤗. Zostały jeszcze 2 lampy w garażu, oświetlenie na zewnątrz i drobne rzeczy do dodania i będzie wszystko 🙂! Dziś rano już się przebiegłem i dziś mam zamiar kupić wideodomofon 🫡.
+
+21/11/2024
+---
+Wczoraj byliśmy w nowym domu do 22. Głównie chcieliśmy żeby zmywarka zrobiła swoje pierwsze uruchomienie, ale... po około 3 godzinach od jej włączenia zorientowaliśmy się, że ona w ogóle się nie załączyła 🫢. Oczywiście w międzyczasie sprzątaliśmy i działaliśmy. Dziś wstałem przed 5 🤫🥱 (trochę szalone 😆), zaprowadziłem samochód do Piotrka i przebiegłem się 4 km. Wstałem wcześniej bo będę dziś miał oko na Dawidka do południa 🧒.
+
+22/11/2024
+---
+Rozkręcałem łóżko 🛠️, a później na kolację zdjeliśmy burgera (ja zjadłem dwa) 🍔🍔. W sobotę będziemy przewozić część większych rzeczy, a za tydzień już się przeprowadzać 🔜🏠🤭! Dziś rano biegałem, teraz śniadanie i do pracy ✅.
+
+23/11/2024
+---
+Piąteczek minął szybko - jak zawsze 😏. Byliśmy na modlitiwe, pierwszy raz od co najmniej ponad roku 😶. Dziś przewozimy część rzeczy już do nowego domu 🏠🚚. Kolega z młodszych lat ma busa i był na tyle życzliwy, że pomoże to przewieźć, a oprócz tego Marek z Danielem się zgodzili pomóc wszystko wypakować i zapakować 🤗. Dzięki Bogu za dobrych ludzi wokoło 😇!
+
+24/11/2024
+---
+Wszystko udało nam się zgodnie z planem 👍. Na miejscu trochę posprzątaliśmy, poogarnialiśmy i za niecały możemy się wprowadzać 🤫. Wieczorem mieliśmy młodzieżowe i też było fajnie - szkoda, że nie ma więcej młodzieży 😏 zawsze to byłoby ciekawiej, ale i tak Bogu dzięki za to co jest 😇!
