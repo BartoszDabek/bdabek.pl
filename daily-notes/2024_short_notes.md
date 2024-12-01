@@ -1305,3 +1305,27 @@ Piąteczek minął szybko - jak zawsze 😏. Byliśmy na modlitiwe, pierwszy raz
 24/11/2024
 ---
 Wszystko udało nam się zgodnie z planem 👍. Na miejscu trochę posprzątaliśmy, poogarnialiśmy i za niecały możemy się wprowadzać 🤫. Wieczorem mieliśmy młodzieżowe i też było fajnie - szkoda, że nie ma więcej młodzieży 😏 zawsze to byłoby ciekawiej, ale i tak Bogu dzięki za to co jest 😇!
+
+25/11/2024
+---
+W zborze mieliśmy spotkanie członkowskie i wybory pastora. Był jeden kandydat i został zatwierdzony 🤝. Później pojechaliśmy do Redut i tam u rodziców spędziliśmy pozostałą część dnia. Dziś już bieganie mam zaliczone, teraz trening + śniadanie i do pracy 🦾.
+
+26/11/2024
+---
+Po pracy (mojej - bo Nati wzięła na cały ten tydzień urlop) pojechaliśmy do nowego domu i sprzątaliśmy/ogarnialiśmy co jest do zrobienia. Niesamowite, że jak Pan Bóg pozwoli to już za niecały tydzień codzienne notatki będę pisał z nowego miejsca 🫣. Może i trochę będzie mi brakować tego co jest teraz... w końcu to 30 lat 🤫.
+
+27/11/2024
+---
+Wtorek był wyczerpujący. Musieliśmy za dnia pojechać na budowę i tam rozmawiać z wykonawcami (a w pewnym momencie było ich nawet 4 🤯). Po pracy natomiast woziliśmy rzeczy - głównie ubrania i właściwie od 16 do 21:30 nas nie było bo jeszcze tam sprzątaliśmy. Dziś kolejny dzień przygody z tym, że nie będę musiał prawdopodobnie tam jeździć za dnia 🙄.
+
+28/11/2024
+---
+Wczoraj było już lepiej - chociaż kolację jedliśmy znów po 22 😏. Dovrze, że Nati wzięła urlop na cały tydzień bo bez tego to ciężko byłoby z przeprowadzką 😆. Dziś bieganie zaliczone, zaraz śniadanie i do pracy 👍!
+
+29/11/2024
+---
+I po raz kolejny do domu wróciliśmy po 22 😅. Tym razem już bez kolacji (ja w ogóle nie jadłem od śniadania nic). Dzisiaj 4km zaliczone ✅ i dziś dzień przeprowadzki + wieczorem rodzinna 🍕🍕 w nowym domu 🏠🤗!
+
+01/12/2024
+---
+Wczoraj zapomniałem cokolwiek napisać. Pierwsza noc w nowym, komputery gdzieś w innym pokoju 💻🤔, mieliśmy jeszcze jakieś plany na sobotę i tak końcowo wyszło. Ale nic - jest niedziela. Jesteśm już po drugiej nocy w nowym domu i jest fajnie 😊! Dziękuję Bogu, że dał nam tą możliwość i chcę aby nasz dom służył Bogu 💪!

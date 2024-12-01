@@ -12,7 +12,7 @@
 - [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
-- [ ] Nawyki warte miliony - Tracy Brian (strona: 268)
+- [ ] Nawyki warte miliony - Tracy Brian (strona: 308)
 
 ## ⭐ Books read 
 ### ✅ 2024
