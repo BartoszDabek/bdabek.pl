@@ -8,7 +8,7 @@ Personal Goals
 1. Zaimplementować [GTD](https://gettingthingsdone.com/) w życiu
 
 ## ⚽️ Cele Sportowe
-1. ✅ Przebiec 400 km (533/400) 🏃 ![Progress](https://geps.dev/progress/133/) (11.10)
+1. ✅ Przebiec 400 km (545/400) 🏃 ![Progress](https://geps.dev/progress/136/) (11.10)
 2. ✅ Przejechać na rowerze 1600 km (2477/1600) 🚴 ![Progress](https://geps.dev/progress/154/) (22.07)
 3. ✅ 100 kg na klatę  🏋️ (15.07)
 4. ❌ 3km < 12 minut 👟
@@ -24,21 +24,20 @@ Personal Goals
 8. ✅ 60 podciągnięć 🏋️‍♂️ (9.01-8.02)
 9. ✅ 0 śmieciowego jedzenia 🍔 (3.04-3.05)
 
-# [12/01/2024]
+# [12/08/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 🏠 Znaleźć kominiarza do zrobienia przeglądu kominiarskiego
-- [ ] 📗 Przeczytać do końca [obecnie czytaną książkę](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Advancing AI by Accelerating Java on Parallel Architectures](https://inside.java/2024/10/23/java-and-ai/)
-- [ ] 📗 Przeczytać [How I'd Like Automation Engineers to Support Delivering Features](https://blog.jbrains.ca/permalink/how-id-like-automation-engineers-to-support-delivering-features)
-- [ ] 📗 Przeczytać [Software Engineer Titles Have (Almost) Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
-- [ ] 📗 Przeczytać [JEP 485: Stream Gatherers](https://openjdk.org/jeps/485)
-- [ ] 📗 Przeczytać [Proxy Pattern in Java: Enhancing Security and Control with Smart Proxies](https://java-design-patterns.com/patterns/proxy/)
-- [ ] 🎧 Przesłuchać [POIT #265: Raport o stanie rynku pracy Java vs .NET](https://porozmawiajmyoit.pl/poit-265-raport-o-stanie-rynku-pracy-java-vs-net/)
-- [ ] 🎧 Przesłuchać [Essentials: Master Your Sleep & Be More Alert When Awake](https://youtu.be/lIo9FcrljDk)
-- [ ] 🎧 Przesłuchać [Pierwszego Bitcoina kupił za 30 zł. Teraz zarabia MILIONY. Janusz Zieliński](https://youtu.be/aMuZuLN6nyM)
-- [ ] 🎧 Przesłuchać [#131 2024 State of DevOps Report](https://patoarchitekci.io/131/)
-- [ ] 🎧 Przesłuchać [Jak osiągnąć dochód pasywny dzięki obligacjom 4-letnim COI? Odsetkowe schodki](https://inwestomat.eu/jak-osiagnac-dochod-pasywny-dzieki-obligacjom-4-letnim-coi/)
-- [ ] 🎥 Obejrzeć [Implementing Domain Driven Design with Spring by Maciej Walkowiak @ Spring I/O 2024](https://youtu.be/VGhg6Tfxb60)
+- [ ] 📗 Przeczytać [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
+- [ ] 📗 Przeczytać [What collection mapping should I use?](https://in.relation.to/2024/11/12/-what-collection/)
+- [ ] 📗 Przeczytać [The best way to determine the optimal connection pool size](https://vladmihalcea.com/optimal-connection-pool-size/)
+- [ ] 📗 Przeczytać [Popular Gradle mistakes (and how to avoid them)](https://blog.allegro.tech/2024/11/popular-gradle-mistakes-and-how-to-avoid-them.html)
+- [ ] 📗 Przeczytać [Idempotent Command Handling](https://event-driven.io/en/idempotent_command_handling/)
+- [ ] 📗 Przeczytać [Queue-Based Load Leveling Pattern in Java: Balancing Workloads for Scalable Performance](https://java-design-patterns.com/patterns/queue-based-load-leveling/)
+- [ ] 🎧 Przesłuchać [POIT #266: Licencje open source z punktu widzenia programisty komercyjnego](https://porozmawiajmyoit.pl/poit-266-licencje-open-source-z-punktu-widzenia-programisty-komercyjnego/)
+- [ ] 🎧 Przesłuchać [Essentials: Using Science to Optimize Sleep, Learning & Metabolism](https://www.hubermanlab.com/episode/essentials-using-science-to-optimize-sleep-learning-metabolism)
+- [ ] 🎧 Przesłuchać [Prowadzenie biznesu będzie dziesięć razy trudniejsze niż Ci się wydaje. Stefan Batory](https://youtu.be/dmO2HtJTqGg)
+- [ ] 🎧 Przesłuchać [#132 Microsoft Ignite 2024](https://patoarchitekci.io/132/)
+- [ ] 🎧 Przesłuchać [Foojay Podcast #62: Better Coding with AI: Friend or Enemy?](https://foojay.io/today/foojay-podcast-62/)
+- [ ] 🎥 Obejrzeć [315. WJUG - Michał Niczyporuk "Beginner's guide to observability" [English]](https://youtu.be/PAA-CUh-O-E)
 
 ### 💡 Pomysły na przyszłość
 - [ ] 🏠 Research kostki na podjazd i taras

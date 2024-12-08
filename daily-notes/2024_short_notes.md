@@ -1329,3 +1329,31 @@ I po raz kolejny do domu wróciliśmy po 22 😅. Tym razem już bez kolacji (ja
 01/12/2024
 ---
 Wczoraj zapomniałem cokolwiek napisać. Pierwsza noc w nowym, komputery gdzieś w innym pokoju 💻🤔, mieliśmy jeszcze jakieś plany na sobotę i tak końcowo wyszło. Ale nic - jest niedziela. Jesteśm już po drugiej nocy w nowym domu i jest fajnie 😊! Dziękuję Bogu, że dał nam tą możliwość i chcę aby nasz dom służył Bogu 💪!
+
+02/12/2024
+---
+Niedziela minęła 👍. Mamy już jednych i drugich rodziców odhaczonych w kontekście zaproszenia i ugoszczenia ✅. Mój brat z bratową też już byli, więc zostało tylko rodzeństwo Natalii 🫡. Dziś 4km zaliczone na nowej trasie. Biegałem tu już kiedyś z Markiem, więc ciężko mnie zaskoczyć, ale... teraz to już jest nowa na co dzień 😝.
+
+03/12/2024
+---
+Wczoraj dzień jak codzień (w tym, że to poniedziałek i już w nowym domu ☺️). Dzisiaj bieganie zaliczone 🏃, jestem w trakcie śniadania, a na wieczór zaprosiliśmy Piotrka z Zuzią 🧒🥳.
+
+04/12/2024
+---
+Dziś rano był spacer. Planów na dzień nie mam, ale jest dobrze 🥱🥱...
+
+05/12/2024
+---
+Wczoraj Nati miała mały kryzys domowy 🤫 + ja kleiłem pianki wygłuszające w kotłowni 🧴👍. Dziś wstaliśmy o ....7:50. Musiałem wyłączyć budzik i go zignorować, ale w ogóle tego faktu nie pamiętam 🤨.
+
+06/12/2024
+---
+Udało nam się być wczoraj na nabożeństwie 🙂. Byli goście z Bielska, a później zajechaliśmy jeszcze na niecałą godzinę na Miłą, żeby coś wydrukować i wypić herbatę z tatą 🍵. Dzisiaj rano przebiegłem 4km, zerwałem gwint w nóżce pompy 🫣. Denerwuje mnie jej hałas i nie wiem jak to rozwiązać 😥...
+
+07/12/2024
+---
+Piątek minął 😩😩. Od 19 do prawie 22 sprzątaliśmy... piętro 😅. Chyba kupimy robota sprzątającego bo tak to będzie nam ciężko 🙄. Dziś wstaliśmy około 9. Heh, rozleniwiam się 🤫😏.
+
+08/12/2024
+---
+Młodzieżowe było u nas i wydaje się, że mieliśmy dobry czas 👌. Dziś usługujemy naszą grupką młodzieży na nabożeństwie - ja też krótkim słowem będę się dzielił i przyznam, że się stresuję 😆. A później jedziemy do Redut i tam zapewne będziemy pozostałą resztę dnia 🐶🚶.
