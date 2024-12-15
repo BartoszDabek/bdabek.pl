@@ -1357,3 +1357,27 @@ Piątek minął 😩😩. Od 19 do prawie 22 sprzątaliśmy... piętro 😅. Chy
 08/12/2024
 ---
 Młodzieżowe było u nas i wydaje się, że mieliśmy dobry czas 👌. Dziś usługujemy naszą grupką młodzieży na nabożeństwie - ja też krótkim słowem będę się dzielił i przyznam, że się stresuję 😆. A później jedziemy do Redut i tam zapewne będziemy pozostałą resztę dnia 🐶🚶.
+
+09/12/2024
+---
+Wczorajsza usługa młodzieży moim zdaniem wyszła bardzo fajnie 👍😉. Ja czułem się zbudowany (sam usługiwałem 😆) i mam nadzieję, że inni również. Dzisiaj rano przebiegłem 5km i teraz zaczynamy pracę 👨🏻‍💻👨🏻‍💻👨🏻‍💻...
+
+10/12/2024
+---
+Po pracy odwiedziliśmy babcię i dziadka - mieszkają teraz u wujka i cioci około kilometr od nas, więc wypada odwiedzić co jakiś czas 🫡. O 18 przyjechały nasze krzesła 🪑, a dokładniej 8 krzeseł. Zaryzykowaliśmy bo na żywo ich nie widzieliśmy, ani na nich nie siedzieliśmy, ale moim zdaniem są bardzo fajne i wygodne 😁. Dziś poranne bieganie zaliczone 🏃, teraz praca, a wieczorem będzie skręcanie regału z Ikei 👊.
+
+11/12/2024
+---
+Wtorek był fajny 👍. Dzisiaj wstałem lekko przed 5, rano zrobiłem spacer i teraz siadam do pracy 🫣. Wieczorem mają wpaść do nas Kamil z Izą i dziećmi na sushi 🍣🍱🥢.
+
+12/12/2024
+---
+Środa była bez fajerwerków - przetrwaliśmy 😆. Dziś rano przebiegłem 4km, czuję nogi po wtorkowym treningu nóg - postanowiłem, że we wtorki będę robić nogi 🦿 (już kiedyś tak robiłem, ale później tato zawalił siłownię ekogroszkiem i nie było miejsca 🫣). Na 18 jest nabożeństwo i się wybieramy 🫶🏼.
+
+13/12/2024
+---
+Czwartkowy post był ciężki 😌 - chociaż daliśmy radę (w czwartki jemy zazwyczaj śniadanie i kolację - więc taki słaby post, ale lepszy rydz niż nic 🙏🏼). Dziś 4.5km zaliczone 🤛🏽. Dzisiaj dostarczą nam też stół i będzie jeszcze Pan od montażu rolet, który będzie nam to spinał na telefon 😊.
+
+15/12/2024
+---
+Zapomniałem w sobotę rano napisać cokolwiek 🫢. Rano pojechaliśmy do Warszawy i wróciliśmy wieczorem - powiedzmy, że nie było czasu 🤫. Dziś mamy spokojną niedzielę, spadło trochę śniegu ❄️☺️. Po południu na kawę/herbatę zaprosiliśmy moich rodziców i tak nam zleci ten dzień.
