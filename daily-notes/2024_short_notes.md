@@ -1381,3 +1381,31 @@ Czwartkowy post był ciężki 😌 - chociaż daliśmy radę (w czwartki jemy za
 15/12/2024
 ---
 Zapomniałem w sobotę rano napisać cokolwiek 🫢. Rano pojechaliśmy do Warszawy i wróciliśmy wieczorem - powiedzmy, że nie było czasu 🤫. Dziś mamy spokojną niedzielę, spadło trochę śniegu ❄️☺️. Po południu na kawę/herbatę zaprosiliśmy moich rodziców i tak nam zleci ten dzień.
+
+16/12/2024
+---
+Wczoraj na wieczór pojechaliśmy do Piotrka i Zuzi. Nudno nam było 🤭... Dzisiaj poniedziałek i zaczynamy pracujący tydzień 🫡.
+
+17/12/2024
+---
+Poniedziałek minął przy pracy (i odbieraniu przesyłek 😆). Dziś zapewne będzie podobnie 😶.
+
+18/12/2024
+---
+Wtorek - mógłbym go nazwać dniem zakupów przedświątecznych 🛒💸🎄. Spędziliśmy chyba z 2h w sklepach + wydaliśmy z 500 zł 😏. Uruchomiliśmy też pierwszy raz naszego robocika myjącego i dziś damy mu dalszą robótkę. Rano przebiegłem 5km, teraz idziemy zjeść śniadanie i później praca 👋🏻!
+
+19/12/2024
+---
+Środa uleciała szybko 😏. Zakupy pod Święta mamy już załatwione w 90% 👍, ogarnąłem sprzęty Samsung IoT, żeby mieć do nich dostęp z telefonu - sam nie wiem czy to takie fajne akurat 🤔... Dzisiaj rano zrobiłem sobie spacer, zaraz się ogolić i do pracy 🫠.
+
+20/12/2024
+---
+Czwartek był ciekawy. Nie jedliśmy obiadu, więc było nieco ciężej 🤫. Dziś piąteczek i zaraz Święta Bożego Narodzenia, a ja w ogóle nie czuję klimatu świątecznego 🙄.
+
+21/12/2024
+---
+Piątunio był fajny. Przed 18 wpadł do mnie Marek i mnie ostrzygł a wieczorem z żoną robiliśmy skorupki na orzeszki pod święta 😋🎄. Dziś sprzątanko domu + małe porządki na podwórku 😇 i wieczorem młodzieżowe.
+
+22/12/2024
+---
+Sobota była fajna. W zasadzie tak jak planowałem tak wszystko wyszło. Na obiad kupiliśmy sobie kebaby 🥙🥙😁. Dzisiaj nabożeństwo i na wieczór zaprosiliśmy Andźelikę i Mateusza + Piotrka z Zuzią i dziećmi - będzie wesoło 😉.
