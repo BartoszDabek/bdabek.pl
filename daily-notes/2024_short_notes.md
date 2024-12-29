@@ -1409,3 +1409,31 @@ Piątunio był fajny. Przed 18 wpadł do mnie Marek i mnie ostrzygł a wieczorem
 22/12/2024
 ---
 Sobota była fajna. W zasadzie tak jak planowałem tak wszystko wyszło. Na obiad kupiliśmy sobie kebaby 🥙🥙😁. Dzisiaj nabożeństwo i na wieczór zaprosiliśmy Andźelikę i Mateusza + Piotrka z Zuzią i dziećmi - będzie wesoło 😉.
+
+23/12/2024
+---
+Fajna niedziela wyszła 🙂. Trochę pogotowaliśmy, zrobiliśmy z żoną krótki spacer - miło 🥰🥰. Dziś do pracy 😆. Przebiegłem 5km i jestem już po treningu, teraz śniadanko 🥐🍳 i do pracy 👨🏻‍💻!
+
+24/12/2024
+---
+Przygotowania do Świąt Bożego Narodzenia trwają w najlepsze ⚠️⏮💲. Dużo pieniędzy poszło na to wszystko 〽️, ale to tylko raz 😁. Dzisiaj bieganie zaliczone, zaraz śniadanie, do pracy a później pomagać żonie 😘.
+
+25/12/2024
+---
+Wtorek był pracowity. Obiad na 20 osób to jednak dużo przygotowań 🥵. Dziś od rana Nati czuje się gorzej 😓🫣 - ja pod jej komendami wykonywałem co trzeba było zrobić. Za godzinę idę na nabożeńśtwo (albo idziemy, jeżeli Nati lepiej się poczuje) i później spędzamy dzień u nas 😇.
+
+26/12/2024
+---
+Pierwszy dzień świąt za nami 🤯🥵✅. Łatwo nie było, ale daliśmy radę 🦾! Dziś już tylko odpoczynek u rodziców 😉.
+
+27/12/2024
+---
+I drugi dzień świętowania też już za nami. Pora wracać do codzienności 🙂. Wczoraj rano + dziś rano bieganie zaliczone - trzeba było spalić te spożyte kalorie 🏃😆. Dziś wieczorem wpadnie do nas w gości Edyta i tak to bez większego planu na ten dzień jestem 😝.
+
+28/12/2024
+---
+Piątek minął 🫡. Dziś urodziny teścia - może pojedziemy złożyć mu życzenia i tak to czeka nas leniwa sobota (spaliśmy do 9 🤫).
+
+29/12/2024
+---
+Nie pojechaliśmy do Redut złożyć życzenia bo teściu był w pracy 😏. Parę rzeczy udało się załatwić w sobotę - ogarnąć ceratę pod słoiki, dokupic i zamontować uszczelkę do pracy (i już woda nie cieknie 😉). Dziś zostajemy w domu, będziemy odpoczywać 😆!
