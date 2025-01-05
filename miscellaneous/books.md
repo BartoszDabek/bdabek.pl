@@ -12,8 +12,11 @@
 - [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
+- [ ] The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups - Gergely Orosz
 
 ## ⭐ Books read 
+### ✅ 2025
+
 ### ✅ 2024
 - [x] Nawyki warte miliony - Tracy Brian
 - [x] Refactoring Improving the Design of Existing Code - Martin Fowler with Kent Beck

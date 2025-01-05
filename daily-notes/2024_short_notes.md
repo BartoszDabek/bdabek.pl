@@ -1437,3 +1437,11 @@ Piątek minął 🫡. Dziś urodziny teścia - może pojedziemy złożyć mu ży
 29/12/2024
 ---
 Nie pojechaliśmy do Redut złożyć życzenia bo teściu był w pracy 😏. Parę rzeczy udało się załatwić w sobotę - ogarnąć ceratę pod słoiki, dokupic i zamontować uszczelkę do pracy (i już woda nie cieknie 😉). Dziś zostajemy w domu, będziemy odpoczywać 😆!
+
+30/12/2024
+---
+Niedzielka minęła w spokoju. Po południu poszliśmy na około 5km spacer 🚶😘, później Nati uczyła się JS'a, a ja pisałem podsumowanie 24' + cele na 25' 🎯. Dzisiaj rano biegałem, teraz śniadanie a później praca + trening 💪!
+
+31/12/2024
+---
+Poniedziałek był spokojny a już dziś ostatni dzień roku 🎊🎉. Planujemy w zborze zrobić spotkanie noworoczne - zobaczymy jak to wyjdzie bo chętnych za dużo nie było 🙁...
