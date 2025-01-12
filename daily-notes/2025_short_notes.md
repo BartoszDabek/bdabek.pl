@@ -17,3 +17,31 @@ Piątunio - lepiliśmy pierogi 🥟, dużo pierogów 🥟🥟🥟🥟. Mieliśmy
 05/01/2025
 ---
  Sobota była super 😊. Żonie zrobiłem niespodziankę i zabrałem ją najpierw na romantyczny spacer po Białymstoku 🥰, a późnmiej na  ramen i sushi 🍣😋. Dziś po porannym nabożeństwie będziemy się przygotowywać do drugich świąt 😆.
+
+06/01/2025
+---
+Niedziela byłą spokojna 😇. Po nabożeństwie zjedliśmy kebaba, zrobiliśmy spacer i wieczorem wpadli rodzice. Dziś po południu jedziemy do Redut i tam będziemy mieli wspólny czas z rodziną 🤗.
+
+07/01/2025
+---
+Wigilia w Redutach - było fajnie, zjadłem dużo pierogów. Dzisiaj pierwszy dzień świąt u nas 😉.
+
+08/01/2025
+---
+I nasz dzień świąt minął. Zaprosiliśmy jeszcze żony ciocię i wujka razem z dziećmi, więc łącznie było nas około 20 osób 🫣. Daliśmy radę 🥳☺️!. Dziś wstałem dosyć późno i dziś powrót do pracy 🫡, a po południu jedziemy do Redut na obiad 🚗💨.
+
+09/01/2025
+---
+Byliśmy w Redutach. Zjedliśmy obiad i później kolację, pożegnaliśmy się z Piotrkiem i jego żoną i dziś wracamy w 100% do rzeczywistości. Rano udało mi się przebiec 5km 🏃, za chwilę będę jadł śniadanie i później do pracy. Wieczorem na nabożeństwo i taki jest mój plan na ten dzień 🙌🏻.
+
+10/01/2025
+---
+Wieczorem nie pojechaliśmy na nabożeństwo a zamiast tego na próbę kolęd do Bielska 🫨. Dziś będzie występ w Bielsku w domu kultury, ale my raczej się tam nie wybierzemy 🫢.
+
+11/01/2025
+---
+Piątek minął pracująco 🥵. Wieczorem trochę bloga popisałem, a przez większość dnia pracowałem. Dzisiaj zrobiłem z rana spacer + zakupy 🛍️. O 14 jest dziś kolędowanie w szpitalu, a później o 18 młodzieżowe. 
+
+12/01/2025
+---
+Byliśmy na kolędowaniu i młodzieżowym 😉. Na wieczór trochę mnie głowa rozbolała, teraz jeszcze tak leciutko ją czuję, ale już jest o wiele lepiej. Dzisiaj sobie pospaliśmy prawie do 8 🥱 i dziś odpoczywamy w domu 😊. Ahh i spadł śnieg ❄️🌨️🤗!
