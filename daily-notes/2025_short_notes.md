@@ -45,3 +45,31 @@ Piątek minął pracująco 🥵. Wieczorem trochę bloga popisałem, a przez wi�
 12/01/2025
 ---
 Byliśmy na kolędowaniu i młodzieżowym 😉. Na wieczór trochę mnie głowa rozbolała, teraz jeszcze tak leciutko ją czuję, ale już jest o wiele lepiej. Dzisiaj sobie pospaliśmy prawie do 8 🥱 i dziś odpoczywamy w domu 😊. Ahh i spadł śnieg ❄️🌨️🤗!
+
+13/01/2025
+---
+Niedziela minęła szybko i fajnie 🥲. Po obiedzie zajechaliśmy do rodziców na kawę i później jeszcze zaszliśmy do Kuby i Kasi - było tam kilka osób, więc porozmawialiśmy trochę. O 18 wróciliśmy do domu i spędziliśmy wieczór przy nauce 😆. Dzisiaj bieganie mam już zaliczone ✅. Zaraz zjem śniadanie, trening i do pracy 😉.
+
+14/01/2025
+---
+Wczoraj po południu wpadł do nas Marek na herbatkę i tato później 🍵. Dzień minął szybko bez fajerwerków. Dzisiaj myślę, że głównie praca + artykuł na bloga będę cisnąć ✍️.
+
+15/01/2025
+---
+Nie udało mi się wczoraj nic z blogiem 🤫. Dziś przebiegłem 5km, teraz robię trening, później śniadanie i do pracy. Myślę, że dziś uda mi się pocisnąć z blogiem 🫠.
+
+16/01/2025
+---
+Coś tam udało się z blogiem. Jeszcze troszkę pracy zostało, żeby wypuścić go w tym tygodniu, ale wierzę, że się uda 😄. Dziś rano zrobiłem 4 kilometry i zaraz siadam pracy. Wieczorem idziemy na nabożeństwo i koniec planów 😅.
+
+17/01/2025
+---
+Fajny wieczór wczoraj wyszedł. Zaprosiliśmy Daniela po nabożeństwie i razem spędziliśmy wieczorny czas - rozmawialiśmy do 23 😊. A dzisiaj piątek. Przebiegłem 4 kilometry, przede mną jeszcze śniadanie, trening i później praca 💪🫷.
+
+18/01/2025
+---
+Opublikowałem artykuł na bloga 🥵😊. Cieszę się. O 17 mieliśmy próbę śpiewu, a po próbie - całkiem dynamicznie - wyszło, że pojechaliśmy do Piotrka i Zuzi i tam spędziliśmy wieczór. Dziś wstałem lekko po 7. Mam zamiar wywieźć różne śmieci na PSZOK 🗑️ i posprzątać w domu. A wieczorem młodzieżowe 🫡.
+
+19/01/2025
+---
+Fajna sobota, nawet pomimo dużej ilości sprzątania 😇. Na młodzieżowym oglądaliśmy ilustrację "Droga pielgrzyma", nie obejrzeliśmy całej, ale na prawdę dobrze to obrazuje rzeczywistość duchową 👍. Dzisiaj jedziemy do rodziców na Miłą. Zaprosili nas na obiad, a Nati przygotowała pod tą okazję ciasto 😋.
