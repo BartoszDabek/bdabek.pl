@@ -73,3 +73,31 @@ Opublikowałem artykuł na bloga 🥵😊. Cieszę się. O 17 mieliśmy próbę 
 19/01/2025
 ---
 Fajna sobota, nawet pomimo dużej ilości sprzątania 😇. Na młodzieżowym oglądaliśmy ilustrację "Droga pielgrzyma", nie obejrzeliśmy całej, ale na prawdę dobrze to obrazuje rzeczywistość duchową 👍. Dzisiaj jedziemy do rodziców na Miłą. Zaprosili nas na obiad, a Nati przygotowała pod tą okazję ciasto 😋.
+
+20/01/2025
+---
+Niedziela zaliczona ✅. W zborze usługiwaliśmy śpiewem, razem z Łukaszem i grupą. Po nabożeństwie pojechaliśm na obiad i ciasto do rodziców 🍽️🍰. Dzisiaj poniedziałek i plan na dziś oprócz stadardu, to poszukać interesującego tematu na bloga 😉.
+
+21/01/2025
+---
+Plan poniedziałkowy się powiódł - a nawet więcej! Na wieczór zaprosiliśmy Asię S. i razem spędziliśmy wieczór 😉. Dziś poranek standardowo zaliczony - 4.5km 🏃. Plan na dziś? Ogarnąć listewkę w dolnej łazience, żeby woda nie wyciekała 🤔.
+
+22/01/2025
+---
+Listewki nie udało mi się ogarnąć, ale już mam na nią plan 😁. Muszę załatwić kątówkę i silikon, żeby ją zamontować. Dziś wieczorem mają do nas wpaść Marek z Darią i dziećmi 👍🍔.
+
+23/01/2025
+---
+Wczoraj Nati zrobiła ogromnego burgera - burger XXL. Był ogromny, ale daliśmy radę go pokonać 😋🤫! Dzisiaj rano go już wybiegałem 😁. Teraz śniadanie i do pracy. Wieczorem nabożeństwo i tak zleci mi dzień 😌.
+
+24/01/2025
+---
+Czwartek był ciężki 😏. Nie tyle fizycznie, czy w pracy, co psychicznie. No nic. Dzisiaj piątek i trzeba być pozytywnie nastawionym 👍. Dzisiaj jeszcze raz przyjedzie do nas wykonawca od paneli podłogowych i będzie już 3ci albo 4ty raz wymieniał kolejny piszczący panel 🙄.
+
+25/01/2025
+---
+Piątunio minął. Powiedziałbym, że też był taki w kratkę. Pan od paneli podłogowych niestety nie może wymienić panelu bo wymieniał ten obok i teraz oderwałby 2 i byłby większy problem 🙁. Także będziemy składać reklamację oficjalną drogą i zobaczymy co z tego wyjdzie 😏. Dziś spaliśmy do 8:30 🤫. Chciałbym dziś ogarnąć listwę w łazience na dole i przykręcić mocowania na rowery w garażu. Ambitny plan 😂.
+
+26/01/2025
+---
+Sobota - po części się udała. Nie zrobiłem tylko silikonu w dolnej łazience i w mocowaniach w garażu zabrakło mi śrubokręta. Dzisiaj jedziemy do Redut 🚗💨.
