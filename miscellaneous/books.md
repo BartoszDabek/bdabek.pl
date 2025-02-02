@@ -12,7 +12,7 @@
 - [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
-- [ ] The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups - Gergely Orosz (strona: 96)
+- [ ] The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups - Gergely Orosz (strona: 125)
 
 ## ⭐ Books read 
 ### ✅ 2025

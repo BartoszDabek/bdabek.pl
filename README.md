@@ -8,7 +8,7 @@ Personal Goals
 1. Reaktywacja bloga [bdabek.pl](https://www.bdabek.pl/)
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (71/400) 🏃 ![Progress](https://geps.dev/progress/17/)
+1. Przebiec 400 km (91/400) 🏃 ![Progress](https://geps.dev/progress/22/)
 2. Przejechać rowerem 2000 km (0/2000) 🚴 ![Progress](https://geps.dev/progress/0/)
 3. 100 kg na klatę  🏋️
 4. 100 kg na nogi 🦵
@@ -20,25 +20,20 @@ Personal Goals
 4. 0 śmieciowego jedzenia 🍔
 5. Wstrzymywanie oddechu 😮‍💨
 6. 3000 kcal 🍌
-7. Praca przez 2h na stojąco 🧍 (02.01-28.02)
-8. Praca w systemie pomodoro 🍅
+7. 🚧 Praca przez 2h na stojąco 🧍 (02.01-28.02)
+8. 🚧 Praca w systemie pomodoro 🍅 (03.02-31.03)
 9. Codzienne ćwiczenie 🏋️‍♂️
 
-# [01/26/2024]
+# [02/02/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 📝 Napisać pierwsze 4 sekcje kolejnego tematu na blogu
 - [ ] 📗 Przeczytać [25 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Parallel processing with Virtual Threads - A comparative analysis](https://www.dhaval-shah.com/parallel-processing-virtual-threads-reactor-vs-jdk/)
-- [ ] 📗 Przeczytać [Why you should use compact table columns](https://vladmihalcea.com/compact-table-columns/)
-- [ ] 📗 Przeczytać [Rate limiting with Redis: An essential guide](https://foojay.io/today/rate-limiting-with-redis-an-essential-guide/)
-- [ ] 📗 Przeczytać [Building Effective Agents with Spring AI (Part 1)](https://spring.io/blog/2025/01/21/spring-ai-agentic-patterns)
-- [ ] 📗 Przeczytać [Saga Pattern in Java: Mastering Long-Running Transactions in Distributed Systems](https://java-design-patterns.com/patterns/saga/)
-- [ ] 🎧 Przesłuchać [Have something done](https://kwadransnaangielski.pl/lekcja/lekcja-343-have-something-done/)
-- [ ] 🎧 Przesłuchać [Foojay Podcast #65: Boost Your Career in 2025!](https://foojay.io/today/foojay-podcast-65/)
-- [ ] 🎧 Przesłuchać [Co najlepiej stabilizuje polski portfel inwestycyjny? Obligacje? Złoto? Coś innego?](https://inwestomat.eu/co-najlepiej-stabilizuje-polski-portfel-inwestycyjny/)
-- [ ] 🎧 Przesłuchać [Episode 34 “Doc, JavaDoc and Markdown” with Jonathan Gibbons](https://inside.java/2025/01/21/podcast-034/)
-- [ ] 🎧 Przesłuchać [POIT #272: Jak umiejętności miękkie, liderskie i managerskie pomagają developerom w codziennej pracy?](https://porozmawiajmyoit.pl/poit-272-jak-umiejetnosci-miekkie-liderskie-i-managerskie-pomagaja-developerom-w-codziennej-pracy/)
-- [ ] 🎥 Obejrzeć [Toruń JUG #73 - "Praktyczne przykłady autentykacji z Keycloakiem" - Michał Puchawski](https://youtu.be/JGl89Kq8BGc)
+- [ ] 📗 Przeczytać [Static search trees: 40x faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
+- [ ] 📗 Przeczytać [How JVM handles exceptions](https://foojay.io/today/how-jvm-handles-exceptions/)
+- [ ] 📗 Przeczytać [Separated Interface Pattern in Java: Streamlining Java Development with Interface Isolation](https://java-design-patterns.com/patterns/separated-interface/)
+- [ ] 🎧 Przesłuchać [Przestań MARTWIĆ SIĘ o to, na co nie masz wpływu. Piotr Stankiewicz](https://youtu.be/ctQvS2cEWLs)
+- [ ] 🎧 Przesłuchać [#138 Short #62: Bezpieczeństwo AI Foundry, Tabele S3, Drama Fluttera, Algorytmy Systemowe, Restrykcje AI](https://patoarchitekci.io/138/)
+- [ ] 🎧 Przesłuchać [English Learning Hacks For Beginners](https://effortlessenglishshow.com/english-learning-hacks-for-beginners)
+- [ ] 🎧 Przesłuchać [Marc Andreessen: Trump, Power, Tech, AI, Immigration & Future of America | Lex Fridman Podcast #458](https://youtu.be/OHWnPOKh_S0)
+- [ ] 🎥 Obejrzeć [Jak radzić sobie z wyjątkami wykorzystując składnię Kotlina korzystając z arrow-kt](https://youtu.be/FatEY_HEMIc)
 
 ### 💡 Pomysły na przyszłość
-- [ ] 🏠 Research kostki na podjazd i taras

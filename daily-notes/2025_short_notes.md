@@ -101,3 +101,31 @@ Piątunio minął. Powiedziałbym, że też był taki w kratkę. Pan od paneli p
 26/01/2025
 ---
 Sobota - po części się udała. Nie zrobiłem tylko silikonu w dolnej łazience i w mocowaniach w garażu zabrakło mi śrubokręta. Dzisiaj jedziemy do Redut 🚗💨.
+
+27/01/2025
+---
+Niedzielka minęła przyjemnie 😇. Czuć było wiosnę - to smutne, bo zima w tym roku do nas nie zawitała ❄️😞. Dzisiaj rano biegałem i w lesie ptaszki tak ładnie ćwierkały - jak wiosną 🤔. Z jednej stronie fajnie, z drugiej nie 😆. Dzisiaj oprócz pracy chciałbym trochę bloga napisać 🙂.
+
+28/01/2025
+---
+Poniedziałek był dobry 🤗. Wieczorkiem trochę popisałem na blogu, ale za mało. Może dziś w ciągu dnia coś mi się uda 🤔. Na 17 mamy spotkanie braterskie u Adama - wybieram się jak nie będzie przeciwności. Z rana odstawiłem samochód 🚗 do Piotrka. Za niedługo muszę zrobić przegląd, a renówka chyba nie gotowa 😏.
+
+29/01/2025
+---
+Mieliśmy wczoraj to spotkanie braterskie, ale było ono sztywne i nie wiem na ile jest sens jego kontynuowania 🤔. Dzisiaj rano pada deszcz, więc nie poszedłem biegać. Mam bieżnię do chodzenia, to może w ciągu dnia odrobię to 😂. Na wieczór zaprosiliśmy Maxima z rodziną ✋.
+
+30/01/2025
+---
+Wczorajszy wieczór był bardzo miły 👍. Nati zrobiła pysznego kabsalona 🍟🍗♨️, ciasto i mieliśmy wspólny czas rozmów 😉. Dziś na dworze jest piękne, czyste niebo 🤗. Z rana przebiegłem 5km po lesie - było fajnie 😆. Teraz śniadanie i do pracy 👨‍💻👨‍💻!
+
+31/01/2025
+---
+I bam! Pierwszy miesiąc 2025 roku dobija końca 🚀. Z rana znów było ładnie i przebiegłem 5 km 🏃🦾. Dziś trening, praca, spotkanie z projektantką ogrodu i sprzątanie 😂.
+
+01/02/2025
+---
+Piąteczek minął szybko. Za szybko 😏. Przyszła nam gofrownica i dzisiaj robimy młodzieżowe u nas i po młodzieżowym gofry 😋🧇🧇! Dziś wstaliśmy lekko po 8 - dobrze się spało 😴🤣. Wczoraj nie sprzątaliśmy domu, więc zapewne czeka nas to dzisiaj 🫠.
+
+02/02/2025
+---
+W sumie to sobota była fajna 😊. Sprzątaliśmy, ale jakoś szybko nam to zeszło 🤫. W międzyczasie na kawę wpadli moi rodzice ☕. Wieczorem było młodzieżowe i była cała nasza młodzież 👍👍, a później jedliśmy gofry 🧇🧇🤗. Dzisiaj na 15 jesteśmy zaproszeni do Piotrowskich na potrójną imprezę - wchodne do nowego domu, urodiny Grześka i odwietki po narodzinach Jonatana 😉.
