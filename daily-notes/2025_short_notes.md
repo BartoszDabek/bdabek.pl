@@ -129,3 +129,31 @@ Piąteczek minął szybko. Za szybko 😏. Przyszła nam gofrownica i dzisiaj ro
 02/02/2025
 ---
 W sumie to sobota była fajna 😊. Sprzątaliśmy, ale jakoś szybko nam to zeszło 🤫. W międzyczasie na kawę wpadli moi rodzice ☕. Wieczorem było młodzieżowe i była cała nasza młodzież 👍👍, a później jedliśmy gofry 🧇🧇🤗. Dzisiaj na 15 jesteśmy zaproszeni do Piotrowskich na potrójną imprezę - wchodne do nowego domu, urodiny Grześka i odwietki po narodzinach Jonatana 😉.
+
+03/02/2025
+---
+Niedziela minęłą przyjemnie 😉. Dzisiaj rano jest piękna pogoda, zrobiłem 5km 👍. Teraz przede mną śniadanie, trening i praca 🥰!
+
+04/02/2025
+---
+Poniedziałek był pracowity 🫡. Wieczorem zrobiliśmy zakupy i na środę zaprosiliśmy Michała z rodziną. Dzisiaj poranne bieganie zaliczone 🏃✅. Jadę zaraz kupić jajka, później śniadanie i praca 🔥👨🏻‍💻!
+
+05/02/2025
+---
+Wtorek minął dobrze, nawet trochę artykułu na bloga udało się napisać 😉. Dzisiaj środa. Rano spacerowałem, teraz śniadanie, trening 💪 i praca. Wieczorem wpada do nas Michał K. z rodziną 🤛.
+
+06/02/2025
+---
+Obawiałem się wczorajszego wieczoru, szczególnie, że Michał zapytał czy może przyjechać z mamą i kuzynką swojej żony (+ mają energiczne dzieci 😆), ale było bardzo fajnie. Rozmawialiśmy do 22:30 i możnaby jeszcze ciągnąć rozmowy 😉. Dzisiaj rano biegałem i teraz śniadanie. Dziś przyjedzie do nas z powrotem nasz stół ❤️! A wieczorem nabożeństwo 😇.
+
+07/02/2025
+---
+Czwartek to u nas dzień postny - tzn. taki bardziej półpostny, bo jemy śniadanie i kolację. Nie było lekko, ale dzięki Bogu udało się przeżyć 😄. Dzisiaj zwyczajowy poranek zaliczony ✅. Nie mam specjalnych planów na dziś - wieczorem wpadnie do nas Piotrek z Zuzią na gofry 🧇😋.
+
+08/02/2025
+---
+Wieczór był bardziej spontaniczny, bo wpadła jeszcze Iza z dziećmi. Było szumno 🤯, ale i wesoło 😉. Dzisiaj chcemy ogarnąć plan ogrodu od architektki, tato jeszcze dzwonił czy mu pomogę w drobnej sprawie, przygotowanie na jutrzejszych gości 😌 i wieczorem młodzieżowe!
+
+09/02/2025
+---
+Sobota minęła 😏. Miałem taką myśl podczas dnia, że kiedyś bardziej lubiłem soboty, teraz jakoś mniej 🙄. Dziś po nabożeństwie będziemy mieć gości, Nati zrobiła szarlotkę 🥧🥰 i wieczorem wpadniemy chyba do Kuby i Kasi.
