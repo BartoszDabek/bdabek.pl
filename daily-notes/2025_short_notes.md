@@ -157,3 +157,31 @@ Wieczór był bardziej spontaniczny, bo wpadła jeszcze Iza z dziećmi. Było sz
 09/02/2025
 ---
 Sobota minęła 😏. Miałem taką myśl podczas dnia, że kiedyś bardziej lubiłem soboty, teraz jakoś mniej 🙄. Dziś po nabożeństwie będziemy mieć gości, Nati zrobiła szarlotkę 🥧🥰 i wieczorem wpadniemy chyba do Kuby i Kasi.
+
+10/02/2025
+---
+Niedziela była pyszna pod względem jedzenia 😍. Nie wpadliśmy jednak do Kuby i Kasi na wieczór, zamiast tego spędziliśmy sobie przyjemny wieczór w domu 🖐. Dzisiaj rano było -10 stopni 🥶🥶. Musiałem odstawić Piotrkowi auto na przegląd i później biegłem do domu 😀. Za kilka godzin ma przyjść nasz narożnik ❤️, super!
+
+11/02/2025
+---
+Wczoraj do wieczności odeszła babcia Luba 🕊️. Nie była to moja babcia po krwi - to była dziadka siostra, ale bardzo dużo czasu z nią spędziliśmy i ostatnie lata ona żyła u moich rodziców. Pogrzeb będzie w środę 🪦. Nie ma wielkiego smutku, bo miała 95 (prawie 96) lat i to naturalne, że z ziemi trzeba odejść 😏. Ahh no i wczoraj przyszedł też narożnik 🤩🤗 + poznaliśmy naszego więźnia, który się nawrócił i po 25 latach wyszedł na wolność (wyszedł w niedzielę, ale nie mieliśmy okazji się widzieć). Dużo się działo wczoraj 😁. Dziś biegnę odebrać od Piotrka auto z rana i później standardowy dzień 🫡.
+
+12/02/2025
+---
+Wtorek minął fajnie i przyjemnie 🫡. Dzisiaj rano spacer zaliczony, śniadanie też już zjedzone. Teraz zabieram się za trening i do pracy bo o 11:30 wybieramy się na pogrzeb 😌.
+
+13/02/2025
+---
+Wczorajszy pogrzeb odbył się tak jak powinien. Była słoneczna pogoda, piękny, mroźny dzień i babci Luby już z nami nie ma 😌 - ma lepiej! Po pogrzebie była stypa i po wszystkim. A my nadal żyjemy... i dlatego rano 5km zaliczone 😆. Teraz śniadanko i do pracy 🤗!
+
+14/02/2025
+---
+Czwartek był bez problemowy 👍. Rozliczyłem PIT roczny - całkiem sprawnie i łatwo mi to poszło 😄. Jedliśmy pyszne śniadanko i kolację 😋. Dzisiaj pada lekki śnieg o poranku ❄️😊. Zaraz pójdę biegać i od razu zahaczę o sklep z pieczywiem 🍞, a później dzień standardowy. Wieczorem z Nati zrobimy sobie gofry 🧇😘.
+
+15/02/2025
+---
+Piątek minął bezpowrotnie 🥲. Wieczorem wpadł do nas Paweł i Iza z Kamilem i dziećmi. Jedliśmy goferki i rozmawialiśmy. A dzisiaj dzień sprzątania 🧹🧼🫧 i wieczorem młodzieżowe!
+
+16/02/2025
+---
+Pomimo sprzątającej soboty, to stwierdzam, że była fajna 😇. Dzisiaj rano spadł śnieg - jest pięknie i mroźno ❄️🤗. Rano zrobiłem krótki spacer i pojechałem pomóc odśnieżyć przy zborze (jak zajechałem to właściwie wszystko było już odśnieżone 😏). Po nabożeństwie jedziemy do moich rodziców i będziemy świętować mamy urodziny 🥳!
