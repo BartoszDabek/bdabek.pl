@@ -185,3 +185,31 @@ Piątek minął bezpowrotnie 🥲. Wieczorem wpadł do nas Paweł i Iza z Kamile
 16/02/2025
 ---
 Pomimo sprzątającej soboty, to stwierdzam, że była fajna 😇. Dzisiaj rano spadł śnieg - jest pięknie i mroźno ❄️🤗. Rano zrobiłem krótki spacer i pojechałem pomóc odśnieżyć przy zborze (jak zajechałem to właściwie wszystko było już odśnieżone 😏). Po nabożeństwie jedziemy do moich rodziców i będziemy świętować mamy urodziny 🥳!
+
+17/02/2025
+---
+Niedziela minęła szybko i przyjemnie 😉. Wróciliśmy od rodziców przed 18 i jeszcze poszliśmy na trochę pracować, później przyjechał Piotrek i wpadł na godzinkę, na herbatkę 🍵. Dzisiaj rano było mroźno, ale nie zmieniło to faktu, że poszedłem biegać i zaliczyłem 5km 😆. Teraz śniadanko, trening i zakasam rękawy do pracy 😇!
+
+18/02/2025
+---
+Poniedziałek był ciężki mentalnie 😳🙄. Wierzę, że będzie lepiej. Dzisiaj rano biegałem, zaraz jadę po jajka 🥚🥚 i później praca ;)
+
+19/02/2025
+---
+Wtorek był nieco lepszy, ale nadal nie idealny 😏. Dzisiaj wstałem o 5, żeby mieć trochę więcej czasu na swoje rzeczy. Zaraz idę na spacer i później standard 👍. Wieczorem z Nati mamy zamiar wybrać się na spacer na pizzę 🍕🍕.
+
+20/02/2025
+---
+Środa była w końcu dobra. Wieczorem byliśmy na pizzy i później Nati zrobiła test ciążowy i chyba to mamy 🤭🤫... Dzisiaj znów wstałem o 5 rano. Z rana trochę się pouczę, później idę biegać, golenie, śniadanie, praca i wieczorem na nabożeństwo 👊.
+
+21/02/2025
+---
+Życie nie jest proste 😶. Proszę Boże, zechciej wysłuchać naszych modlitw i postu, bo bez tego ciężko jest/będzie żyć. Takie było motto czwartkowe i dzisiejsze i każdego kolejnego dnia, dopóki nie przyjdzie odpowiedź 👀. Dziś wstałem o 4, teraz siadam trochę do nauki, później idę biegać, śniadanie, praca, trening.
+
+22/02/2025
+---
+Piątek był fizycznie dosyć ciężki, ale ogólnie cały dzień był na plus ➕. Dzisiaj udało mi się wstać o 4:30 🥱. Dzisiaj będziemy mieć w zborze spotkanie braci dyżurujących i wieczorem nabożeństwo okolicznościowe z udziałem gości 😉.
+
+23/02/2025
+---
+Sobota była przyjemna. Nie mieliśmy dużo sprzątania - właściwie to prawie w ogóle go nie mieliśmy. Nabożeństwo okolicznościowe było dobre 👍. Dzisiaj po nabożeństwie porannym jedziemy do Redut i tam spędzimy resztę dnia - dawno tam nie byliśmy 🙂.
