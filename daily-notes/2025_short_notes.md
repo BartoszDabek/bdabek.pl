@@ -213,3 +213,31 @@ Piątek był fizycznie dosyć ciężki, ale ogólnie cały dzień był na plus �
 23/02/2025
 ---
 Sobota była przyjemna. Nie mieliśmy dużo sprzątania - właściwie to prawie w ogóle go nie mieliśmy. Nabożeństwo okolicznościowe było dobre 👍. Dzisiaj po nabożeństwie porannym jedziemy do Redut i tam spędzimy resztę dnia - dawno tam nie byliśmy 🙂.
+
+24/02/2025
+---
+I koniec weekendu 🥲. Niedziela minęła spokojnie. W Redutach zrobiliśmy sobie spacer z psami po lesie 🌲☁️. Dzisiaj znów wstałem przed 5. Plan na dziś mam raczej standardowy + dodatkowo jeszcze wizytę u dentysty 🦷😶‍🌫️.
+
+25/02/2025
+---
+Poniedziałek koniec końców wyszedł fajnie bo u dentysty Nati nie ma nic do zaleczenia, a ja zrobiłem odkamienianie 🫡. Trochę bolało, ale załatwione 😉! Nie wyszedł mi challenge z brakiem jedzenia śmieciowego jedzenia - chyba go przełożę na inny termin 😏. Ale mimo to, chcę się starać ograniczać w takim niezdrowym jedzeniu 👊🏻!
+
+26/02/2025
+---
+Wczorajszy dzień był bardzo dobry 😇. Wieczorem zroganizowaliśmy małą społeczność u nas w domu - był Kuba z Kasią i Daniel - mieliśmy bardzo dobry czas 🕔. Dzisiaj czuję się trochę jakby mnie chciała wziąć jakaś choroba - w kościach to czuję 🦴🤣. Idę zaraz zrobić spacer i później zobaczymy jak się dzień potoczy 😏.
+
+27/02/2025
+---
+Środa minęła za szybko 😶. Bardzo szybko mijają ostatnie dni - a może to i dobrze, bo szybciej nadejdzie wiosna? 😅
+
+28/02/2025
+---
+Czwartek był ok, ale za mało dnia było 😦. Na 18 trzeba było się już zbierać na wieczorowe, a pracy dużo ostatnio 😅. Dzisiaj znów wstałem przed 5 rano - zmienię chyba wyzwanie na wstawanie o 5 bo już tydzień minął jak tak wstaje 🫣. Plan na dziś standardowy - bieganie, trening, praca, sprzątanie. Wujek mnie jeszcze poprosił, żeby mu pomóc coś tam wnieść do bloku 🦾.
+
+01/03/2025
+---
+Piątek minął 😭. Jak zawsze - było za mało czasu 🥲🥲. Udało nam się posprzątać górne piętro, dziś zostało już z górki, bo tylko dół 🧹🧼. Wczoraj wyszło tak, że nie pomagałem wujkowi jednak. Dzisiaj znów pobudka przed 5 - zmieniam challenge 😆!
+
+02/03/2025
+---
+Sobota była dobra. Do wieczora było wszystko ok, a później z Nati mieliśmy małą kłótnię 😓. Zobaczymy jak dzisiaj będzie, chciałbym, żeby było dobrze.
