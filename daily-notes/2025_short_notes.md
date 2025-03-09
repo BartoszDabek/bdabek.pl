@@ -241,3 +241,31 @@ Piątek minął 😭. Jak zawsze - było za mało czasu 🥲🥲. Udało nam si�
 02/03/2025
 ---
 Sobota była dobra. Do wieczora było wszystko ok, a później z Nati mieliśmy małą kłótnię 😓. Zobaczymy jak dzisiaj będzie, chciałbym, żeby było dobrze.
+
+03/03/2025
+---
+Niedziela była bardzo dobra 👍. Z rana się pogodziliśmy, po nabożeństwie zjedliśmy obiad i przygotowaliśmy się na gości - rodzice z Kasią i Danielkiem. Goście przyjechali, wypiliśmy kawkę ☕, zjedliśmy gofry 🧇 i porozmawialiśmy. Z Nati udało nam się jeszcze przysiąść do projektu ogrodu 🌳🏡! Dzisiaj idę zaraz biegać 🏃 i później dzień standardowo ☺️.
+
+04/03/2025
+---
+Poniedziałek był taki sobie 😏. Chyba najlepszym określeniem będzie - przeżyłem. Dzisiaj idziemy z Nati do lekarza (ginekologa), żeby się dowiedzieć co w brzuchu piszczy 😉.
+
+05/03/2025
+---
+Wczoraj musiałem się z żoną pociągać trochę po szpitalu, ale wszystko wyszło całkiem sprawnie. Dostała kilka badań do zrobienia i za 2 tygodnie kolejna wizyta, gdzie będzie więcej wiadomo 🫡. Dzisiaj planujemy iść z rana do laboratorium, żeby pobrać krew na badania - ja będę miał spacer poranny zaliczony 😁. Później praca, praca i wieczorem robimy grupkę u nas 😉.
+
+06/03/2025
+---
+Środa minęła szybko, ale ogólnie całkiem fajnie 😉. Z rana godzinkę nam zajęło pobrnaie krwi w laboratorium i później już cały dzień siedzieliśmy w domu 😏. Dziś ciężko było wstać, ale dzięki Bogu się udało. Idę zaraz biegać i później standardowy dzień. Nie wiem jeszcze czy pójdziemy dziś na wieczorowe, czy będę się uczyć 😌.
+
+07/03/2025
+---
+Wczoraj zostaliśmy w domu i jednak uczyłem się 😏. Zobaczę co wyjdzie z tej nauki i jak coś wyjdzie to może napiszę 🙄, a może nie 😄. Ostatnio trochę mi się przybrało na wadze i zastanawiam się jak wyjść z nawyku jedzenia dużych ilości. Pewnie to proste - wystarczy mniej jeść 😮👏!
+
+08/03/2025
+---
+Wydaje mi się, że piątek był udany ☺️. Dzisiaj mamy sprzątanie zboru 🧹🧤🧽. Zapewne pojedziemy około 9 i myślę, że do 12 powinniśmy się wyrobić, żeby wrócić 😏. Wieczorem jeszcze jest młodzieżowe. Oprócz tego, planuje się po prostu uczyć dziś - chyba, że dostanę informację, że nie muszę 🥲.
+
+09/03/2025
+---
+Pierwsze rowery w tym roku zaliczone 🚴🤗✅! Wczoraj po obiedzie z Nati postanowiliśmy, że idziemy się przejechać, bo jest taka piękna pogoda 🥰. Wczoraj odwołaliśmy młodzieżowe bo Ukraińców miało nie być, a w 3 osoby się spotykać - jako nie bardzo to widzę. Dzisiaj po nabożeństwie jedziemy do Redut i południe spędzimy tam 🐕😉.
