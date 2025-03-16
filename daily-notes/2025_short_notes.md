@@ -269,3 +269,31 @@ Wydaje mi się, że piątek był udany ☺️. Dzisiaj mamy sprzątanie zboru �
 09/03/2025
 ---
 Pierwsze rowery w tym roku zaliczone 🚴🤗✅! Wczoraj po obiedzie z Nati postanowiliśmy, że idziemy się przejechać, bo jest taka piękna pogoda 🥰. Wczoraj odwołaliśmy młodzieżowe bo Ukraińców miało nie być, a w 3 osoby się spotykać - jako nie bardzo to widzę. Dzisiaj po nabożeństwie jedziemy do Redut i południe spędzimy tam 🐕😉.
+
+10/03/2025
+---
+Niedziela była bardzo fajna 😊. Pogoda była na tyle ciepła, że na spacer o 16 poszliśmy w bluzach i było normalnie 🤗. Wieczorem przyjechał kuzyn Damian! Wczoraj się tylko przywitaliśmy, ale dzisiaj i jutro się spotkamy 😉. Plan na dziś, to poniedziałkowy standard 😆.
+
+11/03/2025
+---
+Cieżki był wczorajszy poniedziałek - bardzo dużo się uczyłem. Wieczorem wpadł do nas Damian i siedział do północy. Fajny czas mieliśmy 😉. Dziś ciężko było wstawać, ale się udało 😃. Możliwe, że z rana pójdę na rower, zamiast biegać, a później praca i wieczorem znów mamy gości - w tym Damiana 😆.
+
+12/03/2025
+---
+Wczoraj zrobiłem prawie 20 km rowerkiem 😉. Wieczorem była pizza 🍕🍕 i znów siedzieliśmy do północy 🌙. Znów ciężko było wstać, ale udało się. Dziś planuję spacer do sklepu, później praca, trening, praca i mam nadzieję spokojny wieczór 😌.
+
+13/03/2025
+---
+Środa nareszcie była spokojna. Zjedliśmy sobie kolację, wykąpaliśmy się i poszlimy spać jeszcze przed 22 🤗. Ostatnio sporo się uczyłem, bo próbowałem dostać się do Revoulta, miałem 3 rozmowy techniczne. Niestety odpadłem, ale dzięki Bogu, że mam pracę 🙂. Zaraz idę na rower, dziś wieczorem nabożeństwo i może później pożegnać Damiana jeszcze 😉.
+
+14/03/2025
+---
+Czwartek minął. Byliśmy wieczorem pożegnać Damiana. Była kolacja z wędlinami i serami dojrzewającymi, był tatar i była szarlotka 🍎😋. Dzisiaj wieczorem wpada do nas całe rodzeństwo Nati - przyjeżdża Piotrek i dlatego wszystkich już zaprosiliśmy 😌. A dzień dzisiaj standardowy raczej będzie 🫡.
+
+15/03/2025
+---
+Cały piątek był spoko 😉. Z gości było sporo roboty. Robiliśmy pizze domową i zajęło to nam z 3 godziny 🍕⌛. Na przyszłość - lepiej wydać więcej 💵, ale zaoszczędzić czas i nerwy 👈. Dzisiaj w planie jest sprzątanie i wieczorem młodzieżowe 👏😉.
+
+16/03/2025
+---
+Wczoraj po młodzieżowym przyjechał jeszcze Piotrek z Olą i skończyliśmy rozmowy 30 minut po północy 😴😴. W tym tygodniu strasznie wiele razy chodziłem późno spać i wcześnie musiałem (chciałem) wstać 🥱. Dzisiaj po nabożeństwie jedziemy na urodziny Danielka do Kuby i Kasi 🙂.

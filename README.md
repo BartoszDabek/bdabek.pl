@@ -8,8 +8,8 @@ Personal Goals
 1. Reaktywacja bloga [bdabek.pl](https://www.bdabek.pl/)
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (205/400) 🏃 ![Progress](https://geps.dev/progress/51/)
-2. Przejechać rowerem 2000 km (20/2000) 🚴 ![Progress](https://geps.dev/progress/1/)
+1. Przebiec 400 km (216/400) 🏃 ![Progress](https://geps.dev/progress/54/)
+2. Przejechać rowerem 2000 km (60/2000) 🚴 ![Progress](https://geps.dev/progress/3/)
 3. 100 kg na klatę  🏋️
 4. 100 kg na nogi 🦵
 
@@ -17,26 +17,29 @@ Personal Goals
 1. Zimne prysznice 🚿
 2. Rozciąganie 🧘
 3. 🚧 5 rano pobudka 🌅 (21.02-23.03)
-4. 0 śmieciowego jedzenia 🍔
+4. 0 śmieciowego jedzenia 🍔 (17.03-16.04)
 5. Wstrzymywanie oddechu 😮‍💨
 6. 3000 kcal 🍌
 7. ✅ Praca przez 2h na stojąco 🧍 (02.01-28.02)
 8. Praca w systemie pomodoro 🍅
 9. Codzienne ćwiczenie 🏋️‍♂️
 
-# [03/09/2024]
+# [03/16/2024]
 ### 🚧 W tym tygodniu:
+- [ ] 📥 Przenieść kopie zapasowe z Dropboxa do Google Drive
 - [ ] 📗 Przeczytać [25 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/)
-- [ ] 📗 Przeczytać [Database Migrations in the Real World](https://blog.jetbrains.com/idea/2025/02/database-migrations-in-the-real-world/)
-- [ ] 📗 Przeczytać [Exploring Generative AI](https://martinfowler.com/articles/exploring-gen-ai.html)
-- [ ] 📗 Przeczytać [Service Layer Pattern in Java: Enhancing Application Architecture with Robust Service Layers](https://java-design-patterns.com/patterns/service-layer/)
-- [ ] 🎧 Przesłuchać [179: Project Planning](https://www.programmingthrowdown.com/episodes/179-project-planning/)
-- [ ] 🎧 Przesłuchać [#142 Short #65: Java vs Python AI Battle, AKS Network Tools, Database Future, OpenAPI Changes](https://patoarchitekci.io/142/)
-- [ ] 🎧 Przesłuchać [The 3 Secrets to SUCCESS](https://effortlessenglishshow.com/the-3-secrets-to-success)
-- [ ] 🎧 Przesłuchać [O integracji serwisów z użyciem kontraktów z Jackiem Milewskim](https://bettersoftwaredesign.pl/podcast/o-integracji-serwisow-z-uzyciem-kontraktow-z-jackiem-milewskim/)
-- [ ] 🎥 Obejrzeć [Toruń JUG #75 - "Jakość oprogramowania - od zera do produkcji i jeden krok dalej" - Daniel Dopierała](https://youtu.be/1BHaDHU9sRM)
-- [ ] 🎥 Obejrzeć [System Design Interview: Design Uber w/ a Ex-Meta Staff Engineer](https://youtu.be/lsKU38RKQSo)
-- [ ] 🎥 Obejrzeć [System Design Interview: Design Tinder w/ a Ex-Meta Staff Engineer](https://youtu.be/18Fg5Akhkqw)
+- [ ] 📗 Przeczytać [System Design in a Hurry - Key Technologies](https://www.hellointerview.com/learn/system-design/in-a-hurry/key-technologies)
+- [ ] 📗 Przeczytać [Podstawy - Korzystanie z mocków w testach integracyjnych Springa](https://cezarysanecki.pl/2025/02/21/podstawy-korzystanie-z-mockow-w-testach-integracyjnych-springa/)
+- [ ] 📗 Przeczytać [How Databases Keep Passwords Securely](https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database)
+- [ ] 📗 Przeczytać [Using RAG and Vector Store with Spring AI](https://piotrminkowski.com/2025/02/24/using-rag-and-vector-store-with-spring-ai/)
+- [ ] 📗 Przeczytać [Why Is Redis a Distributed Swiss Army Knife](https://newsletter.systemdesign.one/p/redis-use-cases)
+- [ ] 📗 Przeczytać [Service Locator Pattern in Java: Simplifying Service Access in Complex Systems](https://java-design-patterns.com/patterns/service-locator/)
+- [ ] 🎧 Przesłuchać [How to Enhance Your Immune System | Dr. Roger Seheult](https://www.hubermanlab.com/episode/how-to-enhance-your-immune-system-dr-roger-seheult)
+- [ ] 🎧 Przesłuchać [POIT #273: Rotacja w IT](https://porozmawiajmyoit.pl/poit-273-rotacja-w-it/)
+- [ ] 🎧 Przesłuchać [Venture Capital w Polsce: kulisy branży, o których nikt nie mówi głośno. Paweł Maj](https://youtu.be/vWmwNTHTPRA)
+- [ ] 🎧 Przesłuchać [Foojay Podcast #66: Let’s Talk About Java Code! Diving into a few Foojay blog posts…](https://foojay.io/today/foojay-podcast-66/)
+- [ ] 🎧 Przesłuchać [#143 Short #66: Cloud Revenue Q4, GPT-4o Copilot, OpenTofu Updates, MSFT Quantum Majorana Chip](https://patoarchitekci.io/143/)
+- [ ] 🎥 Obejrzeć [Networking Essentials for System Design Interviews](https://youtu.be/SHkbPm1Wrno)
+- [ ] 🎥 Obejrzeć [320. WJUG - Paulina Szeląg - "QA 2.0 Enhancing Testing with AI" [EN]](https://youtu.be/z0hegOcRecY)
 
 ### 💡 Pomysły na przyszłość
