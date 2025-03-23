@@ -297,3 +297,32 @@ Cały piątek był spoko 😉. Z gości było sporo roboty. Robiliśmy pizze dom
 16/03/2025
 ---
 Wczoraj po młodzieżowym przyjechał jeszcze Piotrek z Olą i skończyliśmy rozmowy 30 minut po północy 😴😴. W tym tygodniu strasznie wiele razy chodziłem późno spać i wcześnie musiałem (chciałem) wstać 🥱. Dzisiaj po nabożeństwie jedziemy na urodziny Danielka do Kuby i Kasi 🙂.
+
+17/03/2025
+---
+Niedziela ogólnie była dobra 👍. Byliśmy na obiedzie i cieście u Kuby i Kasi. Było trochę osób, mieliśmy dobry czas. Niestety później moją żonę rozbolał brzuch i musieliśmy się ewakuować. Później Nati cierpiała chyba do 23 i zakończyło się wymiotowaniem 🤮. Dzisiaj już jest lepiej. Ja jestem po bieganiu 😉. Teraz trening, śniadanko i do pracy 🫡!
+
+18/03/2025
+---
+Poniedziałek minął nam bardzo fajnie 😉. O 18 poszliśmy na godzinny spacer do sklepu, a później pojechaliśmy do rodziców i razem zjedliśmy kolację 🙂. Dziś z Nati idę do lekarza z rana, więc zrezygnowałem z porannej aktywności - jutro pójdę biegać 😅.
+
+19/03/2025
+---
+Wczoraj byliśmy z Nati u lekarza i ciąża jest potwierdzona 😇. Jeżeli Pan Bóg da łaskę i dożyć do października/listopada to nasza rodzina powiększy się o jednego członka 😊. Dzisiaj plan standardowy - praca, trening ✔️. A teraz idę biegać 🏃👋!
+
+20/03/2025
+---
+Środa była 👍👏. Dziś idę na rower z rana 🚲. Jest zimno, bo teraz pokazuje -2 stopnie, ale... świeci słońce ☀️, ciepło się ubiorę i będzie dobrze 🤛. Dzisiaj nie jem 🍖🚫 - a przynajmniej do kolacji.
+
+
+21/03/2025
+---
+Czwartek mógł być. Dużo pracowałem 🫣, wieczorem byliśmy na nabożeństwie i później zjedliśmy kolację 🙂. To już ostatnie dni wyzwania z porannym wstawaniem 🤗 - bardzo szybko to minęło 😲! Dzisiaj idę zaraz na rower 🚲🤭. Znów jest zimno, tym razem słońce nie świeci tak mocno, jak wczoraj, ale dam radę 😁! Później standardowy dzień, tyle że piątkowy 😉.
+
+22/03/2025
+---
+Wczoraj poszliśmy na burgery 🍔. Nie jem śmieciowego jedzenia, ale uznaliśmy, że z racji dnia chłopaka, który już był, mogę. A dodatkowo - ależ się bronię - to nie było w żadnym McDonaldzie czy innej restaruacji tego typu 😎. Byliśmy w Trio 😄. Dzisiaj sobota! Będziemy myć okna 🪟🫧🧽!
+
+23/03/2025
+---
+Plan mycia okien nie wypalił. Moja żona uznała, że to nie jest dobry dzień na mycie - nie kłociłem się o to. Później niestety się pokłóciliśmy o drobnostkę i od 15 do końca dnia było źle 😔. Końcowo przed snem się pojednaliśmy. Dzisiaj standardowa niedziela, jedziemy do Redut ✇🚗.
