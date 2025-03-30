@@ -326,3 +326,31 @@ Wczoraj poszliśmy na burgery 🍔. Nie jem śmieciowego jedzenia, ale uznaliśm
 23/03/2025
 ---
 Plan mycia okien nie wypalił. Moja żona uznała, że to nie jest dobry dzień na mycie - nie kłociłem się o to. Później niestety się pokłóciliśmy o drobnostkę i od 15 do końca dnia było źle 😔. Końcowo przed snem się pojednaliśmy. Dzisiaj standardowa niedziela, jedziemy do Redut ✇🚗.
+
+24/03/2025
+---
+Fajnie minęła niedziela ☺️. Powiedzieliśmy dziś rodzicom i całemu rodzeństwu, że Nati jest w ciąży. Po stronie Nati, nikt nam nie uwieżył 😆😅! Z drugiej strony, Kuba z Kasią już wiedzieli, bo ktoś nas widział przy poradni ginekologicznej 🫣. Nic się nie ukryje 🤫. Dzisiaj rano pada deszcz, więc nie byłem biegać ani nie jeździłem rowerem. Wstałem też po 6, więc sobie odespałem wyzwanie wstawania o 5 rano 😃. I plan na dziś jest standardowy - trening, praca!
+
+25/03/2025
+---
+Ahh, wczoraj w ogóle nie wyszedłem z domu 😔. Dziś sobie odrobię i pomimo, że pogoda nie jest za fajna to idę na rower 🚲💪! A później dzień będzie biegł swoim życiem - czyli standardowo praca 😁👍. Dziś wieczorem robimy jeszcze grupkę u nas 🙌.
+
+26/03/2025
+---
+W niedzielę mieliśmy pierwsze objawy, że nam pada na dobre sprzęgło w aucie. Wczoraj już zaczął mi pikać stop, ale jeszcze jeździłem. Dziś rano miałem odstawić auto do Piotrka na wymianę opon, ale już nie mogłem - sprzęgło padło całkowicie 🥲. Dzięki Bogu, że wczoraj w drodze, albo przy jakimś sklepie się to nie stało. Dzisiaj rano przebiegłem 5km. Teraz będę robić trening, śniadanie i do pracy 👨🏻‍💻👨🏻‍💻.
+
+27/03/2025
+---
+Środa - była spoko 👍. Dziś rano zrobiłem sobie spacer po lesie - tam jest pięknie 🤗🌷🐥! Plan na dziś to praca i wieczorem możliwe, że nabożeńśtwo, ale zobaczymy czy będziemy mieli jak się dostać 🤔.
+
+28/03/2025
+---
+Wczoraj na nabożeństwo zawiózł nas Daniel 🙂. Dziś rano rowerek już zaliczony ✅. Pogoda za oknem jest piękna 🤗. Mam nadzieję, że ten dzień też taki będzie ☺️!
+
+29/03/2025
+---
+Wczoraj na wieczór wpadł do nas Paweł - mój szwagier. Graliśmy w eurobiznes 🎲💰, graliśmy do 23:30 😅! Dzisiaj z Nati planujemy dosprzątać dom (wczoraj już zaczęliśmy) i wyjść na rowery 🚲❤️. Dzisiaj będę też robił chleb 🍞 - mój pierwszy w życiu 🤛.
+
+30/03/2025
+---
+Ależ to była fajna i dobra sobota 😍🤗. Posprzątaliśmy dom, umyliśmy duże okna, byliśmy na rowerze, upiekłem chleb (wyszedł dobry 🤫) i byliśmy na młodzieżowym. Dzięki Bogu za ten dzień! Dzisiaj przesuwamy czas. Wstałem trochę później, bo po 7 🥱. Planu na dziś, oprócz porannego nabożeńśtwa nie mamy 😉.
