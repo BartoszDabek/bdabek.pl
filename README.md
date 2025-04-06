@@ -8,8 +8,8 @@ Personal Goals
 1. Reaktywacja bloga [bdabek.pl](https://www.bdabek.pl/)
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (231/400) 🏃 ![Progress](https://geps.dev/progress/57/)
-2. Przejechać rowerem 2000 km (180/2000) 🚴 ![Progress](https://geps.dev/progress/9/)
+1. Przebiec 400 km (242/400) 🏃 ![Progress](https://geps.dev/progress/60/)
+2. Przejechać rowerem 2000 km (262/2000) 🚴 ![Progress](https://geps.dev/progress/13/)
 3. 100 kg na klatę  🏋️
 4. 100 kg na nogi 🦵
 
@@ -24,22 +24,21 @@ Personal Goals
 8. Praca w systemie pomodoro 🍅
 9. Codzienne ćwiczenie 🏋️‍♂️
 
-# [03/30/2024]
+# [04/06/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 🎓 AI IDE - ogarnąć Windsurf lub Cursor
 - [ ] 🏠 MitaP - dogadać się ze zrobieniem pralni
 - [ ] 📗 Przeczytać [25 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [https://www.hellointerview.com/learn/system-design/deep-dives/cap-theorem](https://www.hellointerview.com/learn/system-design/deep-dives/cap-theorem)
-- [ ] 📗 Przeczytać [Checking out Junie, a coding agent by JetBrains](https://foojay.io/today/checking-out-junie-a-coding-agent-by-jetbrains/)
-- [ ] 📗 Przeczytać [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/)
+- [ ] 📗 Przeczytać [Consistent Hashing](https://www.hellointerview.com/learn/system-design/deep-dives/consistent-hashing)
+- [ ] 📗 Przeczytać [What Is Service Discovery?](https://systemdesign.one/what-is-service-discovery/)
 - [ ] 📗 Przeczytać [Amazon Prime Video Microservices Top Failure](https://newsletter.systemdesign.one/p/prime-video-microservices)
-- [ ] 📗 Przeczytać [Java 24 Rolls Out Today! Find Out Why It’s Aptly Named](https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/)
-- [ ] 📗 Przeczytać [Session Facade Pattern in Java: Simplifying Complex System Interfaces](https://java-design-patterns.com/patterns/session-facade/)
-- [ ] 🎧 Przesłuchać [#145 Short #67: Śliwka i Bielik, Allegro LLM, TechTrends, Antropic Reasoning, CRO, Event Destinations](https://patoarchitekci.io/145/)
-- [ ] 🎧 Przesłuchać [Przedsiębiorczość to droga na szczyt... ale samotna jak nigdy! Amadeusz Król i Maciej Filipkowski](https://youtu.be/T30HP1r2ymE)
-- [ ] 🎧 Przesłuchać [O architekturze mikrofrontendów i mikroserwisach Allegro z Bartoszem Gałkiem prowadzi Tomasz Ducin, część 1](https://bettersoftwaredesign.pl/podcast/o-architekturze-mikrofrontendow-i-mikroserwisach-allegro-z-bartoszem-galkiem-prowadzi-tomasz-ducin-czesc-1/)
-- [ ] 🎧 Przesłuchać [#146 Short #68: Rozbijanie Monolitów, RISC-V w Europie, Mierzenie Produktywności, Multi-Cloud inaczej](https://patoarchitekci.io/146/)
-- [ ] 🎧 Przesłuchać [POIT #276: Czego potrzebujesz by jako programista awansować na stanowisko liderskie?](https://porozmawiajmyoit.pl/poit-276-czego-potrzebujesz-by-jako-programista-awansowac-na-stanowisko-liderskie/)
-- [ ] 🎥 Obejrzeć [Toruń JUG #76 - "Wzorce komunikacji asynchronicznej z RabbitMQ" Mariusz Mączkowski](https://youtu.be/p5-GjyiagXI)
+- [ ] 📗 Przeczytać [System Design Interview Fundamentals: Mastering Estimation](https://www.hellointerview.com/blog/mastering-estimation)
+- [ ] 📗 Przeczytać [How to create a synthetic annotator? The process of developing a domain-specific LLM-as-a-Judge.](https://blog.allegro.tech/2025/03/how-to-create-a-synthetic-annotator.html)
+- [ ] 📗 Przeczytać [Sharding Pattern in Java: Mastering Horizontal Partitioning to Boost Application Throughput](https://java-design-patterns.com/patterns/sharding/)
+- [ ] 🎧 Przesłuchać [Zarabia MILIONY na skarpetkach, a ty czemu ciągle HARUJESZ za grosze? Cyprian Iwuć](https://youtu.be/hTVdAi-Er-I)
+- [ ] 🎧 Przesłuchać [Foojay Podcast #68: Welcome to OpenJDK (Java) 24](https://foojay.io/today/foojay-podcast-68/)
+- [ ] 🎧 Przesłuchać [Jak długo można być na minusie inwestując pasywnie?](https://inwestomat.eu/jak-dlugo-mozna-byc-na-minusie-inwestujac-pasywnie/)
+- [ ] 🎧 Przesłuchać [Essentials: Supercharge Exercise Performance & Recovery with Cooling](https://www.hubermanlab.com/episode/essentials-supercharge-exercise-performance-recovery-with-cooling)
+- [ ] 🎧 Przesłuchać [O dostarczaniu eventów w systemach rozproszonych z Michałem Ostruszką](https://bettersoftwaredesign.pl/podcast/o-dostarczaniu-eventow-w-systemach-rozproszonych-z-michalem-ostruszka/)
+- [ ] 🎥 Obejrzeć [The Colour and the Shape: Understanding Complex Codebases • Grzegorz Lato • Devoxx Poland 2023](https://youtu.be/Du6VKHKZ6C8)
 
 ### 💡 Pomysły na przyszłość

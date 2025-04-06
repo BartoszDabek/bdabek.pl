@@ -354,3 +354,31 @@ Wczoraj na wieczór wpadł do nas Paweł - mój szwagier. Graliśmy w eurobiznes
 30/03/2025
 ---
 Ależ to była fajna i dobra sobota 😍🤗. Posprzątaliśmy dom, umyliśmy duże okna, byliśmy na rowerze, upiekłem chleb (wyszedł dobry 🤫) i byliśmy na młodzieżowym. Dzięki Bogu za ten dzień! Dzisiaj przesuwamy czas. Wstałem trochę później, bo po 7 🥱. Planu na dziś, oprócz porannego nabożeńśtwa nie mamy 😉.
+
+31/03/2025
+---
+Niedzielka minęła przyjemnie. Byliśmy na kawie u Maksima i Nataszy, a później spacerkiem wróciliśmy do domu 🚶😉. Dziś rano przebiegłem 5 km ✅, teraz idziemy jeść śniadanie, później praca i trening 💪🏻👊🏻.
+
+01/04/2025
+---
+Pierwszy dzień tygodnia też był dobry 👍. Miałem rozmowę rekrutacyjną w XTB - nie poszła najgorzej, ale mogło być lepiej 😆. Na wieczór zaprosiliśmy Piotrka z Zuzią i dziećmi. Zrobiliśmy kolację i sałatkę owocową, siedzieliśmy, jedliśmy i rozmawialiśmy 😋. Dzisiaj odstawiam auto do naprawy do Piotrka - tato mnie zaholuje. Może przebiegnę się w powrotną stronę 🤔. Zobaczę jak będę stać czasowo 😄.
+
+02/04/2025
+---
+Wtorek był super. Wszystko się udało, Piotrek przywrócił nam auto do życia 🤗. Wieczorem z Nati robiliśmy pierogi i pielmieni. Dziś będzie dobry obiadek 😆! Jestem już po rowerze, teraz śniadanko, praca, trening... 
+
+03/04/2025
+---
+Wczoraj wyszliśmy z żoną na rowery do lasu. Zrobiliśmy 19 km 👍. Wieczorem pojechaliśmy na kolację do rodziców i tak nam minął dzień. Dziś rano 22km zrobione 🚲. Dziś zjem chyba tylko kolację, więc zaraz idę potowarzyszyć żonie przy śniadaniu i później praca 🔥. A wieczorem nabożeństwo 😉.
+
+04/04/2025
+---
+Ostatnio nabożeństwa są takie suche. Nie wiem czy to ja i moja żona, czy na prawdę tak jest 🤔. Dziś poranek zaczęty od rowera 💪✅, teraz idę robić chleb, później praca, z Nati pobrać krew 🩸💉, trening, praca 😅. I może kogoś zaprosimy na wieczór 😉.
+
+05/04/2025
+---
+Wieczorem byli u nas Grzesiek z Karoliną, ich dzieci i Magda. Rozmawialiśmy + jedliśmy. Dobry czas. Dzisiaj przed nami leniwa sobota 🙂. Wieczorem młodzieżowe, a reszta dnia... co wyjdzie to będzie 😁!
+
+06/04/2025
+---
+Sobota była leniwa 🤔. Na obiad zjedliśmy sobie placki ziemniaczane ze śmietaną 😋. Wieczorem byliśmy na młodzieżowym, a później zajechaliśmy po chleb na Miłą. Nie było mamy, ale Kasia zaprosiła nas na kolację. Był tam Daniel i opowiadał nam o swoim wyjeździe na Białoruś. Dzisiaj zaprosiliśmy rodzinę Nati na obiad do nas 🫡.
