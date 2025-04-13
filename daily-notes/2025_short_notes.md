@@ -382,3 +382,31 @@ Wieczorem byli u nas Grzesiek z Karoliną, ich dzieci i Magda. Rozmawialiśmy + 
 06/04/2025
 ---
 Sobota była leniwa 🤔. Na obiad zjedliśmy sobie placki ziemniaczane ze śmietaną 😋. Wieczorem byliśmy na młodzieżowym, a później zajechaliśmy po chleb na Miłą. Nie było mamy, ale Kasia zaprosiła nas na kolację. Był tam Daniel i opowiadał nam o swoim wyjeździe na Białoruś. Dzisiaj zaprosiliśmy rodzinę Nati na obiad do nas 🫡.
+
+07/04/2025
+---
+Niedziela minęła przyjemnie 😌. Niestety po gościach mamy małe straty - zbita płytka wyłazowa w łazience 😒. A dziś poniedziałek i pierwszy dzień tygodnia. Przebiegłem z rana 5km. Zimno było dziś rano, około -2 stopnie 🥶. Plan na dzień jest standardowy 🫡!
+
+08/04/2025
+---
+Wczoraj na wieczór pojechaliśmy do rodziców, żeby razem zjeść kolację 🤝. Dziś od rana świeci ładne słońce 😉. Nie jest gorąca, bo było -1 z rana, ale nie przeszkodziło mi to, żeby przebiec się 5km 🏃. Dzisiaj oprócz pracy i treningu, mamy jeszcze plan, żeby na wieczór wpaść do Piotrka i Zuzi. 
+
+09/04/2025
+---
+Wtorek był git 👍. Dziś bieganie już zaliczone. Zaraz wjedzie śniadanko 🥐🍳, trening 🏋️ i praca 👨🏻‍💻. Dziś chyba zostaniemy sobie sami w domu i będziemy mieć wieczór dla siebie 🥰!
+
+10/04/2025
+---
+Wkręciłem się ostatnio w giełdę. Trump trochę miesza z cłami 📉 i pojawiają się (chyba) okazje do kupienia 📈. Wczoraj długo pracowaliśmy. Dziś idę z rana na spacer, później rozciąganie, śniadanie i praca.
+
+11/04/2025
+---
+Wczoraj nie byliśmy na nabożeństwie. Mnie bolała głowa i źle się czułem, a Nati miała dużo pracy 🤯🥵. Dzisiaj już jest u mnie lepiej. Rano przebiegłem 5km 🏃✅. Dziś wieczorem wpadną do nas Dawid z Elą 👍.
+
+12/04/2025
+---
+Piątek minął. Dawid z Elą nie siedzieli u nas za długo - byli do 21. Wieczorem z Nati zaczęliśmy jeszcze oglądać wejście Pateca na Mount Everest 😆. Dzisiaj dzień sprzątania 🪣🧹🧼!
+
+13/04/2025
+---
+Dzień sprzątania, ale wyszedł bardzo fajny ☺️. Wieczorem pojechaliśmy na młodzieżowe do Dubicz - byli tam goście z Litwy 👍. Dzisiaj po nabożeństwie jedziemy do Redut (wprawka przed świętami 😆!).
