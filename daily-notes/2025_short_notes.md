@@ -410,3 +410,32 @@ Piątek minął. Dawid z Elą nie siedzieli u nas za długo - byli do 21. Wieczo
 13/04/2025
 ---
 Dzień sprzątania, ale wyszedł bardzo fajny ☺️. Wieczorem pojechaliśmy na młodzieżowe do Dubicz - byli tam goście z Litwy 👍. Dzisiaj po nabożeństwie jedziemy do Redut (wprawka przed świętami 😆!).
+
+14/04/2025
+---
+Niedziela była dobra 😇. W Redutach była prawdziwa wprawka przed świętami 😄. O 17 z Nati zdecydowaliśmy, że pojedziemy na drugie nabożeństwo z udziałem gości w Hajnówce. Pojechaliśmy i skorzystaliśmy 😇! Dzisiaj rowerek rano zaliczony ✅. Teraz idę przygotować ciasto na chleb 🍞, śniadanie, praca, trening 🔥🙂!
+
+15/04/2025
+---
+Poniedziałek był dobry 💪. Sezon rowerowy się rozkręca 🚴🤛, dziś prawie 25km zaliczone ✔️. Teraz idę zrobić trening, zjeść śniadanie 👨‍🍳 i do pracy 👋🏻!
+
+16/04/2025
+---
+Wtoreczek też super ☺️! Wieczorem z Nati obejrzeliśmy sobie pozostałe 2 odcinki jak Patec wchodzi na Mount Everest 🏔️. Muszę przyznać, że to bardzo ciekawe (dobrze by było, gdyby tylko mniej przeklinał w tych odcinkach). W nocy padał deszcz, z rana było mokro, więc rower zamieniłem na nogi i przebiegłem 5km 🏃👏. Teraz wjedzie śniadanko 🍳🥐, trening i do robótki.
+
+17/04/2025
+---
+Środa przeminęła i czas na czwartek. Rozpocząłem dziś od dobrego dystansu na rowerze - 27~km przejechanych 👍. Plan dnia standardowy, wieczorem nabożeńśtwo.
+
+18/04/2025
+---
+Dziś piąteczek 😊. 28 km rowerem już przejechane 💪. Teraz śniadanko, trening i praca - standard, standard, standard... Wieczorem rozpoczynamy przygotowania pod święta! 
+
+19/04/2025
+---
+Wczoraj pogoda była jak z marzeń - 28 stopni 🤗. Wieczorem byliśmy u rodziców na kolacji i dziś chyba będzie powtórka 😅😅. Dzisiaj przygotowania do świąt będą szły pełną parą 🫡.
+
+
+20/04/2025
+---
+Sobota w sumie minęła fajnie. Nie nudziliśmy się 😁. O 11 pojechaliśmy na mieście i był taki ruch, że w Hajnówce takiego jeszcze nie widziałem 🚘😲. Udało nam się też wysoczyć na rowerek 😉 i wieczorem do rodziców na wspólną kolację 🍽️ (była dobra 😋). Dzisiaj jedziemy na nabożeńśtwo do Dubicz i później pierwszy dzień świętować w Redutach. Chrystus zmartwychwstał!
