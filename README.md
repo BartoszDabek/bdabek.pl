@@ -8,8 +8,8 @@ Personal Goals
 1. Reaktywacja bloga [bdabek.pl](https://www.bdabek.pl/)
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (267/400) 🏃 ![Progress](https://geps.dev/progress/66/)
-2. Przejechać rowerem 2000 km (444/2000) 🚴 ![Progress](https://geps.dev/progress/22/)
+1. Przebiec 400 km (272/400) 🏃 ![Progress](https://geps.dev/progress/68/)
+2. Przejechać rowerem 2000 km (536/2000) 🚴 ![Progress](https://geps.dev/progress/26/)
 3. 100 kg na klatę  🏋️
 4. 100 kg na nogi 🦵
 
@@ -22,23 +22,23 @@ Personal Goals
 6. 3000 kcal 🍌
 7. ✅ Praca przez 2h na stojąco 🧍 (02.01-28.02)
 8. Praca w systemie pomodoro 🍅
-9. Codzienne ćwiczenie 🏋️‍♂️
+9. 🚧 Codzienne ćwiczenie 🏋️‍♂️ (28.04-28.05)
 
-# [04/20/2024]
+# [04/27/2024]
 ### 🚧 W tym tygodniu:
+- [ ] 📝 Temat na bloga z głównymi akapitami
 - [ ] 📗 Przeczytać [20 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Elasticsearch](https://www.hellointerview.com/learn/system-design/deep-dives/elasticsearch)
-- [ ] 📗 Przeczytać [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
-- [ ] 📗 Przeczytać [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
-- [ ] 📗 Przeczytać [Think About SQL MERGE in Terms of a RIGHT JOIN](https://blog.jooq.org/think-about-sql-merge-in-terms-of-a-right-join/)
-- [ ] 📗 Przeczytać [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
-- [ ] 📗 Przeczytać [Using generative AI as an architect buddy for creating architecture decision records](https://handsonarchitects.com/blog/2025/using-generative-ai-as-architect-buddy-for-adrs/)
-- [ ] 📗 Przeczytać [Singleton Pattern in Java: Implementing Global Access Points in Java Applications](https://java-design-patterns.com/patterns/singleton/)
-- [ ] 🎧 Przesłuchać [POIT #279: Rekrutacja developera – co działa, co nie działa](https://porozmawiajmyoit.pl/poit-279-rekrutacja-developera-co-dziala-co-nie-dziala/)
-- [ ] 🎧 Przesłuchać [Walk and Talk | Community and Contribution](https://effortlessenglishshow.com/walk-and-talk-community-and-contribution)
-- [ ] 🎧 Przesłuchać [Wszystko, co dobrze wiedzieć o programie e-Xperience](https://podcast.allegro.tech/#e-xperience-w-allegro)
-- [ ] 🎧 Przesłuchać [Jak Michał Wrzosek zamienił porady DIETETYCZNE w maszynkę do pieniędzy?](https://youtu.be/y4EcDjIbI34)
-- [ ] 🎧 Przesłuchać [#148 Short #70: Kubernetes Security, Region Cloud Disaster, Loki Update, IaC Report, Manager Types](https://patoarchitekci.io/148/)
-- [ ] 🎥 Obejrzeć [Java Performance Update](https://youtu.be/rXv2-lN5Xgk)
+- [ ] 📗 Przeczytać [URL Shortening System Design](https://systemdesign.one/url-shortening-system-design/)
+- [ ] 📗 Przeczytać [Kafka](https://www.hellointerview.com/learn/system-design/deep-dives/kafka)
+- [ ] 📗 Przeczytać [How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern](https://newsletter.systemdesign.one/p/saga-design-pattern)
+- [ ] 📗 Przeczytać [Uncommon Infinite Test Runs - A Case Study on Finding the Root Cause](https://cupofcodes.pl/uncommon-infinite-test-runs-a-case-study-on-finding-the-root-cause/)
+- [ ] 📗 Przeczytać [Clean your Memory: From Finalize to Cleaner](https://foojay.io/today/clean-memory-from-finalize-to-cleaner/)
+- [ ] 📗 Przeczytać [Spatial Partition Pattern in Java: Optimizing Spatial Queries for Enhanced Performance](https://java-design-patterns.com/patterns/spatial-partition/)
+- [ ] 🎧 Przesłuchać [Głos, który podbił internet. Lektor, twórca, przedsiębiorca. Piotr Tarsa](https://youtu.be/SHLhJXYbbjg)
+- [ ] 🎧 Przesłuchać [#149 Short #71: Programiści Jednego Języka, Kafka 4.0, Mercado IDP, Metrics Time on Keyboard](https://patoarchitekci.io/149/)
+- [ ] 🎧 Przesłuchać [POIT #280: Nie tylko kod – jak z głową wejść w rolę lidera w IT](https://porozmawiajmyoit.pl/poit-280-nie-tylko-kod-jak-z-glowa-wejsc-w-role-lidera-w-it/)
+- [ ] 🎧 Przesłuchać [Walk and Talk | Superior Education](https://effortlessenglishshow.com/walk-and-talk-superior-education)
+- [ ] 🎧 Przesłuchać [Foojay Podcast #69: All Things Java at VoxxedDays Amsterdam](https://foojay.io/today/foojay-podcast-69/)
+- [ ] 🎥 Obejrzeć [Pinot, Why Are You So Fast? • Tim Berglund • Devoxx Poland 2023](https://youtu.be/JhHZnj_vdUk)
 
 ### 💡 Pomysły na przyszłość

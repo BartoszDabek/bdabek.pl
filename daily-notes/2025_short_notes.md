@@ -439,3 +439,31 @@ Wczoraj pogoda była jak z marzeń - 28 stopni 🤗. Wieczorem byliśmy u rodzic
 20/04/2025
 ---
 Sobota w sumie minęła fajnie. Nie nudziliśmy się 😁. O 11 pojechaliśmy na mieście i był taki ruch, że w Hajnówce takiego jeszcze nie widziałem 🚘😲. Udało nam się też wysoczyć na rowerek 😉 i wieczorem do rodziców na wspólną kolację 🍽️ (była dobra 😋). Dzisiaj jedziemy na nabożeńśtwo do Dubicz i później pierwszy dzień świętować w Redutach. Chrystus zmartwychwstał!
+
+21/04/2025
+---
+Wczoraj były Reduty i było super 👍🙂. Dzisiaj będziemy na nabożeństwie w Hajnówce i później jedziemy do moich rodziców 😉. Liczę, że po obiedzie uda nam się pospacerować 🤫!
+
+22/04/2025
+---
+Udało się pospacerować po obiedzie, a później jeszcze przed kolacją 😁. Pogoda była super, było pięknie. Dzisiaj dzień dojadania 🤣! Oprócz tego oczywiście trening. A rower dziś już zaliczony 💪.
+
+23/04/2025
+---
+Wczoraj zrobiłem chlebek według przepisu wujka Janka 🍞 - czyli zdrowotnie 🙂. Dzisiaj jedziemy do Białegostoku na badania Nati i od razu rozejrzymy się za kostką do domu 👊.
+
+24/04/2025
+---
+Białystok zaliczony, ale nie udało się nam zajechać do jednego miejsca z kostką, bo było zamknięte 😒. Jakieś tam predykcje już mamy i będzie można za niedługo liczyć koszta 💰💲. Dzisiaj 26km rowerkiem zaliczone 🚴✅. Śniadanko do zjedzenia i do pracy 🔥!
+
+25/04/2025
+---
+Wczoraj po nabożeństwie wieczorowym pojechaliśmy do moich rodziców i zjedliśmy razem kolację 😉. Dziś poranek trochę inny, bo pada deszcz, więc rower odpada na 100% i zaraz zdecyduję czy idę biegać (zależy jaki deszcz będzie padać) 🤔. Plan dnia raczej standardowy - wieczorem zaczynamy sprzątanie 🤭.
+
+26/04/2025
+---
+A jednak wczoraj z rana udało się przebiec 5km - akurat jak zacząłem biec, to znalazłem lukę, że nie padało (ale jak już wracałem to cały zmokłem 😆). Dzisiaj plan to sprzątanie i młodzieżowe wieczorem 👍.
+
+27/04/2025
+---
+Sobota minęła nam szybko 🚀. Dosyć szybko uwinęliśmy się ze sprzątaniem 🧹🧤🧽 i od około 12 byliśmy już wolniejsi. Wieczorem byliśmy na młodzieżowym, a na kolację zaprosiliśmy rodziców. Dzisiaj, po nabożeństwie przyjedzie do nas Pan od moskitier, a na 17 jesteśmy umówieni ze znajomymi na burgery 🍔😋.
