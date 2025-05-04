@@ -12,7 +12,7 @@
 - [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
-- [ ] A Philosophy of Software Design - John Ousterhout (strona: 65)
+- [ ] A Philosophy of Software Design - John Ousterhout (strona: 88)
 
 ## ⭐ Books read 
 ### ✅ 2025

@@ -467,3 +467,31 @@ A jednak wczoraj z rana udało się przebiec 5km - akurat jak zacząłem biec, t
 27/04/2025
 ---
 Sobota minęła nam szybko 🚀. Dosyć szybko uwinęliśmy się ze sprzątaniem 🧹🧤🧽 i od około 12 byliśmy już wolniejsi. Wieczorem byliśmy na młodzieżowym, a na kolację zaprosiliśmy rodziców. Dzisiaj, po nabożeństwie przyjedzie do nas Pan od moskitier, a na 17 jesteśmy umówieni ze znajomymi na burgery 🍔😋.
+
+28/04/2025
+---
+Wczoraj nasi goście siedzieli do całkiem późna - prawie do 23. Mieliśmy w sumie fajny czas rozmów 😉. Dziś rano było mi ciężko wstać 😴, końcowo się udało i byłem już na rowerze 😀. 20km zaliczone ✅. I teraz standardowy dzień - czas start 🕒.
+
+29/04/2025
+---
+Poniedziałek był możliwy 🙂‍↕️. Dzisiaj wstałem o 4 rano, bo planujemy pojechać do Białegostoku z rana, żeby pooglądać kostkę / materiał na podjazd i taras 🤫. Plan jest intensywny. Właśnie robię nogi, później chcę zamieszać chleb 🍞 i wyjść na rower 🚴. A po powrocie z Białegostoku jeszcze oczywiście trzeba pracować i odpracować nieobecny czas 🫡. A więc intensywny dzień się szykuje, mam nadzieję, że uda nam się zdecydować na konkretną kostkę 😌!
+
+30/04/2025
+---
+Wydaje mi się, że mamy już faworyta jeżeli chodzi o materiał na podjazd, opaskę i taras do domu 😉. Wczoraj wieczorem wpadli do nas jeszcze Zuzia z Piotrkiem i dzieci (i przywieźli nam kupę książek 😏). Dzisiaj z rana byłem na rowerze. Teraz śniadanko, trening i praca 😉.
+
+01/05/2025
+---
+Kolejny dzień za nami 😉. Wczoraj chyba nic nadzwyczajnego się nie wydarzyło 🥱. Dziś mamy święto narodowe i dzień wolny od pracy. Z Nati będziemy zakładać warzywniak przy domu 😃 i później jedziemy na grilla do rodziców ☺️.
+
+02/05/2025
+---
+Wczoraj kopanie było ciężkie 🥵⛏️🥄. Udało nam się i ze smakiem pojechaliśmy na grila 🥩♨️🍖. Dzisiaj z rana prawie 30km rowerem zaliczone ✅. Teraz idziemy jeść śniadanko, trening i do pracy. Po pracy będziemy kończyć ogród i może pojedziemy do Redut jeszcze wieczorem 😎.
+
+03/05/2025
+---
+Piątek był fajny. Wieczorem pojechaliśmy do Redut, pochodziliśmy z psem i z rodzicami zjedliśmy kolację 😉. Dzisiaj rano bolała mnie głowa, ale wstałem o 6:15 🫡. Z rana zrobiłem sobie rozciąganie, zaraz planuję jeszcze trening nóg i trzeba coś działać 😆. O 16 mamy ognisko z młodzieżą 🪵🔥.
+
+04/05/2025
+---
+Wczorajszy dzień był fajny 😊. Zasadziliśmy połowę ogródka - druga połowa, czeka na swoją kolej 🤫. Później mieliśmy ognisko z młodzieżą i to był dobry czas 👍. Dziś są moje urodziny 🥳. Żona planuje mnie gdzieś zabrać na obiad, a później na ciasto jedziemy do Kuby i Kasi, bo oni robią urodziny dla Dawida (który urodziny ma za 2 dni).
