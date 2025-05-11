@@ -495,3 +495,31 @@ Piątek był fajny. Wieczorem pojechaliśmy do Redut, pochodziliśmy z psem i z 
 04/05/2025
 ---
 Wczorajszy dzień był fajny 😊. Zasadziliśmy połowę ogródka - druga połowa, czeka na swoją kolej 🤫. Później mieliśmy ognisko z młodzieżą i to był dobry czas 👍. Dziś są moje urodziny 🥳. Żona planuje mnie gdzieś zabrać na obiad, a później na ciasto jedziemy do Kuby i Kasi, bo oni robią urodziny dla Dawida (który urodziny ma za 2 dni).
+
+05/05/2025
+---
+Niedziela.. żona zabrała mnie na obiad do restauracji carskiej w Białowieży. Oboje stwierdziliśmy, że jest to przerost formy nad treścią. Płacisz krocie, dostajesz trochę... 😏. Całe szczęscie później pojechaliśmy jeszcze na urodziny do Dawida i tam dojedliśmy się ciastem 😅. Dziś poniedziałek i plan dnia jest standardowy 👍.
+
+06/05/2025
+---
+Wieczorem byliśmy u Piotrka i Zuzi - Natan miał dzisiaj urodziny 😉. Dziś rano przebiegłem 5km 🫡. Plan dnia na dziś jest raczej standardowy 😉.
+
+07/05/2025
+---
+Wczorajszy dzień był całkiem udany 😉. Kupiliśmy sporo rzeczy do domu (i garażu) 😅. Dzisiaj chcemy pojechać na rynek z rana i kupić sałatę, żeby posadzić ją w naszym ogródku 🌱❤️. Poza tym, rano rowerek zaliczony 🚴✅.
+
+08/05/2025
+---
+Nati zrobiła na wieczór bułeczki cynamonki 😋 pyszne! Wieczorem obejrzeliśmy sobie mecz ligi mistrzów ⚽ i leżeliśmy na narożniku 😌. Dzisiaj rowerek zaliczony, będę robił chleb 🍞 i po południu będę pomagał tacie wypakować styropian na budowę. Mam nadzieję, że uda nam się jeszcze dziś wyrobić na nabożeństwo 🤔.
+
+09/05/2025
+---
+Czwartek był spoko. Transport ze styropianem przyjechał tak, że bez problemu zdążyliśmy na nabożeństwo 😉. Oddaliśmy cały jeden bochen chleba po ludziach. Wieczorem wpadł do nas na kolację tato. A dziś piąteczek. Rower zaliczony ✅, było zimno i to bardzo, ale dałem radę. Z rana idę z Nati do laboratorium - ona musi oddać krew na badania. I później praca 😌.
+
+10/05/2025
+---
+Piąteczek minął przyjemnie 😉! Dziś mamy dzień sprzątania 🪣🧼🧹, a wieczorem młodzieżowe 😌. Wczoraj był ostatni dzień wyzwania 30 dniowego z rozciąganiem ✅.
+
+11/05/2025
+---
+Sobota minęła jak zawsze szybko 🫡. Dziś na 16 zaprosiliśmy Sylwię i Dimę. Będziemy jeść gofry 🧇😋.
