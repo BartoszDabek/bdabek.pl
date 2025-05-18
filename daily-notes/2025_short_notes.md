@@ -523,3 +523,31 @@ Piąteczek minął przyjemnie 😉! Dziś mamy dzień sprzątania 🪣🧼🧹, 
 11/05/2025
 ---
 Sobota minęła jak zawsze szybko 🫡. Dziś na 16 zaprosiliśmy Sylwię i Dimę. Będziemy jeść gofry 🧇😋.
+
+12/05/2025
+---
+Mieliśmy fajny czas wczoraj 😊. Goście byli do 21 i nawet kolację zjedliśmy razem 😉. Dzisiaj zacząłem od sportowego akcentu. Myślałem, że pójdę biegać, ale rano pogoda była taka fajna, że wziąłem rower i machnąłem 26 km 😀. Dalszy plan dnia zgodny ze standardem - śniadanie, trening, praca. I od dziś praca w systemie pomodoro 🍅! 
+
+13/05/2025
+---
+Poniedziałek minął 👋. Mam sporo pracy 👀👀. Dzisiaj jeździłem już rowerem, teraz będę robił chleb 🍞, później jadę kupić jajka 🥚🥚, śniadanie i do pracy 👨‍💻.
+
+14/05/2025
+---
+Wtorek za nami, zrobiłem pyszny chlebek 😁 (mi smakuje), byliśmy u rodziców na kolacji (oczywiście z własnym chlebem). Dzisiaj zacząłem od roweru, teraz idę jeść śniadanko, później trening i praca 💪🙂.
+
+15/05/2025
+---
+Środa minęła dobrze 😉. Zamontowałem w końcu wieszak na opony w garażu - z małymi pertubacjami, ale końcowo opony wiszą 🛞😆. Dzisiaj zacząłem dzień inaczej - zero sportu. Skupiłem się na duchowej stronie 🙂. Mam potrzebę od wielu dni i mam nadzieję, że Bóg na nią wejrzy 😌.
+
+16/05/2025
+---
+Dzisiaj piątek. Kontynuuję wczorajszą duchową stronę i dziś też nie robiłem żadnej aktywności o poranku - zresztą i tak pada deszcz 🌧️🌧️. Wczoraj nasi fachowcy - Michał i Adrian - zrobili już część szalówki na tarasie i zaczyna to wyglądać ☺️!
+
+17/05/2025
+---
+Bogu dzięki za piątek i czas na sobotę. Dalej wzmacniam duchową stronę, to już trzeci i ostatni dzień 👋 - jeżeli Bóg da mi sił wytrwać w tym do końca dnia 😇. Nie mamy na dziś jakichś specjalnych planów. Wieczorem młodzieżowe, a za dnia normalnie 🫡.
+
+18/05/2025
+---
+Sobota była ostatnim dniem mojego postu - bo o to chodziło z duchową stroną 😏. Dzisiaj po nabożeństwie jedziemy do Redut, a wieczorem wpadniemy jeszcze chyba do Piotrowskich, bo nas zaprosili 🙂.
