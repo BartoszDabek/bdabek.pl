@@ -551,3 +551,31 @@ Bogu dzięki za piątek i czas na sobotę. Dalej wzmacniam duchową stronę, to 
 18/05/2025
 ---
 Sobota była ostatnim dniem mojego postu - bo o to chodziło z duchową stroną 😏. Dzisiaj po nabożeństwie jedziemy do Redut, a wieczorem wpadniemy jeszcze chyba do Piotrowskich, bo nas zaprosili 🙂.
+
+19/05/2025
+---
+Bogu dzięki, to była fajna niedziela. Śniadanie, po 3 dniach nie jedzenia było przepyszne 😅 - normalnie jakby nowe smaki jedzenia. Chociaż obiad i kolacja (jedliśmy u Piotrowskich), smakowały już normalnie 😉. Dzisiaj jadę do Warszawy, więc z rana też żadnej aktywności - woo, długo przerwa od sportowych poranków 😏!
+
+20/05/2025
+---
+Wczorajsza podróż udała się sprawnie - dzięki Bogu 👍😇. Wróciłem do domu i jeszcze z żoną poszliśmy na spacer i zjedliśmy wspólną kolację 😉. Dzisiaj w końcu byłem na rowerze! Dużo czasu minęło od ostatniego razu 😁! Dzisiejszy dzień będzie pracowity 🫡!
+
+21/05/2025
+---
+Wczoraj zrobiłem chlebek 🍞. Poza tym dzień był bardzo intensywny 🤯! Dzisiaj rano rowerek wjechał 🚴. Zaraz śniadanie i wir pracy 🙂‍↕️.
+
+22/05/2025
+---
+Ostatnie dni są ciężkie 🥵. Dzisiaj znów zacząłem od rowera i zaraz lecę w wir dnia 😰.
+
+23/05/2025
+---
+Wczoraj na kolację zaprosiła nas moja bratowa z bratem. Skorzystaliśmy i mieliśmy fajny czas i duuużo jedzenia 😆🤫! Dzisiaj rano było mokro, więc zdecydowałem to wybiegać i przebiegłem 7km 🏃. Teraz śniadanko i do pracy 😉.
+
+24/05/2025
+---
+Piątek zleciał nam przyjemnie 😌. Chłopaki skończyli robić szalówkę na tarasie i sufit przed wejściem. Dzisiaj sufit zrobilibyśmy od razu, bo teraz jest tam dylatacja, która nie wygląda za ładnie 😏. Dzisiaj (a właściwie już wczoraj zaczęliśmy) jest dzień sprzątający. Do posprzątania jest tylko dół i Nati zgodziła się, żebym ja się zajął swoimi sprawami, a ona będzie sprzątać 😘.
+
+25/05/2025
+---
+Sobota minęła nam bardzo fajnie. Po młodzieżowym na kolację znów zaprosił nas mój brat z bratową i skorzystaliśmy 😋. Dzisiaj będziemy mieli leniwą niedzielę, bo nie mamy żadnych planów 😆!

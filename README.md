@@ -8,8 +8,8 @@ Personal Goals
 1. Reaktywacja bloga [bdabek.pl](https://www.bdabek.pl/)
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (277/400) 🏃 ![Progress](https://geps.dev/progress/69/)
-2. Przejechać rowerem 2000 km (828/2000) 🚴 ![Progress](https://geps.dev/progress/41/)
+1. Przebiec 400 km (284/400) 🏃 ![Progress](https://geps.dev/progress/71/)
+2. Przejechać rowerem 2000 km (917/2000) 🚴 ![Progress](https://geps.dev/progress/45/)
 3. 100 kg na klatę  🏋️
 4. 100 kg na nogi 🦵
 
@@ -21,10 +21,10 @@ Personal Goals
 5. Wstrzymywanie oddechu 😮‍💨
 6. 3000 kcal 🍌
 7. ✅ Praca przez 2h na stojąco 🧍 (02.01-28.02)
-8. 🚧 Praca w systemie pomodoro 🍅 (12.05-27.06)
+8. 🚧 Praca w systemie pomodoro 🍅 (26.05-25.07)
 9. Codzienne ćwiczenie 🏋️‍♂️
 
-# [05/18/2024]
+# [05/25/2024]
 ### 🚧 W tym tygodniu:
 - [ ] 📗 Przeczytać [20 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
 - [ ] 📗 Przeczytać [Gossip Protocol](https://systemdesign.one/gossip-protocol/)
@@ -35,12 +35,11 @@ Personal Goals
 - [ ] 📗 Przeczytać [tf–idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 - [ ] 📗 Przeczytać [Writers and write-nots](https://www.paulgraham.com/writes.html)
 - [ ] 📗 Przeczytać [State Pattern in Java: Enhancing Behavior Dynamics with State Encapsulation](https://java-design-patterns.com/patterns/state/)
-- [ ] 🎧 Przesłuchać [Be Different and Succeed](https://effortlessenglishshow.com/be-different-and-succeed)
-- [ ] 🎧 Przesłuchać [Od studenta prawa do technologicznego wizjonera: Jak zbudować firmę wartą 24 miliony? Jan Kamiński](https://youtu.be/heSE-sqzGao)
-- [ ] 🎧 Przesłuchać [Foojay Podcast #71: Celebrating 30 Years of Java with James Gosling](https://foojay.io/today/foojay-podcast-71/)
-- [ ] 🎧 Przesłuchać [Contracts of Love & Money That Make or Break Relationships | James Sexton](https://www.hubermanlab.com/episode/contracts-of-love-money-that-make-or-break-relationships-james-sexton)
-- [ ] 🎧 Przesłuchać [POIT #283: Jak zbudować 100 osobową firmę consultingową IT w pół roku?](https://porozmawiajmyoit.pl/poit-283-jak-zbudowac-100-osobowa-firme-consultingowa-it-w-pol-roku/)
-- [ ] 🎧 Przesłuchać [Hiring Squad w Allegro, czyli kogo spotykacie w rekrutacjach technicznych](https://podcast.allegro.tech/#hiring-squad-allegro)
-- [ ] 🎥 Obejrzeć [Pattern Matching: Enhancement or Feature? • Peter Wessels, Hanno Embregts • Devoxx Poland 2023](https://youtu.be/p4HPfo3i5r8)
+- [ ] 🎧 Przesłuchać [How Different Diets Impact Your Health | Dr. Christopher Gardner](https://www.hubermanlab.com/episode/how-different-diets-impact-your-health-dr-christopher-gardner)
+- [ ] 🎧 Przesłuchać [181: Memory Management](https://www.programmingthrowdown.com/episodes/181-memory-management/)
+- [ ] 🎧 Przesłuchać [POIT #284: Raport o stanie rynku pracy ról związanych z zarządzaniem projektem i produktem IT](https://porozmawiajmyoit.pl/poit-284-raport-o-stanie-rynku-pracy-rol-zwiazanych-z-zarzadzaniem-projektem-i-produktem-it/)
+- [ ] 🎧 Przesłuchać [Jak zamieniać problemy w przygody? O projektowaniu własnego szczęścia. Kamila Kruk](https://youtu.be/wbbB4Zmkz8I)
+- [ ] 🎧 Przesłuchać [Episode 36 “Ahead of Time Computation” with Dan Heidinga](https://inside.java/2025/05/16/podcast-036/)
+- [ ] 🎥 Obejrzeć [The Ultimate Guide to Technical Hiring in 2023 • Mathis Hammel • Devoxx Poland 2023](https://youtu.be/EMDBzHuLBR4)
 
 ### 💡 Pomysły na przyszłość
