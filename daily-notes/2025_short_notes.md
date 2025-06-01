@@ -579,3 +579,31 @@ Piątek zleciał nam przyjemnie 😌. Chłopaki skończyli robić szalówkę na 
 25/05/2025
 ---
 Sobota minęła nam bardzo fajnie. Po młodzieżowym na kolację znów zaprosił nas mój brat z bratową i skorzystaliśmy 😋. Dzisiaj będziemy mieli leniwą niedzielę, bo nie mamy żadnych planów 😆!
+
+26/05/2025
+---
+Niedziela minęła fajnie. Pojechaliśmy na kawę do mojego brata i tam siedzieliśmy prawie do 20 😉. Był jeszcze Vład z Rozalią i dziećmi - mieliśmy dobry czas rozmów. Dzisiaj rano 27km rowerem zrobione 🚴✅. Idę zaraz jeść śniadanie, później trening i do pracy - czyli standard! 😏
+
+27/05/2025
+---
+Trochę zmęczony jestem życiem 😆. Jest dobre, ale z chęcią wziąłbym kilka tygodni wolnego, wyłączył się od wszystkiego, pochodził po górach, pojeździł rowerem i nie miał na sobie żadnego obciążenia 😏😏😏.
+
+28/05/2025
+---
+Wczorajszy dzień był ciężki zarówno psychicznie jak i fizycznie 🥵🥵. Kosiłem wczoraj trawę na podwórku. Całość zajęła mi około 4 godzin 🫠. Dzisiaj dla odstresowania z rana przejechałem 27km rowerem 🚴🙂. Idę zaraz kontynuować codzienność 😋.
+
+29/05/2025
+---
+Dużo pracy mam 🥹. Pewien etap też mi się kończy i kolejny zaczyna - może kiedyś o tym napiszę... Dzisiaj była ciężka noc. Moją żonę bardzo bolał brzuch i co chwilę mnie budziła. Końcowo wstałem około 6:15, rower już zaliczony 👍. Teraż jeszcze śniadanko i do pracy.
+
+30/05/2025
+---
+Wczoraj na wieczór - po nabożeństwie - zaprosiliśmy Daniela na kolację. Mieliśmy dobry czas 😉. Dzisiaj rano rowerek już zaliczony ✅. Teraz śniadanko i praca. Ps. za oknem ładne słoneczko świeci 😊!
+
+31/05/2025
+---
+Sobota ☺️. Dzisiaj jest już 10:41... późno 😅. Długo spaliśmy z żoną i taki dzień leniwy dzisiaj mamy 😉. Jedziemy zaraz na zakupu i do Białegostoku 😝.
+
+01/06/2025
+---
+Łoo. Już 1 czerwiec 🙄 - czas leci strasznie szybko. Wczoraj udał nam się wypad do Białegostoku, kupiliśmy wózek i łożeczko dla naszego dzieciątka 👶😉. Na obiadokolację zjedliśmy sobie ogromnego kebaba 🥙🥙 - do teraz go czuję 😂. Dziś rano zrobiłem 20km rowerkiem (jest piękna pogoda ❤️), a po nabożeństwie jedziemy do Redut 👍!
