@@ -607,3 +607,31 @@ Sobota ☺️. Dzisiaj jest już 10:41... późno 😅. Długo spaliśmy z żon�
 01/06/2025
 ---
 Łoo. Już 1 czerwiec 🙄 - czas leci strasznie szybko. Wczoraj udał nam się wypad do Białegostoku, kupiliśmy wózek i łożeczko dla naszego dzieciątka 👶😉. Na obiadokolację zjedliśmy sobie ogromnego kebaba 🥙🥙 - do teraz go czuję 😂. Dziś rano zrobiłem 20km rowerkiem (jest piękna pogoda ❤️), a po nabożeństwie jedziemy do Redut 👍!
+
+02/06/2025
+---
+Wczoraj mieliśmy fajny dzień 😉. Dzisiaj pogoda jest PRZEPIĘKNA 💪!!! Słoneczko świeci, jest ciepło. Pięknie. Chciałbym, żeby tylko jeszcze jedno w naszym życiu się zmieniło 👀😏.
+
+03/06/2025
+---
+Poniedziałek był dobry 👍☺️. Poszliśmy z żoną na rowerek wieczorem i jedliśmy dobrą kolację 😋. Dzisiaj jest ciepło, ale pochmurnie i pada deszcz ☁️. Na rower nie pójdę, ale myślę czy iść biegać - jeżeli deszcz będzie słaby, to pójdę 😅. Dziadek Bazyl jest w szpitalu i być może dzisiaj go odwiedzimy 🤔.
+
+04/06/2025
+---
+Wtoreczek był spoko. Odwiedziliśmy dziadka w szpitalu - jak na 101 lat, to powiem, że trzyma się bardzo dobrze 👍. Dzisiaj rowerek rano zaliczony ✅. Pogoda za oknem jest super 😎! Na wieczór być może kogoś zaprosimy na kolację 🫡.
+
+05/06/2025
+---
+Wczoraj był dobry dzień. Na wieczór wpadli do nas Kamil z Izą i dziećmi. Byliśmy też w Białymstoku oglądać i zamawiać towar na nawierzchnie twarde na podwórku 🫡. Dzisiaj natomiast wstałem wcześniej bo o 4:40. Chcę nadrobić nieco wczorajszą nieobecność 😌.
+
+06/06/2025
+---
+Czwartek minął dobrze 🙂. Pogoda za oknem jest przepiękna. Ciepłe poranki - około 17 stopni i później fajne popołudnia ☺️! Dzisiaj rower z rana też już zaliczony i zaraz standardowy dzień 😌!
+
+07/06/2025
+---
+Piątulo minął 😏. Wieczorem udało się z żoną zrobić krótki spacer 😉. A później robiliśmy jeszcze ciasto 😁 - całkiem sprawnie nam poszło. No a jeszcze przed tym wszystkim sprzątaliśmy całą górę w domu. Na dziś został już tylko dół 😊.
+
+08/06/2025
+---
+Sobota minęła bardzo fajnie 🙃 pomimo, że większość dnia spędziliśmy w domu 😅. Pogoda była super, aż do wieczora. Dopiero jak z młodzieżowego wychodziliśmy to się rozpadało (a to też jest potrzebne ziemi 👍). Dzisiaj po nabożeństwie mamy obiad zborowy, więc niedzielę spędzamy w Hajnówce 😊.

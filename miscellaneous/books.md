@@ -9,13 +9,13 @@
 - [ ] Dynamic Proxies in Java Mini-Book - Dr Heinz M. Kabutz
 - [ ] Dependency Injection Principles, Practices, and Patterns - Steven van Deursen and Mark Seemann
 - [ ] Fenomen poranka - Hal Elrod
-- [ ] Designing Data Intensive Applications - Martin Kleppmann
 
 ## 🚧 In Progress
-- [ ] A Philosophy of Software Design - John Ousterhout (strona: 156)
+- [ ] Designing Data Intensive Applications - Martin Kleppmann (page: 0)
 
 ## ⭐ Books read 
 ### ✅ 2025
+- [x] A Philosophy of Software Design - John Ousterhout
 - [x] The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups - Gergely Orosz 
 
 ### ✅ 2024
