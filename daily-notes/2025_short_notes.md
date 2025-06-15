@@ -635,3 +635,31 @@ Piątulo minął 😏. Wieczorem udało się z żoną zrobić krótki spacer �
 08/06/2025
 ---
 Sobota minęła bardzo fajnie 🙃 pomimo, że większość dnia spędziliśmy w domu 😅. Pogoda była super, aż do wieczora. Dopiero jak z młodzieżowego wychodziliśmy to się rozpadało (a to też jest potrzebne ziemi 👍). Dzisiaj po nabożeństwie mamy obiad zborowy, więc niedzielę spędzamy w Hajnówce 😊.
+
+09/06/2025
+---
+Niedziela była dobra 😇. Mieliśmy wspólny zborowy obiad. Nie trwał długo - około 14:30 chowaliśmy już stoły. Później zaprosiliśmy moich rodziców do nas kawę ☕. A wieczorem zrobiliśmy sobie z żoną seans 🥰 - obejrzeliśmy chrześcijański film "War room" (pokój modlitwy). Dzisiaj pogoda taka średnia, ale rowerek zaliczony ✅. Dzisiaj planujemy zrobić dżemy truskawkowe 🍓🍓, bo sezon w pełni 😁!
+
+10/06/2025
+---
+Udało się zrobić 9 słoików dżemu 🫙🍓! Przypaliliśmy przy tym bardzo mocno jeden z garnków i później drugie tyle, co je robiliśmy, to ten garnek odmywaliśmy 🫢😆. Dzisiaj rowerek zrobiony, zaraz jadę po jajeczka i później z Nati oddać jeszcze krew na badania 🩸💉.
+
+11/06/2025
+---
+Wczoraj oglądaliśmy wieczorem mecz piłki nożnej Polska - Finlandia. Niestety nasi przegrali 🥹. Dzisiaj natomiast od samego rana pada deszcz, więc zarówno rower jak i bieganie odpadło z poranku. Pracuję sobie 😉.
+
+12/06/2025
+---
+Mam ostatnio dużo obowiązków w pracy - trochę nnie to przytłacza 😩, ale jestem dobrej myśli. Dzisiaj rower i 26.5 km zrobione 🚴! Moja lista rzeczy do obejrzenia / przeczytania się zwiększa i zwiększa... Muszę rozkminic coś, żeby wieczorami móc trochę ponadrabiać 🤔.
+
+13/06/2025
+---
+I dzisiaj mamy już piątek 🫡. Tydzień szybko zleciał 😅. Plan dnia u mnie jest standardowy i na wieczór też nie mamy żadnych planów, zobaczymy co wyjdzie 😉.
+
+14/06/2025
+---
+Piątek minął całkiem fajnie. Chciałem zamontować isofixa, którego kupiłem do samochodu i okazało się, że w naszym aucie on już jest 😆😆. Dobrze, że za długo nie odwlekałem montażu i mogłem jeszcze skorzystać ze zwrotu towaru 😜. Dzisiaj rano 28 km rowerkiem zrobione 💪. Pogoda jest wspaniała. Kupiłem rano trochę warzyw i owoców 🥒🍓 i teraz pora zacząć dzień 👍. Bez planów dzisiaj 😉.
+
+15/06/2025
+---
+Sobota zleciała szybko i przyjemnie 🙂. Wieczorem mieliśmy ostatnie młodzieżowe w tym roku szkolnym 🫡. Dzisiaj poranek jest trochę inny niż zazwyczaj, bo nie poszedłem biegać ani jeździć rowerem 😌. Dzisiaj po nabożeństwie z Gabrysiem i Karoliną idziemy zjeść do niezapominajki, później spacer w Białowieży i na kawę do nas ☺️.

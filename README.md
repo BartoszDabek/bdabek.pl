@@ -9,7 +9,7 @@ Personal Goals
 
 ## ⚽️ Cele Sportowe
 1. Przebiec 400 km (289/400) 🏃 ![Progress](https://geps.dev/progress/72/)
-2. Przejechać rowerem 2000 km (1209/2000) 🚴 ![Progress](https://geps.dev/progress/60/)
+2. Przejechać rowerem 2000 km (1350/2000) 🚴 ![Progress](https://geps.dev/progress/67/)
 3. 100 kg na klatę  🏋️
 4. 100 kg na nogi 🦵
 
@@ -24,18 +24,16 @@ Personal Goals
 8. Praca w systemie pomodoro 🍅
 9. 🚧 Codzienne ćwiczenie 🏋️‍♂️ (09.06-09.07)
 
-# [06/08/2024]
+# [06/15/2024]
 ### 🚧 W tym tygodniu:
-- [ ] 📗 Przeczytać [10 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Design a URL Shortener Like Bit.ly](https://www.hellointerview.com/learn/system-design/problem-breakdowns/bitly)
-- [ ] 📗 Przeczytać [How Instagram Scaled to 2.5 Billion Users](https://newsletter.systemdesign.one/p/instagram-infrastructure)
-- [ ] 📗 Przeczytać [Getting Things Done as a Software Developer: Exercises](https://blog.pragmaticengineer.com/engguidebook-bonus-2/)
-- [ ] 📗 Przeczytać [Ultimate Guide to Project Reactor, Thread-Locals and Context Propagation](https://4comprehension.com/ultimate-guide-to-project-reactor-thread-locals-and-context-propagation/)
-- [ ] 📗 Przeczytać [The 13 software engineering laws](https://newsletter.manager.dev/p/the-13-software-engineering-laws)
-- [ ] 📗 Przeczytać [Step Builder Pattern in Java: Crafting Fluent Interfaces for Complex Object Construction](https://java-design-patterns.com/patterns/step-builder/)
-- [ ] 🎧 Przesłuchać [Ich historia przywróci Ci wiarę w marzenia. Od gigantycznego długu do życia na własnych zasadach.](https://youtu.be/PhRElAXN3Pw)
-- [ ] 🎧 Przesłuchać [Essentials: Improving Health With Stronger Brain-Body Connection](https://www.hubermanlab.com/episode/essentials-improving-health-with-stronger-brain-body-connection)
-- [ ] 🎧 Przesłuchać [#157 FinOps i FinOps Framework](https://patoarchitekci.io/157/)
-- [ ] 🎥 Obejrzeć [How to build an Ivory Tower? The Experience Report • Piotr Kosiorowski • Devoxx Poland 2023](https://youtu.be/c9tGyhzOU7E)
-
-### 💡 Pomysły na przyszłość
+- [ ] 📗 Przeczytać [15 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
+- [ ] 📗 Przeczytać [How ZGC allocates memory for the Java heap](https://joelsiks.com/posts/zgc-heap-memory-allocation/)
+- [ ] 📗 Przeczytać [5 Reasons Why Zoom Was Able to Support 300 Million Video Calls a Day](https://newsletter.systemdesign.one/p/zoom-architecture)
+- [ ] 📗 Przeczytać [Tool Calling with Spring AI](https://piotrminkowski.com/2025/03/13/tool-calling-with-spring-ai/)
+- [ ] 📗 Przeczytać [Getting Things Done as a Senior Engineer: Exercises](https://blog.pragmaticengineer.com/engguidebook-bonus-3/)
+- [ ] 📗 Przeczytać [Java in AWS with Wojtek Gawroński - JVM Weekly vol. 126](https://www.jvm-weekly.com/p/java-in-aws-with-wojtek-gawronski)
+- [ ] 📗 Przeczytać [Strangler Pattern in Java: Modernizing Legacy Systems with Incremental Updates](https://java-design-patterns.com/patterns/strangler/)
+- [ ] 🎧 Przesłuchać [#158 Standardy, benchmarki bezpieczeństwa i inne dzikie zwierzęta](https://patoarchitekci.io/158/)
+- [ ] 🎧 Przesłuchać [JCon Report, Part 2 – Evolutions in the Java Language and Runtime (#73)](https://youtu.be/T9_5LYsFZn8?list=PL-3Bf_FLNZLByjOby6EksrnHVkPqtD97U)
+- [ ] 🎧 Przesłuchać [Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472](https://youtu.be/HUkBz-cdB-k)
+- [ ] 🎥 Obejrzeć [S, BB, X, Y, Z, a – plejada pokoleń w IT - Paweł Zajączkowski](https://youtu.be/J2sEvTFHCfg)
