@@ -663,3 +663,31 @@ Piątek minął całkiem fajnie. Chciałem zamontować isofixa, którego kupiłe
 15/06/2025
 ---
 Sobota zleciała szybko i przyjemnie 🙂. Wieczorem mieliśmy ostatnie młodzieżowe w tym roku szkolnym 🫡. Dzisiaj poranek jest trochę inny niż zazwyczaj, bo nie poszedłem biegać ani jeździć rowerem 😌. Dzisiaj po nabożeństwie z Gabrysiem i Karoliną idziemy zjeść do niezapominajki, później spacer w Białowieży i na kawę do nas ☺️.
+
+16/06/2025
+---
+Całe popołudnie i wieczór spędziliśmy z Gabrysiem i Karoliną. Przyznam, że po całym dniu byłem zmęczony 😆. Dzisiaj wstałem wcześniej bo planujemy pojechać w ciągu dnia do Białegostoku. Nati ma badania połówkowe 😉.
+
+17/06/2025
+---
+Poniedziałek był gorący 🤗. Udało nam się załatwić wszystko w Białym 😉. Dzieciątko jest zdrowe i rośnie 😇, kupiliśmy (odebraliśmy) wózek i łóżeczko. Wieczorem wpadliśmy rodzinnie do Piotrka i Zuzi - mieliśmy fajny czas ☺️. Dzisiaj rano rowerek już zaliczony 🚴✅. Zaraz wjedzie śniadanko i zabieram się do pracy 👍.
+
+18/06/2025
+---
+Wczoraj na wieczór pojechaliśmy do rodziców, żeby razem zjeść kolację 😉. Zanim wpadliśmy do nich, to zajechaliśmy jeszcze na ich budowę i oprowadzili nas po swoim domu 🏠. Dzisiaj od rana jest piękna pogoda 🤗🤗, rower mam już zaliczony i truskawki kupione 🍓. Teraz śniadanie -> trening -> praca 💪!
+
+19/06/2025
+---
+Wczoraj zrobiłem chleb 🍞😋 i na wieczór zaprosiliśmy Marka z Darią. Było fajnie, siedzieliśmy i rozmawialiśmy do 23 z groszami 👍. Dzisiaj rano planowałem standardowy poranek, ale wstałem chwilę przed 8 🙄... Nawet nie pamiętam budzika 🫣. Dzisiaj jest dzień wolny od pracy bo jest święto narodowe w Polsce, więc dziś powiedzmy, że odpoczynek 😆!
+
+20/06/2025
+---
+Cóż za los... dzisiaj znów zaspałem 🥱. Wstałem o 6:40 i rower już mi nie wyszedł 🥺🥺. Plan dnia raczej standardowy 😏.
+
+21/06/2025
+---
+Piątek minął spoczko 👍 - dosprzątaliśmy dół i dziś nie ma sprzątania (chyba, że mycie okien 😆). Dzisiaj w końcu wstałem na czas - o 5:10. Jestem jeszcze przed rowerem, ale zamierzam dzis walnął ~30km, żeby odrobić ostatnie dwa dni 😏. Na wieczór zaprosiliśmy mojego brata z rodziną 😉.
+
+22/06/2025
+---
+Przyznam szczerze, że jakoś sztywno było wczoraj wieczorem. Nie mieliśmy za bardzo wspólnych tematów do porozmawiania 😏. Dzisiaj żona mnie powstrzymała od porannego roweru 😐... Po nabożeństwie jedziemy do Redut i tam będzie robić grilla 🫕🥩!
