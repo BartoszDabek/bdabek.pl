@@ -691,3 +691,31 @@ Piątek minął spoczko 👍 - dosprzątaliśmy dół i dziś nie ma sprzątania
 22/06/2025
 ---
 Przyznam szczerze, że jakoś sztywno było wczoraj wieczorem. Nie mieliśmy za bardzo wspólnych tematów do porozmawiania 😏. Dzisiaj żona mnie powstrzymała od porannego roweru 😐... Po nabożeństwie jedziemy do Redut i tam będzie robić grilla 🫕🥩!
+
+23/06/2025
+---
+Niedziela minęła nam bardzo fajnie 😉. Grillowaliśmy w Redutach i mamy obiad nawet na dzisiaj 😃. Z rana zrobiłem 32km rowerem 😝 i teraz pora zacząć normalny dzień 😌!
+
+24/06/2025
+---
+Poniedziałek był kiepski 😥. Nie mogłem złapać wspólnego języka z żoną i jakoś smutno zleciał ten dzień 😢. Pod koniec było trochę lepiej i mam nadzieję, że ten wtorek będzie lepszy. Wstałem dzisiaj o 5, jestem jeszcze przed rowerem, ale już się na niego zbieram. Później muszę odebrać jajka od naszego dostawcy i do pracy 😏.
+
+25/06/2025
+---
+Wtorek był już lepszy 🫠. Dzisiaj środa i rano nie było wiadome, czy będzie padać deszcz, czy nie, więc poszedłem się przebiec. Zrobiłem 5km 🏃. Na wieczór zaprosiliśmy Grześka z Karoliną i dziećmi 😌.
+
+26/06/2025
+---
+Wczoraj było bardzo fajnie 👍. Goście byli u nas do 22:30 (a może i ciut dłużej 😉) - mieliśmy dobry czas. Dzisiaj rano rowerkiem zrobiłem 30 km 😇. Zaraz idę się ogolić (zawsze robię to w czwartki) i później zaczynam dzień w pracy 💪!
+
+27/06/2025
+---
+Czwartek był w porządku 👍. Byliśmy na wieczorowym nabożeństwie, a później pojechaliśmy do rodziców zjeść razem kolację 😏. Dzisiaj rano bez sportowego akcentu - pada(ł) deszcz 🌧️ i nie bardzo miałem ochotę wychodzić - choć przyznaję, że biegać można było (biegałem w gorsze pogody). Zaraz zrobię trening 🏋️‍♂️, później sniadanko 🥐🍳 i do pracy 😉.
+
+28/06/2025
+---
+Piątek był dobry 😊. Dzisiaj rano 32 km zrobione ✅. Dziś idziemy na mini-konferencję do zboru na godzinę 14, a na 17 jedziemy do Dubicz na zakończenie młodzieżowego 👍!
+
+29/06/2025
+---
+Sobota była super produktywna 👍. Właściwie nie mieliśmy nic zaplanowanego, oprócz mini-konferencji i młodzieżowego międzyzborowego. Po śniadaniu Nati rzuciła pomysłem, żeby może umyć okna 🪟🧼, a ja nie odmówiłem 😅. Do 12 myliśmy okna, później robiliśmy obiad i czas już sam zleciał 😉. Na konferencji i w Dubiczach było dobrze. Dzisiaj żona mnie zatrzymała od porannego biegania (bo taki miałem plan 🤫). Dziś po nabożeństwie jedziemy na wspólne ognisko z okazji Błogosławieństwa Kacpra 😌.

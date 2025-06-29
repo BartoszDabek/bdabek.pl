@@ -11,7 +11,7 @@
 - [ ] Fenomen poranka - Hal Elrod
 
 ## 🚧 In Progress
-- [ ] Designing Data Intensive Applications - Martin Kleppmann (page: 36)
+- [ ] Designing Data Intensive Applications - Martin Kleppmann (page: 53)
 
 ## ⭐ Books read 
 ### ✅ 2025
