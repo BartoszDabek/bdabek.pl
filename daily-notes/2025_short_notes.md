@@ -719,3 +719,31 @@ Piątek był dobry 😊. Dzisiaj rano 32 km zrobione ✅. Dziś idziemy na mini-
 29/06/2025
 ---
 Sobota była super produktywna 👍. Właściwie nie mieliśmy nic zaplanowanego, oprócz mini-konferencji i młodzieżowego międzyzborowego. Po śniadaniu Nati rzuciła pomysłem, żeby może umyć okna 🪟🧼, a ja nie odmówiłem 😅. Do 12 myliśmy okna, później robiliśmy obiad i czas już sam zleciał 😉. Na konferencji i w Dubiczach było dobrze. Dzisiaj żona mnie zatrzymała od porannego biegania (bo taki miałem plan 🤫). Dziś po nabożeństwie jedziemy na wspólne ognisko z okazji Błogosławieństwa Kacpra 😌.
+
+30/06/2025
+---
+Wczoraj było fajnie. Pogoda dopisała i było dużo osób 😉. My byliśmy tam do 17. Później zaprosiliśmy rodziców na herbatę i wieczorem poszliśmy jeszcze na spacer do Piotrka i Zuzi 😅. Można powiedzieć, że integracyjna niedziela. Dzisiaj rano rower już zaliczony 🚴. Teraz śniadanko, trening i praca 🫡. A po pracy czeka mnie koszenie podwórka 😏.
+
+01/07/2025
+---
+Z rana przyjechali wykonawcy od płotu - umówiliśmy się na jego impregrancję. I trochę to mogło namieszać z koszeniem trawy ෴, bo bloczki muszą być czyste. Udało mi się ją skosić, ale musiałem poświęcić godzinę na mycie bloczków po skoszeniu 🤨. Grunt, że się udało 😌. Dzisiaj natomiast ciekawe czy położą impregrant bo bloczek wydaje się być jeszcze mokry 🫣. Dzisiaj rano rower zaliczony, zaraz trening nóg + śniadanie i do pracy 😉!
+
+02/07/2025
+---
+Wczoraj dzień akceptowalny - sprzątaliśmy górę 🫣. Dzisiaj natomiast poranek trochę zepsuty. Nie poszedłem na rower, ale z powodu naszego problemu i to jest dołujące 😠... Ale przynajmniej poszliśmy na poranny spacer, więc dobre i to, żeby trochę ze słońca skorzystać. Dzisiaj pogoda jest PIĘKNA! Marzę, żeby móc ją wykorzystywać w pełni...
+
+03/07/2025
+---
+Środa była możliwa 😏. Dzisiaj rano wjechał mocno rower - 36km zrobiłem 🤫. Dzisiaj ma być bardzo gorąco - 33 stopnie 😌😌. Być może przyjadą do nas nocować goście, ale to jeszcze czas pokaże 😏. 
+
+04/07/2025
+---
+Czwartek był spoko 👍. Goście do nas ostatecznie nie przyjechali, dzięki czemu dziś rano mogłem zaliczyć rower 😉. Dziś wieczorem zamawiamy pizze i zapraszamy całe rodzeństwo mojej żony 😋!
+
+05/07/2025
+---
+Wczoraj było bardzo fajnie 😉. Spać poszliśmy przed 1, więc dziś było ciężkie wstawanie i odpuściłem aktywność poranną 😏. Dzisiaj mamy leniwy dzień 😋. Pojedziemy do Białegostoku chyba i jakoś to zleci 😁!
+
+06/07/2025
+---
+Sobota minęła nam przyjemnie 😇. Byliśmy w Białymstoku, kupiliśmy fotelik dla dziecka 😃, później wróciliśmy i na kolację zaprosiliśmy Piotrka z Olą, Pawła oraz Piotrka i Zuzię 😌. Zjedliśmy, siedzieliśmy, rozmawialiśmy - dobry czas. Dzisiaj jedziemy do Dubicz na chrzest 😏.
