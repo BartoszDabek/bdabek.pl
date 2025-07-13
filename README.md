@@ -8,8 +8,8 @@ Personal Goals
 1. Reaktywacja bloga [bdabek.pl](https://www.bdabek.pl/)
 
 ## ⚽️ Cele Sportowe
-1. Przebiec 400 km (294/400) 🏃 ![Progress](https://geps.dev/progress/73/)
-2. Przejechać rowerem 2000 km (1722/2000) 🚴 ![Progress](https://geps.dev/progress/86/)
+1. Przebiec 400 km (305/400) 🏃 ![Progress](https://geps.dev/progress/76/)
+2. Przejechać rowerem 2000 km (1813/2000) 🚴 ![Progress](https://geps.dev/progress/90/)
 3. 100 kg na klatę  🏋️
 4. 100 kg na nogi 🦵
 
@@ -24,20 +24,18 @@ Personal Goals
 8. Praca w systemie pomodoro 🍅
 9. Codzienne ćwiczenie 🏋️‍♂️
 
-# [07/06/2025]
+# [07/13/2025]
 ### 🚧 W tym tygodniu:
 - [ ] 📗 Przeczytać [15 Stron obecnie czytanej książki](https://github.com/BartoszDabek/bdabek.pl/blob/master/miscellaneous/books.md)
-- [ ] 📗 Przeczytać [Design a Local Delivery Service like Gopuff](https://www.hellointerview.com/learn/system-design/problem-breakdowns/gopuff)
-- [ ] 📗 Przeczytać [Wechat Architecture That Powers 1.67 Billion Monthly Users](https://newsletter.systemdesign.one/p/chat-application-architecture)
-- [ ] 📗 Przeczytać [From APIs to Capabilities to Support AI Agents](https://blog.christianposta.com/from-apis-to-capabilities-what-ai-agents-mean-for-application-architecture/)
-- [ ] 📗 Przeczytać [Antipattern: The Absentee Manager](https://blogs.newardassociates.com/manager-tips/absentee-manager.html)
-- [ ] 📗 Przeczytać [Optimizing the Garbage Collector when Migrating Cloud Workloads](https://foojay.io/today/optimizing-the-garbage-collector-when-migrating-cloud-workloads/)
-- [ ] 📗 Przeczytać [The subtle art of waiting](https://blog.frankel.ch/subtle-art-waiting/)
-- [ ] 📗 Przeczytać [Table Inheritance Pattern in Java: Modeling Hierarchical Data in Relational Databases](https://java-design-patterns.com/patterns/table-inheritance/)
-- [ ] 🎧 Przesłuchać [Patroni](https://postgres.fm/episodes/patroni)
-- [ ] 🎧 Przesłuchać [Multi-tenant options](https://postgres.fm/episodes/multi-tenant-options)
-- [ ] 🎧 Przesłuchać [Four million TPS](https://postgres.fm/episodes/four-million-tps)
-- [ ] 🎧 Przesłuchać [POIT #289: Efektywność zespołu IT](https://porozmawiajmyoit.pl/poit-289-efektywnosc-zespolu-it/)
-- [ ] 🎧 Przesłuchać [Building AI-Native Code Platform With Java for Java](https://airhacks.fm/#episode_352)
-- [ ] 🎧 Przesłuchać [Uciekać trzeba zawsze do przodu - filozofia życia po władzy. Rafał Dutkiewicz](https://youtu.be/vFchR29ugcc)
-- [ ] 🎥 Obejrzeć [A Monolith on the Dissecting Table: Strangler Fig Pattern • Hans-Peter Grahsl • Devoxx Poland 2023](https://youtu.be/ty3pdFQgSRg)
+- [ ] 📗 Przeczytać [Design a Ticket Booking Site Like Ticketmaster](https://www.hellointerview.com/learn/system-design/problem-breakdowns/ticketmaster)
+- [ ] 📗 Przeczytać [Antipattern: The Bomb Manager](https://blogs.newardassociates.com/manager-tips/bomb-manager.html)
+- [ ] 📗 Przeczytać [Speedrunning Guide: Staff (L6) in 3 years](https://drive.google.com/file/d/11evRFzhrFtu1jGZIhZUOLo9CRSj6L5vc/view)
+- [ ] 📗 Przeczytać [Why Engineers Need To Write](https://www.developing.dev/p/why-engineers-need-to-write)
+- [ ] 📗 Przeczytać [Różnice między Kafką a RabbitMQ – którą wybrać?](https://uprogramisty.pl/roznice-miedzy-kafka-a-rabbitmq-ktora-wybrac/)
+- [ ] 📗 Przeczytać [Table Module Pattern in Java: Enhancing Maintainability with Organized Data Handling Modules](https://java-design-patterns.com/patterns/table-module/)
+- [ ] 🎧 Przesłuchać [How to Lose Fat & Gain Muscle With Nutrition | Alan Aragon](https://www.hubermanlab.com/episode/how-to-lose-fat-gain-muscle-with-nutrition-alan-aragon)
+- [ ] 🎧 Przesłuchać [Connection Community Friends](https://effortlessenglishshow.com/connection-community-friends)
+- [ ] 🎧 Przesłuchać [Allegro Tech Podcast - S05E07 - Sztuczna inteligencja w Allegro](https://youtu.be/l1rxBdBtgc0)
+- [ ] 🎧 Przesłuchać [Jak z MINIMALNYM ryzykiem zacząć własny biznes? Sebastian Rafalik](https://youtu.be/NAQOk5T1Lqk)
+- [ ] 🎧 Przesłuchać [JCON Report, Part 4 - Tips and Tricks for Java Devs (#75)](https://youtu.be/GZDNPoWF6Vg?list=PL-3Bf_FLNZLByjOby6EksrnHVkPqtD97U)
+- [ ] 🎥 Obejrzeć [Effecting Change: The Art of Leading Teams • Venkat Subramaniam • Beyond Code 2022](https://youtu.be/KZPbLX_F2A4)

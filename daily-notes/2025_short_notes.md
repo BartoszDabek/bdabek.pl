@@ -747,3 +747,31 @@ Wczoraj było bardzo fajnie 😉. Spać poszliśmy przed 1, więc dziś było ci
 06/07/2025
 ---
 Sobota minęła nam przyjemnie 😇. Byliśmy w Białymstoku, kupiliśmy fotelik dla dziecka 😃, później wróciliśmy i na kolację zaprosiliśmy Piotrka z Olą, Pawła oraz Piotrka i Zuzię 😌. Zjedliśmy, siedzieliśmy, rozmawialiśmy - dobry czas. Dzisiaj jedziemy do Dubicz na chrzest 😏.
+
+07/07/2025
+---
+Niedziela była dobra 💪. Chrzest i nabożeństwo przebiegły dobrze, pogoda dopisała. Mogliśmy porozmawiać ze znajomymi i mieć dobry czas. Dzisiaj rower z rana już zaliczony. Zaraz śniadanie i do pracy 😉!
+
+08/07/2025
+---
+Dobry początek tygodnia 💪. Wczoraj miałem sporo pracy, ale idzie wszystko do przodu zgodnie z planem 😉! Dzisiaj rano przejechałem już traskę rowerem 🚴 (dzisiaj krócej, bo 24km) i teraz do pracy 👨🏻‍💻🔥.
+
+09/07/2025
+---
+Wtorek też był dobry 💪. Byłem jeszcze bardziej zapracowany niż w poniedziałek 😤, a najgorsze, że nie udało mi się w 100% osiągnąć tego co chciałem 😟. Dziś od rana pada duży deszcz, więc nawet nie mam co myśleć choćby o spacerze 😓... Zaraz chyba wjedzie trening, później śniadanie i do pracy 🫡.
+
+10/07/2025
+---
+Środa minęła 🥲. Niestety, ale pogoda się zepsuła i lato jest... słabe 😆🫣. W sensie, że jest zimno. Dziisaj rano udało mi się przebiec, bo nie padał deszcz 🙃. Najgorzej, że buty są trochę za ciasne i dwa palce mi się szorują wzajemnie i teraz to boli 🤕.
+
+11/07/2025
+---
+Czwartek był spoczko. Wieczorem byliśmy na nabożeństwie, a tak to przez większość dnia pracowałem 🫣. Dzisiaj robię chleb 🍞😋, więc kolacja będzie dobra 😂! Plan dnia standardowy 🥱.
+
+12/07/2025
+---
+I jest (a właściwie był) upragniony piątek 🥳🥳. Wieczorem byliśmy u moich rodziców na kolacji - w końcu udało się spotkać, bo cały tydzień próbowaliśmy 😀. Po kolacji tato przyniósł jakieś ciastka, które tak mi wchodziły, że dziś rano musiałem to odrobić i zrobiłem 36km rowerem 🚴👏. Plan na dzisiejszą sobotę jest prosty - popracować trochę i dobrze spędzić resztę dnia 👋!
+
+13/07/2025
+---
+Sobota była fajna i zapracowana. Z rana pojechaliśmy na zakupy i rynek, zeszło nam na tym z 1.5h, ale wróciliśmy obkupieni po pachy 😂. Później robiliśmy dżemy 🫙, dużo dżemów 🫙 - malinowe, z czarnej porzeczki, wiśniowe. Fajnie, bo mamy już to za sobą. Na obiad zamówiliśmy sobie po kebabie 🥙🥙, a na wieczór żona zrobiła jeszcze jagodzianki 😋. Mniam! Aa... i wieczorem jeszcze pojechaliśmy do Piotrka i Zuzi (przy okazji częstując ich też jagodziankami). Dzisiaj na spokojnie wstałem o 6:30, teraz siedzę sobie w salonie i piszę tą notatkę 😊. Plan dnia dzisiaj jest leniwy - oprócz nabożeństwa, nie mamy planów.
